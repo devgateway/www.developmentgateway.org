@@ -1,0 +1,25 @@
+
+# Site settings
+title: Development Gateway
+email: info@developmentgateway.org
+description: >
+  An interactive portal for information and knowledge sharing on sustainable development and poverty reduction.
+  Includes comprehensive database of development projects and an international procurement marketplace.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://developmentgateway.org" # the base hostname & protocol for your site
+
+twitter_username: dgateway
+github_username:  devgateway
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Vagrantfile
+  - Vagrantsettings.yaml
+  - templates
+
