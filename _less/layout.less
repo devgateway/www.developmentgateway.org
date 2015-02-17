@@ -1,0 +1,83 @@
+@import 'variables';
+
+@import 'mixins';
+
+.l-content-wrapper {
+  margin: 0px auto;
+  width: 80em;
+  position: relative;
+}
+
+#l-header,
+#l-footer,
+#l-footer-social {
+  overflow: @hidden;
+}
+
+#l-header {
+  background: fade(@grey-dark, 50%);
+  height: 57px;
+}
+
+#l-footer {
+  background: @footer-bg;
+  padding-top: @space30;
+  padding-bottom: @space30;
+}
+
+#l-footer-social {
+  background: @footer-social-bg;
+}
+
+//content widgets and columns
+.columns-container {
+  margin: .5em; width: @full;
+}
+
+.one-half, .one-third, .two-third, .three-fourth, .one-fourth {
+  margin-right: 4%;
+  float: left;
+  line-height: 21px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.one-half {
+  width: 48%;
+}
+
+.one-third {
+  width: 30.6666%;
+}
+
+.two-third {
+  width: 65.3332%;
+}
+
+.one-fourth {
+  width: 22%;
+}
+
+.three-fourth {
+  width: 74%;
+}
+
+.last {
+  margin-right: 0 !important;
+  clear: right;
+}
+
+//content with sidebar
+
+.content-group{}
+.content-main{
+  .float-r;
+  width:63%;
+}
+.content-side{
+  .float-l;
+  width:35%;
+}
+
+
+

@@ -1,0 +1,179 @@
+.clearfix {
+  zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.transition {
+  -webkit-transition: all 600ms ease-in-out;
+  -moz-transition: all 600ms ease-in-out;
+  -o-transition: all 600ms ease-in-out;
+  transition: all 600ms ease-in-out;
+}
+.transition-color {
+  -webkit-transition: color 600ms ease-in-out;
+  -moz-transition: color 600ms ease-in-out;
+  -o-transition: color 600ms ease-in-out;
+  transition: color 600ms ease-in-out;
+}
+.fadein {
+  -webkit-animation: fadein 1s;
+  /* Safari, Chrome and Opera > 12.1 */
+
+  -moz-animation: fadein 1s;
+  /* Firefox < 16 */
+
+  -ms-animation: fadein 1s;
+  /* Internet Explorer */
+
+  -o-animation: fadein 1s;
+  /* Opera < 12.1 */
+
+  animation: fadein 1s;
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Internet Explorer */
+@-ms-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.opaque {
+  opacity: 1;
+}
+.semi-transparent {
+  opacity: 0.8;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.italic {
+  font-style: italic;
+}
+.center {
+  text-align: center;
+}
+.float-l {
+  float: left;
+}
+.float-r {
+  float: right;
+}
+.no-bullets {
+  list-style-type: none;
+}
+.block {
+  display: block;
+}
+.inline {
+  display: inline;
+}
+.table {
+  display: table;
+}
+.h-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.border {
+  border: 1px solid;
+}
+.border .right {
+  border-right: 1px solid;
+}
+.border .left {
+  border-left: 1px solid;
+}
+.border .top {
+  border-top: 1px solid;
+}
+.border .bottom {
+  border-bottom: 1px solid;
+}
+.border .none {
+  border: none;
+}
+.hide-text {
+  text-indent: -999em;
+  letter-spacing: -999em;
+  overflow: hidden;
+}
+.light {
+  font-weight: 100;
+}
+.bold {
+  font-weight: bold;
+}
+.project-wrapper h3.project-country {
+  font-weight: 100;
+  font-size: 2rem;
+  color: #1595d3;
+  line-height: 185%;
+  zoom: 1;
+  display: block;
+}
+.project-wrapper h3.project-country:before,
+.project-wrapper h3.project-country:after {
+  content: "";
+  display: table;
+}
+.project-wrapper h3.project-country:after {
+  clear: both;
+}
+.project-wrapper .project-country-flag {
+  float: left;
+  display: block;
+  width: 40px;
+  height: 30px;
+  margin-right: 1em;
+}
+.project-wrapper h4.project-title {
+  color: #000000;
+  font-size: 0.95em;
+  font-weight: bold;
+}
+.project-wrapper ul {
+  margin-left: 1em;
+}

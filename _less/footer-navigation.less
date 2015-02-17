@@ -1,0 +1,53 @@
+@import 'variables';
+@import 'mixins';
+
+.footer-nav{
+	.float-l;
+
+	ul{
+		
+		.no-bullets;
+		margin-bottom:@space20;
+
+		li{
+		.float-l;
+		.block;
+		font-size:@small;
+		margin-right: @space20;
+		padding-right: @space20;
+		line-height:@full;
+
+		.border .right;
+		border-color: @blue-vibrant;
+
+		&:last-child{
+			.border .none;
+		}
+	
+		a{
+			color: @blue-vibrant;
+			.transition-color;
+
+			&:hover{color: @yellow;}
+		}
+
+
+		}
+	
+
+	}
+
+}
+
+.copyright{
+	.clearfix;
+	font-size:@normal;
+	color: @grey-light;
+
+}
+
+.footer-logo{
+	.float-r;
+	width:11%;
+}
+

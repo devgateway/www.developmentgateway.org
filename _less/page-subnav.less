@@ -1,0 +1,39 @@
+@import 'variables';
+@import 'mixins';
+
+.subnavigation-wrapper{
+	width: @full;
+	.border .top;
+	border-top-color: @grey-lightest;
+	.border .bottom;
+	border-bottom-color: @grey-lightest;
+	overflow: @hidden;
+
+	ul{.no-bullets}
+	ul li{}
+	ul li a{
+		.float-l;
+		.center;
+		.block;
+		color:@grey-light;
+
+		.border .left;
+		border-left-color: @grey-lightest;
+
+		.uppercase;
+		.light;
+
+		padding-top:@space1;
+		padding-bottom:@space1;
+		padding-left:@space3;
+		padding-right:@space3;
+
+		&:hover{
+			background: @blue-deep; 
+			color: @white;
+			.transition;}
+		}
+
+	li a.active{background: @blue-deep; 
+			color: @white;}
+}

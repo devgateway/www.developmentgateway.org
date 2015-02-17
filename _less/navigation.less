@@ -1,0 +1,30 @@
+@import 'variables';
+@import 'mixins';
+
+#main-navigation{
+	margin: @space20;
+	.float-r;
+
+		ul{
+			.no-bullets;
+			.block;
+		 	
+		 	li{
+		 		.float-l;
+		 		margin-right: @space20;
+		 		color: @white;
+		 		
+		 		a{
+		 			color: @white;
+		 			font-weight:@normal;
+		 			font-size: 1.3rem;
+		 			.uppercase;
+
+		 			&:hover{ color: @yellow}
+		 		}
+
+		 	}
+
+
+	}
+}
