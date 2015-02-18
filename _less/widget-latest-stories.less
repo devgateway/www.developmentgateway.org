@@ -2,11 +2,13 @@
 @import 'mixins';
 
 .blog-story-wrapper{
+	
 	.border;
 	border-color: @grey-lightest;
 	padding: @space1;
-	height:372px;
+	height:24em;
 	width:18em;
+	overflow: @hidden;
 	
 	.blog-thumbnail-image{
 		img {width: @full;.opaque}
@@ -25,9 +27,14 @@
 		.transition;}
 	}
 
-
+// Need to trim the summary length
 	.blog-post-summary{
+		font-size: @small;
+	}
 
+	.blog-post-date{
+		color: @black;
+		font-size: @smaller;
 	}
 
 }

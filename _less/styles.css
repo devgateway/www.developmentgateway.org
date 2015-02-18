@@ -2120,8 +2120,9 @@ a.readmore:hover {
   border: 1px solid;
   border-color: #e7e7e7;
   padding: 1em;
-  height: 372px;
+  height: 24em;
   width: 18em;
+  overflow: hidden;
 }
 .blog-story-wrapper .right {
   border-right: 1px solid;
@@ -2358,6 +2359,13 @@ a.readmore:hover {
   -moz-transition: all 600ms ease-in-out;
   -o-transition: all 600ms ease-in-out;
   transition: all 600ms ease-in-out;
+}
+.blog-story-wrapper .blog-post-summary {
+  font-size: 0.9em;
+}
+.blog-story-wrapper .blog-post-date {
+  color: #000000;
+  font-size: 0.7em;
 }
 .clearfix {
   zoom: 1;
