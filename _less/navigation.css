@@ -147,7 +147,7 @@
   font-weight: bold;
 }
 #main-navigation {
-  margin: 20px;
+  margin: 1.3em;
   float: right;
 }
 #main-navigation ul {
@@ -156,7 +156,7 @@
 }
 #main-navigation ul li {
   float: left;
-  margin-right: 20px;
+  margin-right: 1.5em;
   color: #ffffff;
 }
 #main-navigation ul li a {
@@ -167,4 +167,8 @@
 }
 #main-navigation ul li a:hover {
   color: #ffde00;
+  -webkit-transition: all 600ms ease-in-out;
+  -moz-transition: all 600ms ease-in-out;
+  -o-transition: all 600ms ease-in-out;
+  transition: all 600ms ease-in-out;
 }

@@ -2,7 +2,7 @@
 @import 'mixins';
 
 #main-navigation{
-	margin: @space20;
+	margin: @space1+0.3;
 	.float-r;
 
 		ul{
@@ -11,7 +11,7 @@
 		 	
 		 	li{
 		 		.float-l;
-		 		margin-right: @space20;
+		 		margin-right: @space1+0.5;
 		 		color: @white;
 		 		
 		 		a{
@@ -20,11 +20,12 @@
 		 			font-size: 1.3rem;
 		 			.uppercase;
 
-		 			&:hover{ color: @yellow}
+		 			&:hover{ 
+		 				color: @yellow;
+		 				.transition
+		 			}
 		 		}
 
 		 	}
-
-
 	}
 }
