@@ -1,0 +1,72 @@
+/**
+ * @file
+ * Contains theme CSS declarations.
+ */
+
+@clnormal: #222222;
+@clanchor: #333333;
+@fstack_default: '';
+
+html {
+  // Always show page scrollbar to prevent side-movement when hovering over
+  // items that are extending their height.
+  overflow-y: scroll;
+
+  // Set the base font style.
+  color: @clnormal;
+  // font-family: @fstack_default;
+}
+
+/**
+ * Set the base style for anchor tags.
+ */
+a {
+  text-decoration: none;
+
+  // Style links that have not been visited.
+  &:link {
+    color: @clanchor;
+  }
+
+  // Style links that are active.
+  &.active,
+  &:active {
+    // color: @clanchor__active;
+    color: @clanchor;
+  }
+
+  // Style links that have been visited.
+  &:visited {
+    // color: @clanchor__visited;
+    color: @clanchor;
+  }
+
+  // Style link hover and focus states.
+  &:focus,
+  &:hover {
+    // color: @clanchor__hover;
+    color: @clanchor;
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3 {
+  color: @clanchor;
+  font-weight: normal;
+}
+
+/**
+ * Set the style for a 2 column CSS Media Object, first column is optional.
+ */
+.mobject {
+  position: relative;
+  .group-side {
+    display: block;
+    float: left;
+    margin-right: 0.5em;
+  }
+  .group-main {
+    display: table-cell;
+    width: 500em;
+  }
+}
