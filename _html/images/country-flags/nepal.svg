@@ -1,0 +1,41 @@
+<svg version="1.0" id="nepal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 160" enable-background="new 0 0 160 160" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="44.19" y="35.09" width="72.06" height="89.71"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#22368F" d="M47.59,41.22l56.09,35.13H60.45l45.04,45.04H47.588V41.22 M44.191,35.083v89.71
+		h69.5l-45.05-45.04H115.5L44.18,35.091"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="44.19" y="35.09" width="72.06" height="89.71"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_4_)" fill="#BC0030" d="M45.89,38.15v84.94h63.7L64.55,78.05h45.04L45.89,38.15z"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="44.19" y="35.09" width="72.06" height="89.71"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_6_)">
+		<g>
+			<path fill="#FFFFFF" d="M61.816,75.78c7.01,0,12.682-5.673,12.687-12.677c-1.111,2.814-3.13,5.169-5.696,6.708l-1.088-0.816
+				l2.138-1.601l-2.584-0.657c0,0,0,0,0-0.005l1.361-2.289l-2.643,0.377l0.38-2.646l-2.294,1.366c0,0,0,0-0.003,0l-0.657-2.589
+				l-1.601,2.141l-1.601-2.141l-0.66,2.589l-2.296-1.366l0.382,2.646l-2.643-0.377l1.361,2.289c0,0.005,0,0.005,0,0.005
+				l-2.587,0.657l2.141,1.601l-1.091,0.816c-2.566-1.539-4.585-3.894-5.694-6.708C49.132,70.103,54.813,75.78,61.816,75.78"/>
+			<path fill="#FFFFFF" d="M70.17,102.81l5.28-2.24l-5.28-2.24l3.45-4.58l-5.689,0.71l0.699-5.7l-4.58,3.46l-2.234-5.29l-2.236,5.29
+				l-4.581-3.46l0.706,5.7l-5.695-0.71l3.46,4.58l-5.29,2.24l5.29,2.24l-3.46,4.58l5.695-0.71l-0.706,5.7l4.581-3.46l2.236,5.28
+				l2.234-5.28l4.58,3.46l-0.699-5.7l5.689,0.71L70.17,102.81z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,41 @@
+<svg version="1.0" id="congo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 160" enable-background="new 0 0 160 160" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="2.349" y="34.902" width="154.46" height="90.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#4279FC" d="M2.349,34.902h154.46v90.1H2.349L2.349,34.902z"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="2.349" y="34.902" width="154.46" height="90.1"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_4_)" fill="#EFD630" d="M147.15,34.902l-144.8,67.58v22.52h0.003h9.648l144.81-67.57V34.904
+		L147.15,34.902z"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="2.349" y="34.902" width="154.46" height="90.1"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_6_)" fill="#BC002C" d="M156.81,34.902L2.35,106.982v18.02h0.003H2.36l154.45-72.08L156.81,34.902z"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="2.349" y="34.902" width="154.46" height="90.1"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_8_)" fill="#EFD630" d="M30.01,41.09l3.831,11.77H46.23L36.2,60.13l3.83,11.774L30.01,64.63
+		l-10.02,7.274l3.829-11.774l-10.02-7.27h12.388L30.01,41.09z"/>
+</g>
+</svg>

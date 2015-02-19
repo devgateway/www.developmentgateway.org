@@ -1,0 +1,23 @@
+@import 'variables';
+@import 'mixins';
+
+.title-banner {
+  background: @grey-lightest;
+  overflow: @hidden;
+  padding: @space3;
+  .fadein;
+  h2 {
+    font-size: @larger;
+    margin: 0 1em 0 0;
+    .float-l;
+    .uppercase;
+  }
+  .title-summary {
+    .italic;
+    .light;
+    .float-l;
+    font-size: @large;
+    color: @blue-deep;
+    margin-top: 0.5em;
+  }
+}
