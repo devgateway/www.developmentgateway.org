@@ -6,8 +6,8 @@ description: >
   An interactive portal for information and knowledge sharing on sustainable development and poverty reduction.
   Includes comprehensive database of development projects and an international procurement marketplace.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://developmentgateway.org" # the base hostname & protocol for your site
+baseurl: ""
+url: ""
 
 twitter_username: dgateway
 github_username:  devgateway
@@ -22,4 +22,3 @@ exclude:
   - Vagrantfile
   - Vagrantsettings.yaml
   - templates
-

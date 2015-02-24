@@ -1,7 +1,4 @@
 
-# Ignore the config file.
-_config.yml
-
 # Ignore development specific files
 .sass-cache
 .vagrant
