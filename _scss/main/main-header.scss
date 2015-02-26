@@ -1,0 +1,40 @@
+
+.main-header {
+  background: transparentize($grey_dark, 0.5);
+
+  .site-name {
+    margin: 0;
+  }
+}
+
+.main-navigation {
+  float: rigth;
+  margin: 1em;
+
+  // Style menu list.
+  .links {
+    display: block;
+    list-style-type: none;
+  }
+
+  // Style menu list item.
+  .item {
+    color: $white;
+    display: inline-block;
+    margin-right: 1em;
+    text-align: right;
+  }
+
+  // Style menu link.
+  .link {
+    color: $white;
+    font-size: 1.3rem;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    &:hover {
+      color: $yellow;
+      @include transition();
+    }
+  }
+}

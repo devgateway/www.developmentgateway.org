@@ -1,17 +1,21 @@
-<header class="site-header">
 
-  <div class="wrapper">
+<header role="banner" class="main-header">
+  <div class="main-header-inner clearfix">
+    <h1 class="site-name">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </h1>
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
+    <nav role="navigation" class="main-navigation">
+      <ul class="links clearfix">
       {% for page in site.pages %}
-      {% if page.title %}
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
+        {% if page.title %}
+        <li class="item">
+          <a class="link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
       {% endfor %}
+      </ul>
     </nav>
 
   </div>
-
 </header>
