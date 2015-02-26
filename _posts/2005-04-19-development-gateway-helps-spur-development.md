@@ -1,14 +1,19 @@
 ---
 layout: post
-title:  "Development Gateway Helps Spur Development"
-date:   2005-04-19 10:00:00
+title: "Development Gateway Helps Spur Development"
 excerpt: >
   Jean Philbert Nsengimana, manager of the Gateway, summarizes the organization’s impact by saying,
   “We help people take advantage of the opportunities that the information society brings.”
+images:
+  - url: images/posts/2005/jeanphilbert.jpg
+    alt: 'Picture of Jean Philbert Nsengimana'
+    caption: 'Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.'
 categories:
 ---
 
-# Rwanda
+{% inline_image post-image right 1 include-caption %}
+
+## Rwanda
 
 Founded in 2004, the Rwanda Development Gateway created www.rwandagateway.org, an online platform that serves as a one-stop shop for information on the country and as a portal to connect with the rest of the world. Housed by the National University of Rwanda, in just three years the Gateway has experienced a steady increase in the demand for its services. Through a combination of income-generating services and pro bono work, the Gateway works with a wide range of clients and partners, leading the Web and content development market in Rwanda with its technology expertise and open source tools. It is part of the Country Gateway program, designed to promote local adaptations of ICT for development.
 

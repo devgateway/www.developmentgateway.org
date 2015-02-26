@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Improving Aid Management in Ethiopia"
-date:   2005-06-19 10:00:00
+title: "Improving Aid Management in Ethiopia"
 excerpt: >
-  “Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.”
+  Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 categories:
+images:
+  - url: images/posts/2005/ethiopianlady.jpg
+    alt: 'Picture of on Ethiopian lady'
 ---
 
-“Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.”
+{% inline_image post-image right 1 %}
+
+> Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 
 Christopher Hall, Program Coordinator, Harmonization
 The World Bank
