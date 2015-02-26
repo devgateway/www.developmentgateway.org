@@ -1,0 +1,52 @@
+
+.page-header {
+  background: $grey_lightest;
+  overflow: hidden;
+  padding: 3em;
+
+  @include media-query-max($bp_small) {
+    padding: 0.5em;
+  }
+
+  @include media-query($bp_small, $bp_medium) {
+    padding: 1em;
+  }
+
+  .page-title {
+    color: $default_text;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    // Help verticall alignment with the summary.
+    margin: 0;
+    line-height: 1;
+
+    @include media-query-max($bp_medium) {
+      font-size: $large;
+    }
+    @include media-query-min($bp_small) {
+      float: left;
+      margin-right: 1em;
+    }
+    @include media-query-min($bp_medium) {
+      font-size: $largest;
+      margin-right: 1em;
+    }
+  }
+
+  .page-title-summary {
+    color: $blue_deep;
+    font-style: italic;
+
+
+    @include media-query-min($bp_small) {
+      line-height: $large;
+      float: left;
+    }
+    @include media-query-min($bp_medium) {
+      // Alight vertically with the title.
+      font-size: $large;
+      line-height: $largest;
+    }
+  }
+}
