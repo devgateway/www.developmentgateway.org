@@ -1,0 +1,32 @@
+/**
+ * @file
+ * Special CSS classes to be used inside blog posts.
+ *
+ * TODO: Add information on how to use these classes.
+ */
+
+.post-image {
+  display: table-cell;
+  max-width: 20em;
+  text-align: center;
+
+  &.left {
+    float: left;
+    margin: 0;
+    margin-bottom: 1em;
+    margin-right: 1em;
+  }
+  &.right {
+    float: right;
+    margin: 0;
+    margin-bottom: 1em;
+    margin-left: 1em;
+  }
+
+  @include media-query-max($bp_medium) {
+    float: none;
+  }
+  @include media-query-min($bp_medium) {
+    width: 20em;
+  }
+}
