@@ -1,5 +1,8 @@
 
-# Site settings
+#---------------#
+# Site settings #
+#---------------#
+
 title: Development Gateway
 email: info@developmentgateway.org
 description: >
@@ -12,13 +15,23 @@ url: ""
 twitter_username: dgateway
 github_username:  devgateway
 
-# Build settings
-markdown: kramdown
 
+#-----------------#
+# Jekyll settings #
+#-----------------#
+
+# Exclude files/folders from being processed by Jekyll and copied to the built website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - Vagrantfile
   - Vagrantsettings.yaml
-  - templates
+# NOTE: All the files/folders starting with "_" (underscore) are also excluded.
+
+# Set the default markdown processor.
+markdown: kramdown
+
+# Change the default SASS settings.
+sass:
+  sass_dir: _scss
