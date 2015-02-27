@@ -11,8 +11,6 @@ images:
 categories:
 ---
 
-{% inline_image post-image right 1 include-caption %}
-
 ## Rwanda
 
 Founded in 2004, the Rwanda Development Gateway created www.rwandagateway.org, an online platform that serves as a one-stop shop for information on the country and as a portal to connect with the rest of the world. Housed by the National University of Rwanda, in just three years the Gateway has experienced a steady increase in the demand for its services. Through a combination of income-generating services and pro bono work, the Gateway works with a wide range of clients and partners, leading the Web and content development market in Rwanda with its technology expertise and open source tools. It is part of the Country Gateway program, designed to promote local adaptations of ICT for development.

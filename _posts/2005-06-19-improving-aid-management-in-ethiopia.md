@@ -9,8 +9,6 @@ images:
     alt: 'Picture of on Ethiopian lady'
 ---
 
-{% inline_image post-image right 1 %}
-
 > Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 
 Christopher Hall, Program Coordinator, Harmonization

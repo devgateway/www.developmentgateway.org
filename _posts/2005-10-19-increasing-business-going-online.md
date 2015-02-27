@@ -10,8 +10,6 @@ images:
     caption: 'Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms. Masawe displays samples of her beautiful textiles.'
 ---
 
-{% inline_image post-image right 1 include-caption %}
-
 ## Tanzania
 
 In Tanzania, more than half the population lives on less than one dollar a day, and per capita income is roughly $320. But entrepreneurial drive can triumph even in this setting. By adopting high-tech tools, one entrepreneur has increased demand for her products and watched her business grow.
