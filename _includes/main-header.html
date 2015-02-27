@@ -7,7 +7,8 @@
 
     <nav role="navigation" class="main-navigation">
       <ul class="links clearfix">
-      {% for page in site.pages %}
+      {% assign pages = site.pages | sort: 'weight'  %}
+      {% for page in pages %}
         {% if page.title %}
         <li class="item">
           <a class="link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
