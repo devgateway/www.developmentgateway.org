@@ -1,0 +1,58 @@
+/**
+ * @file
+ * This file should only contain declarations that extend or override the Normalize CSS library.
+ */
+
+img {
+  // Make sure images fit inside the container.
+  max-width: 100%;
+  height: auto;
+}
+
+img,
+svg {
+  // Reset the line-height.
+  line-height: 1;
+}
+
+img,
+svg,
+iframe {
+  // Make sure elements are vertically aligned. Solves some vertical alignment and spacing issues.
+  vertical-align: middle;
+}
+
+/**
+ * Custom media element wrapper that keeps aspect ratio for elements with undefined aspect ratio.
+ *
+ * Make the element resizable but keep the aspect ratio using a box-model feature.
+ * We use 33em instead of .xSmallOnly() media query for a smooth transition between
+ * the normal state and the 'resizable' state.
+ *   480/16 = 30em for video size.
+ *   0.5*2 + 1*2 = 3em layout spacig.
+ *   we ignore the 2px border.
+ *
+ * @see http://www.w3.org/TR/CSS2/box.html#padding-properties
+ */
+@include media-query-max($bp_small) {
+  .media-resizable-wrapper {
+    $aspect_ratio: (9 / 16) * 100%;
+    display: block; // We need a block element for this to work.
+    height: 0;
+    padding-top: $aspect_ratio;
+    position: relative;
+
+    .media-resizable-element {
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+
+    &.aspect-3-4 {
+      $aspect_ratio: (3 / 4) * 100%;
+      padding-top: $aspect_ratio;
+    }
+  }
+}
