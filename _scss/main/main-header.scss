@@ -1,7 +1,5 @@
 
 .main-header {
-  background: transparentize($grey_dark, 0.5);
-
   .site-name {
     margin: 0;
 
@@ -9,14 +7,10 @@
       float: left;
     }
   }
-  .site-logo {
-    @include media-query-max($bp_small) {
-      height: 1em;
-    }
-    @include media-query-min($bp_small) {
-      height: 2em;
-    }
-  }
+}
+
+.main-header-inner {
+  background: transparentize($grey_dark, 0.5);
 }
 
 .main-navigation {

@@ -2,3 +2,46 @@
 body {
   min-width: 20em;
 }
+
+.page-header-inner,
+.main-footer-inner,
+.page-content-inner {
+  @include media-query-max($bp_small) {
+    padding: 0.5em;
+  }
+
+  @include media-query($bp_small, $bp_medium) {
+    padding: 1em;
+  }
+
+  @include media-query($bp_medium, $bp_large) {
+    @include l-row-wrapper(8);
+  }
+
+  @include media-query-min($bp_large) {
+    @include l-row-wrapper(12);
+  }
+}
+
+.page-header-inner {
+  @include media-query-max($bp_small) {
+    padding: 0.5em;
+  }
+
+  @include media-query($bp_small, $bp_medium) {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  @include media-query($bp_medium, $bp_large) {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    @include l-row-wrapper(8);
+  }
+
+  @include media-query-min($bp_large) {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    @include l-row-wrapper(12);
+  }
+}

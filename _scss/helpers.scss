@@ -172,3 +172,11 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
     @content;
   }
 }
+
+/**
+ * Responsive design behaviour.
+ */
+@mixin l-row-wrapper($count: $gen_total_columns) {
+  margin: 0 auto;
+  width: ($gen_column_width + $gen_gutter_width) * $count;
+}

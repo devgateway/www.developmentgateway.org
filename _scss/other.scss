@@ -1,0 +1,17 @@
+
+html, body {
+  background-color: $footer_bg;
+}
+.main-header,
+.main-content {
+  background-color: $white;
+}
+
+.site-logo {
+  @include media-query-max($bp_small) {
+    height: 1em;
+  }
+  @include media-query-min($bp_small) {
+    height: 2em;
+  }
+}

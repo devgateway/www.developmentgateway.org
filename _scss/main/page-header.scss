@@ -1,16 +1,6 @@
 
 .page-header {
   background: $grey_lightest;
-  overflow: hidden;
-  padding: 3em;
-
-  @include media-query-max($bp_small) {
-    padding: 0.5em;
-  }
-
-  @include media-query($bp_small, $bp_medium) {
-    padding: 1em;
-  }
 
   .page-title {
     color: $default_text;

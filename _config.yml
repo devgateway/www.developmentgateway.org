@@ -9,11 +9,12 @@ description: >
   An interactive portal for information and knowledge sharing on sustainable development and poverty reduction.
   Includes comprehensive database of development projects and an international procurement marketplace.
 
+# TODO: Use dynamic year.
+copyright: >
+  2015 Development Gateway and/or its affiliated companies
+
 baseurl: ""
 url: ""
-
-twitter_username: dgateway
-github_username:  devgateway
 
 
 #-----------------#

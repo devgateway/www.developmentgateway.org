@@ -1,44 +1,25 @@
-<footer class="site-footer">
 
-  <div class="wrapper">
+<footer role="banner" class="main-footer">
+  <div class="main-footer-inner clearfix">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <div class="footer-items">
+      <nav role="navigation" class="footer-navigation">
+        <ul class="links clearfix">
+          <li class="item"><a class="link" href="#">About</a></li><li class="item"><a class="link" href="#">Careers</a></li><li class="item"><a class="link" href="#">Contact Us</a></li><li class="item"><a class="link" href="#">Privacy & Terms</a></li>
         </ul>
-      </div>
+      </nav>
 
-      <div class="footer-col  footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            <span>Github:</span>
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="username">{{ site.github_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            <span>Twitter:</span>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="username">{{ site.twitter_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+      <div class="copyright">
+        {{ site.copyright }}
       </div>
     </div>
 
-  </div>
+    <div class="footer-logo">
+      <a href="/" title="Visit the main page" rel="home">
+        <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
+        <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
+      </a>
+    </div>
 
+  </div>
 </footer>
