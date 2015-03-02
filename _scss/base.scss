@@ -1,4 +1,10 @@
 
+html {
+  // Always show page scrollbar to prevent side-movement when hovering over
+  // items that are extending their height.
+  overflow-y: scroll;
+}
+
 body,
 html {
   font-family: $fstack_default;
