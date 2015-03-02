@@ -72,3 +72,9 @@
     text-align: right;
   }
 }
+
+@include media-query-max($bp_small) {
+  .footer-logo {
+    display: none;
+  }
+}
