@@ -4,37 +4,73 @@
 
   .site-name {
     margin: 0;
+
+    @include media-query-min($bp_small) {
+      float: left;
+    }
+  }
+  .site-logo {
+    @include media-query-max($bp_small) {
+      height: 1em;
+    }
+    @include media-query-min($bp_small) {
+      height: 2em;
+    }
   }
 }
 
 .main-navigation {
-  float: rigth;
-  margin: 1em;
+  @include media-query-min($bp_small) {
+    float: right;
+  }
 
   // Style menu list.
   .links {
     display: block;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+
+    // Display horizontal scroll bars on small devices.
+    @include media-query-max($bp_small) {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      white-space: nowrap;
+    }
   }
 
   // Style menu list item.
   .item {
     color: $white;
     display: inline-block;
-    margin-right: 1em;
     text-align: right;
   }
 
   // Style menu link.
   .link {
     color: $white;
-    font-size: 1.3rem;
+    display: inline-block;
+    font-size: 0.75em;
     font-weight: normal;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-decoration: none;
     text-transform: uppercase;
 
     &:hover {
       color: $yellow;
       @include transition();
+    }
+
+    // Display horizontal scroll bars on small devices.
+    @include media-query-max($bp_small) {
+      line-height: 2em;
+    }
+    @include media-query-min($bp_small) {
+      line-height: 5.333em;
     }
   }
 }

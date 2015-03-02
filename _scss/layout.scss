@@ -1,47 +1,4 @@
 
-// Define breakpoints. Increased by 1em to account for browsers that include
-// borders in viewport size.
-$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
-$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 1em;
-$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
-
-/**
- *  Using media queries with like this:
- *  @include media-query($bp_small, $bp_medium) {
- *    .wrapper {
- *      padding-right: $spacing-unit / 2;
- *      padding-left: $spacing-unit / 2;
- *    }
- *  }
- *
- *  OR
- *  @include media-query-min($bp_medium) {
- *    .wrapper {
- *      padding-right: $spacing-unit / 2;
- *      padding-left: $spacing-unit / 2;
- *    }
- *  }
- *
- *  OR
- *  @include media-query-max($bp_medium) {
- *    .wrapper {
- *      padding-right: $spacing-unit / 2;
- *      padding-left: $spacing-unit / 2;
- *    }
- *  }
- */
-@mixin media-query-min($min) {
-  @media (min-width: $min) {
-    @content;
-  }
-}
-@mixin media-query-max($max) {
-  @media (max-width: $max) {
-    @content;
-  }
-}
-@mixin media-query($min, $max) {
-  @media (min-width: $min) and (max-width: $max) {
-    @content;
-  }
+body {
+  min-width: 20em;
 }
