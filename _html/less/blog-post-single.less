@@ -1,0 +1,49 @@
+@import 'variables';
+@import 'mixins';
+
+
+article{
+  color: @black;
+}
+
+article h3{
+  color: @blue-vibrant;
+}
+
+article ul{
+   margin-left:@gutter*3;
+}
+
+article ul li{
+  li:before {
+    content: "· ";
+}
+}
+
+.blog-img{
+  img{
+    padding:5px;
+    .border;
+    border-color: @grey-lightest;
+   }
+}
+
+.post-meta-information{
+  .border .bottom;
+  border-color: @grey-lightest;
+  font-size: @small;
+  color: @default-text;
+  padding-bottom: @gutter;
+
+  img{ width:1em;}
+
+}
+
+.meta{
+  display:inline;
+  margin-right: @gutter;
+}
+
+.blog-content{
+
+}
