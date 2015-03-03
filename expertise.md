@@ -4,6 +4,7 @@ title: Expertise
 title_summary: because data should work for people.
 permalink: /expertise/
 weight: 2
+nav_data: site.data.expertise_topics
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dictum tincidunt ligula, vel luctus eros facilisis non. Donec dolor libero, venenatis vitae dui non, mollis eleifend nisi. Proin ac consectetur tortor. Duis pulvinar mollis venenatis. In a hendrerit diam. Pellentesque at nisi ut est ultricies ultricies id sed mi. Vivamus interdum magna ut neque posuere sodales.

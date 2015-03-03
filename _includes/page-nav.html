@@ -1,0 +1,5 @@
+
+<ul class="pagenav">
+  <!-- TODO: Find a way to remove whitespace inside for loops! -->
+  {% for entry in include.entries %}<li class="entry" id="{{ entry.title | downcase | replace: ' ', '-' }}"><a href="#{{ entry.title | downcase | replace: ' ', '-' }}" class="entry" title="Jump to {{ entry.title}}">{{ entry.title}}</a></li>{% endfor %}
+</ul>
