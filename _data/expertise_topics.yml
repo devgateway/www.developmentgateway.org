@@ -1,0 +1,16 @@
+# This Data Files should contain topics for the expertise page.
+
+- title: Information Management
+  content: >
+    The Aid Management Platform is a software solution allowing governments and donor partners manage aid activities and flows through the planning, implementation, and evaluation stages.
+    Through online workspaces, interactive dashboards, and report generation mechanisms, decision-makers are empowered to make informed decisions and allocate resources where most needed.
+
+- title: Data Uptake
+  content: >
+    Technology solutions alone are not sufficient to bring about lasting change: technology should be adopted as part of a larger effort that brings partners together, puts sustainable management processes in place, and ensures long-term technical maintenance.
+    For this reason, the Aid Management Program includes hands-on training programs, drafting data management plans, ongoing technical support, and an annual Good Practices Workshop.
+
+- title: Openness & Engagement
+  content: >
+    Development Gateway encourages our government partners to open up aid information to the public through accessible Aid Management Platform public portals.
+    By making this financial information more transparent, governments increase their domestic and international credibility; can leverage public scrutiny to hold donors accountable; and step closer to closing the feedback loop by facilitating public debate and discourse.

@@ -3,6 +3,14 @@
  * This file should only contain declarations that extend or override the Normalize CSS library.
  */
 
+a {
+  // By default links are not underlined.
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 img {
   // Make sure images fit inside the container.
   max-width: 100%;

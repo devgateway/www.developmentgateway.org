@@ -180,3 +180,12 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   margin: 0 auto;
   width: ($gen_column_width + $gen_gutter_width) * $count;
 }
+
+@mixin column($count) {
+  display: inline;
+  float: left;
+  margin-left: $gen_gutter_width / 2;
+  margin-right: $gen_gutter_width / 2;
+  position: relative;
+  width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
+}
