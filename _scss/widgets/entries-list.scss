@@ -17,7 +17,7 @@
 
   .entry {
     @include media-query-min($bp_medium) {
-      @include column(4);
+      @include l-column(4);
     }
   }
 }

@@ -181,11 +181,23 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   width: ($gen_column_width + $gen_gutter_width) * $count;
 }
 
-@mixin column($count) {
+@mixin l-row-separator() {
+  margin-bottom: $gen_gutter_width;
+}
+
+@mixin l-column($count) {
   display: inline;
   float: left;
   margin-left: $gen_gutter_width / 2;
   margin-right: $gen_gutter_width / 2;
   position: relative;
   width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
+}
+
+// Style for nested columns.
+@mixin l-first-column() {
+  margin-left: 0;
+}
+@mixin l-last-column() {
+  margin-right: 0;
 }
