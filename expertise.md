@@ -7,10 +7,22 @@ weight: 2
 nav_data: site.data.expertise_topics
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dictum tincidunt ligula, vel luctus eros facilisis non. Donec dolor libero, venenatis vitae dui non, mollis eleifend nisi. Proin ac consectetur tortor. Duis pulvinar mollis venenatis. In a hendrerit diam. Pellentesque at nisi ut est ultricies ultricies id sed mi. Vivamus interdum magna ut neque posuere sodales.
+{% multicols pageintro clearfix %}
 
-Fusce quis tristique libero. Quisque vitae eros faucibus, luctus turpis fermentum, eleifend arcu. Aenean volutpat rutrum orci id sagittis. Curabitur non dui dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec laoreet est in tellus ultricies venenatis. Sed congue massa ac imperdiet rutrum. Nulla ac libero vulputate, consequat odio nec, tristique magna. Sed et scelerisque orci. Mauris aliquet vitae dui a fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit 
+![Information Management](/images/other/information-management.png)
+
+<--colbreak-->
+
+Praesent vehicula lectus tortor, non egestas magna ultricies vitae. Phasellus tristique nisl vestibulum ultricies bibendum. Nam consectetur augue et dui blandit, ac vestibulum mauris fermentum. In vulputate venenatis dui, vel malesuada lectus tristique in. Nullam rhoncus euismod varius. Maecenas ultrices urna velit, sit amet tristique est congue in. Vivamus ut orci a odio ullamcorper commodo in vel justo. Mauris mattis, felis varius tincidunt imperdiet, tellus urna luctus nisl, quis venenatis augue ante nec dolor. Nullam eu est lorem. Nam aliquam ornare dui eget bibendum. In hac habitasse platea dictumst. Vivamus sodales rutrum magna eget porttitor. Duis scelerisque tempor turpis id ullamcorper. Donec lobortis varius posuere. Ut metus mauris, viverra dignissim convallis sed, lobortis non sem.
+
+{% endmulticols %}
+
+{% assign featured_programs = site.programs | dg_find_all: 'featured', true %}
+{% include entries-list.html entries=featured_programs class="expertise-featured-programs clearfix" %}
 
 {% include entries-list.html entries=site.data.expertise_topics class="expertise-topics clearfix" %}
 
-Sed faucibus dictum malesuada. In fermentum vitae metus non tempor. Donec fringilla purus a efficitur pellentesque. Duis ornare nisl ac placerat condimentum. Morbi hendrerit augue dolor, nec tempus diam faucibus vel. Sed magna tellus, porta id pharetra vel, condimentum et quam. Fusce at venenatis elit. Maecenas maximus lacus vel quam rutrum lacinia. Aenean venenatis tristique lorem vitae molestie. Nulla hendrerit, risus eu dapibus rutrum, mi dui fringilla nunc, pretium sodales ipsum arcu sit amet nibh. Maecenas dignissim lorem dapibus nulla pharetra fermentum. Phasellus cursus mollis erat, non molestie magna vestibulum eget. Pellentesque erat diam, aliquet et fringilla sed, hendrerit id felis. Nulla facilisi. Nulla blandit aliquet dolor, sed vehicula ipsum ullamcorper et. Pellentesque vulputate purus tortor, non sagittis elit condimentum id.
+{% assign normal_programs = site.programs | dg_find_all: 'featured', false %}
+{% include entries-list.html entries=normal_programs class="expertise-programs clearfix" %}
+
+Fusce quis tristique libero. Quisque vitae eros faucibus, luctus turpis fermentum, eleifend arcu. Aenean volutpat rutrum orci id sagittis. Curabitur non dui dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec laoreet est in tellus ultricies venenatis. Sed congue massa ac imperdiet rutrum. Nulla ac libero vulputate, consequat odio nec, tristique magna. Sed et scelerisque orci. Mauris aliquet vitae dui a fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit
