@@ -16,6 +16,9 @@ copyright: >
 baseurl: ""
 url: ""
 
+collections:
+  programs:
+    output: false
 
 #-----------------#
 # Jekyll settings #
