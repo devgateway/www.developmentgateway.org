@@ -15,7 +15,7 @@
   -o-transition: all 600ms ease-in-out;
   transition: all 600ms ease-in-out;
 }
-.transition-color {
+.transition_color {
   -webkit-transition: color 600ms ease-in-out;
   -moz-transition: color 600ms ease-in-out;
   -o-transition: color 600ms ease-in-out;
@@ -83,7 +83,7 @@
 .opaque {
   opacity: 1;
 }
-.semi-transparent {
+.semi_transparent {
   opacity: 0.8;
 }
 .uppercase {
@@ -95,13 +95,13 @@
 .center {
   text-align: center;
 }
-.float-l {
+.float_l {
   float: left;
 }
-.float-r {
+.float_r {
   float: right;
 }
-.no-bullets {
+.no_bullets {
   list-style-type: none;
 }
 .block {
@@ -113,7 +113,7 @@
 .table {
   display: table;
 }
-.h-center {
+.h_center {
   margin-left: auto;
   margin-right: auto;
 }
@@ -135,7 +135,7 @@
 .border .none {
   border: none;
 }
-.hide-text {
+.hide_text {
   text-indent: -999em;
   letter-spacing: -999em;
   overflow: hidden;
