@@ -1,0 +1,225 @@
+/**
+ * @file
+ * Misc helpers and shortcuts
+ */
+
+// #################### Shortcuts ####################
+
+/*
+ * CSS3 Border-radius.
+ *
+ * @see: http://border-radius.com
+ * @see: http://caniuse.com/#feat=border-radius
+ * @see: http://www.w3.org/TR/css3-background/#corners
+ */
+@mixin border-radius($radius) {
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+}
+
+/*
+ * CSS3 Box-sizing.
+ *
+ * @see: http://caniuse.com/#feat=css3-boxsizing
+ * @see: http://www.w3.org/TR/css3-ui/#box-sizing
+ */
+@mixin box-sizing($type: border-box) {
+  -moz-box-sizing: $type;
+  -webkit-box-sizing: $type;
+  box-sizing: $type;
+}
+
+/*
+ * CSS3 Transitions.
+ *
+ * @see: http://caniuse.com/#feat=css-transitions
+ * @see: http://www.w3.org/TR/css3-transitions/
+ */
+@mixin transition($type: all 600ms ease-in-out) {
+  -moz-transition: $type;
+  -webkit-transition: $type;
+  transition: $type;
+}
+
+// #################### Helpers ####################
+
+/*
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of 'table' rather than 'block' is only necessary if using
+ *    ':before' to contain the top-margins of child elements.
+ *
+ * @see: http://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither
+ * @see: http://nicolasgallagher.com/micro-clearfix-hack
+ * @see: http://www.satzansatz.de/cssd/onhavinglayout.html
+ * @see: http://quirksmode.org/css/css2/display.html
+ */
+@mixin clearfix-mixin() {
+  &:before,
+  &:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+/*
+ * Hide elements visually, but keep them available for screen-readers.
+ *
+ * Used for information required for screen-reader users to understand and use
+ * the site where visual display is undesirable. Information provided in this
+ * manner should be kept concise, to avoid unnecessary burden on the user.
+ */
+@mixin visually-hidden() {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  &.focusable:active,
+  &.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+  }
+}
+
+/*
+ * CSS3 Text-shadow.
+ * @see http://caniuse.com/#search=text-shadow
+ * @see http://www.w3.org/TR/css-text-decor-3/#text-shadow-property
+ */
+@mixin text-shadow($type...) {
+  -moz-text-shadow: $type;
+  -webkit-text-shadow: $type;
+  text-shadow: $type;
+}
+
+/*
+ * CSS3 Box-shadow.
+ * @see http://caniuse.com/#search=box-shadow
+ * @see http://www.w3.org/TR/css3-background/#the-box-shadow
+ */
+@mixin box-shadow($type...) {
+  -moz-box-shadow: $type;
+  -webkit-box-shadow: $type;
+  box-shadow: $type;
+}
+
+/*
+ * Apply single color to anchor tags.
+ */
+@mixin link-color(
+  $normalcolor,
+  $actcolor: darken($normalcolor, 10),
+  $viscolor: lighten($normalcolor, 10),
+  $hovcolor: darken($normalcolor, 15)
+) {
+  // Style links that have not been visited.
+  &:link {
+    color: $normalcolor;
+  }
+  // Style links that are active.
+  &.active,
+  &:active {
+    color: $actcolor;
+  }
+  // Style links that have been visited.
+  &:visited {
+    color: $viscolor;
+  }
+  // Style link hover and focus states.
+  &:focus,
+  &:hover {
+    color: $hovcolor;
+  }
+}
+
+
+// Define breakpoints. Increased by 1em to account for browsers that include
+// borders in viewport size.
+$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
+$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 1em;
+$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
+
+/**
+ *  Using media queries with like this:
+ *  @include media-query($bp_small, $bp_medium) {
+ *    .wrapper {
+ *      padding-right: $spacing-unit / 2;
+ *      padding-left: $spacing-unit / 2;
+ *    }
+ *  }
+ *
+ *  OR
+ *  @include media-query-min($bp_medium) {
+ *    .wrapper {
+ *      padding-right: $spacing-unit / 2;
+ *      padding-left: $spacing-unit / 2;
+ *    }
+ *  }
+ *
+ *  OR
+ *  @include media-query-max($bp_medium) {
+ *    .wrapper {
+ *      padding-right: $spacing-unit / 2;
+ *      padding-left: $spacing-unit / 2;
+ *    }
+ *  }
+ */
+@mixin media-query-min($min) {
+  @media (min-width: $min) {
+    @content;
+  }
+}
+@mixin media-query-max($max) {
+  @media (max-width: $max) {
+    @content;
+  }
+}
+@mixin media-query($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+/**
+ * Responsive design behaviour.
+ */
+@mixin l-row-wrapper($count: $gen_total_columns) {
+  margin: 0 auto;
+  width: ($gen_column_width + $gen_gutter_width) * $count;
+}
+
+@mixin l-row-separator() {
+  margin-bottom: $gen_gutter_width;
+}
+
+@mixin l-column($count) {
+  display: inline;
+  float: left;
+  margin-left: $gen_gutter_width / 2;
+  margin-right: $gen_gutter_width / 2;
+  position: relative;
+  width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
+}
+
+// Style for nested columns.
+@mixin l-first-column() {
+  margin-left: 0;
+}
+@mixin l-last-column() {
+  margin-right: 0;
+}

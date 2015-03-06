@@ -1,0 +1,3 @@
+# For now make sure that robots don't index anything.
+User-agent: *
+Disallow: /

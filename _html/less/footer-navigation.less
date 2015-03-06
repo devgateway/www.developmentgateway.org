@@ -1,0 +1,59 @@
+@import 'variables';
+@import 'mixins';
+
+.footer-nav {
+  .float_l;
+
+  ul {
+
+    .no_bullets;
+    margin-bottom: @space20;
+
+    li {
+      .float_l;
+      .block;
+      font-size: @small;
+      margin-right: @space20;
+      padding-right: @space20;
+      line-height: @full;
+
+      .border .right;
+      border-color: @blue_vibrant;
+
+      &:last-child {
+        .border .none;
+      }
+
+      a {
+        color: @blue_vibrant;
+        .transition_color;
+
+        &:hover {
+          color: @yellow;
+        }
+      }
+
+    }
+
+  }
+
+}
+
+.copyright {
+  .clearfix;
+  font-size: @normal;
+  color: @grey_light;
+
+}
+
+.footer-logo {
+  .float_r;
+  width: 11%;
+  .opaque;
+
+  &:hover{
+    .transition;
+    .semi_transparent;
+  }
+
+}

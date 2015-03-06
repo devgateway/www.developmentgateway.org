@@ -1,0 +1,61 @@
+
+.page-header {
+  background: $grey_lightest;
+
+  .page-title {
+    color: $default_text;
+    font-weight: normal;
+    text-transform: uppercase;
+
+    // Help verticall alignment with the summary.
+    margin: 0;
+    line-height: 1;
+
+    @include media-query-min($bp_small) {
+      float: left;
+      margin-right: 1em;
+    }
+
+    @include media-query-max($bp_medium) {
+      font-size: $large;
+    }
+
+    @include media-query-min($bp_medium) {
+      font-size: $largest;
+    }
+  }
+
+  .page-title-summary {
+    color: $blue_deep;
+    font-style: italic;
+
+
+    @include media-query-min($bp_small) {
+      line-height: $large;
+      float: left;
+    }
+    @include media-query-min($bp_medium) {
+      // Alight vertically with the title.
+      font-size: $large;
+      line-height: $largest;
+    }
+  }
+}
+
+.page-header-inner {
+  @include media-query-max($bp_small) {
+    padding: 0.5em;
+  }
+
+  @include media-query($bp_small, $bp_medium) {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    @include l-row-wrapper(8);
+  }
+
+  @include media-query-min($bp_medium) {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    @include l-row-wrapper(12);
+  }
+}

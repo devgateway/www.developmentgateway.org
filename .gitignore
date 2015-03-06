@@ -1,0 +1,6 @@
+
+# Ignore development specific files
+.sass-cache
+.vagrant
+_site
+Vagrant*

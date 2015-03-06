@@ -1,0 +1,25 @@
+@import 'variables';
+@import 'mixins';
+
+.boxed-content {
+  padding: @space2;
+
+  h4.box-title {
+    color: @black;
+    .bold;
+    margin-top: 0;
+    padding-top: 0
+  }
+  .year-label {
+    color: @default_text;
+  }
+}
+
+.box-content-bordered {
+  .border;
+  border-color: @grey_lightest;
+}
+
+.box-content-bg {
+  background: lighten(@grey_lightest, 5%)
+}

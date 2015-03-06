@@ -1,0 +1,47 @@
+@import 'variables';
+@import 'mixins';
+
+.header-left-section {
+  .float_l;
+}
+
+//logo area
+.site-name {
+  width: 220px;
+  background: @blue_deep;
+  padding-left: @space2;
+
+  .float_l;
+  .block;
+}
+
+.site-name img {
+  max-width: 58%;
+  .transition;
+  &:hover {
+    .semi_transparent;
+  }
+}
+
+//search and social buttons
+ul.btn-nav {
+  .float_l;
+  .no_bullets;
+
+  li {
+    width: 60px;
+    height: 61px;
+    .float_l;
+    .hide_text;
+    .block;
+  }
+
+  li.btn-search {
+    background-color: @blue_vibrant;
+  }
+
+  li.btn-social {
+    background: @@green_deep;
+  }
+
+}

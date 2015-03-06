@@ -1,0 +1,23 @@
+
+.expertise-topics {
+  .title {
+    border-top: 1px solid $grey_light;
+    border-bottom: 1px solid $grey_light;
+    color: $black;
+    font-size: 1.25em;
+    font-weight: normal;
+
+    @include media-query-max($bp_medium) {
+      padding: 0.5em 0;
+    }
+    @include media-query-min($bp_medium) {
+      padding: 1em 0;
+    }
+  }
+
+  .entry {
+    @include media-query-min($bp_medium) {
+      @include l-column(4);
+    }
+  }
+}

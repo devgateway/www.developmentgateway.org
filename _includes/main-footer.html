@@ -1,0 +1,26 @@
+
+<footer role="banner" class="main-footer">
+  <div class="main-footer-inner clearfix">
+
+    <div class="footer-items">
+      <nav role="navigation" class="footer-navigation">
+        <ul class="links clearfix">
+          <li class="item"><a class="link" href="#">About</a></li><li class="item"><a class="link" href="#">Careers</a></li><li class="item"><a class="link" href="#">Contact Us</a></li><li class="item"><a class="link" href="#">Privacy &amp; Terms</a></li>
+        </ul>
+      </nav>
+
+      <div class="copyright">
+        {{ site.time | date: '%Y' }}
+        {{ site.copyright }}
+      </div>
+    </div>
+
+    <div class="footer-logo">
+      <a href="/" title="Visit the main page" rel="home">
+        <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
+        <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
+      </a>
+    </div>
+
+  </div>
+</footer>

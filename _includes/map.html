@@ -1,0 +1,30 @@
+<div
+  id="reach-map"
+  class="map"
+  data-tiles="{{ site.map.tiles }}"
+  data-min-zoom="{{ site.map.minZoom }}"
+  data-max-zoom="{{ site.map.maxZoom }}">
+  <div class="map-inset-text">
+    <h1>Six Continents | One Goal</h1>
+    <p class="help">Rollover selected locations for information on select partnerships, case studies, and more.</p>
+  </div>
+</div>
+
+<ul class="reach-data">
+  {% for country in include.countries %}
+    <!-- maybe create a liquid template filter to generate data- props -->
+    <li
+      class="reach-map-data"
+      data-name="{{ country.name }}"
+      data-isoA2="{{ country.isoA2 }}"
+      data-lat="{{ country.lat }}"
+      data-lon="{{ country.lon }}"
+      data-year="{{ country.year }}"
+      data-program="{{ country.program }}"
+      data-summary="{{ country.summary }}"
+      data-pullQuote="{{ country.pullQuote }}"
+      data-pullSource="{{ country.pullSource }}">
+      <a href="#{{ country.isoA2 }}">{{ country.name }}</a>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,50 @@
+@import 'variables';
+@import 'mixins';
+
+.blog-story-wrapper {
+
+  .border;
+  border-color: @grey_lightest;
+  padding: @gutter*2;
+  width: 17em;
+  overflow: @hidden;
+
+  .blog-thumbnail-image {
+    img {
+      width: @full;
+      .opaque
+    }
+
+  }
+
+  a {
+    color: #000
+  }
+  &:hover {
+    .transition;
+    .semi_transparent
+  }
+
+  // We may need to trim the title to 2 lines
+  h4.blog-post-title a {
+    color: @blue_vibrant;
+    font-size: @large;
+    .light;
+    &:hover {
+      color: @orange;
+      .transition;
+    }
+  }
+
+  // Need to trim the summary length
+  .blog-post-summary {
+    font-size: @small;
+    color: @grey_dark;
+  }
+
+  .blog-post-date {
+    color: @black;
+    font-size: @smaller;
+  }
+
+}
