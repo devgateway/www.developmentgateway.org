@@ -66,13 +66,46 @@ ul.btn-nav {
   color:$white;
   font-size: $largest;
   font-weight: $font_weight_light;
+  line-height: 2.2em;
   float:left;
 }
 
 ul.social-nav{
   list-style:none;
   float:left;
+
   li{
     float:left;
+
+    .fa-border{
+      border:1px solid darken($blue_vibrant,30%)
+    }
+
+    .fa{
+      font-size: $large*2;
+      color: $blue_vibrant;
+      width: 1em;
+      text-align:center;
+      margin-left:$gen_gutter_width/2;
+      @include transition;
+
+      &:hover{
+      color: $yellow;
+      background: $black;
+      }
+
+      &:hover.fa-border{ border:1px solid $blue_vibrant}
+    }
+    // to imptove the envelope icon vertical alignment
+    .fa-envelope{
+      line-height:80%;
+      padding-bottom:0.35em;
+      padding-top:0.25em;
+    }
   }
 }
+
+
+
+
+
