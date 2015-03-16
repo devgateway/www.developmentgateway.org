@@ -50,6 +50,8 @@
 
   .copyright {
     color: $grey_light;
+    font-size: $small;
+    &:before{content:"©"}
   }
 
   .footer-logo > a {
