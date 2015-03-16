@@ -68,6 +68,13 @@ ul.btn-nav {
   font-weight: $font_weight_light;
   line-height: 2.2em;
   float:left;
+
+  @include media-query-max($bp_small) {
+    width:100%;
+    @include clearfix_mixin;
+    text-align:center;
+    display:block;
+  }
 }
 
 ul.social-nav{
@@ -95,12 +102,24 @@ ul.social-nav{
       }
 
       &:hover.fa-border{ border:1px solid $blue_vibrant}
+
+      @include media-query-max($bp_small) {
+      width:0.7em;
+      font-size: $large*1.7;
+      margin-left:$gen_gutter_width/3;
+      }
+
     }
     // to imptove the envelope icon vertical alignment
     .fa-envelope{
       line-height:80%;
       padding-bottom:0.35em;
       padding-top:0.25em;
+
+      @include media-query-max($bp_small){
+      padding-right:0.50em;
+      font-size:$large*1.6;
+      }
     }
   }
 }
