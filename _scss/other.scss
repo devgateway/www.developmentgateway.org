@@ -30,3 +30,23 @@ h1.site-name{
   background:adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
   }
 }
+
+//search and social buttons
+ul.btn-nav {
+  float:left;
+  list-style:none;
+
+  li {
+    float:left;
+    display:block;
+  }
+
+  li.btn-search {
+    background-color: $blue_vibrant;
+  }
+
+  li.btn-social {
+    background: $green_deep;
+  }
+
+}

@@ -201,3 +201,10 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
 @mixin l-last-column() {
   margin-right: 0;
 }
+
+//
+@mixin hide_text {
+  text-indent: -999em;
+  letter-spacing: -999em;
+  overflow: hidden;
+}
