@@ -8,7 +8,7 @@ html, body {
 }
 
 .main-header{
-  background: darken($blue_deep,10%);
+  background: $grey_lightest;
 }
 
 .site-logo {
@@ -31,7 +31,7 @@ h1.site-name{
   }
 }
 
-//search and social buttons
+// header search and social buttons
 ul.btn-nav {
   float:left;
   list-style:none;
@@ -49,4 +49,30 @@ ul.btn-nav {
     background: $green_deep;
   }
 
+}
+
+// social footer
+.footer-social{
+  background: darken($blue_deep, 22%);
+  overflow:hidden;
+  padding: $gen_gutter_width*2 0;
+}
+
+.social-nav-container{
+  float:right;
+}
+
+.social-slogan{
+  color:$white;
+  font-size: $largest;
+  font-weight: $font_weight_light;
+  float:left;
+}
+
+ul.social-nav{
+  list-style:none;
+  float:left;
+  li{
+    float:left;
+  }
 }

@@ -202,7 +202,7 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   margin-right: 0;
 }
 
-//
+//hide text
 @mixin hide_text {
   text-indent: -999em;
   letter-spacing: -999em;
