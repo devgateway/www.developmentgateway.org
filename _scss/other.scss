@@ -2,9 +2,13 @@
 html, body {
   background-color: $footer_bg;
 }
-.main-header,
+
 .main-content {
   background-color: $white;
+}
+
+.main-header{
+  background: darken($blue_deep,10%);
 }
 
 .site-logo {
@@ -13,5 +17,16 @@ html, body {
   }
   @include media-query-min($bp_small) {
     height: 2em;
+  }
+}
+
+h1.site-name{
+  background:adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
+  padding-left: $gen_gutter_width;
+  padding-right:$gen_gutter_width;
+  @include transition;
+
+  &:hover{
+  background:adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
   }
 }

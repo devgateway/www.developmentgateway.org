@@ -4,7 +4,7 @@
 
   .page-title {
     color: $default_text;
-    font-weight: normal;
+    font-weight: $font_weight_light;
     text-transform: uppercase;
 
     // Help verticall alignment with the summary.
@@ -28,7 +28,7 @@
   .page-title-summary {
     color: $blue_deep;
     font-style: italic;
-
+    font-weight: $font_weight_light;
 
     @include media-query-min($bp_small) {
       line-height: $large;
@@ -36,8 +36,8 @@
     }
     @include media-query-min($bp_medium) {
       // Alight vertically with the title.
-      font-size: $large;
-      line-height: $largest;
+      font-size: $large*1.5;
+      line-height: $largest/1.4;
     }
   }
 }
