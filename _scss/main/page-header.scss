@@ -2,6 +2,13 @@
 .page-header {
   background: $grey_lightest;
 
+  //replacing page-header-inner for now
+  .page-title-wrapper{
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left:2.8em;
+  }
+
   .page-title {
     color: $default_text;
     font-weight: $font_weight_light;
@@ -42,6 +49,7 @@
   }
 }
 
+// .page-header-inner{    @include l-row-wrapper(12);}
 .page-header-inner {
   @include media-query-max($bp_small) {
     padding: 0.5em;
