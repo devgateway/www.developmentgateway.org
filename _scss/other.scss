@@ -39,20 +39,33 @@ ul.btn-nav {
   li {
     float:left;
 
-    .fa{
-      padding:0.83em;
-      font-size: $larger;
-      color: $white;
-      @include transition;
+    a{ outline:none;
+      .fa{
+        padding:0.83em;
+        font-size: $larger;
+        color: $white;
+        @include transition;
     }
+
+    }
+
   }
 
-  li.btn-search {
-    background-color: $blue_vibrant;
+  li.btn-search{
+    .fa{
+      background: $blue_vibrant;
+    &:hover{
+      background: lighten( $blue_vibrant,10%);
+      }
+    }
+
   }
 
   li.btn-social {
-    background: $green_deep;
+    margin-left:-1px;
+    .fa{
+      background: $green_deep;
+    }
   }
 
 }
