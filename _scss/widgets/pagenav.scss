@@ -1,7 +1,7 @@
 
 .pagenav {
-  border-top: 1px solid $grey_light;
-  border-bottom: 1px solid $grey_light;
+  border-top: 1px solid $grey_lightest;
+  border-bottom: 1px solid $grey_lightest;
   list-style-type: none;
   margin: 0;
   margin-bottom: 1em;
@@ -22,15 +22,22 @@
       color: $white;
     }
 
+
     @include media-query-min($bp_small) {
       display: inline-block;
-      border-left: 1px solid $grey_light;
+      border-left: 1px solid $grey_lightest;
     }
     @include media-query($bp_small, $bp_medium) {
       padding: 0.5em 1em;
     }
     @include media-query-min($bp_medium) {
-      padding: 1em 2em;
+      padding: 1em 2.3em;
+    }
+  }
+
+  li{
+    &:last-child a{
+      border-right:1px solid $grey_lightest
     }
   }
 
