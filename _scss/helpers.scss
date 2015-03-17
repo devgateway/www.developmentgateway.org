@@ -208,3 +208,13 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   letter-spacing: -999em;
   overflow: hidden;
 }
+
+//unstyled list
+@mixin unstyled_list{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+
+

@@ -33,12 +33,18 @@ h1.site-name{
 
 // header search and social buttons
 ul.btn-nav {
+  @include unstyled_list;
   float:left;
-  list-style:none;
 
   li {
     float:left;
-    display:block;
+
+    .fa{
+      padding:0.83em;
+      font-size: $larger;
+      color: $white;
+      @include transition;
+    }
   }
 
   li.btn-search {
@@ -50,6 +56,7 @@ ul.btn-nav {
   }
 
 }
+
 
 // social footer
 .footer-social{
@@ -81,6 +88,11 @@ ul.social-nav{
   list-style:none;
   float:left;
 
+  @include media-query-max($bp_small){
+    width:100%;
+    text-align:center;
+  }
+
   li{
     float:left;
 
@@ -104,23 +116,25 @@ ul.social-nav{
       &:hover.fa-border{ border:1px solid $blue_vibrant}
 
       @include media-query-max($bp_small) {
-      width:0.7em;
       font-size: $large*1.7;
       margin-left:$gen_gutter_width/3;
+      padding-right:0.25em;
+      padding-left:0.25em;
       }
 
     }
-    // to imptove the envelope icon vertical alignment
+    // to improve the envelope icon vertical alignment
     .fa-envelope{
       line-height:80%;
       padding-bottom:0.35em;
       padding-top:0.25em;
 
       @include media-query-max($bp_small){
-      padding-right:0.50em;
       font-size:$large*1.6;
       }
     }
+
+
   }
 }
 
