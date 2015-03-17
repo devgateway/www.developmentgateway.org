@@ -14,6 +14,8 @@
     list-style-type: none;
     margin: 0;
     padding: 0.5em 0;
+    font-size: $small;
+    font-weight:$font_weight_light;
 
     // Display horizontal scroll bars on small devices.
     @include media-query-max($bp_small) {
@@ -25,6 +27,8 @@
     li {
       display: inline-block;
       border-right: 1px solid $blue_vibrant;
+      height:1em;
+      line-height:100%;
 
       &:last-child {
         border-right: none;
@@ -50,7 +54,7 @@
 
   .copyright {
     color: $grey_light;
-    font-size: $small;
+    font-size: $smaller;
     &:before{content:"©"}
   }
 
