@@ -7,7 +7,6 @@ weight: 2
 nav_data: site.data.expertise_topics
 ---
 
-{% multicols pageintro clearfix %}
 
 ![Information Management](/images/other/information-management.png)
 
@@ -15,7 +14,6 @@ nav_data: site.data.expertise_topics
 
 Praesent vehicula lectus tortor, non egestas magna ultricies vitae. Phasellus tristique nisl vestibulum ultricies bibendum. Nam consectetur augue et dui blandit, ac vestibulum mauris fermentum. In vulputate venenatis dui, vel malesuada lectus tristique in. Nullam rhoncus euismod varius. Maecenas ultrices urna velit, sit amet tristique est congue in. Vivamus ut orci a odio ullamcorper commodo in vel justo. Mauris mattis, felis varius tincidunt imperdiet, tellus urna luctus nisl, quis venenatis augue ante nec dolor. Nullam eu est lorem. Nam aliquam ornare dui eget bibendum. In hac habitasse platea dictumst. Vivamus sodales rutrum magna eget porttitor. Duis scelerisque tempor turpis id ullamcorper. Donec lobortis varius posuere. Ut metus mauris, viverra dignissim convallis sed, lobortis non sem.
 
-{% endmulticols %}
 
 {% assign featured_programs = site.programs | dg_find_all: 'featured', true %}
 {% include entries-list.html entries=featured_programs class="expertise-featured-programs clearfix" %}
