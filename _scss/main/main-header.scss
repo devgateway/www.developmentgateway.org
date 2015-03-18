@@ -1,5 +1,7 @@
 
 .main-header {
+  background: $grey_lightest;
+
   .site-name {
     margin: 0;
 
@@ -67,4 +69,63 @@
       line-height: 5.333em;
     }
   }
+}
+
+.site-logo {
+  @include media-query-max($bp_small) {
+    height: 1em;
+  }
+  @include media-query-min($bp_small) {
+    height: 2em;
+  }
+}
+
+h1.site-name{
+  background:adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
+  padding-left: $gen_gutter_width;
+  padding-right:$gen_gutter_width;
+  @include transition;
+
+  &:hover{
+  background:adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
+  }
+}
+
+// header search and social buttons
+ul.btn-nav {
+  @include unstyled_list;
+  float:left;
+
+  li {
+    float:left;
+
+    a{ outline:none;
+      .fa{
+        padding:0.83em;
+        font-size: $larger;
+        color: $white;
+        @include transition;
+    }
+
+    }
+
+  }
+
+  li.btn-search{
+    .fa{
+      background: $blue_vibrant;
+    &:hover{
+      background: lighten( $blue_vibrant,10%);
+      }
+    }
+
+  }
+
+  li.btn-social {
+    margin-left:-1px;
+    .fa{
+      background: $green_deep;
+    }
+  }
+
 }
