@@ -1,27 +1,22 @@
-
 .pagenav {
   border-top: 1px solid $grey_lightest;
   border-bottom: 1px solid $grey_lightest;
   list-style-type: none;
-  margin: 0;
-  margin-bottom: 1em;
+  margin: 0 0 1em;
   padding: 0;
-
   a {
     color: $grey_light;
     text-transform: uppercase;
     font-weight: normal;
-
     &:hover {
-       background: $blue_deep;
-       color: $white;
-       text-decoration: none;
+      background: $blue_deep;
+      color: $white;
+      text-decoration: none;
     }
     &.active {
       background: $blue_deep;
       color: $white;
     }
-
     @include media-query-min($bp_small) {
       display: inline-block;
       border-left: 1px solid $grey_lightest;
@@ -33,10 +28,8 @@
       padding: 1em 2em;
     }
   }
-
   @include media-query-max($bp_small) {
     font-size: 0.75em;
-
     li {
       display: block;
     }
@@ -49,5 +42,11 @@
     li {
       display: inline-block;
     }
+  }
+}
+.pagenav-wrapper {
+  li a {
+    padding-left: 5em;
+    padding-right: 5em;
   }
 }

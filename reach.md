@@ -3,6 +3,7 @@ layout: map-page
 title: Reach
 permalink: /reach/
 weight: 2
+nav_data: site.data.locations
 ---
 
 {% multicols pageintro clearfix %}
