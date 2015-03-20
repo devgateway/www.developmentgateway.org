@@ -37,5 +37,3 @@ Knowledge Networks</h2>
 
 {% assign normal_programs = site.programs | dg_find_all: 'featured', false %}
 {% include entries-list.html entries=normal_programs class="expertise-programs clearfix" %}
-
-Fusce quis tristique libero. Quisque vitae eros faucibus, luctus turpis fermentum, eleifend arcu. Aenean volutpat rutrum orci id sagittis. Curabitur non dui dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec laoreet est in tellus ultricies venenatis. Sed congue massa ac imperdiet rutrum. Nulla ac libero vulputate, consequat odio nec, tristique magna. Sed et scelerisque orci. Mauris aliquet vitae dui a fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit

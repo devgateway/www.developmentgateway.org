@@ -1,9 +1,31 @@
 ---
-layout: page
+layout: map-page
 title: Reach
 permalink: /reach/
 weight: 2
 ---
+
+{% multicols pageintro clearfix %}
+
+<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+
+<--colbreak-->
+
+<h2 class="title">Analytical Dashboards
+Data Visualizations
+Agile Platforms
+Knowledge Networks</h2>
+
+<h3 class="title">Technical tools for better outcomes</h3>
+
+<ul>
+<li>Making informed decisions requires understandable data</li>
+<li>Understandable data depends on organized input information     and accurate impact visualization</li>
+<li>Analytics platforms, databases, dashboards, and graphics enable     better organization, analysis, and results</li>
+<ul>
+
+{% endmulticols %}
+
 
 Donec vestibulum nunc nisi, vulputate porta felis facilisis a. Nam tempor elit a nisi lobortis, eu venenatis tellus dapibus. Nam vel imperdiet enim. In sed pretium diam, sit amet eleifend nibh. Donec lacus arcu, venenatis nec lacus cursus, aliquam eleifend mi. Praesent est lacus, lobortis in rhoncus sit amet, suscipit vel neque. Ut vehicula tempor libero vitae sagittis. Vestibulum congue risus a tristique rhoncus. Duis posuere lacus nec tempus sodales. Vivamus eget malesuada lorem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur mattis nec erat et porttitor. Praesent scelerisque massa quis ex vulputate, ut ultrices sapien venenatis. Proin sem tellus, pretium quis auctor ut, finibus nec nibh. Aenean gravida laoreet mollis.
 
