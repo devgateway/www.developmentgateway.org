@@ -2,9 +2,7 @@
  * @file
  * Misc helpers and shortcuts
  */
-
 // #################### Shortcuts ####################
-
 /*
  * CSS3 Border-radius.
  *
@@ -17,7 +15,6 @@
   -webkit-border-radius: $radius;
   border-radius: $radius;
 }
-
 /*
  * CSS3 Box-sizing.
  *
@@ -29,7 +26,6 @@
   -webkit-box-sizing: $type;
   box-sizing: $type;
 }
-
 /*
  * CSS3 Transitions.
  *
@@ -41,9 +37,7 @@
   -webkit-transition: $type;
   transition: $type;
 }
-
 // #################### Helpers ####################
-
 /*
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
@@ -61,14 +55,15 @@
 @mixin clearfix-mixin() {
   &:before,
   &:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+    content: " ";
+    /* 1 */
+    display: table;
+    /* 2 */
   }
   &:after {
     clear: both;
   }
 }
-
 /*
  * Hide elements visually, but keep them available for screen-readers.
  *
@@ -95,16 +90,10 @@
     width: auto;
   }
 }
-
 /*
  * Apply single color to anchor tags.
  */
-@mixin link-color(
-  $normalcolor,
-  $actcolor: darken($normalcolor, 10),
-  $viscolor: lighten($normalcolor, 10),
-  $hovcolor: darken($normalcolor, 15)
-) {
+@mixin link-color( $normalcolor, $actcolor: darken($normalcolor, 10), $viscolor: lighten($normalcolor, 10), $hovcolor: darken($normalcolor, 15) ) {
   // Style links that have not been visited.
   &:link {
     color: $normalcolor;
@@ -124,14 +113,11 @@
     color: $hovcolor;
   }
 }
-
-
 // Define breakpoints. Increased by 1em to account for browsers that include
 // borders in viewport size.
 $bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
 $bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 1em;
 $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
-
 /**
  *  Using media queries with like this:
  *  @include media-query($bp_small, $bp_medium) {
@@ -172,7 +158,6 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
     @content;
   }
 }
-
 /**
  * Responsive design behaviour.
  */
@@ -180,11 +165,9 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   margin: 0 auto;
   width: ($gen_column_width + $gen_gutter_width) * $count;
 }
-
 @mixin l-row-separator() {
   margin-bottom: $gen_gutter_width;
 }
-
 @mixin l-column($count) {
   display: inline;
   float: left;
@@ -193,7 +176,6 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   position: relative;
   width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
 }
-
 // Style for nested columns.
 @mixin l-first-column() {
   margin-left: 0;
@@ -201,20 +183,15 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
 @mixin l-last-column() {
   margin-right: 0;
 }
-
 //hide text
 @mixin hide_text {
   text-indent: -999em;
   letter-spacing: -999em;
   overflow: hidden;
 }
-
 //unstyled list
-@mixin unstyled_list{
-  list-style:none;
-  margin:0;
-  padding:0;
+@mixin unstyled_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-
-
-

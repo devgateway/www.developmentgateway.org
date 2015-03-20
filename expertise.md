@@ -13,9 +13,22 @@ nav_data: site.data.expertise_topics
 
 <--colbreak-->
 
-Praesent vehicula lectus tortor, non egestas magna ultricies vitae. Phasellus tristique nisl vestibulum ultricies bibendum. Nam consectetur augue et dui blandit, ac vestibulum mauris fermentum. In vulputate venenatis dui, vel malesuada lectus tristique in. Nullam rhoncus euismod varius. Maecenas ultrices urna velit, sit amet tristique est congue in. Vivamus ut orci a odio ullamcorper commodo in vel justo. Mauris mattis, felis varius tincidunt imperdiet, tellus urna luctus nisl, quis venenatis augue ante nec dolor. Nullam eu est lorem. Nam aliquam ornare dui eget bibendum. In hac habitasse platea dictumst. Vivamus sodales rutrum magna eget porttitor. Duis scelerisque tempor turpis id ullamcorper. Donec lobortis varius posuere. Ut metus mauris, viverra dignissim convallis sed, lobortis non sem.
+<h2 class="title">Analytical Dashboards
+Data Visualizations
+Agile Platforms
+Knowledge Networks</h2>
+
+<h3 class="title">Technical tools for better outcomes</h3>
+
+<ul>
+<li>Making informed decisions requires understandable data</li>
+<li>Understandable data depends on organized input information     and accurate impact visualization</li>
+<li>Analytics platforms, databases, dashboards, and graphics enable     better organization, analysis, and results</li>
+<ul>
 
 {% endmulticols %}
+
+<img src="/images/other/expertise-banner.png" class="page-banner" alt="amp screenshot">
 
 {% assign featured_programs = site.programs | dg_find_all: 'featured', true %}
 {% include entries-list.html entries=featured_programs class="expertise-featured-programs clearfix" %}
