@@ -4,6 +4,9 @@
   list-style-type: none;
   margin: 0 0 1em;
   padding: 0;
+
+  li:last-child{border-right: 1px solid $grey_lightest}
+
   a {
     color: $grey_light;
     text-transform: uppercase;

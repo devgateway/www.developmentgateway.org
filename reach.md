@@ -1,6 +1,7 @@
 ---
 layout: map-page
-title: Reach
+title: Our Reach
+title_summary: because everyone should have access
 permalink: /reach/
 weight: 2
 nav_data: site.data.locations
