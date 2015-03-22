@@ -1,0 +1,25 @@
+<!-- Gali needs to convert the current content here to data and insert it in this file-->
+<div class="country-item">
+
+{% for country in site.data.countries %}
+
+<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+
+<h3>{{country.country}}<span>-{{country.year}}</span></h3>
+
+<div class="program-category">{{country.project}}</div>
+<p>{{country.description}}</p>
+
+<ul>
+<li>{{country.feature1}}</li>
+<li>{{country.feature2}}</li>
+</ul>
+{% endfor %}
+
+<div class="quote">
+  {{country.quote}}
+</div>
+
+<a class="readmore" href="{{country.url}}">Learn more</a>
+
+</div>

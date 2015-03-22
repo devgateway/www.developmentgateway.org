@@ -1,0 +1,20 @@
+- country: Haiti
+  year: 2009
+  project: Aid Management Platform
+  description: "Haiti's public portal launched in 2013"
+  feature1: Responsive innovation
+  feature2: Custom module tracks damage reports and donor pledges
+  quote: AMP will directly support
+  url:
+  flag: /haiti.svg
+
+
+- country: Honduras
+  year: 2013
+  project: Aid Management Platform
+  description: "Haiti's public portal launched in 2013"
+  feature1: Responsive innovation
+  feature2: Custom module tracks damage reports and donor pledges
+  quote: AMP will directly support
+  url:
+  flag: /honduras.svg

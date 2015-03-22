@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 weight: 0
 ---
+
 # Solutions that empower
 
 Development Gateway is a non-profit organization that delivers information solutions to the people on the front lines of international development work. Whether they are government policy makers deciding how to invest scarce resources, aid workers building schools and clinics, or citizens who want to have a voice in the development process, Development Gateway offers tools and advisory services that empower them to be more effective. We work behind the scenes to enable others to make a difference.

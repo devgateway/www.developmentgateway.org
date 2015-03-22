@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: connect
 title: Connect
 title_summary: because you can contribute to a better tomorrow
 permalink: /connect/
 weight: 10
+nav_data: site.data.connect
 ---
 
 For more information on Development Gateway or for press inquiries, please contact us at <a href="#">info@developmentgateway.org</a>.
+
 
 # Contact
 

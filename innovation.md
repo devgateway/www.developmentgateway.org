@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Innovation
+title_summary: because technology should benefit the common good
 permalink: /innovation/
 weight: 4
 ---
 
-Fusce in consectetur magna, ac interdum sem. Donec sodales urna vulputate nisl vehicula, at efficitur neque aliquam. Quisque viverra dolor sed blandit congue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent venenatis augue sed faucibus auctor. Nam dignissim vitae tellus non dictum. Sed auctor tristique nulla ut molestie. Etiam condimentum ipsum quis semper auctor. Mauris tincidunt mattis ipsum ut scelerisque. Nam quis nibh ipsum.
+<img src="/images/other/innovation-banner.jpg">
+
 
 Donec blandit tincidunt enim id rutrum. Nullam placerat tempus mi sed fermentum. Sed eu risus vitae elit imperdiet suscipit. Aenean a pulvinar ante. Nullam vestibulum nisi vel nibh euismod, sit amet semper leo bibendum. Donec gravida ligula egestas sapien lacinia, a consequat ex pharetra. Nulla placerat tincidunt nisl, ac pulvinar purus ornare sit amet. Morbi nec mattis mi, ac ultrices leo. Nullam aliquam ante sed sem placerat lacinia. Pellentesque vehicula risus velit, tincidunt vestibulum tellus rhoncus eu. Nullam gravida cursus vulputate. Proin quis nibh quis urna malesuada commodo. Aenean vel ligula eget tellus tempus tristique eu laoreet erat. Praesent convallis sem sed enim vulputate, vestibulum elementum ante sodales.
 

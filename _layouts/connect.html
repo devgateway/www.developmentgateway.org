@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="page">
+
+  {% include page-header.html %}
+
+<div class="pagenav-wrapper">
+        {% if page.nav_data %}
+        <!-- TODO: Use figure out how to use page.nav_data. -->
+        {% include page-nav.html entries=site.data.connect %}
+        {% endif %}
+</div>
+
+  <article class="page-content">
+    <div class="page-content-inner">
+      {{ content }}
+    </div>
+  </article>
+
+</div>

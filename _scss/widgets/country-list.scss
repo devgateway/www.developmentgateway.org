@@ -1,0 +1,27 @@
+.country-item {
+  h3 {
+    color: $blue_vibrant;
+    font-weight: $font_weight_light;
+    font-size: $larger;
+  }
+  .flag {
+    float: left;
+    width: 2em;
+    margin-right: $gen_gutter_width/2;
+  }
+  .program-category {
+    font-weight: bold;
+    color: $black;
+  }
+}
+.quote {
+  background: lighten($grey_lightest,7%);
+  padding: 1em;
+  font-size: 2em;
+  font-variant: italic;
+}
+
+.readmore{
+  &:before{
+  }
+}
