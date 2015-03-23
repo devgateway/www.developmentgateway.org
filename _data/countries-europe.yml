@@ -1,0 +1,35 @@
+- country: European Union
+  year: 2014
+  project: EUEU-DEVFIN
+  description: "A scalable platform that enhances official development assistance (ODA) reporting capacity for new European Union (EU) member states."
+  feature1: Result Management
+  feature2: Open-source and IATI-compliant reporting tool
+  quote:
+  quote-author:
+  url:
+  flag: /eu.svg
+  region: europe
+
+- country: Kosovo
+  year: 2009
+  project: Aid Management Platform
+  description: "The first country to launch a public portal, Kosovo's AMP tracks over  € 1.5 billion worth of project commitments utilizing data dashboards maps."
+  feature1: Government Transparency
+  feature2: Open-source and IATI-compliant reporting tool
+  quote: "…we are now more effective and more efficient because the information necessary is just one click away."
+  quote-author: Development Partner Representative, Kosovo
+  url: http://public.amp-mei.net/
+  flag: /kosovo.svg
+  region: europe
+
+- country: Moldova
+  year: 2013
+  project: Aid Management Platform
+  description: "Moldova's public AMP tracks donor commitments via easily accessible, standardized dashboards and maps, and serves as the basis for official government cooperation reports"
+  feature1: Ensuring quality data
+  feature2: Standardizing and validating aid information
+  quote:
+  quote-author: Development Partner Representative, Kosovo
+  url: http://amp.gov.md/portal/
+  flag: /moldova.svg
+  region: europe

@@ -1,0 +1,23 @@
+- country: Haiti
+  year: 2009
+  project: Aid Management Platform
+  description: "Haiti's AMP public portal launched in 2013 and continues to serve as a critical tool for governments, donors, and citizens during reconstruction efforts following the catastrophic 2010 earthquake."
+  feature1: Responsive innovation
+  feature2: Custom module tracks damage reports and donor pledges
+  quote: "[AMP] will directly support our efforts to become an emerging economy by 2030."
+  quote-author: Government of Haiti Representative
+  url: https://haiti.ampsite.net/
+  flag: /haiti.svg
+  region: north_america
+
+- country: Honduras
+  year: 2012
+  project: Aid Management Platform
+  description: "The first Central American country to use the AMP, Honduras' public portal launch in 2013 was accompanied by a government-sponsored public awareness campaign."
+  feature1: Custom solutions
+  feature2: South-South Cooperation tracking module
+  quote:
+  quote-author:
+  url: http://pgc.sre.gob.hn/
+  flag: /honduras.svg
+  region: north_america

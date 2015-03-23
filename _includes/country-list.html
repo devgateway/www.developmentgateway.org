@@ -1,7 +1,43 @@
-<!-- Gali needs to convert the current content here to data and insert it in this file-->
-<div class="country-item">
+{% multicols pageintro clearfix %}
 
-{% for country in site.data.countries %}
+<div class="country-item">
+<h2>Africa</h2>
+<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<--colbreak-->
+
+{% for country in site.data.countries-africa %}
+
+<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
+
+<h3>{{country.country}}<span>-{{country.year}}</span></h3>
+
+<div class="program-category">{{country.project}}</div>
+<p>{{country.description}}</p>
+
+<ul>
+<li>{{country.feature1}}</li>
+<li>{{country.feature2}}</li>
+</ul>
+{% endfor %}
+
+<div class="quote">
+  {{country.quote}}
+</div>
+
+<a class="readmore" href="{{country.url}}">Learn more</a>
+</div>
+<!--region item ends-->
+
+{% endmulticols %}
+
+
+{% multicols pageintro clearfix %}
+<div class="country-item">
+<h2>Asia</h2>
+<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<--colbreak-->
+
+{% for country in site.data.countries-asia %}
 
 <img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
 
@@ -21,5 +57,60 @@
 </div>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
-
 </div>
+<!--region item ends-->
+{% endmulticols %}
+
+
+
+<div class="country-item">
+<h2>Europe</h2>
+{% for country in site.data.countries-europe %}
+
+<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+
+<h3>{{country.country}}<span>-{{country.year}}</span></h3>
+
+<div class="program-category">{{country.project}}</div>
+<p>{{country.description}}</p>
+
+<ul>
+<li>{{country.feature1}}</li>
+<li>{{country.feature2}}</li>
+</ul>
+{% endfor %}
+
+<div class="quote">
+  {{country.quote}}
+</div>
+
+<a class="readmore" href="{{country.url}}">Learn more</a>
+</div>
+<!--region item ends-->
+
+
+
+<div class="country-item">
+<h2>The Americas</h2>
+{% for country in site.data.countries-americas %}
+
+<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+
+<h3>{{country.country}}<span>-{{country.year}}</span></h3>
+
+<div class="program-category">{{country.project}}</div>
+<p>{{country.description}}</p>
+
+<ul>
+<li>{{country.feature1}}</li>
+<li>{{country.feature2}}</li>
+</ul>
+{% endfor %}
+
+<div class="quote">
+  {{country.quote}}
+</div>
+
+<a class="readmore" href="{{country.url}}">Learn more</a>
+</div>
+<!--region item ends-->
