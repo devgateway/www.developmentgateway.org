@@ -2,12 +2,12 @@
 <div class="region-wrapper">
 <h2 id="africa">Africa</h2>
 {% multicols pageintro clearfix %}
-<img src="/images/other/globe-location-americas.png" alt="reach location africa">
+<img src="/images/other/globe-location-africa.png" alt="reach location africa">
 <--colbreak-->
 
 {% for country in site.data.countries-africa %}
 
-<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -40,12 +40,12 @@ this is right
 <div class="region-wrapper">
 <h2 id="asia">Asia</h2>
 {% multicols pageintro clearfix %}
-<img src="/images/other/globe-location-americas.png" alt="reach location asia">
+<img src="/images/other/globe-location-asia.png" alt="reach location asia">
 <--colbreak-->
 
 {% for country in site.data.countries-asia %}
 
-<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -77,12 +77,12 @@ this is right
 <div class="region-wrapper">
 <h2 id="europe">Europe</h2>
 {% multicols pageintro clearfix %}
-<img src="/images/other/globe-location-americas.png" alt="reach location europe">
+<img src="/images/other/globe-location-europe.png" alt="reach location europe">
 <--colbreak-->
 
 {% for country in site.data.countries-europe %}
 
-<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -121,7 +121,7 @@ this is right
 
 {% for country in site.data.countries-americas %}
 
-<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 

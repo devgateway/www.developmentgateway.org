@@ -6,7 +6,7 @@
   }
   .flag {
     float: left;
-    width: 1em;
+    width: 3em;
     margin-right: $gen_gutter_width/2;
   }
   .program-category {
@@ -21,7 +21,6 @@
   font-size: 2em;
   font-variant: italic;
 }
-
 
 .readmore{
   &:before{
