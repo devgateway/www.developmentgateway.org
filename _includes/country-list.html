@@ -1,8 +1,8 @@
+<!--start: africa region-->
+<div class="region-wrapper">
+<h2 id="africa">Africa</h2>
 {% multicols pageintro clearfix %}
-
-<div class="country-item">
-<h2>Africa</h2>
-<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<img src="/images/other/globe-location-americas.png" alt="reach location africa">
 <--colbreak-->
 
 {% for country in site.data.countries-africa %}
@@ -26,20 +26,26 @@
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 </div>
-<!--region item ends-->
-
+this is right
 {% endmulticols %}
 
+</div>
+<!--end: africa region-wrapper-->
 
+
+
+
+
+<!--start: asia region-->
+<div class="region-wrapper">
+<h2 id="asia">Asia</h2>
 {% multicols pageintro clearfix %}
-<div class="country-item">
-<h2>Asia</h2>
-<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<img src="/images/other/globe-location-americas.png" alt="reach location asia">
 <--colbreak-->
 
 {% for country in site.data.countries-asia %}
 
-<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -58,16 +64,25 @@
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 </div>
-<!--region item ends-->
+this is right
 {% endmulticols %}
 
+</div>
+<!--end: asia region-wrapper-->
 
 
-<div class="country-item">
-<h2>Europe</h2>
+
+
+<!--start: europe region-->
+<div class="region-wrapper">
+<h2 id="europe">Europe</h2>
+{% multicols pageintro clearfix %}
+<img src="/images/other/globe-location-americas.png" alt="reach location europe">
+<--colbreak-->
+
 {% for country in site.data.countries-europe %}
 
-<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -86,15 +101,27 @@
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 </div>
-<!--region item ends-->
+this is right
+{% endmulticols %}
+
+</div>
+<!--end: europe region-wrapper-->
 
 
 
-<div class="country-item">
-<h2>The Americas</h2>
+
+
+
+<!--start: africa region-->
+<div class="region-wrapper">
+<h2 id="the-americas">The Americas</h2>
+{% multicols pageintro clearfix %}
+<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<--colbreak-->
+
 {% for country in site.data.countries-americas %}
 
-<img src="{{site.url}}/images/country-flags/{{country.flag}}" class="flag">
+<span class="flag"><img src="{{site.url}}/images/country-flags/{{country.flag}}"></span>
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -113,4 +140,8 @@
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 </div>
-<!--region item ends-->
+this is right
+{% endmulticols %}
+
+</div>
+<!--end: americas region-wrapper-->

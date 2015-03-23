@@ -1,4 +1,4 @@
-.country-item {
+.region-wrapper {
   h3 {
     color: $blue_vibrant;
     font-weight: $font_weight_light;
@@ -14,12 +14,14 @@
     color: $black;
   }
 }
+
 .quote {
   background: lighten($grey_lightest,7%);
   padding: 1em;
   font-size: 2em;
   font-variant: italic;
 }
+
 
 .readmore{
   &:before{
