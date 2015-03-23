@@ -67,7 +67,7 @@
   quote:
   quote-author:
   url: http://amp.gov.md/portal/
-  flag: /moldova.svg
+  flag: /kyrgyz.svg
   region: asia
 
 - country: Lao PDR
@@ -115,7 +115,7 @@
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
   quote-author: Simon Mizrahi, AfDB Director
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
-  flag: /timor.svg
+  flag:
   region: africa
 
 - country: Burskina Faso
@@ -127,7 +127,7 @@
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
   quote-author: Simon Mizrahi, AfDB Director
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
-  flag: /timor.svg
+  flag: /burkina-faso.svg
   region: africa
 
 - country: Chad
@@ -175,7 +175,7 @@
   quote: Development Gateway builds trust and ability among individuals interested in using AMP.
   quote-author: Government of Ethiopia Representative
   url:
-  flag: /drc.svg
+  flag: /ethiopia.svg
   region: africa
 
 - country: Madagascar
@@ -187,7 +187,7 @@
   quote:
   quote-author:
   url:
-  flag: /drc.svg
+  flag: /madagascar.svg
   region: africa
 
 - country: Malawi
@@ -199,7 +199,7 @@
   quote: "...the Public Portal of the AMP marks yet another milestone in the open development agenda, as all key stakeholders will have direct accept to development aid data."
   quote-author: Maxwell Mkwezalamba, Malawi Minister of Finance
   url: http://malawiaid.finance.gov.mw/
-  flag: /drc.svg
+  flag: /malawi.svg
   region: africa
 
 - country: Mozambique
@@ -235,7 +235,7 @@
   quote:
   quote-author:
   url:
-  flag: /south-sudan.svg
+  flag: /senegal.svg
   region: africa
 
 - country: Tanzania
@@ -259,5 +259,5 @@
   quote: …we are accountable to the public, so anyone… should be able to access all of the information they need off the system.
   quote-author: Uganda Development Partner Representative
   url: http://154.72.196.70/portal/
-  flag: /tanzania.svg
+  flag: /uganda.svg
   region: africa
