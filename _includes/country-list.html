@@ -7,26 +7,21 @@
 
 {% for country in site.data.countries-africa %}
 
+
 <img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
-
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
-
 <div class="program-category">{{country.project}}</div>
 <p>{{country.description}}</p>
-
 <ul>
 <li>{{country.feature1}}</li>
 <li>{{country.feature2}}</li>
 </ul>
 {% endfor %}
-
 <div class="quote">
   {{country.quote}}
 </div>
-
 <a class="readmore" href="{{country.url}}">Learn more</a>
-</div>
-this is right
+
 {% endmulticols %}
 
 </div>
@@ -63,8 +58,6 @@ this is right
 </div>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
-</div>
-this is right
 {% endmulticols %}
 
 </div>
@@ -100,8 +93,7 @@ this is right
 </div>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
-</div>
-this is right
+
 {% endmulticols %}
 
 </div>
@@ -139,8 +131,6 @@ this is right
 </div>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
-</div>
-this is right
 {% endmulticols %}
 
 </div>

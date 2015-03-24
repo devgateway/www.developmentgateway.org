@@ -20,7 +20,7 @@
 
     @include media-query-min($bp_small) {
       float: left;
-      margin-right: 1em;
+      margin-right: 0.8em;
     }
 
     @include media-query-max($bp_medium) {

@@ -19,3 +19,57 @@ h3.title {
 .page-banner{
   border: 1px solid $grey_lightest;
 }
+
+// temporary layout- ask Walter about column implementation and then move the below styles to a different file
+
+.blog-page-wrapper{
+  clear:both;
+  overflow:hidden;
+  margin-top:$gen_gutter_width*2;
+
+  ul{
+    list-style:none;
+  }
+}
+.blog-content-wrapper{
+  width:60%;
+  float:left;
+}
+
+.blog-sidebar-wrapper{
+  width:20%;
+  float:right;
+}
+
+.post-summary{
+
+  h2{
+    margin-bottom:0;
+  }
+
+  .post-date{
+    font-size: $small;
+  }
+
+  .post-excerpt{
+    display:block;
+    margin: $gen_gutter_width 0;
+  }
+
+  .post-tags{
+     font-size: $smaller;
+     display:block;
+     margin-bottom:$gen_gutter_width;
+  }
+
+  .post-thumbnail{
+     display:block;
+  }
+
+  .fa.fa-calendar{ margin-right:$gen_gutter_width/2; color: $blue_vibrant}
+
+  li{
+  margin-bottom:$gen_gutter_width*3;
+  display:block;
+  }
+}

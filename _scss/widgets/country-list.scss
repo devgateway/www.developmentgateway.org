@@ -8,21 +8,22 @@
     float: left;
     width: 3em;
     margin-right: $gen_gutter_width/2;
+    border: 1px solid $grey_lightest;
+    margin-top:$gen_gutter_width/2;
   }
   .program-category {
     font-weight: bold;
     color: $black;
   }
 }
-
 .quote {
   background: lighten($grey_lightest,7%);
   padding: 1em;
   font-size: 2em;
   font-variant: italic;
 }
+.readmore {
+  &:before {
 
-.readmore{
-  &:before{
   }
 }

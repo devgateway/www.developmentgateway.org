@@ -1,8 +1,6 @@
-
 body {
   min-width: 20em;
 }
-
 .page-header-inner,
 .post-header-inner,
 .main-footer-inner,
@@ -11,12 +9,12 @@ body {
   @include media-query-max($bp_small) {
     padding: 0.5em;
   }
-
   @include media-query($bp_small, $bp_medium) {
-    @include l-row-wrapper(8);
+    @include l-row-wrapper(10);
+    // changed the value from 8 to 10
   }
-
   @include media-query-min($bp_medium) {
-    @include l-row-wrapper(12);
+    @include l-row-wrapper(14);
+    // changed the value from 12 to 14
   }
 }

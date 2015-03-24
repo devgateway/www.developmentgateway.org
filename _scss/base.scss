@@ -89,12 +89,15 @@ html {
   z-index: 10;
 
   a {
-    @include link-color($black);
 
     background: $blue_light;
     display: block;
     padding: 1em;
     text-decoration: none;
+
+    &:hover{
+    color: darken ($yellow,20%);
+    }
   }
 }
 

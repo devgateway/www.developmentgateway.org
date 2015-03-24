@@ -5,10 +5,16 @@ excerpt: >
   Jean Philbert Nsengimana, manager of the Gateway, summarizes the organization’s impact by saying,
   “We help people take advantage of the opportunities that the information society brings.”
 images:
-  - url: images/posts/2005/jeanphilbert.jpg
+  - url: /images/posts/2005/jeanphilbert.jpg
     alt: 'Picture of Jean Philbert Nsengimana'
     caption: 'Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.'
 categories:
+  - category 1
+  - category 2
+tags:
+  - tag1
+  - tag2
+  - tag3
 ---
 
 ## Rwanda
