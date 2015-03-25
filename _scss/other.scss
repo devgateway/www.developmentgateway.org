@@ -1,0 +1,21 @@
+html,
+body {
+  background-color: $footer_bg;
+}
+.main-content {
+  background-color: $white;
+}
+h3.title {
+  color: $green_lime;
+  font-size: $large;
+}
+.page-content {
+  padding-bottom:2em;
+  ul {
+    padding-left: $gen_gutter_width;
+  }
+}
+
+.page-banner{
+  border: 1px solid $grey_lightest;
+}
