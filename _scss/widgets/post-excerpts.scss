@@ -1,27 +1,4 @@
-html,
-body {
-  background-color: $footer_bg;
-}
-.main-content {
-  background-color: $white;
-}
-h3.title {
-  color: $green_lime;
-  font-size: $large;
-}
-.page-content {
-  padding-bottom:2em;
-  ul {
-    padding-left: $gen_gutter_width;
-  }
-}
-
-.page-banner{
-  border: 1px solid $grey_lightest;
-}
-
 // temporary layout- ask Walter about column implementation and then move the below styles to a different file
-
 .blog-page-wrapper{
   clear:both;
   overflow:hidden;
@@ -44,11 +21,9 @@ h3.title {
 .post-summary{
 
   h2{
-    margin-bottom:0;
-  }
-
-  .post-date{
-    font-size: $small;
+    margin: 3em 0 0.5em 0;
+    display:block;
+    clear:both;
   }
 
   .post-excerpt{
@@ -63,8 +38,21 @@ h3.title {
   }
 
   .post-thumbnail{
-     display:block;
+     width:20em;
+     margin-right:$gen_gutter_width;
+     float:left;
   }
+
+
+}
+
+.post-meta{
+  display:block;
+  clear:both;
+  border-bottom:1px solid $grey_lightest;
+  margin-bottom:1.5em;
+  padding-bottom:1em;
+  font-size: $smaller;
 
   .fa.fa-calendar{ margin-right:$gen_gutter_width/2; color: $blue_vibrant}
 
@@ -72,4 +60,5 @@ h3.title {
   margin-bottom:$gen_gutter_width*3;
   display:block;
   }
+
 }
