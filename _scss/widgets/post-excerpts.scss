@@ -43,6 +43,9 @@
     width: 20em;
     margin-right: $gen_gutter_width;
     float: left;
+    border: 1px solid lighten($grey_lightest,3%);
+    padding:0.3em;
+    @include border-radius(2px)
   }
 }
 .post-meta {
