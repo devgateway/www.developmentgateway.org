@@ -2,23 +2,33 @@
   <ul class="post-summary">
     {% for post in site.posts %}
     <li>
+
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
       <span class="post-meta">
-        <span class="post-date"><span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}</span>
-        <span class="post-author"><span class="fa fa-user"></span>{{ post.author}}</span>
+        <span class="post-date">
+          <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
+        </span>
+        <span class="post-author">
+          <span class="fa fa-user"></span>{{ post.author}}</span>
         <span class="post-categories">{{ post.categories }}</span>
       </span>
+      <!--end: meta info-->
 
-      <span class="post-thumbnail">
-        <img src="{{site.url}}/{{post.thumbnail}}" alt="">
+      <span class="post-thumbnail-col">
+        <span class="post-thumbnail">
+          <img src="{{site.url}}/{{post.thumbnail}}" alt="">
+        </span>
+      </span>
+      <!--end: post thumbnail column-->
+
+      <span class="post-excerpt-col">
+        <span class="post-excerpt">{{ post.excerpt }}</span>
+        <a class="readmore" href="{{ post.url }}">Continue reading</a>
+        {% include social-sharing.html %}
       </span>
 
-      <span class="post-excerpt">{{ post.excerpt }}</span>
-
-      <a class="readmore" href="{{ post.url }}">Continue reading</a>
-
-        <span class="post-tags">{{ post.tags }}</span>
+      <!--end: post excerpt column-->
 
     </li>
     {% endfor %}

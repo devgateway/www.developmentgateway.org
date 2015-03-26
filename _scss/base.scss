@@ -20,6 +20,7 @@ html {
   @include clearfix-mixin;
 }
 
+
 /**
  * Set the style for a 2 column CSS Media Object, first column is optional.
  */
@@ -89,15 +90,10 @@ html {
   z-index: 10;
 
   a {
-
     background: $blue_light;
     display: block;
     padding: 1em;
     text-decoration: none;
-
-    &:hover{
-    color: darken ($yellow,20%);
-    }
   }
 }
 
