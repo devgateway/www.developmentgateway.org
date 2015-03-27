@@ -97,7 +97,7 @@
   color:$white;
   font-size: $largest;
   font-weight: $font_weight_light;
-  line-height: 2.2em;
+  line-height:1.50em;
   float:left;
 
   @include media-query-max($bp_small) {
@@ -111,6 +111,8 @@
 ul.social-nav{
   list-style:none;
   float:left;
+  margin: 0;
+  padding:0;
 
   @include media-query-max($bp_small){
     width:100%;
@@ -145,6 +147,7 @@ ul.social-nav{
       padding-right:0.25em;
       padding-left:0.25em;
       }
+
 
     }
     // to improve the envelope icon vertical alignment

@@ -1,48 +1,56 @@
 // temporary layout- ask Walter about column implementation and then move the below styles to a different file
+
 .blog-page-wrapper {
   @include clearfix-mixin;
-  overflow: hidden;
   margin-top: $gen_gutter_width*2;
-  ul {
-    list-style: none;
-  }
-}
-.blog-content-wrapper {
-  width: 60%;
-  float: left;
+  background:#333;
+  padding:2em;
+
 }
 
-.post-summary {
-  li {
-    display: block;
-    margin-bottom: 1.5em;
-    border-bottom: 1px solid $grey_lightest;
-    padding-bottom: 2em;
-    overflow: hidden;
+.blog-content-wrapper {
+  width: 45em;
+  background:#eee;
+
+  ul {
+    list-style: none;
+    display:block;
+
+    li {
+      display: block;
+      margin-bottom: 1.5em;
+      border-bottom: 1px solid $grey_lightest;
+      padding-bottom: 2em;
+      overflow: hidden;
+
+      h2 {
+        margin: 0 0 0.5em;
+        padding-top: 0;
+        display: block;
+        @include clearfix-mixin;
+      }
+    }
   }
-  h2 {
-    margin: 0 0 0.5em;
-    padding-top: 0;
-    display: block;
-    @include clearfix-mixin;
-  }
-  .post-excerpt {
-    display: block;
-    margin: 0 0 1em;
-  }
-  .post-tags {
-    font-size: $smaller;
-    padding-top: 1em;
-    display: block;
-    background: #eee;
-    @include clearfix-mixin;
-  }
-  .post-thumbnail-col {
-    margin-right: $gen_gutter_width;
-    float: left;
-    width: 20em;
-    overflow: hidden;
-  }
+
+
+}
+
+.post-tags {
+  font-size: $smaller;
+  padding-top: 1em;
+  display: block;
+  background: #eee;
+  @include clearfix-mixin;
+}
+
+
+// post thumbnail image
+.post-thumbnail-col {
+  margin-right: $gen_gutter_width;
+  float: left;
+  width: 20em;
+}
+
   .post-thumbnail {
     border: 1px solid lighten($grey_lightest,3%);
     padding: 0.3em;
@@ -50,12 +58,20 @@
     max-width: 100%;
     display: block;
   }
-  .post-excerpt-col {
+
+.post-excerpt-col {
     float: left;
-    overflow: hidden;
     width: 20em;
-  }
+
+    .post-excerpt {
+      display: block;
+      margin: 0 0 1em;
+    }
 }
+
+
+
+//post meta information
 .post-meta {
   display: block;
   border-bottom: 1px solid lighten($grey_lightest,3%);
@@ -73,15 +89,18 @@
     color: $blue_vibrant;
   }
 }
+
+
 // social media button wrapper
 .social-share-wrapper {
   margin: 1em 0;
+  display:block;
 }
 
-
+// blog sidebar
 .blog-sidebar-wrapper {
-  float: left;
-  background:#eee;
-  overflow:hidden;
-
+  float: right;
+  background: #800;
+  width: 20em;
+  display:inline-block;
 }

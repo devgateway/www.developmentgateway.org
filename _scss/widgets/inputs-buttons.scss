@@ -1,0 +1,71 @@
+// general button
+.btn {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  border: none;
+  @include transition;
+}
+
+input {
+  @include transition;
+  padding: 0.6em;
+}
+
+// subscribe form styling
+.subscribe-form {
+  clear: both;
+  display: block;
+  overflow: hidden;
+}
+input {
+  &:focus {
+    border: 1px solid $blue_light;
+  }
+}
+.input-wrapper {
+  float: left;
+}
+.input-text {
+  border: 1px solid $grey_lightest;
+  padding: 0.6em;
+  box-shadow: none;
+}
+.submit-wrapper {
+  float: right;
+}
+.btn-submit {
+  @extend .btn;
+  @include border-radius(2px);
+  background: $blue_vibrant;
+  color: $white;
+  padding: 0.65em 1em;
+  margin-left: $gen_gutter_width;
+  &:hover {
+    background: lighten( $blue_vibrant,10%);
+  }
+  .fa {
+    margin-right: 0.5em;
+  }
+}
+// partnership form
+.contact-form {
+  input {
+    width: 95%;
+    margin-bottom: 0.5em;
+  }
+  textarea {
+    width: 95%;
+    border: 1px solid $grey_lightest;
+    margin-bottom: 0.5em;
+    padding: 0.6em;
+    @include transition;
+    &:focus {
+      border: 1px solid $blue_light;
+    }
+  }
+  .btn-submit {
+    margin-left: 0;
+  }
+}

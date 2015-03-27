@@ -16,12 +16,7 @@
     color: $black;
   }
 }
-.quote {
-  background: lighten($grey_lightest,7%);
-  padding: 1em;
-  font-size: 2em;
-  font-variant: italic;
-}
+
 .readmore {
   &:before {
 
