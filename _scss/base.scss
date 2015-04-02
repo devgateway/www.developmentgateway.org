@@ -10,7 +10,7 @@ html {
   font-family: $fstack_default;
   background: $white;
   color: $default_text;
-  font-weight:$font_weight_light;
+  font-weight: $font_weight_light;
 }
 
 /**
@@ -19,7 +19,6 @@ html {
 .clearfix {
   @include clearfix-mixin;
 }
-
 
 /**
  * Set the style for a 2 column CSS Media Object, first column is optional.
@@ -97,4 +96,6 @@ html {
   }
 }
 
-h2{ font-weight:$font_weight_light}
+h2 {
+  font-weight: $font_weight_light;
+}

@@ -27,7 +27,6 @@
     margin: 0;
     padding: 0;
 
-
     // Display horizontal scroll bars on small devices.
     @include media-query-max($bp_small) {
       overflow-x: scroll;
@@ -80,52 +79,49 @@
   }
 }
 
-h1.site-name{
-  background:adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
+h1.site-name {
+  background: adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
   padding-left: $gen_gutter_width;
-  padding-right:$gen_gutter_width;
+  padding-right: $gen_gutter_width;
   @include transition;
 
-  &:hover{
-  background:adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
+  &:hover {
+    background: adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
   }
 }
 
 // header search and social buttons
 ul.btn-nav {
   @include unstyled_list;
-  float:left;
+  float: left;
 
   li {
-    float:left;
+    float: left;
 
-    a{ outline:none;
-      .fa{
-        padding:0.83em;
+    a {
+      outline: none;
+      .fa {
+        padding: 0.83em;
         font-size: $larger;
         color: $white;
         @include transition;
-    }
-
-    }
-
-  }
-
-  li.btn-search{
-    .fa{
-      background: $blue_vibrant;
-    &:hover{
-      background: lighten( $blue_vibrant,10%);
       }
     }
+  }
 
+  li.btn-search {
+    .fa {
+      background: $blue_vibrant;
+      &:hover {
+        background: lighten($blue_vibrant, 10%);
+      }
+    }
   }
 
   li.btn-social {
-    margin-left:-1px;
-    .fa{
+    margin-left: -1px;
+    .fa {
       background: $green_deep;
     }
   }
-
 }

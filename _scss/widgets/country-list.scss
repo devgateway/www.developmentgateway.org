@@ -9,7 +9,7 @@
     width: 3em;
     margin-right: $gen_gutter_width/2;
     border: 1px solid $grey_lightest;
-    margin-top:$gen_gutter_width/2;
+    margin-top: $gen_gutter_width/2;
   }
   .program-category {
     font-weight: bold;
@@ -17,21 +17,15 @@
   }
 }
 
-.readmore {
-  &:before {
-
-  }
-
-}
-
 // quotes for country projects in country list
-blockquote.country-quote{
+blockquote.country-quote {
   background: $grey_lightest;
   font-size: $small*1.3;
-  position:relative;
+  position: relative;
   padding: 1em 1em 1em 2.8em;
 }
-blockquote.country-quote:before{
+
+blockquote.country-quote:before {
   display: block;
   font-size: $small*5;
   content: "\201C";

@@ -19,22 +19,27 @@ input {
   display: block;
   overflow: hidden;
 }
+
 input {
   &:focus {
     border: 1px solid $blue_light;
   }
 }
+
 .input-wrapper {
   float: left;
 }
+
 .input-text {
   border: 1px solid $grey_lightest;
   padding: 0.6em;
   box-shadow: none;
 }
+
 .submit-wrapper {
   float: right;
 }
+
 .btn-submit {
   @extend .btn;
   @include border-radius(2px);
@@ -43,12 +48,13 @@ input {
   padding: 0.65em 1em;
   margin-left: $gen_gutter_width;
   &:hover {
-    background: lighten( $blue_vibrant,10%);
+    background: lighten($blue_vibrant, 10%);
   }
   .fa {
     margin-right: 0.5em;
   }
 }
+
 // partnership form
 .contact-form {
   input {

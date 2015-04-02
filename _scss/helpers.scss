@@ -15,6 +15,7 @@
   -webkit-border-radius: $radius;
   border-radius: $radius;
 }
+
 /*
  * CSS3 Box-sizing.
  *
@@ -26,6 +27,7 @@
   -webkit-box-sizing: $type;
   box-sizing: $type;
 }
+
 /*
  * CSS3 Transitions.
  *
@@ -37,6 +39,7 @@
   -webkit-transition: $type;
   transition: $type;
 }
+
 // #################### Helpers ####################
 /*
  * For modern browsers
@@ -64,6 +67,7 @@
     clear: both;
   }
 }
+
 /*
  * Hide elements visually, but keep them available for screen-readers.
  *
@@ -90,10 +94,11 @@
     width: auto;
   }
 }
+
 /*
  * Apply single color to anchor tags.
  */
-@mixin link-color( $normalcolor, $actcolor: darken($normalcolor, 10), $viscolor: lighten($normalcolor, 10), $hovcolor: darken($normalcolor, 15) ) {
+@mixin link-color($normalcolor, $actcolor: darken($normalcolor, 10), $viscolor: lighten($normalcolor, 10), $hovcolor: darken($normalcolor, 15)) {
   // Style links that have not been visited.
   &:link {
     color: $normalcolor;
@@ -113,6 +118,7 @@
     color: $hovcolor;
   }
 }
+
 // Define breakpoints. Increased by 1em to account for browsers that include
 // borders in viewport size.
 $bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
@@ -148,16 +154,19 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
     @content;
   }
 }
+
 @mixin media-query-max($max) {
   @media (max-width: $max) {
     @content;
   }
 }
+
 @mixin media-query($min, $max) {
   @media (min-width: $min) and (max-width: $max) {
     @content;
   }
 }
+
 /**
  * Responsive design behaviour.
  */
@@ -165,9 +174,11 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   margin: 0 auto;
   width: ($gen_column_width + $gen_gutter_width) * $count;
 }
+
 @mixin l-row-separator() {
   margin-bottom: $gen_gutter_width;
 }
+
 @mixin l-column($count) {
   display: inline;
   float: left;
@@ -176,19 +187,23 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   position: relative;
   width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
 }
+
 // Style for nested columns.
 @mixin l-first-column() {
   margin-left: 0;
 }
+
 @mixin l-last-column() {
   margin-right: 0;
 }
+
 //hide text
 @mixin hide_text {
   text-indent: -999em;
   letter-spacing: -999em;
   overflow: hidden;
 }
+
 //unstyled list
 @mixin unstyled_list {
   list-style: none;

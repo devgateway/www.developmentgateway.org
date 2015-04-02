@@ -5,7 +5,9 @@
   margin: 0 0 1em;
   padding: 0;
 
-  li:last-child{border-right: 1px solid $grey_lightest}
+  li:last-child {
+    border-right: 1px solid $grey_lightest;
+  }
 
   a {
     color: $grey_light;
@@ -47,6 +49,7 @@
     }
   }
 }
+
 .pagenav-wrapper {
   li a {
     padding-left: 5em;
