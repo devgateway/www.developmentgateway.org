@@ -58,15 +58,15 @@ blockquote {
       padding: 0.5em 0;
     }
   }
+}
 
-  cite {
-    color: $black;
-    display: block;
-    font-size: $small;
-    margin-top: 0.5em;
-  }
+cite {
+  color: $black;
+  display: block;
+  font-size: $small;
+  margin-top: 0.5em;
 
-  cite:before {
+  &:before {
     content: "\2014 \2009";
   }
 }
