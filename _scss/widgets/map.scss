@@ -105,12 +105,37 @@
    */
   .country-marker {
     @include border-radius($country_marker_size/2);
-    @include box-shadow(0 0 0 0.3rem transparentize($yellow, 0.6), 0 0 0 0.55rem transparentize($yellow, 0.8));
     height: $country_marker_size;
     width: $country_marker_size;
     margin-top: -$country_marker_size/2;
     margin-left: -$country_marker_size/2;
-    background-color: $yellow;
+    background-color: transparentize($yellow, 0.8);
+    &:before,
+    &:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
+    &:before {
+      $s: ($country_marker_size - 0.6rem);
+      @include border-radius($s/2);
+      height: $s;
+      width: $s;
+      margin-top: -($s/2);
+      margin-left: -($s/2);
+      background-color: transparentize($yellow, 0.6);
+    }
+    &:after {
+      $s: ($country_marker_size - 1.1rem);
+      @include border-radius($s/2);
+      height: $s;
+      width: $s;
+      margin-top: -($s/2);
+      margin-left: -($s/2);
+      background-color: $yellow;
+    }
   }
 }
 
