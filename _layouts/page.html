@@ -5,6 +5,10 @@ layout: default
 
   {% include page-header.html %}
 
+  {% if page.include_map %}
+    {% include map.html %}
+  {% endif %}
+
   <div class="pagenav-wrapper">
     {% if page.nav_data %}
       {% include page-nav.html entries=site.data.expertise_topics %}
