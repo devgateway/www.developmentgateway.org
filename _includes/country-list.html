@@ -17,8 +17,12 @@
 <li>{{country.feature2}}</li>
 </ul>
 <blockquote class="country-quote">
+  {% for quote in country.quote %}
+  {% if country.quote %}
   {{country.quote}}
+  {% endfor %}
 </blockquote>
+
 {% endfor %}
 
 
@@ -55,9 +59,6 @@
 </ul>
 {% endfor %}
 
-<div class="quote">
-  {{country.quote}}
-</div>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 {% endmulticols %}
@@ -90,9 +91,9 @@
 </ul>
 {% endfor %}
 
-<div class="quote">
+<blockquote class="country-quote">
   {{country.quote}}
-</div>
+</blockquote>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 
@@ -128,9 +129,17 @@
 </ul>
 {% endfor %}
 
-<div class="quote">
+<blockquote class="country-quote">
   {{country.quote}}
-</div>
+
+  {% for quote in countries-africa.quote %}
+  {% if country.quote %}
+  {{country.quote}}
+  {% else %}
+    <h2>test</h2>
+  {% endif %}
+{% endfor %}
+</blockquote>
 
 <a class="readmore" href="{{country.url}}">Learn more</a>
 {% endmulticols %}
