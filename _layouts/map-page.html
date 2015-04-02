@@ -5,12 +5,12 @@ layout: default
 
   {% include page-header.html %}
 
-  {% include reach-map.html class="map-wrapper clearfix" %}
+  {% include reach-map.html countries=site.data.countries-africa %}
 
 <div class="pagenav-wrapper location-nav">
   {% if page.nav_data %}
-  <!-- TODO: Use figure out how to use page.nav_data. -->
-  {% include page-nav.html entries=site.data.locations %}
+    <!-- TODO: Use figure out how to use page.nav_data. -->
+    {% include page-nav.html entries=site.data.locations %}
   {% endif %}
 </div>
 

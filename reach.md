@@ -10,6 +10,4 @@ extrastyles: [ '/lib/leaflet/leaflet.css' ]
 extrascripts: [ '/lib/leaflet/leaflet.js', '/scripts/reach-map.js' ]
 ---
 
-{% include map.html countries=site.data.reach_countries %}
-
 {% include country-list.html %}

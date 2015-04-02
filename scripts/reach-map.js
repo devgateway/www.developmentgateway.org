@@ -5,17 +5,13 @@
 
   function sizeMapContainer(mapEl) {
     // expand to the viewport size
-    var containedWidth = mapEl.offsetWidth;
     var offsetTop = (function getOffset(node, offset) {
       return node ?
         getOffset(node.offsetParent, (offset || 0) + node.offsetTop) :
         offset;
     })(mapEl);
-    var viewW = window.innerWidth || document.documentElement.clientWidth;
     var viewH = Math.max(document.documentElement.clientHeight, window.innerHeight || 200);
-    mapEl.style.width = viewW + 'px';
     mapEl.style.height = (viewH - offsetTop) + 'px';
-    mapEl.style.marginLeft = -Math.round((viewW - containedWidth) / 2) + 'px';
   }
 
   function initMap(mapEl) {
@@ -33,7 +29,7 @@
       map.zoomIn(zoomSteps);
     }
     L.tileLayer(mapEl.getAttribute('data-tiles'), {
-      attribution: 'Tiles <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> <a href="http://stamen.com">Stamen Design</a> | Data <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a> <a href="http://openstreetmap.org">OpenStreetMap</a>',
+      attribution: 'Data <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a> <a href="http://openstreetmap.org">OpenStreetMap</a>',
       worldCopyJump: true,
       minZoom: parseInt(mapEl.getAttribute('data-min-zoom') || 0, 10),
       maxZoom: parseInt(mapEl.getAttribute('data-max-zoom') || 5, 10)
@@ -59,7 +55,7 @@
     return {
       detail: function(data) {
         return function() {
-          rewrite({h: data.name, p: data.year});
+          rewrite({h: data.country, p: data.project + ' – ' + data.year});
         }
       },
       reset: function(data) {
@@ -90,17 +86,20 @@
 
     for (i=0; i<dataEls.length; i++) {
       data.push(pickData(dataEls[i], {
-        name: convert.string,
-        isoA2: convert.string,
+        country: convert.string,
+        id: convert.string,
         lat: convert.float,
         lon: convert.float,
         year: convert.int,
-        program: convert.string,
-        summary: convert.string,
-        pullQuote: convert.string,
-        pullSource: convert.string
+        project: convert.string,
+        description: convert.string,
+        quote: convert.string,
+        quoteAuthor: convert.string,
+        url: convert.string,
+        region: convert.string,
       }));
     }
+    console.log(data);
     return data;
   }
 
@@ -120,7 +119,7 @@
           iconSize: null  // don't let leaflet put a size on the el style  >:(
         })
       });
-      marker.on('click', locate(data[i].isoA2));
+      marker.on('click', locate(data[i].id));
       marker.on('mouseover', inset.detail(data[i]));
       marker.on('mouseout', inset.reset);
       marker.addTo(map);
