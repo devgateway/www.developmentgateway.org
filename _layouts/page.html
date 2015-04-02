@@ -5,12 +5,15 @@ layout: default
 
   {% include page-header.html %}
 
-<div class="pagenav-wrapper">
-        {% if page.nav_data %}
-        <!-- TODO: Use figure out how to use page.nav_data. -->
-        {% include page-nav.html entries=site.data.expertise_topics %}
-        {% endif %}
-</div>
+  {% if page.include_map %}
+    {% include map.html %}
+  {% endif %}
+
+  <div class="pagenav-wrapper">
+    {% if page.nav_data %}
+      {% include page-nav.html entries=site.data.expertise_topics %}
+    {% endif %}
+  </div>
 
   <article class="page-content">
     <div class="page-content-inner">

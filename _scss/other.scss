@@ -2,23 +2,30 @@ html,
 body {
   background-color: $footer_bg;
 }
+
+a {
+  @include link-color($blue_vibrant)
+}
+
 .main-content {
   background-color: $white;
 }
+
 h3.title {
   color: $green_lime;
   font-size: $large;
 }
+
 .page-content {
   padding-bottom: 2em;
   ul {
     padding-left: $gen_gutter_width;
   }
 }
+
 .page-banner {
   border: 1px solid $grey_lightest;
 }
-
 
 // connect page
 .content-social-nav {
@@ -27,35 +34,39 @@ h3.title {
     padding-left: 0;
   }
 }
+
 blockquote {
-  background: lighten($grey_lightest,7%);
-  padding: 1em 1em 1em 3.5em;
+  background: lighten($grey_lightest, 7%);
+  display: block;
   font-size: $large*1.823;
-  margin: 0;
   font-style: italic;
-  display: block;
-}
-blockquote:before {
-  display: block;
-  font-size: $largest*3;
-  content: "\201C";
-  position: absolute;
-  top: -0.1em;
-  left: 0.05em;
-  color: $grey_lightest;
-  font-family: Georgia, serif;
+  margin: 0;
+  padding: 1em 1em 1em 3.5em;
+  position: relative;
 
-  @include media-query-max($bp_medium) {
-    padding: 0.5em 0;
+  &:before {
+    color: $grey_lightest;
+    content: "\201C";
+    display: block;
+    font-family: $font_stack_alt;
+    font-size: $largest*3;
+    left: 0.05em;
+    position: absolute;
+    top: -0.1em;
+
+    @include media-query-max($bp_medium) {
+      padding: 0.5em 0;
+    }
   }
+}
 
-}
-blockquote cite {
-  color: #000;
-  font-size: $small;
+cite {
+  color: $black;
   display: block;
-  margin-top: 5px;
-}
-blockquote cite:before {
-  content: "\2014 \2009";
+  font-size: $small;
+  margin-top: 0.5em;
+
+  &:before {
+    content: "\2014 \2009";
+  }
 }

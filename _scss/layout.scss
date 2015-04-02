@@ -1,6 +1,7 @@
 body {
   min-width: 20em;
 }
+
 .page-header-inner,
 .post-header-inner,
 .main-footer-inner,
@@ -16,5 +17,28 @@ body {
   @include media-query-min($bp_medium) {
     @include l-row-wrapper(14);
     // changed the value from 12 to 14
+  }
+}
+
+.columns-2 {
+  .column {
+    @include media-query($bp_small, $bp_medium) {
+      @include l-column(4);
+      &:first-child {
+        @include l-first-column();
+      }
+      &:last-child {
+        @include l-last-column();
+      }
+    }
+    @include media-query-min($bp_medium) {
+      @include l-column(6);
+      &:first-child {
+        @include l-first-column();
+      }
+      &:last-child {
+        @include l-last-column();
+      }
+    }
   }
 }

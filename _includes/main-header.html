@@ -9,28 +9,27 @@
       </a>
     </h1>
 
-<ul class="btn-nav">
-    <li class="btn-search">
-      <a href="#" title="search">
-        <span class="fa fa-search"></span>
-      </a>
-    </li>
-    <li class="btn-social">
-      <a href="#">
-        <span class="fa fa-comment-o"></span>
-      </a>
-    </li>
-  </ul>
-
+    <ul class="btn-nav">
+      <li class="btn-search">
+        <a href="#" title="search">
+          <span class="fa fa-search"></span>
+        </a>
+      </li>
+      <li class="btn-social">
+        <a href="#">
+          <span class="fa fa-comment-o"></span>
+        </a>
+      </li>
+    </ul>
   </div>
 
-    <nav role="navigation" class="main-navigation">
-      <ul class="links clearfix">
-      {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
-      <li class="item"><a class="link" href="{{ page.url | prepend: site.baseurl }}">
-        {{ page.title }}</a></li>{% endif %}{% endfor %}
-      </ul>
-    </nav>
+  <nav role="navigation" class="main-navigation">
+    <ul class="links clearfix">
+    {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
+    <li class="item"><a class="link" href="{{ page.url | prepend: site.baseurl }}">
+      {{ page.title }}</a></li>{% endif %}{% endfor %}
+    </ul>
+  </nav>
 
   </div>
 </header>

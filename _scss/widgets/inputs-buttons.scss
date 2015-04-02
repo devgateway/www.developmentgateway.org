@@ -1,11 +1,11 @@
 // general button
 .btn {
-  display: inline-block;
-  width: auto;
-  height: auto;
-  cursor: pointer;
-  border: none;
   @include transition;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  height: auto;
+  width: auto;
 }
 
 input {
@@ -19,48 +19,55 @@ input {
   display: block;
   overflow: hidden;
 }
+
 input {
   &:focus {
     border: 1px solid $blue_light;
   }
 }
+
 .input-wrapper {
   float: left;
 }
+
 .input-text {
   border: 1px solid $grey_lightest;
-  padding: 0.6em;
   box-shadow: none;
+  padding: 0.6em;
 }
+
 .submit-wrapper {
   float: right;
 }
+
 .btn-submit {
   @extend .btn;
   @include border-radius(2px);
   background: $blue_vibrant;
   color: $white;
-  padding: 0.65em 1em;
   margin-left: $gen_gutter_width;
+  padding: 0.65em 1em;
+
   &:hover {
-    background: lighten( $blue_vibrant,10%);
+    background: lighten($blue_vibrant, 10%);
   }
   .fa {
     margin-right: 0.5em;
   }
 }
+
 // partnership form
 .contact-form {
   input {
-    width: 95%;
     margin-bottom: 0.5em;
+    width: 95%;
   }
   textarea {
-    width: 95%;
+    @include transition;
     border: 1px solid $grey_lightest;
     margin-bottom: 0.5em;
     padding: 0.6em;
-    @include transition;
+    width: 95%;
     &:focus {
       border: 1px solid $blue_light;
     }

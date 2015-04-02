@@ -1,106 +1,94 @@
 // temporary layout- ask Walter about column implementation and then move the below styles to a different file
 
-.blog-page-wrapper {
-  @include clearfix-mixin;
-  margin-top: $gen_gutter_width*2;
-  background:#333;
-  padding:2em;
-
-}
-
-.blog-content-wrapper {
+.blog-listing-wrapper {
+  background: $grey_lightest;
   width: 45em;
-  background:#eee;
 
   ul {
+    display: block;
     list-style: none;
-    display:block;
 
     li {
+      border-bottom: 1px solid $grey_lightest;
       display: block;
       margin-bottom: 1.5em;
-      border-bottom: 1px solid $grey_lightest;
-      padding-bottom: 2em;
       overflow: hidden;
+      padding-bottom: 2em;
 
       h2 {
+        @include clearfix-mixin;
+        display: block;
         margin: 0 0 0.5em;
         padding-top: 0;
-        display: block;
-        @include clearfix-mixin;
       }
     }
   }
 
-
 }
 
 .post-tags {
+  @include clearfix-mixin;
+  background: $grey_lightest;
+  display: block;
   font-size: $smaller;
   padding-top: 1em;
-  display: block;
-  background: #eee;
-  @include clearfix-mixin;
 }
-
 
 // post thumbnail image
 .post-thumbnail-col {
-  margin-right: $gen_gutter_width;
   float: left;
+  margin-right: $gen_gutter_width;
   width: 20em;
 }
 
-  .post-thumbnail {
-    border: 1px solid lighten($grey_lightest,3%);
-    padding: 0.3em;
-    @include border-radius(2px);
-    max-width: 100%;
-    display: block;
-  }
-
-.post-excerpt-col {
-    float: left;
-    width: 20em;
-
-    .post-excerpt {
-      display: block;
-      margin: 0 0 1em;
-    }
+.post-thumbnail {
+  @include border-radius(2px);
+  border: 1px solid lighten($grey_lightest, 3%);
+  display: block;
+  max-width: 100%;
+  padding: 0.3em;
 }
 
+.post-excerpt-col {
+  float: left;
+  width: 20em;
 
+  .post-excerpt {
+    display: block;
+    margin: 0 0 1em;
+  }
+}
 
 //post meta information
 .post-meta {
+  @include clearfix-mixin;
+  border-bottom: 1px solid lighten($grey_lightest, 3%);
   display: block;
-  border-bottom: 1px solid lighten($grey_lightest,3%);
+  font-size: $smaller;
   margin-bottom: 1.5em;
   padding-bottom: 1em;
-  font-size: $smaller;
-  @include clearfix-mixin;
+
   .post-date,
   .post-author {
     margin-right: $gen_gutter_width;
   }
   .fa.fa-calendar,
   .fa.fa-user {
-    margin-right: $gen_gutter_width/2;
     color: $blue_vibrant;
+    margin-right: $gen_gutter_width/2;
   }
 }
 
-
 // social media button wrapper
 .social-share-wrapper {
+  display: block;
   margin: 1em 0;
-  display:block;
 }
 
 // blog sidebar
 .blog-sidebar-wrapper {
+  background: $red_dark;
+  display: inline-block;
   float: right;
-  background: #800;
   width: 20em;
-  display:inline-block;
 }

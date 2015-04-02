@@ -1,8 +1,15 @@
-<div class="blog-content-wrapper">
-  <ul>
-    {% for post in site.posts %}
-    <li>
+---
+layout: page
+title: Blog
+title_summary: because solutions should be shared
+weight: 8
+include_share_widgets: True
+---
 
+<div class="blog-listing-wrapper">
+  <ul class="blog-listing">
+    {% for post in site.posts %}
+    <li class="blog-entry">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
       <span class="post-meta">
@@ -13,14 +20,12 @@
           <span class="fa fa-user"></span>{{ post.author}}</span>
         <span class="post-categories">{{ post.categories }}</span>
       </span>
-      <!--end: meta info-->
 
       <span class="post-thumbnail-col">
         <span class="post-thumbnail">
           <img src="{{site.url}}/{{post.thumbnail}}" alt="">
         </span>
       </span>
-      <!--end: post thumbnail column-->
 
       <span class="post-excerpt-col">
         <span class="post-excerpt">{{ post.excerpt }}</span>
@@ -28,9 +33,10 @@
         {% include social-sharing.html %}
       </span>
 
-      <!--end: post excerpt column-->
-
     </li>
     {% endfor %}
   </ul>
+</div>
+
+<div class="blog-sidebar-wrapper">
 </div>

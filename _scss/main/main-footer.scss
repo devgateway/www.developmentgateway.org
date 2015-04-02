@@ -9,8 +9,10 @@
   @include media-query-min($bp_medium) {
     padding: 2em 0;
   }
+}
 
-  .links {
+.footer-navigation {
+  /*ul*/.links {
     list-style-type: none;
     margin: 0;
     padding: 0.5em 0;
@@ -21,49 +23,49 @@
       overflow-y: hidden;
       white-space: nowrap;
     }
+  }
 
-    li {
-      display: inline-block;
-      border-right: 1px solid $blue_vibrant;
+  li {
+    display: inline-block;
+    border-right: 1px solid $blue_vibrant;
 
-      &:last-child {
-        border-right: none;
-      }
+    &:last-child {
+      border-right: none;
     }
+  }
 
+  a {
+    color: $blue_vibrant;
+    margin: 0 0.5em;
+    padding: 0 0.5em;
+
+    &:hover {
+      color: $yellow;
+    }
+  }
+
+  li:first-child {
     a {
-      color: $blue_vibrant;
-      margin: 0 0.5em;
-      padding: 0 0.5em;
-
-      &:hover {
-        color: $yellow;
-      }
+      margin-left: 0;
+      padding-left: 0;
     }
-    li:first-child {
-      a {
-        margin-left: 0;
-        padding-left: 0;
-      }
-    }
-  }
-
-  .copyright {
-    color: $grey_light;
-    font-size: $small;
-    &:before{content:"©"}
-  }
-
-  .footer-logo > a {
-    font-size: 2em;
   }
 }
 
+.footer-copyright {
+  color: $grey_light;
+  font-size: $small;
+}
+
+.footer-logo > a {
+  font-size: 2em;
+}
 
 @include media-query-min($bp_small) {
   .main-footer-inner {
     display: table;
   }
+
   .footer-items,
   .footer-logo {
     display: table-cell;
@@ -81,86 +83,84 @@
   }
 }
 
-
 // social footer
-.footer-social{
+.footer-social {
   background: darken($blue_deep, 22%);
-  overflow:hidden;
+  overflow: hidden;
   padding: $gen_gutter_width*2 0;
 }
 
-.social-nav-container{
-  float:right;
+.social-nav-container {
+  float: right;
 }
 
-.social-slogan{
-  color:$white;
+.social-slogan {
+  color: $white;
   font-size: $largest;
   font-weight: $font_weight_light;
-  line-height:1.50em;
-  float:left;
+  line-height: 1.50em;
+  float: left;
 
   @include media-query-max($bp_small) {
-    width:100%;
+    width: 100%;
     @include clearfix_mixin;
-    text-align:center;
-    display:block;
+    text-align: center;
+    display: block;
   }
 }
 
-ul.social-nav{
-  list-style:none;
-  float:left;
+/*ul*/.social-nav {
+  list-style: none;
+  float: left;
   margin: 0;
-  padding:0;
+  padding: 0;
 
-  @include media-query-max($bp_small){
-    width:100%;
-    text-align:center;
+  @include media-query-max($bp_small) {
+    width: 100%;
+    text-align: center;
   }
 
-  li{
-    float:left;
+  li {
+    float: left;
 
-    .fa-border{
-      border:1px solid darken($blue_vibrant,30%)
+    .fa-border {
+      border: 1px solid darken($blue_vibrant, 30%)
     }
 
-    .fa{
+    .fa {
       font-size: $large*2;
       color: $blue_vibrant;
       width: 1em;
-      text-align:center;
-      margin-left:$gen_gutter_width/2;
+      text-align: center;
+      margin-left: $gen_gutter_width/2;
       @include transition;
 
-      &:hover{
-      color: $yellow;
-      background: $black;
+      &:hover {
+        color: $yellow;
+        background: $black;
       }
 
-      &:hover.fa-border{ border:1px solid $blue_vibrant}
+      &:hover.fa-border {
+        border: 1px solid $blue_vibrant;
+      }
 
       @include media-query-max($bp_small) {
-      font-size: $large*1.7;
-      margin-left:$gen_gutter_width/3;
-      padding-right:0.25em;
-      padding-left:0.25em;
+        font-size: $large*1.7;
+        margin-left: $gen_gutter_width/3;
+        padding-right: 0.25em;
+        padding-left: 0.25em;
       }
-
-
     }
+
     // to improve the envelope icon vertical alignment
-    .fa-envelope{
-      line-height:80%;
-      padding-bottom:0.35em;
-      padding-top:0.25em;
+    .fa-envelope {
+      line-height: 80%;
+      padding-bottom: 0.35em;
+      padding-top: 0.25em;
 
-      @include media-query-max($bp_small){
-      font-size:$large*1.6;
+      @include media-query-max($bp_small) {
+        font-size: $large*1.6;
       }
     }
-
-
   }
 }

@@ -5,8 +5,11 @@ module Jekyll
        super
 
        @extra_classes = nil
-       if markup
-         @extra_classes = markup
+       @html = nil
+
+       if markup =~ /^([a-z0-9\s-]+)\|\s*(render-as-html)\s*$?/i
+         @extra_classes = $1.strip
+         @html = $2
        end
     end
 
@@ -26,9 +29,16 @@ module Jekyll
       markup = "<div class=\"#{wrapper_classes}\">"
 
       columns.each { |column|
-        tmp = Liquid::Template.parse(column).render!(context);
+
         markup += '<div class="column">'
-        markup += Kramdown::Document.new(tmp).to_html
+
+        if @html == 'render-as-html'
+          markup += column
+        else
+          tmp = Liquid::Template.parse(column).render!(context);
+          markup += Kramdown::Document.new(tmp).to_html
+        end
+
         markup += '</div>'
       }
 

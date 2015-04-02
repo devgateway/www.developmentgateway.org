@@ -12,7 +12,7 @@
 }
 
 .main-header-inner {
-  background: transparentize($grey_dark, 0.5);
+  background: transparentize($grey_dark, 0.58);
 }
 
 .main-navigation {
@@ -26,7 +26,6 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-
 
     // Display horizontal scroll bars on small devices.
     @include media-query-max($bp_small) {
@@ -80,52 +79,49 @@
   }
 }
 
-h1.site-name{
-  background:adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
-  padding-left: $gen_gutter_width;
-  padding-right:$gen_gutter_width;
+h1.site-name {
   @include transition;
+  background: adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
+  padding-left: $gen_gutter_width;
+  padding-right: $gen_gutter_width;
 
-  &:hover{
-  background:adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
+  &:hover {
+    background: adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
   }
 }
 
 // header search and social buttons
 ul.btn-nav {
   @include unstyled_list;
-  float:left;
+  float: left;
 
   li {
-    float:left;
+    float: left;
 
-    a{ outline:none;
-      .fa{
-        padding:0.83em;
+    a {
+      outline: none;
+      .fa {
+        padding: 0.83em;
         font-size: $larger;
         color: $white;
         @include transition;
-    }
-
-    }
-
-  }
-
-  li.btn-search{
-    .fa{
-      background: $blue_vibrant;
-    &:hover{
-      background: lighten( $blue_vibrant,10%);
       }
     }
+  }
 
+  li.btn-search {
+    .fa {
+      background: $blue_vibrant;
+      &:hover {
+        background: lighten($blue_vibrant, 10%);
+      }
+    }
   }
 
   li.btn-social {
-    margin-left:-1px;
-    .fa{
+    margin-left: -1px;
+    .fa {
       background: $green_deep;
     }
   }
-
 }

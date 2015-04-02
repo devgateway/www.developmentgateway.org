@@ -7,8 +7,9 @@ weight: 10
 nav_data: site.data.connect
 ---
 
-# Connect
-{% multicols pageintro clearfix %}
+<h1>Connect</h1>
+
+{% multicols connect-intro clearfix | render-as-html %}
 
 <h3>Learn The Latest</h3>
 Subscribe to new updates
@@ -20,41 +21,42 @@ Subscribe to new updates
 
 Stay connected and learn the latest from Development Gateway
 <div class="content-social-nav">
-{% include social-nav.html %}
+  {% include social-nav.html %}
 </div>
 
 {% endmulticols %}
 
 
-# Join
+<h2>Join</h2>
 
-<h2>Current Job Openings</h2>
+<h3>Current Job Openings</h3>
 Become a member of a creative, dynamic, and international team that values hard work, innovative thinking, and a great sense of humor.
 
+<h2>Partner</h2>
 
-# Partner
-{% multicols pageintro clearfix %}
+{% multicols clearfix %}
+
 <blockquote>
 Our strength and impact derive from long-term partnerships and over 14 years of innovation expertise.
 Join us today for a better tomorrow.
 </blockquote>
 
 <--colbreak-->
-{% include partner-form.html %}
 
+{% include partner-form.html %}
 
 {% endmulticols %}
 
 
+<h2>Contact</h2>
 
-# Contact
-{% multicols pageintro clearfix %}
-
+{% multicols clearfix %}
 
 Development Gateway, Inc.\\
 1110 Vermont Ave. NW, Suite 500\\
 Washington, DC 20005 USA\\
 Tel: +1.202.572.9200
+
 <--colbreak-->
 
 Development Gateway International, ASBL\\

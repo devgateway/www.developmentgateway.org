@@ -6,23 +6,5 @@
         text-align: center;
       }
     }
-    @include media-query($bp_small, $bp_medium) {
-      @include l-column(4);
-      &:first-child {
-        @include l-first-column();
-      }
-      &:last-child {
-        @include l-last-column();
-      }
-    }
-    @include media-query-min($bp_medium) {
-      @include l-column(6);
-      &:first-child {
-        @include l-first-column();
-      }
-      &:last-child {
-        @include l-last-column();
-      }
-    }
   }
 }

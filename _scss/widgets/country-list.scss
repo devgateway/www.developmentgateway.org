@@ -1,15 +1,15 @@
 .region-wrapper {
   h3 {
     color: $blue_vibrant;
-    font-weight: $font_weight_light;
     font-size: $larger;
+    font-weight: $font_weight_light;
   }
   .flag {
-    float: left;
-    width: 3em;
-    margin-right: $gen_gutter_width/2;
     border: 1px solid $grey_lightest;
-    margin-top:$gen_gutter_width/2;
+    float: left;
+    margin-right: $gen_gutter_width/2;
+    margin-top: $gen_gutter_width/2;
+    width: 3em;
   }
   .program-category {
     font-weight: bold;
@@ -17,27 +17,21 @@
   }
 }
 
-.readmore {
-  &:before {
-
-  }
-
-}
-
 // quotes for country projects in country list
-blockquote.country-quote{
+blockquote.country-quote {
   background: $grey_lightest;
   font-size: $small*1.3;
-  position:relative;
   padding: 1em 1em 1em 2.8em;
+  position: relative;
 }
-blockquote.country-quote:before{
-  display: block;
-  font-size: $small*5;
+
+blockquote.country-quote:before {
+  color: $grey_light;
   content: "\201C";
+  display: block;
+  font-family: $font_stack_alt;
+  font-size: $small*5;
+  left: 0.05em;
   position: absolute;
   top: 0.1em;
-  left: 0.05em;
-  color: $grey_light;
-  font-family: Georgia, serif;
 }
