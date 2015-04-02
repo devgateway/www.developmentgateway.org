@@ -5,7 +5,10 @@ layout: default
 
   {% include page-header.html %}
 
-  {% include reach-map.html countries=site.data.countries-africa %}
+  {% assign countries = site.data.countries-africa | concat: site.data.countries-americas %}
+  {% assign countries = countries | concat: site.data.countries-asia %}
+  {% assign countries = countries | concat: site.data.countries-europe %}
+  {% include reach-map.html countries=countries %}
 
 <div class="pagenav-wrapper location-nav">
   {% if page.nav_data %}

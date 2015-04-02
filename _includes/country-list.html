@@ -38,7 +38,7 @@
 
 {% for country in site.data.countries-asia %}
 
-<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+<img id="{{country.id}}" class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -68,12 +68,12 @@
 <div class="region-wrapper">
 <h2 id="europe">Europe</h2>
 {% multicols pageintro clearfix %}
-<img src="/images/other/globe-location-europe.png" alt="reach location europe">
+<img id="{{country.id}}" src="/images/other/globe-location-europe.png" alt="reach location europe">
 <--colbreak-->
 
 {% for country in site.data.countries-europe %}
 
-<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
@@ -106,12 +106,12 @@
 <div class="region-wrapper">
 <h2 id="the-americas">The Americas</h2>
 {% multicols pageintro clearfix %}
-<img src="/images/other/globe-location-americas.png" alt="reach location americas">
+<img id="{{country.id}}" src="/images/other/globe-location-americas.png" alt="reach location americas">
 <--colbreak-->
 
 {% for country in site.data.countries-americas %}
 
-<img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+<img class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg">
 
 <h3>{{country.country}}<span>-{{country.year}}</span></h3>
 
