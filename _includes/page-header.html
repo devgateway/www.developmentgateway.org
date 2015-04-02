@@ -1,9 +1,10 @@
-
-<header class="page-header">
-  <div class="page-title-wrapper clearfix">
-    <h1 class="page-title">{{ page.title }}</h1>
-    {% if page.title_summary %}
-    <div class="page-title-summary">{{ page.title_summary }}</div>
-    {% endif %}
-  </div>
-</header>
+{% unless page.hide_header %}
+  <header class="page-header">
+    <div class="page-title-wrapper clearfix">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.title_summary %}
+      <div class="page-title-summary">{{ page.title_summary }}</div>
+      {% endif %}
+    </div>
+  </header>
+{% endunless %}

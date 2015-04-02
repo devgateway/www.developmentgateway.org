@@ -7,10 +7,16 @@
   <meta name="description" content="{{ site.description }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
 
-  <link rel="stylesheet" href="{{ '/lib/font-awesome/font-awesome.min.css' | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/styles/main.css' | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/lib/normalize/normalize.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/lib/font-awesome/font-awesome.min.css' | prepend: site.baseurl }}">
+  {% for extrastyle in page.extrastyles %}
+    <link rel="stylesheet" href="{{ extrastyle | prepend: site.baseurl }}">
+  {% endfor %}
+  <link rel="stylesheet" href="{{ '/styles/main.css' | prepend: site.baseurl }}">
 
-  <script src="{{ '/lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}" defer></script>
+  <script src="{{ '/lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}" defer></script>
+  {% for extrascript in page.extrascripts %}
+    <script src="{{ extrascript | prepend: site.baseurl }}" defer></script>
+  {% endfor %}
 </head>

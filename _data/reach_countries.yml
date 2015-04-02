@@ -1,0 +1,31 @@
+# This Data Files should contain data for the reach page
+
+- name: 'Haiti'
+  isoA2: 'HT'
+  lat: 19.0558462
+  lon: -73.0513321
+  year: 2009
+  program: 'Aid Management Platform'
+  summary: >
+
+    Haiti's AMP public portal launched in 2013 and continues to serve as a critical tool for governments, donors, and citizens during reconstruction efforts following the catastrophic 2010 earthquake.
+
+      * Responsive innovation
+      * Custom module tracks damage reports and donor pledges
+
+  pullQuote: '[AMP] will directly support our efforts to become an emerging economy by 2030.'
+  pullSource: 'Government of Haiti Representative'
+
+
+- name: 'Honduras'
+  isoA2: 'HN'
+  lat: 14.7503821
+  lon: -86.241341
+  year: 2012
+  program: 'Aid Management Platform'
+  summary: >
+
+    The first Central American country to use the AMP, Honduras' public portal launch in 2013 was accompanied by a government-sponsored public awareness campaign.
+
+      * Custom Solutions
+      * South-South Cooperation tracking module
