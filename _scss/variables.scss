@@ -1,4 +1,3 @@
-// TODO: Cleanup and update variable names!
 
 // Color variables.
 $blue_light: #b8d9fe;
@@ -10,22 +9,23 @@ $yellow: #ffde00;
 $footer_bg: #082133;
 $footer_social_bg: #041724;
 
-// We don't want any color string in the SASS/SCSS files.
+$default_text: #7c7c7c;
+$grey_lightest: #e7e7e7;
+$grey_light: #a7a7a7;
+$grey_dark: #333333;
+
+$green_deep: #00734a;
+$green_lime: #95c369;
+$orange: #e2aa14;
+$red_dark: #880000;
+
+// We don't want any color string in the SCSS files.
 $white: #ffffff;
 $black: #000000;
 
 // Font variables.
-$default_text: #7c7c7c;
-$grey_lightest: #e7e7e7;
-$grey_light: darken($grey_lightest, 25%);
-$grey_dark: darken($grey_lightest, 60%);
-
-$green_lime: #95c369;
-$green_deep: #00734a;
-
-$orange: #e2aa14;
-
-$fstack_default: 'Open Sans', 'sans-serif';
+$font_stack_default: 'Open Sans', 'sans-serif';
+$font_stack_alt: 'Georgia', 'serif';
 $font_weight_light: 300;
 
 // Text Sizes.

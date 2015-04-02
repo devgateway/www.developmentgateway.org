@@ -11,8 +11,9 @@
 
   a {
     color: $grey_light;
-    text-transform: uppercase;
     font-weight: normal;
+    outline: 1px solid $grey_light;
+    text-transform: uppercase;
     &:hover {
       background: $blue_deep;
       color: $white;

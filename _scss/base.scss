@@ -7,9 +7,9 @@ html {
 
 body,
 html {
-  font-family: $fstack_default;
   background: $white;
   color: $default_text;
+  font-family: $font_stack_default;
   font-weight: $font_weight_light;
 }
 
@@ -57,10 +57,10 @@ html {
  * "!important" is used to prevent unintentional overrides.
  */
 .element-invisible {
-  position: absolute !important;
   clip: rect(1px, 1px, 1px, 1px);
-  overflow: hidden;
   height: 1px;
+  overflow: hidden;
+  position: absolute !important;
 }
 
 /**
@@ -69,10 +69,10 @@ html {
  */
 .element-invisible.element-focusable:active,
 .element-invisible.element-focusable:focus {
-  position: static !important;
   clip: auto;
-  overflow: visible;
   height: auto;
+  overflow: visible;
+  position: static !important;
 }
 
 /**

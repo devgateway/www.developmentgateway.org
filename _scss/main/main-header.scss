@@ -12,7 +12,7 @@
 }
 
 .main-header-inner {
-  background: transparentize($grey_dark, 0.5);
+  background: transparentize($grey_dark, 0.58);
 }
 
 .main-navigation {
@@ -80,10 +80,10 @@
 }
 
 h1.site-name {
+  @include transition;
   background: adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
   padding-left: $gen_gutter_width;
   padding-right: $gen_gutter_width;
-  @include transition;
 
   &:hover {
     background: adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);

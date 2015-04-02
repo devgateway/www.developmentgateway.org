@@ -3,6 +3,10 @@ body {
   background-color: $footer_bg;
 }
 
+a {
+  @include link-color($blue_vibrant)
+}
+
 .main-content {
   background-color: $white;
 }
@@ -33,36 +37,36 @@ h3.title {
 
 blockquote {
   background: lighten($grey_lightest, 7%);
-  padding: 1em 1em 1em 3.5em;
+  display: block;
   font-size: $large*1.823;
-  margin: 0;
   font-style: italic;
-  display: block;
-}
+  margin: 0;
+  padding: 1em 1em 1em 3.5em;
+  position: relative;
 
-blockquote:before {
-  display: block;
-  font-size: $largest*3;
-  content: "\201C";
-  position: absolute;
-  top: -0.1em;
-  left: 0.05em;
-  color: $grey_lightest;
-  font-family: Georgia, serif;
+  &:before {
+    color: $grey_lightest;
+    content: "\201C";
+    display: block;
+    font-family: $font_stack_alt;
+    font-size: $largest*3;
+    left: 0.05em;
+    position: absolute;
+    top: -0.1em;
 
-  @include media-query-max($bp_medium) {
-    padding: 0.5em 0;
+    @include media-query-max($bp_medium) {
+      padding: 0.5em 0;
+    }
   }
 
-}
+  cite {
+    color: $black;
+    display: block;
+    font-size: $small;
+    margin-top: 0.5em;
+  }
 
-blockquote cite {
-  color: #000;
-  font-size: $small;
-  display: block;
-  margin-top: 5px;
-}
-
-blockquote cite:before {
-  content: "\2014 \2009";
+  cite:before {
+    content: "\2014 \2009";
+  }
 }

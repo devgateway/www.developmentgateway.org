@@ -58,10 +58,8 @@
 @mixin clearfix-mixin() {
   &:before,
   &:after {
-    content: " ";
-    /* 1 */
-    display: table;
-    /* 2 */
+    content: " "; /* 1 */
+    display: table; /* 2 */
   }
   &:after {
     clear: both;
@@ -98,24 +96,28 @@
 /*
  * Apply single color to anchor tags.
  */
-@mixin link-color($normalcolor, $actcolor: darken($normalcolor, 10), $viscolor: lighten($normalcolor, 10), $hovcolor: darken($normalcolor, 15)) {
+@mixin link-color($normal_color, $active_color: darken($normal_color, 10), $visited_color: lighten($normal_color, 10), $hover_color: darken($normal_color, 15)) {
   // Style links that have not been visited.
+  color: $normal_color;
   &:link {
-    color: $normalcolor;
+    color: $normal_color;
   }
+
   // Style links that are active.
   &.active,
   &:active {
-    color: $actcolor;
+    color: $active_color;
   }
+
   // Style links that have been visited.
   &:visited {
-    color: $viscolor;
+    color: $visited_color;
   }
+
   // Style link hover and focus states.
   &:focus,
   &:hover {
-    color: $hovcolor;
+    color: $hover_color;
   }
 }
 
@@ -198,10 +200,11 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
 }
 
 //hide text
+// TODO: Hide text using other approaches.
 @mixin hide_text {
-  text-indent: -999em;
   letter-spacing: -999em;
   overflow: hidden;
+  text-indent: -999em;
 }
 
 //unstyled list
