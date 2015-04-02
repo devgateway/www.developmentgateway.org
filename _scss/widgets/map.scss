@@ -7,15 +7,22 @@
    *
    * Page title-ish and flips to country info on country bubble hover
    */
-  .map-inset-text {
-    @include text-shadow(0 0 0.2em $black);
+  .map-inset.vertical-position {
     z-index: 1;
     position: absolute;
-    left: $map_side_padding;
     bottom: $map_bottom_padding;
+    left: 0;
+    right: 0;
+  }
+  .map-inset.page-content-inner {
+    font-size: 16px;
+  }
+  .map-inset.text {
+    @include text-shadow(0 0 0.2em $black);
     max-width: 38rem;
     margin-right: $map_side_padding + 5rem;
-    font-size: $larger;
+    font-size: (12px * 1.5);
+    // font-size: $larger;
     color: $white;
 
     h1 {

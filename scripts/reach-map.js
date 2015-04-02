@@ -11,7 +11,7 @@
         offset;
     })(mapEl);
     var viewH = Math.max(document.documentElement.clientHeight, window.innerHeight || 200);
-    mapEl.style.height = (viewH - offsetTop) + 'px';
+    mapEl.style.height = Math.min((viewH - offsetTop), 600) + 'px';
   }
 
   function initMap(mapEl) {
@@ -22,7 +22,7 @@
     var map = L.map(mapEl, {
       scrollWheelZoom: false,
       zoomControl: false,  // re-added later in the desired location
-    }).setView([0,0],1);
+    }).setView([10, 15], 1);
     var needToZoomBy = map.getBounds()._northEast.lng / (180*1.5);
     if (needToZoomBy > 1) {
       var zoomSteps = Math.ceil(Math.log(needToZoomBy) / Math.log(2));
@@ -42,8 +42,8 @@
   }
 
   function initInset(mapEl) {
-    var h = mapEl.querySelector('.map-inset-text > h1'),
-        p = mapEl.querySelector('.map-inset-text > p.help'),
+    var h = mapEl.querySelector('.map-inset.text > h1'),
+        p = mapEl.querySelector('.map-inset.text > p.help'),
         orinalText = {
           h: h.textContent,
           p: p.textContent
