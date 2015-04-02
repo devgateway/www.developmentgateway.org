@@ -1,14 +1,6 @@
 // temporary layout- ask Walter about column implementation and then move the below styles to a different file
 
-.blog-page-wrapper {
-  @include clearfix-mixin;
-  background: $grey_dark;
-  margin-top: $gen_gutter_width*2;
-  padding: 2em;
-
-}
-
-.blog-content-wrapper {
+.blog-listing-wrapper {
   background: $grey_lightest;
   width: 45em;
 
