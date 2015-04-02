@@ -1,16 +1,32 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "b9cfa139-7db9-4558-b1b3-ab2013772adc", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-
+  <script type="text/javascript">var switchTo5x = true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    stLight.options({
+      publisher: "b9cfa139-7db9-4558-b1b3-ab2013772adc",
+      doNotHash: false,
+      doNotCopy: false,
+      hashAddressBar: false
+    });
+  </script>
 
   <header class="post-header">
     <div class="post-header-inner">
       <h1 class="post-title">{{ page.title }}</h1>
-      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+      <p class="post-meta">
+        {{ page.date | date: "%b %-d, %Y" }}
+        {% if page.author %}
+          • {{ page.author }}
+        {% endif %}
+        {% if page.meta %}
+          • {{ page.meta }}
+        {% endif %}
+      </p>
     </div>
   </header>
 

@@ -34,14 +34,15 @@ Become a member of a creative, dynamic, and international team that values hard 
 
 # Partner
 {% multicols pageintro clearfix %}
+
 <blockquote>
 Our strength and impact derive from long-term partnerships and over 14 years of innovation expertise.
 Join us today for a better tomorrow.
 </blockquote>
 
 <--colbreak-->
-{% include partner-form.html %}
 
+{% include partner-form.html %}
 
 {% endmulticols %}
 

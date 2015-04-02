@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-<div class="page">
+<div class="page page--map">
 
   {% include page-header.html %}
 
   {% include reach-map.html class="map-wrapper clearfix" %}
 
-<div class="pagenav-wrapper location-nav">
-  {% if page.nav_data %}
-  <!-- TODO: Use figure out how to use page.nav_data. -->
-  {% include page-nav.html entries=site.data.locations %}
-  {% endif %}
-</div>
+  <div class="pagenav-wrapper location-nav">
+    {% if page.nav_data %}
+      {% include page-nav.html entries=site.data.locations %}
+    {% endif %}
+  </div>
 
   <article class="page-content">
     <div class="page-content-inner">
