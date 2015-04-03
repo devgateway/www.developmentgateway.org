@@ -1,0 +1,24 @@
+<div class="team-member">
+
+  {% for team in site.data.team-staff %}
+
+  <div class="team-block">
+    <div class="team-photo">
+      <img src="{{site.url}}/images/team/{{team.avatar}}">
+    </div>
+
+    <div class="team-info">
+      <div class="team-name">{{team.team}}</div>
+      {{team.position}}
+
+      <div class="team-bio">{{team.bio}}
+      </div>
+      <div class="bottom-helper"></div>
+
+    </div>
+    <div class="bottom-helper"></div>
+
+    {% endfor %}
+
+  </div>
+</div>

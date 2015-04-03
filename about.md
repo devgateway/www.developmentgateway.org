@@ -24,3 +24,14 @@ In the age of big data and increasing transparency worldwide, Development Gatewa
 Development Gateway celebrates active citizen engagement and helps to promote participation grounded in grassroots organizations. We believe in the power of individual voices to turn conversation into action. Our custom solutions take steps far beyond developing technical tools. They enable governments and organizations to leverage technology to collect and synthesize feedback from their constituents. They empower individuals to take part in the development process, giving them a voice in planning local projects, holding their governments accountable, evaluating results themselves, and driving behavior change. In a word: we aim to fully close the feedback loop between citizens and their governments.
 
 We’re committed to a positive, and lasting, social impact. We see ourselves as a nimble and growing social enterprise, with each project intrinsically tied to our mission and organically conceived to enhance the common good. Our clients—at the heart of everything we do—drive our support of meaningful participation, responsible responses to challenges, and pushing the boundaries of innovation.
+
+
+<h3>Board of Directors</h3>
+
+{% include team-board.html %}
+
+
+
+<h3>Staff</h3>
+
+{% include team-staff.html %}
