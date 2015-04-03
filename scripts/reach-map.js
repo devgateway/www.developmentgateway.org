@@ -42,8 +42,8 @@
   }
 
   function initInset(mapEl) {
-    var h = mapEl.querySelector('.map-inset.text > h1'),
-        p = mapEl.querySelector('.map-inset.text > p.help'),
+    var h = mapEl.querySelector('.map-inset-text > h1'),
+        p = mapEl.querySelector('.map-inset-text > p.help'),
         orinalText = {
           h: h.textContent,
           p: p.textContent
@@ -99,7 +99,6 @@
         region: convert.string,
       }));
     }
-    console.log(data);
     return data;
   }
 
