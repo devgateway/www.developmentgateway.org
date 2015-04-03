@@ -56,8 +56,8 @@
       detail: function(data) {
         return function() {
           rewrite({
-            h: data.country,
-            p: data.project + ' – ' + data.year + '. ' + data.description
+            h: data.name,
+            p: data.category + ' – ' + data.year + '. ' + data.description
           });
         }
       },
