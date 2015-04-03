@@ -46,7 +46,9 @@ include_map: True
     </blockquote>
     {% endif %}
 
-    <a class="readmore" href="{{ project.url }}">Learn more</a>
+    {% if project.url %}
+      <a class="readmore" href="{{ project.url }}">Learn more</a>
+    {% endif %}
   </div>
   {% endfor %}
 
