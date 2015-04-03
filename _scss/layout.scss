@@ -20,7 +20,7 @@ body {
   }
 }
 
-.columns-2 {
+.columns-2.half {
   .column {
     @include media-query($bp_small, $bp_medium) {
       @include l-column(4);

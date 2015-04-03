@@ -17,7 +17,7 @@ include_map: True
     {{ region | capitalize }}
   </h2>
 
-  {% multicols clearfix | render-as-html %}
+  {% multicols region-columns clearfix | render-as-html %}
 
   <img src="/images/other/globe-location-{{ region }}.png" alt="reach location {{ region }}">
 

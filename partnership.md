@@ -11,7 +11,7 @@ weight: 7
 
 # Coalitions
 
-{% multicols pageintro clearfix %}
+{% multicols pageintro half clearfix %}
 
 
 <--colbreak-->

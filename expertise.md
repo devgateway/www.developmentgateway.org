@@ -7,7 +7,7 @@ weight: 2
 nav_data: expertise_topics
 ---
 
-{% multicols pageintro clearfix %}
+{% multicols pageintro half clearfix %}
 
 ![Information Management](/images/other/information-management.png)
 
