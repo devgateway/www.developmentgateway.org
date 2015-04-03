@@ -21,9 +21,9 @@ Knowledge Networks</h2>
 <h3 class="title">Technical tools for better outcomes</h3>
 
 <ul>
-<li>Making informed decisions requires understandable data</li>
-<li>Understandable data depends on organized input information     and accurate impact visualization</li>
-<li>Analytics platforms, databases, dashboards, and graphics enable     better organization, analysis, and results</li>
+  <li>Making informed decisions requires understandable data</li>
+  <li>Understandable data depends on organized input information and accurate impact visualization</li>
+  <li>Analytics platforms, databases, dashboards, and graphics enable better organization, analysis, and results</li>
 <ul>
 
 {% endmulticols %}
