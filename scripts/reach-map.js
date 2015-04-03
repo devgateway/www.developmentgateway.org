@@ -55,7 +55,10 @@
     return {
       detail: function(data) {
         return function() {
-          rewrite({h: data.country, p: data.project + ' – ' + data.year});
+          rewrite({
+            h: data.country,
+            p: data.project + ' – ' + data.year + '. ' + data.description
+          });
         }
       },
       reset: function(data) {
