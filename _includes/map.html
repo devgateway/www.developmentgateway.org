@@ -1,15 +1,45 @@
+{% assign countries = site.data.countries-africa %}
+{% assign countries = countries | concat: site.data.countries-americas %}
+{% assign countries = countries | concat: site.data.countries-asia %}
+{% assign countries = countries | concat: site.data.countries-europe %}
 
 <div class="map-wrapper clearfix">
-  <div id="map-element" style="height:300px"></div>
-</div>
+  <div
+    id="reach-map"
+    class="map"
+    data-tiles="{{ site.map.tiles }}"
+    data-min-zoom="{{ site.map.minZoom }}"
+    data-max-zoom="{{ site.map.maxZoom }}">
+    <div class="map-inset vertical-position">
+      <div class="map-inset page-content-inner">
+        <div class="map-inset text">
+          <h1>Six Continents | One Goal</h1>
+          <p class="help">Rollover selected locations for information on select partnerships, case studies, and more.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<script>
-  var map = L.map('map-element').setView([14.505, -86.09], 3);
-  L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
-    maxZoom: 18,
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors' +
-      ', <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>' +
-      ', Imagery © <a href="http://mapbox.com/">Mapbox</a>',
-    id: 'examples.map-i875mjb7'
-  }).addTo(map);
-</script>
+  <ul class="reach-data">
+    {% for country in countries %}
+      {% if country.lat and country.lon %}
+        <!-- maybe create a liquid template filter to generate data- props -->
+        <li
+          class="reach-map-data"
+          data-country="{{ country.country }}"
+          data-id="{{ country.id }}"
+          data-lat="{{ country.lat }}"
+          data-lon="{{ country.lon }}"
+          data-year="{{ country.year }}"
+          data-project="{{ country.project }}"
+          data-description="{{ country.description }}"
+          data-quote="{{ country.quote }}"
+          data-quoteAuthor="{{ country.quoteAuthor }}"
+          data-url="{{ country.url }}"
+          data-region="{{ country.region }}">
+          <a href="#{{ country.id }}">{{ country.country }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

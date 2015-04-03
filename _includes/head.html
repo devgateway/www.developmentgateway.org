@@ -15,8 +15,9 @@
   <script src="{{ '/lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
 
   {% if page.include_map %}
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <link rel="stylesheet" href="{{ '/lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
+    <script src="{{ '/lib/leaflet/leaflet.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/scripts/reach-map.js' | prepend: site.baseurl }}" defer></script>
   {% endif %}
 
   {% if page.include_share_widgets %}

@@ -1,155 +1,179 @@
 - country: Africa Continent
+  id: africa-continent
   year: 2014
   project: Map Africa
   description: "A dynamic online platform that enables citizens, government officials, and donors to track investments from African Development Bank-funded projects."
   feature1: Geocoding Aid Information
   feature2: Tracking development finance for better results
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
-  quote-author: Simon Mizrahi, AfDB Director
+  quoteAuthor: Simon Mizrahi, AfDB Director
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
-  flag: /africa-continent.svg
   region: africa
 
 - country: Burskina Faso
+  id: burkina-faso
   year: 2008
   project: Aid Management Program
   description: "Combining two disparate systems into one platform, Burkina Faso's AMP facilitates data mangement, reporting, and improved decisionmaking."
   feature1: Information Administration
   feature2: Software tools to meet reporting requirements
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
-  quote-author: Simon Mizrahi, AfDB Director
+  quoteAuthor: Simon Mizrahi, AfDB Director
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
-  flag: /burkina-faso.svg
+  lat: 12.2472489
+  lon: -1.5556799
   region: africa
 
 - country: Chad
+  id: chad
   year: 2014
   project: Aid Management Program
   description:
   feature1: Geocoding
   feature2: Vizualizing data for easier understanding
   quote:
-  quote-author:
+  quoteAuthor:
   url:
-  flag: /chad.svg
+  lat: 15.4461015
+  lon: 18.7350005
   region: africa
 
 - country: Ivory Coast
+  id: ivory-coast
   year: 2014
   project: Aid Management Program
   description: Cote d'Ivoire is the first country to commit to geocoding project locations and launching a public portal during year one of AMP implementation.
   feature1: Information Transparency
   feature2: Making donor information public
   quote: "[AMP] will be a one-stop shop of information on aid flows that will improve efficiency in the monitoring and management of external resources that benefit our country."
-  quote-author: Nial Kaba, CIV Minister of Economy and Finance
+  quoteAuthor: Nial Kaba, CIV Minister of Economy and Finance
   url:
-  flag: /ivory-coast.svg
+  lat: 7.5455351
+  lon: -5.547545
   region: africa
 
 - country: Democratic Republic of Congo
+  id: drc
   year: 2008
   project: Aid Management Program
   description: Launching their public portal in 2012, the government uses the program to not only manage aid flows, but also all investment financed by the state, private, and local investors.
   feature1: Resource Management
   feature2: Capturing investment flows for improved policy planning
   quote: "[Before AMP] different ministries would speak directly with donor partners. Now… to acquire information the unique official source is AMP"
-  quote-author: Government Representative
+  quoteAuthor: Government Representative
   url:
-  flag: /drc.svg
+  lat: -4.033516
+  lon: 21.7500605
   region: africa
 
 - country: Ethiopia
+  id: ethiopia
   year: 2005
   project: Aid Management Program
   description: The first country to adopt AMP, Ethiopia's Aid Management Platform has played a crucial role in shaping further enhancements and iterations of Development Gateway's flagship program.
   feature1: Enduring partnerships
   feature2: Collaboration for lasting outcomes
   quote: Development Gateway builds trust and ability among individuals interested in using AMP.
-  quote-author: Government of Ethiopia Representative
+  quoteAuthor: Government of Ethiopia Representative
   url:
-  flag: /ethiopia.svg
+  lat: 9.1491755
+  lon: 40.499395
   region: africa
 
 - country: Madagascar
+  id: madagascar
   year: 2005
   project: Aid Management Program
   description: Magadascar has used the La Plateforme de Gestion de l’Aide to align projects with their national plans and to prepare the national budgets.
   feature1: Result Management
   feature2: Getting the full funding picture for better policymaking
   quote:
-  quote-author:
+  quoteAuthor:
   url:
-  flag: /madagascar.svg
+  lat: -18.7792398
+  lon: 46.8344597
   region: africa
 
 - country: Malawi
+  id: malawi
   year: 2008
   project: Aid Management Program
   description: The first government to geocode their AMP data, Malawi launched their public portal at an "Open Development for Evidence-Based Policy" workshop in 2013.
   feature1: Leveraging GIS
   feature2: Geocoding for better decision making
   quote: "...the Public Portal of the AMP marks yet another milestone in the open development agenda, as all key stakeholders will have direct accept to development aid data."
-  quote-author: Maxwell Mkwezalamba, Malawi Minister of Finance
+  quoteAuthor: Maxwell Mkwezalamba, Malawi Minister of Finance
   url: http://malawiaid.finance.gov.mw/
-  flag: /malawi.svg
+  lat: -13.2483745
+  lon: 34.2955468
   region: africa
 
 - country: Mozambique
+  id: mozambique
   year: 2014
   project: Aid Information Management System
   description: The country's updated system, ODAmoz 2.0, includes additional aid classification schemes, an interactive map, and new custom reporting tools. DG also trained Mozambique officials and evaluated budget information system integration.
   feature1: Local ownership
   feature2: Government administration for sustainable processes
   quote:
-  quote-author:
+  quoteAuthor:
   url:
-  flag: /mozambique.svg
+  lat: -18.6696821
+  lon: 35.5273356
   region: africa
 
 - country: South Sudan
+  id: south-sudan
   year: 2010
   project: Aid Management Platform
   description: With the foresight to implement their Aid Management Platform before independence in July 2011, the young nation of South Sudan leverages this tool to track donor-funded projects and commitments.
   feature1: Local ownership
   feature2: Government administration for sustainable processes
   quote:
-  quote-author:
+  quoteAuthor:
   url:
-  flag: /south-sudan.svg
+  lat: 7.8626845
+  lon: 29.694923
   region: africa
 
 - country: Senegal
+  id: senegal
   year: 2009
   project: Aid Management Program
   description: By successfully linking information captured in the AMP with the national budgetary database, the government of Senegal can capture the broader story of financial flows in-country.
   feature1: System integration
   feature2: Linking aid with government budgeting systems
   quote:
-  quote-author:
+  quoteAuthor:
   url:
-  flag: /senegal.svg
+  lat: 14.5001715
+  lon: -14.4392276
   region: africa
 
 - country: Tanzania
+  id: tanzania
   year: 2008
   project: Aid Management Program
   description: By successfully linking information captured in the AMP with the national budgetary database, the government of Senegal can capture the broader story of financial flows in-country.
   feature1: Custom Solutions
   feature2: Shaping technology to fit local contexts
   quote: ...everyone can use AMP to analyze, to see, to view, and to provide any data.
-  quote-author: Tanzania Development Partner Representative
+  quoteAuthor: Tanzania Development Partner Representative
   url:
-  flag: /tanzania.svg
+  lat: -6.3728255
+  lon: 34.8924826
   region: africa
 
 - country: Uganda
+  id: uganda
   year: 2011
   project: Aid Management Program
   description: Connecting and geocoding government and donor-funded projects within a single system, once launched for the public AMP Uganda will increase transparency and improve decision making capabilities.
   feature1: Leveraging GIS
   feature2: Geocoding for better decision making
   quote: We are accountable to the public, so anyone… should be able to access all of the information they need off the system.
-  quote-author: Uganda Development Partner Representative
+  quoteAuthor: Uganda Development Partner Representative
   url: http://154.72.196.70/portal/
-  flag: /uganda.svg
+  lat: 1.3681549
+  lon: 32.303241
   region: africa

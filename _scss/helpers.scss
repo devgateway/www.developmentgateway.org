@@ -94,6 +94,28 @@
 }
 
 /*
+ * CSS3 Text-shadow.
+ * @see http://caniuse.com/#search=text-shadow
+ * @see http://www.w3.org/TR/css-text-decor-3/#text-shadow-property
+ */
+@mixin text-shadow($type...) {
+  -moz-text-shadow: $type;
+  -webkit-text-shadow: $type;
+  text-shadow: $type;
+}
+
+/*
+ * CSS3 Box-shadow.
+ * @see http://caniuse.com/#search=box-shadow
+ * @see http://www.w3.org/TR/css3-background/#the-box-shadow
+ */
+@mixin box-shadow($type...) {
+  -moz-box-shadow: $type;
+  -webkit-box-shadow: $type;
+  box-shadow: $type;
+}
+
+/*
  * Apply single color to anchor tags.
  */
 @mixin link-color($normal_color, $active_color: darken($normal_color, 10), $visited_color: lighten($normal_color, 10), $hover_color: darken($normal_color, 15)) {

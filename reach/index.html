@@ -17,8 +17,8 @@ include_map: True
   {% for country in site.data.countries-africa %}
 
 
-  <img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
-  <h3>{{country.country}}<span>-{{country.year}}</span></h3>
+  <img id="{{country.id}}" class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg" alt="Flag of {{country.country}}">
+  <h3>{{country.country}}<span> – {{country.year}}</span></h3>
   <div class="program-category">{{country.project}}</div>
   <p>{{country.description}}</p>
   <ul>
@@ -54,9 +54,9 @@ include_map: True
 
   {% for country in site.data.countries-asia %}
 
-  <img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+  <img id="{{country.id}}" class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg" alt="Flag of {{country.country}}">
 
-  <h3>{{country.country}}<span>-{{country.year}}</span></h3>
+  <h3>{{country.country}}<span> – {{country.year}}</span></h3>
 
   <div class="program-category">{{country.project}}</div>
   <p>{{country.description}}</p>
@@ -91,9 +91,9 @@ include_map: True
 
   {% for country in site.data.countries-europe %}
 
-  <img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+  <img id="{{country.id}}" class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg" alt="Flag of {{country.country}}">
 
-  <h3>{{country.country}}<span>-{{country.year}}</span></h3>
+  <h3>{{country.country}}<span> – {{country.year}}</span></h3>
 
   <div class="program-category">{{country.project}}</div>
   <p>{{country.description}}</p>
@@ -131,9 +131,9 @@ include_map: True
 
   {% for country in site.data.countries-americas %}
 
-  <img class="flag" src="{{site.url}}/images/country-flags/{{country.flag}}">
+  <img id="{{country.id}}" class="flag" src="{{site.url}}/images/country-flags/{{country.id}}.svg" alt="Flag of {{country.country}}">
 
-  <h3>{{country.country}}<span>-{{country.year}}</span></h3>
+  <h3>{{country.country}}<span> – {{country.year}}</span></h3>
 
   <div class="program-category">{{country.project}}</div>
   <p>{{country.description}}</p>

@@ -1,0 +1,148 @@
+.map {
+  width: 100%;
+  background: $black;
+
+  /*
+   * Inset Text
+   *
+   * Page title-ish and flips to country info on country bubble hover
+   */
+  .map-inset.vertical-position {
+    z-index: 1;
+    position: absolute;
+    bottom: $map_bottom_padding;
+    left: 0;
+    right: 0;
+  }
+  .map-inset.page-content-inner {
+    font-size: 16px;
+  }
+  .map-inset.text {
+    @include text-shadow(0 0 0.2em $black);
+    max-width: 38rem;
+    margin-right: $map_side_padding + 5rem;
+    font-size: (12px * 1.5);
+    // font-size: $larger;
+    color: $white;
+
+    h1 {
+      margin: 0.1em 0;
+      font-weight: 300;
+      font-size: $largest;
+      color: $yellow;
+    }
+    .help {
+      margin: 0;
+      font-size: 1.1em;  // the available sizes didn't seem to work that well
+    }
+  }
+
+  /*
+   * Leaflet Zoom Control
+   *
+   * +/- buttons at the bottom right of the map.
+   */
+  .leaflet-control-zoom {
+    $zcolor: $white;
+    $zhovcolor: darken($zcolor, 15%);
+    @include box-shadow(none);
+    margin-right: $map_side_padding;
+    margin-bottom: $map_bottom_padding;
+
+    a.leaflet-control-zoom-in,  /* tag "a" necessary to beat leaflet's specificity */
+    a.leaflet-control-zoom-out {
+      @include border-radius(0);
+      position: relative;
+      margin: 0.1em;
+      padding: 0.5rem;
+      font-size: $largest;
+      font-weight: 900;
+      color: $zcolor;
+      border: none;
+      background-color: transparentize(lighten($black, 20%), 0.5);
+      &:before {
+        @include border-radius(2em);  /* "big enough"... */
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0.3em;
+        right: 0.3em;
+        bottom: 0.3em;
+        left: 0.3em;
+        border: 2px solid $zcolor;
+      }
+    }
+    a.leaflet-control-zoom-in:hover,
+    a.leaflet-control-zoom-out:hover {
+      color: $zhovcolor;
+      &:before {
+        border-color: $zhovcolor;
+      }
+    }
+    a.leaflet-control-zoom-out:after {
+      $thickness: 0.15em;
+      $width: 0.5em;
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -$thickness/2;
+      margin-left: -$width/2;
+      height: $thickness;
+      width: $width;
+      background-color: $zcolor;
+    }
+    a.leaflet-control-zoom-out:hover:after {
+      background-color: $zhovcolor;
+    }
+  }
+
+  /*
+   * Country Markers
+   *
+   * Yellow rings on the map
+   */
+  .country-marker {
+    @include border-radius($country_marker_size/2);
+    height: $country_marker_size;
+    width: $country_marker_size;
+    margin-top: -$country_marker_size/2;
+    margin-left: -$country_marker_size/2;
+    background-color: transparentize($yellow, 0.8);
+    &:before,
+    &:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+    }
+    &:before {
+      $s: ($country_marker_size - 0.6rem);
+      @include border-radius($s/2);
+      height: $s;
+      width: $s;
+      margin-top: -($s/2);
+      margin-left: -($s/2);
+      background-color: transparentize($yellow, 0.6);
+    }
+    &:after {
+      $s: ($country_marker_size - 1.1rem);
+      @include border-radius($s/2);
+      height: $s;
+      width: $s;
+      margin-top: -($s/2);
+      margin-left: -($s/2);
+      background-color: $yellow;
+    }
+  }
+}
+
+// js/no-js show/hides
+.mdzr-js .reach-data {
+  display: none;
+}
+.no-js .map .help {
+  display: none;
+}

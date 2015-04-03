@@ -1,47 +1,55 @@
 - country: Kyrgyz Republic
+  id: kyrgyz
   year: 2008
   project: Aid Management Platform
   description: "Kyrgyz's Aid Management Platform will consolidate aid flow information to facilitate effective leadership and adherence to the national development strategy."
   feature1: Results Management
   feature2: Aggregating information for impact
   quote:
-  quote-author:
+  quoteAuthor:
   url: http://amp.gov.md/portal/
-  flag: /kyrgyz.svg
+  lat: 41.2228055
+  lon: 74.7387787
   region: asia
 
 - country: Lao PDR
+  id: laos
   year: 2010
   project: Aid Management Platform
   description: "Lao's public AMP tracks over US $3 billion in overseas direct assistance, serving as the foundation for Ministry of Planning and Investment annual reports to shape policymaking."
   feature1: Data Analytics
   feature2: Collecting information to evaluate trends and progress
   quote:
-  quote-author:
+  quoteAuthor:
   url: http://amp.mpi.gov.la/
-  flag: /laos.svg
+  lat: 18.206296
+  lon: 103.889022
   region: asia
 
 - country: Nepal
+  id: nepal
   year: 2010
   project: Aid Management Platform
   description: "Nepal's public AMP includes a geocoded map of the country allowing policymakers, donors, and advocates to visualize ongoing project locations against key indicators such as population and literacy rates."
   feature1: Data Vizualization
   feature2: Layering datasets for a more complete policy picture
   quote: "AMP gets everyone in the same room and puts information in a package."
-  quote-author: Nepal Development Partner Representative
+  quoteAuthor: Nepal Development Partner Representative
   url: http://amis.mof.gov.np/portal/
-  flag: /nepal.svg
+  lat: 28.3974557
+  lon: 84.1299978
   region: asia
 
 - country: Timor-Leste
+  id: timor
   year: 2009
   project: Aid Management Platform
   description: "Implemented in just 2 months - and made public 4 months later - Timor's AMP features a geocided project map and is linked with the country's Integrated Financial Information Management System."
   feature1: System Integration
   feature2: Connecting aid with national budgets
   quote: "Transparency means transparency. We have nothing to hide."
-  quote-author: Emilia Pires, Timor-Leste Minister of Finance
+  quoteAuthor: Emilia Pires, Timor-Leste Minister of Finance
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
-  flag: /timor.svg
+  lat: -8.7947508
+  lon: 126.1369154
   region: asia
