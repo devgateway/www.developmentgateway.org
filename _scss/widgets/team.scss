@@ -1,4 +1,4 @@
-// team module
+// team
 .team-member {
   overflow: hidden;
   width: 100%;
@@ -23,12 +23,16 @@
 .team-info {
   float: left;
   width: 80%;
-  .team-name {
-    font-weight: bold;
-  }
-  .team-bio {
-    margin-top: $gen_gutter_width;
-  }
+}
+.team-name {
+  font-weight: bold;
+  color: $blue_deep;
+}
+.team-bio {
+  margin-top: $gen_gutter_width;
+}
+.team-position {
+  color: $black;
 }
 .bottom-helper {
   height: 2em;
