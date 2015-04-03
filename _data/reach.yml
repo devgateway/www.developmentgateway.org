@@ -3,15 +3,19 @@
 - title: Africa
   description: >
     Africa
+  tag: region-africa
 
 - title: Asia
   description: >
     Asia's location
+  tag: region-asia
 
 - title: Europe
   description: >
-    America's location
+    Europe's location
+  tag: region-europe
 
 - title: The Americas
   description: >
     America's location
+  tag: region-americas

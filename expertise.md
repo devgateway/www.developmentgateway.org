@@ -4,7 +4,7 @@ title: Expertise
 title_summary: because data should work for people
 permalink: /expertise/
 weight: 2
-nav_data: site.data.expertise_topics
+nav_data: expertise_topics
 ---
 
 {% multicols pageintro clearfix %}

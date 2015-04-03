@@ -9,9 +9,10 @@ layout: default
     {% include map.html %}
   {% endif %}
 
-  <div class="pagenav-wrapper">
+  <div class="page-nav-wrapper">
     {% if page.nav_data %}
-      {% include page-nav.html entries=site.data.expertise_topics %}
+      {% assign nav_entries = site.data[page.nav_data] %}
+      {% include page-nav.html entries=nav_entries %}
     {% endif %}
   </div>
 

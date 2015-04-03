@@ -1,5 +1,16 @@
 
-<ul class="pagenav">
+<ul class="page-nav">
   <!-- TODO: Find a way to remove whitespace inside for loops! -->
-  {% for entry in include.entries %}<li class="entry entry-{{ entry.title | slugify }}"><a href="#{{ entry.title | slugify }}" class="entry" title="Jump to {{ entry.title}}">{{ entry.title}}</a></li>{% endfor %}
+  {% for entry in include.entries %}
+    {% if entry.tag %}
+      {% assign entry_tag = entry.tag %}
+    {% else %}
+      {% assign entry_tag = entry.title | slugify %}
+    {% endif %}
+    <li class="entry entry-{{ entry_tag }}">
+      <a href="#{{ entry_tag }}" class="entry" title="Jump to {{ entry.title}}">
+        {{ entry.title}}
+      </a>
+    </li>
+  {% endfor %}
 </ul>
