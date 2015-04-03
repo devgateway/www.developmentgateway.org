@@ -6,4 +6,20 @@ permalink: /partnership/
 weight: 7
 ---
 
-This is the partnership page
+# Partners
+
+
+# Coalitions
+
+{% multicols pageintro clearfix %}
+
+
+<--colbreak-->
+
+
+{% endmulticols %}
+
+
+#Consortia
+
+#Become a partner today
