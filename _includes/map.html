@@ -1,7 +1,3 @@
-{% assign countries = site.data.countries-africa %}
-{% assign countries = countries | concat: site.data.countries-americas %}
-{% assign countries = countries | concat: site.data.countries-asia %}
-{% assign countries = countries | concat: site.data.countries-europe %}
 
 <div class="map-wrapper clearfix">
   <div
@@ -17,25 +13,26 @@
   </div>
 
   <ul class="reach-data">
-    {% for country in countries %}
-      {% if country.lat and country.lon %}
+    {% assign regions = 'africa,asia,europe,americas' | split: ',' %}
+    {% for region in regions %}{% for project in site.data.projects[region] %}
+      {% if project.lat and project.lon %}
         <!-- maybe create a liquid template filter to generate data- props -->
         <li
           class="reach-map-data"
-          data-country="{{ country.country }}"
-          data-id="{{ country.id }}"
-          data-lat="{{ country.lat }}"
-          data-lon="{{ country.lon }}"
-          data-year="{{ country.year }}"
-          data-project="{{ country.project }}"
-          data-description="{{ country.description }}"
-          data-quote="{{ country.quote }}"
-          data-quoteAuthor="{{ country.quoteAuthor }}"
-          data-url="{{ country.url }}"
-          data-region="{{ country.region }}">
-          <a href="#{{ country.id }}">{{ country.country }}</a>
+          data-name="{{ project.name }}"
+          data-id="{{ project.id }}"
+          data-lat="{{ project.lat }}"
+          data-lon="{{ project.lon }}"
+          data-year="{{ project.year }}"
+          data-category="{{ project.category }}"
+          data-description="{{ project.description }}"
+          data-quote="{{ project.quote }}"
+          data-quoteAuthor="{{ project.quoteAuthor }}"
+          data-url="{{ project.url }}"
+          data-region="{{ project.region }}">
+          <a href="#{{ project.id }}">{{ project.name }}</a>
         </li>
       {% endif %}
-    {% endfor %}
+    {% endfor %}{% endfor %}
   </ul>
 </div>

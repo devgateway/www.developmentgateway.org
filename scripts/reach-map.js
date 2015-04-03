@@ -21,7 +21,7 @@
     // set up the map
     var map = L.map(mapEl, {
       scrollWheelZoom: false,
-      zoomControl: false,  // re-added later in the desired location
+      zoomControl: false  // re-added later in the desired location
     }).setView([10, 15], 1);
     var needToZoomBy = map.getBounds()._northEast.lng / (180*1.5);
     if (needToZoomBy > 1) {
@@ -36,7 +36,7 @@
     }).addTo(map);
     L.control.zoom({
       position: 'bottomright',
-      zoomOutText: '',  // we will draw our own centred minus with css
+      zoomOutText: ''  // we will draw our own centred minus with css
     }).addTo(map);
     return map;
   }
@@ -89,17 +89,17 @@
 
     for (i=0; i<dataEls.length; i++) {
       data.push(pickData(dataEls[i], {
-        country: convert.string,
+        name: convert.string,
         id: convert.string,
         lat: convert.float,
         lon: convert.float,
         year: convert.int,
-        project: convert.string,
+        category: convert.string,
         description: convert.string,
         quote: convert.string,
         quoteAuthor: convert.string,
         url: convert.string,
-        region: convert.string,
+        region: convert.string
       }));
     }
     return data;

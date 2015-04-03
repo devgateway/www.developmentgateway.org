@@ -1,0 +1,57 @@
+
+.project-wrapper {
+  margin-bottom: 2em;
+
+  .title {
+    color: $blue_vibrant;
+    font-size: $larger;
+    font-weight: $font_weight_light;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+  .flag {
+    border: 1px solid $grey_lightest;
+    float: left;
+    height: 1.5em;
+    margin-right: $gen_gutter_width/2;
+  }
+  .category {
+    font-weight: bold;
+    color: $black;
+  }
+}
+
+// Style project quotes.
+.project-quote {
+  background: lighten($grey_lightest, 5%);
+  border: 1px solid $grey_lightest;
+  font-size: $small*1.3;
+  padding: 1em 2em;
+  overflow: hidden;
+  position: relative;
+
+  p {
+    // Create new stacking context.
+    position: relative;
+  }
+
+  &:before,
+  &:after {
+    color: $grey_lightest;
+    display: block;
+    font-family: $font_stack_alt;
+    font-size: 14em;
+    position: absolute;
+  }
+
+  &:before {
+    content: open-quote;
+    left: -0.2em;
+    top: -0.25em;
+  }
+  &:after {
+    content: close-quote;
+    right: -0.08em;
+    bottom: -0.65em;
+  }
+}

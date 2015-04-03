@@ -1,41 +1,42 @@
-- country: European Union
+
+- name: European Union
   id: eu
   year: 2014
-  project: EUEU-DEVFIN
+  category: EUEU-DEVFIN
   description: "A scalable platform that enhances official development assistance (ODA) reporting capacity for new European Union (EU) member states."
-  feature1: Result Management
-  feature2: Open-source and IATI-compliant reporting tool
+  features:
+    - Result Management
+    - Open-source and IATI-compliant reporting tool
   quote:
-  quoteAuthor:
+  quote-author:
   url:
   lat: 49.5
-  lon: 22
-  region: europe
+  lon: 22.0
 
-- country: Kosovo
+- name: Kosovo
   id: kosovo
   year: 2009
-  project: Aid Management Platform
+  category: Aid Management Platform
   description: "The first country to launch a public portal, Kosovo's AMP tracks over  € 1.5 billion worth of project commitments utilizing data dashboards maps."
-  feature1: Government Transparency
-  feature2: Open-source and IATI-compliant reporting tool
+  features:
+    - Government Transparency
+    - Open-source and IATI-compliant reporting tool
   quote: "…we are now more effective and more efficient because the information necessary is just one click away."
-  quoteAuthor: Development Partner Representative, Kosovo
+  quote-author: Development Partner Representative, Kosovo
   url: http://public.amp-mei.net/
   lat: 42.5632698
   lon: 20.9020755
-  region: europe
 
-- country: Moldova
+- name: Moldova
   id: moldova
   year: 2013
-  project: Aid Management Platform
+  category: Aid Management Platform
   description: "Moldova's public AMP tracks donor commitments via easily accessible, standardized dashboards and maps, and serves as the basis for official government cooperation reports"
-  feature1: Ensuring quality data
-  feature2: Standardizing and validating aid information
+  features:
+    - Ensuring quality data
+    - Standardizing and validating aid information
   quote:
-  quoteAuthor: Development Partner Representative, Kosovo
+  quote-author: Development Partner Representative, Kosovo
   url: http://amp.gov.md/portal/
   lat: 46.979424
   lon: 28.3896969
-  region: europe
