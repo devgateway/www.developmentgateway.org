@@ -5,6 +5,8 @@
  * TODO: Add information on how to use these classes.
  */
 
+// Floats an image to the left or right of the text.
+// Usage: add {:.post-image.left} (or right) before the image.
 .post-image {
   display: table-cell;
   max-width: 20em;
@@ -29,4 +31,10 @@
   @include media-query-min($bp_medium) {
     width: 20em;
   }
+}
+
+// This class can be used to center align images and text.
+// Usage: add {:.post-center} before the paragraph/image.
+.post-center {
+  text-align: center;
 }
