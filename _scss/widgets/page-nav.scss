@@ -5,15 +5,26 @@
   margin: 0 0 1em;
   padding: 0;
 
-  li:last-child {
-    border-right: 1px solid $grey_lightest;
+  overflow-x: auto;
+  white-space: nowrap;
+
+  .item {
+    display: inline-block;
+
+    &:last-child {
+      border-right: 1px solid $grey_lightest;
+    }
   }
 
-  a {
+  .link {
     color: $grey_light;
     font-weight: normal;
-    outline: 1px solid $grey_lightest;
     text-transform: uppercase;
+
+    border-left: 1px solid $grey_lightest;
+    display: inline-block;
+    padding: 0.5em;
+
     &:hover {
       background: $blue_deep;
       color: $white;
@@ -23,37 +34,8 @@
       background: $blue_deep;
       color: $white;
     }
-    @include media-query-min($bp_small) {
-      display: inline-block;
-      border-left: 1px solid $grey_lightest;
-    }
-    @include media-query($bp_small, $bp_medium) {
-      padding: 0.5em 1em;
-    }
     @include media-query-min($bp_medium) {
-      padding: 1em 2em;
+      padding: 1em 5em;
     }
-  }
-  @include media-query-max($bp_small) {
-    font-size: 0.75em;
-    li {
-      display: block;
-    }
-    a {
-      display: block;
-      padding: 0.4em;
-    }
-  }
-  @include media-query-min($bp_small) {
-    li {
-      display: inline-block;
-    }
-  }
-}
-
-.page-nav-wrapper {
-  li a {
-    padding-left: 5em;
-    padding-right: 5em;
   }
 }
