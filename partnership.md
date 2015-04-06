@@ -10,15 +10,7 @@ weight: 7
 
 
 # Coalitions
-
-{% multicols pageintro half clearfix %}
-
-
-<--colbreak-->
-
-
-{% endmulticols %}
-
+{% include partners.html %}
 
 #Consortia
 

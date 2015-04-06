@@ -41,3 +41,14 @@ body {
   }
 }
 
+.columns.columns-3{
+  .column{
+    @include l-column(4);
+    &:first-child {
+      @include l-first-column();
+    }
+    &:last-child {
+      @include l-last-column();
+    }
+  }
+}

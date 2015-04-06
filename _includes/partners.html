@@ -1,0 +1,26 @@
+
+{% multicols clearfix %}
+
+{% for partner in site.data.partners.coalitions %}
+{% if partner.id contains 'wm' %}
+{{ partner.description }}
+{% endif %}
+{% endfor %}
+
+<--colbreak-->
+
+{% for partner in site.data.partners.coalitions %}
+{% if partner.id contains 'ogh' %}
+{{ partner.description }}
+{% endif %}
+{% endfor %}
+
+<--colbreak-->
+
+{% for partner in site.data.partners.coalitions %}
+{% if partner.id contains 'fbl' %}
+{{ partner.description }}
+{% endif %}
+{% endfor %}
+
+{% endmulticols %}
