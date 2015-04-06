@@ -19,7 +19,7 @@ include_map: True
 
   {% multicols region-columns clearfix | render-as-html %}
 
-  <img src="/images/other/globe-location-{{ region }}.png" alt="reach location {{ region }}">
+  <img src="/images/other/globe-location-{{ region }}.png" class="globe-image" alt="{{ region | capitalize }} region">
 
   <--colbreak-->
 
