@@ -11,12 +11,10 @@ body {
     padding: 0.5em;
   }
   @include media-query($bp_small, $bp_medium) {
-    @include l-row-wrapper(10);
-    // changed the value from 8 to 10
+    @include l-row-wrapper(8);
   }
   @include media-query-min($bp_medium) {
-    @include l-row-wrapper(14);
-    // changed the value from 12 to 14
+    @include l-row-wrapper(12);
   }
 }
 
@@ -42,3 +40,4 @@ body {
     }
   }
 }
+
