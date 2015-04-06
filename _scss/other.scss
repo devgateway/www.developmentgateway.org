@@ -70,3 +70,12 @@ cite {
     content: "\2014 \2009";
   }
 }
+
+// general logo images hover effect
+.logo{
+  @include transition;
+  opacity: 1;
+  &:hover{
+    opacity: 0.8;
+  }
+}

@@ -3,6 +3,9 @@
 
 {% for partner in site.data.partners.coalitions %}
 {% if partner.id contains 'wm' %}
+<a href="{{partner.url}}" target="_blank">
+<img role="img" src="{{ site.url }}/images/partners/{{ partner.logo }}" alt="{{ partner.partner }} logo" class="logo">
+</a>
 {{ partner.description }}
 {% endif %}
 {% endfor %}
@@ -11,6 +14,9 @@
 
 {% for partner in site.data.partners.coalitions %}
 {% if partner.id contains 'ogh' %}
+<a href="{{partner.url}}" target="_blank">
+<img role="img" src="{{ site.url }}/images/partners/{{ partner.logo }}" alt="{{ partner.partner }} logo" class="logo">
+</a>
 {{ partner.description }}
 {% endif %}
 {% endfor %}
@@ -19,6 +25,9 @@
 
 {% for partner in site.data.partners.coalitions %}
 {% if partner.id contains 'fbl' %}
+<a href="{{partner.url}}" target="_blank">
+<img role="img" src="{{ site.url }}/images/partners/{{ partner.logo }}" alt="{{ partner.partner }} logo" class="logo">
+</a>
 {{ partner.description }}
 {% endif %}
 {% endfor %}
