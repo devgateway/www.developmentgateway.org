@@ -1,120 +1,120 @@
 
-- partner: Burkina Faso
+- name: Burkina Faso
   flag: burkina-faso.svg
   id:
   category:
 
-- partner: Chad
+- name: Chad
   flag:
   id:
   category:
 
-- partner: Cote d'Ivoire
+- name: Cote d'Ivoire
   flag:
   id:
   category:
 
-- partner: Democratic Republic of Congo
+- name: Democratic Republic of Congo
   flag:
   id:
   category:
 
-- partner: Ethiopia
+- name: Ethiopia
   flag:
   id:
   category:
 
-- partner: Guinea-Bissau
+- name: Guinea-Bissau
   flag:
   id:
   category:
 
-- partner: Haiti
+- name: Haiti
   flag:
   id:
   category:
 
-- partner: Honduras
+- name: Honduras
   flag:
   id:
   category:
 
-- partner: Kosovo
+- name: Kosovo
   flag:
   id:
   category:
 
-- partner: Kyrgyz Republic
+- name: Kyrgyz Republic
   flag:
   id:
   category:
 
-- partner: Laos
+- name: Laos
   flag:
   id:
   category:
 
-- partner: Liberia
+- name: Liberia
   flag:
   id:
   category:
 
-- partner: Malawi
+- name: Malawi
   flag:
   id:
   category:
 
-- partner: Moldova
+- name: Moldova
   flag:
   id:
   category:
 
-- partner: Mozambique
+- name: Mozambique
   flag:
   id:
   category:
 
-- partner: Nepal
+- name: Nepal
   flag:
   id:
   category:
 
-- partner: Nicaagua
+- name: Nicaagua
   flag:
   id:
   category:
 
-- partner: Niger
+- name: Niger
   flag:
   id:
   category:
 
-- partner: Senegal
+- name: Senegal
   flag:
   id:
   category:
 
-- partner: South Sudan
+- name: South Sudan
   flag:
   id:
   category:
 
-- partner: Tanzania
+- name: Tanzania
   flag:
   id:
   category:
 
-- partner: Timor-Leste
+- name: Timor-Leste
   flag:
   id:
   category:
 
-- partner: Togo
+- name: Togo
   flag:
   id:
   category:
 
-- partner: Uganda
+- name: Uganda
   flag:
   id:
   category:

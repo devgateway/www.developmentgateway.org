@@ -1,18 +1,18 @@
 
-- partner: William & Mary
+wm:
+  name: William & Mary
   description: An innovative partnership with William & Mary and Brigham Young University seeking to make development information open, accessible, and useful for decision makers.
   logo: wm-logo.png
   url: https://www.wm.edu
-  id: wm
 
-- partner: Feedback Labs
+fbl:
+  name: Feedback Labs
   description: A consortium of organizations committed to making governments, NGOs, and donors more responsive to their constituents; Development Gateway is a co-founder.
   logo: fbl-logo.png
   url: http://feedbacklabs.org
-  id: fbl
 
-- partner: Open Gov Hub
+ogh:
+  name: Open Gov Hub
   description: The home and community gathering point for open government groups and activities in the Washington, DC area; Development Gateway is a co-founder.
   logo: ogh-logo.png
   url: http://opengovhub.org
-  id: ogh
