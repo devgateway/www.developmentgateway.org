@@ -1,0 +1,50 @@
+---
+layout: page
+title: Blog
+title_summary: because solutions should be shared
+permalink: /blog/
+weight: 8
+include_share_widgets: True
+---
+
+<div class="blog-page-wrapper clearfix">
+
+  <div class="blog-main-column-wrapper blog-listing-wrapper">
+    <div class="blog-listing">
+      {% for post in site.posts %}
+      <article class="blog-entry mobject clearfix">
+        <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="post-meta">
+          <span class="post-date">
+            <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
+          </span>
+          <span class="post-author">
+            <span class="fa fa-user"></span>{{ post.author}}
+          </span>
+          <span class="post-categories">{{ post.categories }}</span>
+        </div>
+
+        <div class="group-side">
+          <div class="thumbnail-wrapper">
+            <img src="{{site.url}}/{{post.thumbnail}}" alt="article preview">
+          </div>
+        </div>
+
+        <div class="group-main">
+          <p class="post-excerpt">{{ post.excerpt }}</p>
+          <a class="readmore" href="{{ post.url }}">Continue reading</a>
+          {% include social-sharing.html %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+
+  <section class="blog-sidebar-wrapper">
+    <div class="blog-sidebar">
+      <p>Blog sidebar content...</p>
+    </div>
+  </section>
+
+</div>

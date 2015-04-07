@@ -1,94 +1,44 @@
-// temporary layout- ask Walter about column implementation and then move the below styles to a different file
 
-.blog-listing-wrapper {
+.blog-listing {
   background: $grey_lightest;
-  width: 45em;
+}
 
-  ul {
-    display: block;
-    list-style: none;
+.blog-entry {
+  border-bottom: 1px solid $grey_lightest;
+  margin-bottom: 2em;
+  padding: 1em 1em 2em;
 
-    li {
-      border-bottom: 1px solid $grey_lightest;
-      display: block;
-      margin-bottom: 1.5em;
-      overflow: hidden;
-      padding-bottom: 2em;
+  .title {
+    @include clearfix-mixin;
+    margin-bottom: 0.5em;
+  }
 
-      h2 {
-        @include clearfix-mixin;
-        display: block;
-        margin: 0 0 0.5em;
-        padding-top: 0;
-      }
+  //post meta information
+  .post-meta {
+    @include clearfix-mixin;
+    border-bottom: 1px solid lighten($grey_lightest, 3%);
+    font-size: $smaller;
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+
+    .post-date,
+    .post-author {
+      margin-right: $gen_gutter_width;
+    }
+    .fa.fa-calendar,
+    .fa.fa-user {
+      color: $blue_vibrant;
+      margin-right: $gen_gutter_width/2;
     }
   }
 
-}
-
-.post-tags {
-  @include clearfix-mixin;
-  background: $grey_lightest;
-  display: block;
-  font-size: $smaller;
-  padding-top: 1em;
-}
-
-// post thumbnail image
-.post-thumbnail-col {
-  float: left;
-  margin-right: $gen_gutter_width;
-  width: 20em;
-}
-
-.post-thumbnail {
-  @include border-radius(2px);
-  border: 1px solid lighten($grey_lightest, 3%);
-  display: block;
-  max-width: 100%;
-  padding: 0.3em;
-}
-
-.post-excerpt-col {
-  float: left;
-  width: 20em;
-
-  .post-excerpt {
+  .thumbnail-wrapper {
+    @include border-radius(2px);
+    border: 1px solid lighten($grey_lightest, 3%);
     display: block;
-    margin: 0 0 1em;
+    padding: 0.3em;
+
+    // @TODO: Use smaller images!
+    width: 20em;
   }
-}
-
-//post meta information
-.post-meta {
-  @include clearfix-mixin;
-  border-bottom: 1px solid lighten($grey_lightest, 3%);
-  display: block;
-  font-size: $smaller;
-  margin-bottom: 1.5em;
-  padding-bottom: 1em;
-
-  .post-date,
-  .post-author {
-    margin-right: $gen_gutter_width;
-  }
-  .fa.fa-calendar,
-  .fa.fa-user {
-    color: $blue_vibrant;
-    margin-right: $gen_gutter_width/2;
-  }
-}
-
-// social media button wrapper
-.social-share-wrapper {
-  display: block;
-  margin: 1em 0;
-}
-
-// blog sidebar
-.blog-sidebar-wrapper {
-  background: $red_dark;
-  display: inline-block;
-  float: right;
-  width: 20em;
 }

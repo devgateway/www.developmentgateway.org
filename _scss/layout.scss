@@ -18,6 +18,23 @@ body {
   }
 }
 
+.blog-main-column-wrapper {
+  @include media-query($bp_small, $bp_medium) {
+    @include l-column(6);
+  }
+  @include media-query-min($bp_medium) {
+    @include l-column(8);
+  }
+}
+.blog-sidebar-wrapper {
+  @include media-query($bp_small, $bp_medium) {
+    @include l-column(4);
+  }
+  @include media-query-min($bp_medium) {
+    @include l-column(4);
+  }
+}
+
 .columns-2.half {
   .column {
     @include media-query($bp_small, $bp_medium) {
@@ -41,8 +58,8 @@ body {
   }
 }
 
-.columns.columns-3{
-  .column{
+.columns-3{
+  .column {
     @include l-column(4);
     &:first-child {
       @include l-first-column();
