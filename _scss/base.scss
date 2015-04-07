@@ -13,6 +13,10 @@ html {
   font-weight: $font_weight_light;
 }
 
+.main-content {
+  background-color: $white;
+}
+
 /**
  * Fixes the issue with contained floating elements that do not force the container's height.
  */
@@ -94,8 +98,4 @@ html {
     padding: 1em;
     text-decoration: none;
   }
-}
-
-h2 {
-  font-weight: $font_weight_light;
 }

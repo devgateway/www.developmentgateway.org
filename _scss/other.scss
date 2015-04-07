@@ -1,3 +1,4 @@
+
 html,
 body {
   background-color: $footer_bg;
@@ -5,27 +6,6 @@ body {
 
 a {
   @include link-color($blue_vibrant)
-}
-
-.main-content {
-  background-color: $white;
-}
-
-h3.title {
-  color: $green_lime;
-  font-size: $large;
-}
-
-.page-banner {
-  border: 1px solid $grey_lightest;
-}
-
-// connect page
-.content-social-nav {
-  ul {
-    margin-left: -1.2em;
-    padding-left: 0;
-  }
 }
 
 blockquote {
@@ -64,11 +44,43 @@ cite {
   }
 }
 
-// general logo images hover effect
-.logo{
+// @TODO: Cleanup this section.
+h2 {
+  font-weight: $font_weight_light;
+}
+
+h3.title {
+  color: $green_lime;
+  font-size: $large;
+}
+
+// connect page
+.content-social-nav {
+  ul {
+    margin-left: -1.2em;
+    padding-left: 0;
+  }
+}
+
+// General logo images hover effect.
+.logo {
   @include transition;
   opacity: 1;
   &:hover{
     opacity: 0.8;
+  }
+}
+
+.page-banner {
+  border: 1px solid $grey_lightest;
+}
+
+.page-intro {
+  .column {
+    @include media-query-max($bp_small) {
+      &:first-child {
+        text-align: center;
+      }
+    }
   }
 }
