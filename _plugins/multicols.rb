@@ -7,7 +7,7 @@ module Jekyll
        @extra_classes = nil
        @html = nil
 
-       if markup =~ /^([a-z0-9\s-]+)(\|\s*(render-as-html)\s*)?$/i
+       if markup =~ /^([a-z0-9\s-]+)(?:\|\s*(render-as-html)\s*)?$/i
          @extra_classes = $1.strip
          @html = $2
        end
