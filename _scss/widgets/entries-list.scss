@@ -15,9 +15,16 @@
     }
   }
 
+  // @TODO: Remove!
   .entry {
     @include media-query-min($bp_medium) {
       @include l-column(4);
+      &:first-child {
+        @include l-first-column();
+      }
+      &:last-child {
+        @include l-last-column();
+      }
     }
   }
 }

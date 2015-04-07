@@ -2,11 +2,7 @@ body {
   min-width: 20em;
 }
 
-.page-header-inner,
-.post-header-inner,
-.main-footer-inner,
-.post-content-inner,
-.page-content-inner {
+.page-layout-element {
   @include media-query-max($bp_small) {
     padding: 0.5em;
   }
@@ -15,6 +11,9 @@ body {
   }
   @include media-query-min($bp_medium) {
     @include l-row-wrapper(12);
+  }
+  & > .layout-spacing {
+    @include l-column-single();
   }
 }
 
@@ -39,21 +38,9 @@ body {
   .column {
     @include media-query($bp_small, $bp_medium) {
       @include l-column(4);
-      &:first-child {
-        @include l-first-column();
-      }
-      &:last-child {
-        @include l-last-column();
-      }
     }
     @include media-query-min($bp_medium) {
       @include l-column(6);
-      &:first-child {
-        @include l-first-column();
-      }
-      &:last-child {
-        @include l-last-column();
-      }
     }
   }
 }
@@ -61,11 +48,5 @@ body {
 .columns-3{
   .column {
     @include l-column(4);
-    &:first-child {
-      @include l-first-column();
-    }
-    &:last-child {
-      @include l-last-column();
-    }
   }
 }

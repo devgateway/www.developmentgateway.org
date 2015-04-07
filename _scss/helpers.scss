@@ -212,6 +212,11 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
   width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
 }
 
+@mixin l-column-single() {
+  margin-left: $gen_gutter_width / 2;
+  margin-right: $gen_gutter_width / 2;
+}
+
 // Style for nested columns.
 @mixin l-first-column() {
   margin-left: 0;

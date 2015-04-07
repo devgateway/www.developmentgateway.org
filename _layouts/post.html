@@ -1,39 +1,48 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <script type="text/javascript">var switchTo5x = true;</script>
-  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-  <script type="text/javascript">
-    stLight.options({
-      publisher: "b9cfa139-7db9-4558-b1b3-ab2013772adc",
-      doNotHash: false,
-      doNotCopy: false,
-      hashAddressBar: false
-    });
-  </script>
+<div class="blog-page-wrapper clearfix">
 
-  <header class="post-header">
-    <div class="post-header-inner">
-      <h1 class="post-title">{{ page.title }}</h1>
+  <div class="blog-main-column-wrapper blog-post-wrapper">
+    <script type="text/javascript">var switchTo5x = true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">
+      stLight.options({
+        publisher: "b9cfa139-7db9-4558-b1b3-ab2013772adc",
+        doNotHash: false,
+        doNotCopy: false,
+        hashAddressBar: false
+      });
+    </script>
 
-      <p class="post-meta">
-        {{ page.date | date: "%b %-d, %Y" }}
-        {% if page.author %}
-          • {{ page.author }}
-        {% endif %}
-        {% if page.meta %}
-          • {{ page.meta }}
-        {% endif %}
-      </p>
+    <header class="post-header">
+      <div class="post-header-inner">
+        <h1 class="title">{{ page.title }}</h1>
+
+        <p class="post-meta">
+          {{ page.date | date: "%b %-d, %Y" }}
+          {% if page.author %}
+            • {{ page.author }}
+          {% endif %}
+          {% if page.meta %}
+            • {{ page.meta }}
+          {% endif %}
+        </p>
+      </div>
+    </header>
+
+    <article class="post-content">
+      <div class="post-content-inner">
+        {{ content }}
+      </div>
+    </article>
+  </div>
+
+  <section class="blog-sidebar-wrapper">
+    <div class="blog-sidebar">
+      <p>Blog sidebar content...</p>
     </div>
-  </header>
-
-  <article class="post-content">
-    <div class="post-content-inner">
-      {{ content }}
-    </div>
-  </article>
+  </section>
 
 </div>
