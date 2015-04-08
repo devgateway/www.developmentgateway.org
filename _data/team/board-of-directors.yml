@@ -1,51 +1,67 @@
-# list of board of directors
-- team: Mary O'Kane, Ph.D
-  position: Chair of the Board
-  bio: Professor O’Kane became chair of Development Gateway in 2009. She is the New South Wales Chief Scientist and Engineer; the Executive Chairman of Mary O’Kane & Associates Pty Ltd, a company that advises governments, universities, and the private sector on innovation, research, education, and development; and a former president of the University of Adelaide.
+
+- name: "Mary O'Kane, Ph.D"
+  position: "Chair of the Board"
   avatar: avatar.png
+  bio: |
+      Professor O’Kane became chair of Development Gateway in 2009. She is the New South Wales Chief Scientist and Engineer; the Executive Chairman of Mary O’Kane & Associates Pty Ltd, a company that advises governments, universities, and the private sector on innovation, research, education, and development; and a former president of the University of Adelaide.
 
-- team: Motoo Kusakabe
-  position: Vice Chair
-  bio: >
-   Founder of Open City Foundation; former Senior Counselor to the President of the European Bank for Reconstruction and Development.
+
+- name: "Motoo Kusakabe"
+  position: "Vice Chair"
   avatar: avatar.png
+  bio: |
+      Founder of Open City Foundation; former Senior Counselor to the President of the European Bank for Reconstruction and Development.
 
-- team: V.S. Subrahmanian
-  position: Secretary, Chair of Audit Committee
-  bio: Professor of computer science; director of the University of Maryland Institute of Advanced Computer Science.
+
+- name: "V.S. Subrahmanian"
+  position: "Secretary, Chair of Audit Committee"
   avatar: avatar.png
+  bio: |
+      Professor of computer science; director of the University of Maryland Institute of Advanced Computer Science.
 
-- team: Rudolf Haggenmueller
-  position: Chair of the Finance Committee
-  bio:  Vice President of Cirquent GmbH, Professor at Munich University; Chair of IT for European Advancement, the EUREKA Cluster on Software-Intensive Systems and Services.
+
+- name: "Rudolf Haggenmueller"
+  position: "Chair of the Finance Committee"
   avatar: avatar.png
+  bio: |
+      Vice President of Cirquent GmbH, Professor at Munich University; Chair of IT for European Advancement, the EUREKA Cluster on Software-Intensive Systems and Services.
 
-- team: Olivier Brochenin
-  position: Board member
-  bio:  A Sous-Directeur in the French Ministry of Foreign Affairs; representing France on the DG Board.
-  avatar:  avatar.png
 
-- team: Julián Casasbuenas
-  position: Board member
-  bio: Director of Colnodo, the Colombia Country Gateway host.
+- name: "Olivier Brochenin"
+  position: "Board member"
   avatar: avatar.png
+  bio: |
+      A Sous-Directeur in the French Ministry of Foreign Affairs; representing France on the DG Board.
 
-- team: Adrianus Melkert
-  position:
-  bio: Senior Fellow at the Results for Development Institute; independent senior adviser on CSR, international public affairs, and employment strategies.
+
+- name: "Julián Casasbuenas"
+  position: "Board member"
   avatar: avatar.png
+  bio: |
+      Director of Colnodo, the Colombia Country Gateway host.
 
-- team: Matthew Williams
-  position: Board member
-  bio: A Counselor for the Embassy of Australia; representing Australia on the DG board.
+
+- name: "Adrianus Melkert"
+  position: ~
   avatar: avatar.png
+  bio: |
+      Senior Fellow at the Results for Development Institute; independent senior adviser on CSR, international public affairs, and employment strategies.
 
-- team: Dennis Whittle
-  position: Co-founder of GlobalGiving
-  bio:
+
+- name: "Matthew Williams"
+  position: "Board member"
   avatar: avatar.png
+  bio: |
+      A Counselor for the Embassy of Australia; representing Australia on the DG board.
 
-- team: Jean-Louis Sarbib
-  position: CEO of Development Gateway (ex officio, non-voting)
-  bio:
+
+- name: "Dennis Whittle"
+  position: "Co-founder of GlobalGiving"
+  avatar: avatar.png
+  bio: ~
+
+
+- name: "Jean-Louis Sarbib"
+  position: "CEO of Development Gateway (ex officio, non-voting)"
   avatar: jl.png
+  bio: ~

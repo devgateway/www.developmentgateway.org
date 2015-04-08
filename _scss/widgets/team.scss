@@ -1,41 +1,16 @@
-// team
-.team-member {
-  overflow: hidden;
-  width: 100%;
-  margin-top: $gen_gutter_width*2;
-}
-.team-block {
-  clear: both;
-  margin-bottom: 20px;
-}
-.team-photo {
-  float: left;
-  margin-right: $gen_gutter_width;
-  display: block;
-  width: 15%;
-  img {
-    min-width: 100%;
-  }
-  @include media-query-max($bp_medium) {
 
+.team-member {
+  margin-bottom: 2em;
+
+  .photo {
+    max-width: 9em;
   }
-}
-.team-info {
-  float: left;
-  width: 80%;
-}
-.team-name {
-  font-weight: bold;
-  color: $blue_deep;
-}
-.team-bio {
-  margin-top: $gen_gutter_width;
-}
-.team-position {
-  color: $black;
-}
-.bottom-helper {
-  height: 2em;
-  clear: both;
-  width: 100%;
+
+  .name {
+    font-weight: bold;
+    color: $blue_deep;
+  }
+  .position {
+    color: $black;
+  }
 }

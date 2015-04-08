@@ -1,165 +1,132 @@
-# dg staff
 
-- team: Jean-Louis Sarbib
-  position: Chief Executive Officer
-  bio: >
-    <p>Jean-Louis Sarbib is currently Chief Executive Officer at Development Gateway,
-    an international nonprofit social enterprise with the mission to reduce poverty
-    in developing nations by improving aid effectiveness, governance, and transparency
-    through information technology. Mr. Sarbib joined the board of the Development
-    Gateway in 2004 and was elected chair in 2008. In March 2009, the board asked him
-    to serve as chief executive officer.</p>
-
-    <p>From 1980 to 2006, Mr. Sarbib was at the World Bank where he occupied a number
-    of senior positions. From 1996 to 2000, Mr. Sarbib was the World Bank’s Vice President
-    for Africa and from 2000 to 2003, the Vice President for the Middle East and North
-    Africa (MENA). His last position (2003 – 2006) was as Senior Vice President for human
-    development, with global responsibilities for the World Bank activities in education,
-    health, social protection, and HIV/AIDS.</p>
-
-    <p>Upon leaving the Bank, Mr. Sarbib joined Wolfensohn & Company as a managing director
-    from October 2006 to March 2009. A French national, Mr. Sarbib serves on the boards of
-    World Links for Development, Ben-Gurion University of the Negev, The International Center
-    for Conciliation, and FXB International. He served on the board of GAVI (the Global Alliance
-    for Vaccines and Immunization) from 2003 to 2009, the board of UNESCO’s International
-    Institute for Education Planning from 2003 to 2006, chaired the governing board of the
-    UNESCO Institute of Statistics (2004-2006), and represented the World Bank at Head of
-    Agency level at the UN-AIDS Committee of Co-Sponsoring Agencies. He has taught at
-    Georgetown University (2008-2010), and served as senior non-resident fellow at the
-    Brookings Institution (2006-2010) and adviser to James Wolfensohn (2006-2010).</p>
-
-    <p>Mr. Sarbib graduated from the Ecole Nationale Supérieure des Mines de Paris, before
-    going on to the University of Pennsylvania for a master’s degree in city and regional
-    planning. After working for the French Ministry of Industry as Deputy Director of the
-    Groupe de Reflexion sur les Stratégies Industrielles (GRESI), he returned to teach in
-    the United States, at the University of Pennsylvania and the University of North Carolina,
-    Chapel Hill.</p>
-
-    <p>In 2006, Mr. Sarbib was awarded an honorary doctorate by the University of Ouagadougou
-    in Burkina Faso, and received a Lifetime Award for Diversity and Inclusion by the World Bank.
-    He received numerous honors from the countries where he worked.</p>
+- name: "Jean-Louis Sarbib"
+  position: "Chief Executive Officer"
   avatar: jl.png
+  bio: |
+      Jean-Louis Sarbib is currently Chief Executive Officer at Development Gateway, an international nonprofit social enterprise with the mission to reduce poverty in developing nations by improving aid effectiveness, governance, and transparency through information technology. Mr. Sarbib joined the board of the Development Gateway in 2004 and was elected chair in 2008. In March 2009, the board asked him to serve as chief executive officer.
 
-- team: Catalin Andrei
-  position: Director of Information Technology
-  bio: >
-    Catalin ensures the successful execution of Development Gateway’s mission through development and deployment of information and communications technologies.
-    Catalin has a master’s degree in engineering from the Institut National des Sciences Appliquées in Lyon, France. Before joining Development Gateway, he worked with Capgemini.
+      From 1980 to 2006, Mr. Sarbib was at the World Bank where he occupied a number of senior positions. From 1996 to 2000, Mr. Sarbib was the World Bank’s Vice President for Africa and from 2000 to 2003, the Vice President for the Middle East and North Africa (MENA). His last position (2003 – 2006) was as Senior Vice President for human development, with global responsibilities for the World Bank activities in education, health, social protection, and HIV/AIDS.
+
+      Upon leaving the Bank, Mr. Sarbib joined Wolfensohn & Company as a managing director from October 2006 to March 2009. A French national, Mr. Sarbib serves on the boards of World Links for Development, Ben-Gurion University of the Negev, The International Center for Conciliation, and FXB International. He served on the board of GAVI (the Global Alliance for Vaccines and Immunization) from 2003 to 2009, the board of UNESCO’s International Institute for Education Planning from 2003 to 2006, chaired the governing board of the UNESCO Institute of Statistics (2004-2006), and represented the World Bank at Head of Agency level at the UN-AIDS Committee of Co-Sponsoring Agencies. He has taught at Georgetown University (2008-2010), and served as senior non-resident fellow at the Brookings Institution (2006-2010) and adviser to James Wolfensohn (2006-2010).
+
+      Mr. Sarbib graduated from the Ecole Nationale Supérieure des Mines de Paris, before going on to the University of Pennsylvania for a master’s degree in city and regional planning. After working for the French Ministry of Industry as Deputy Director of the Groupe de Reflexion sur les Stratégies Industrielles (GRESI), he returned to teach in the United States, at the University of Pennsylvania and the University of North Carolina, Chapel Hill.
+
+      In 2006, Mr. Sarbib was awarded an honorary doctorate by the University of Ouagadougou in Burkina Faso, and received a Lifetime Award for Diversity and Inclusion by the World Bank. He received numerous honors from the countries where he worked.
+
+
+- name: "Catalin Andrei"
+  position: "Director of Information Technology"
   avatar: catalin.png
+  bio: |
+      Catalin ensures the successful execution of Development Gateway’s mission through development and deployment of information and communications technologies. Catalin has a master’s degree in engineering from the Institut National des Sciences Appliquées in Lyon, France. Before joining Development Gateway, he worked with Capgemini.
 
-- team: Nancy McGuire Choi
-  position: Senior Director of Operations, Co-Executive Director of AidData
-  bio: >
-    <p>Nancy oversees the day-to-day management and strategic direction of programs
-    in over 30 countries. She focuses on building high-performing teams, continuously
-    improving our solutions and clients' experiences, and identifying new products and
-    services at the center of transparency and accountability, results management, and
-    citizen engagement. Nancy has extensive experience leading aid management and
-    transparency projects and working with governments and donors around the world.</p>
 
-    <p>Previously, Nancy monitored and responded to natural disasters and humanitarian
-    emergencies for USAID's Office of U.S. Foreign Disaster Assistance. Nancy holds an MS
-    in Foreign Service from Georgetown University and a BA from Harvard University.</p>
+- name: "Nancy McGuire Choi"
+  position: "Senior Director of Operations, Co-Executive Director of AidData"
   avatar: nancy.png
+  bio: |
+      Nancy oversees the day-to-day management and strategic direction of programs in over 30 countries. She focuses on building high-performing teams, continuously improving our solutions and clients' experiences, and identifying new products and services at the center of transparency and accountability, results management, and citizen engagement. Nancy has extensive experience leading aid management and transparency projects and working with governments and donors around the world.
 
-- team: Abdoulaye Diatta
+      Previously, Nancy monitored and responded to natural disasters and humanitarian emergencies for USAID's Office of U.S. Foreign Disaster Assistance. Nancy holds an MS in Foreign Service from Georgetown University and a BA from Harvard University.
+
+
+- name: "Abdoulaye Diatta"
   position: Controller
-  bio: >
-    Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish.
-    Abdoulaye holds an MBA from the University of Maryland.
   avatar: avatar.png
+  bio: |
+    Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish. Abdoulaye holds an MBA from the University of Maryland.
 
-- team: Josh Powell
-  position: Director of Innovation
-  bio: >
-    Josh manages the AidData Innovation Team for USAID's HESN Award, which includes scoping and managing IT programs for coding, sharing, visualizing, and analyzing data; developing in-country pilots using the latest technology; and supporting the technical needs of the Field Operations team. Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina.
-    Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
+
+- name: "Josh Powell"
+  position: "Director of Innovation"
   avatar: josh.png
+  bio: |
+      Josh manages the AidData Innovation Team for USAID's HESN Award, which includes scoping and managing IT programs for coding, sharing, visualizing, and analyzing data; developing in-country pilots using the latest technology; and supporting the technical needs of the Field Operations team.
 
-- team: Dina Abdel-Fattah
+      Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina. Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
+
+
+- name: "Dina Abdel-Fattah"
   position: Associate
-  bio: >
-    Dina supports Development Gateway's Aid Management Program; she was previously DG's USAID Geo-coding Aid Management Fellow in Nepal. Before joining the team, Dina was a Project Manager at the DESERTEC Foundation, Hamburg, Germany. Dina holds a Master's of Science in International Development Studies from the University of Amsterdam, the Netherlands and a Bachelor of Arts in International Relations from the College of William and Mary, USA.
   avatar: dina.png
+  bio: |
+      Dina supports Development Gateway's Aid Management Program; she was previously DG's USAID Geo-coding Aid Management Fellow in Nepal. Before joining the team, Dina was a Project Manager at the DESERTEC Foundation, Hamburg, Germany. Dina holds a Master's of Science in International Development Studies from the University of Amsterdam, the Netherlands and a Bachelor of Arts in International Relations from the College of William and Mary, USA.
 
-- team: Benjamin Arancibia
+
+- name: "Benjamin Arancibia"
   position: Associate
-  bio: >
-    Ben is a Technical Associate at Development Gateway and brings his research, data analysis, and GIS development knowledge to working on various projects for DG. He focuses on AidData platform and DG's Aid Management Platform in Honduras helping to pilot a new module in South-South Cooperation. Ben is a candidate for a Master's in Data Analytics/Data Science.
   avatar: ben.png
+  bio: |
+      Ben is a Technical Associate at Development Gateway and brings his research, data analysis, and GIS development knowledge to working on various projects for DG. He focuses on AidData platform and DG's Aid Management Platform in Honduras helping to pilot a new module in South-South Cooperation. Ben is a candidate for a Master's in Data Analytics/Data Science.
 
-- team: Hamadoun Cisse
-  position: Project Accountant
-  bio: >
+
+- name: "Hamadoun Cisse"
+  position: "Project Accountant"
   avatar: avatar.png
+  bio: ~
 
-- team: Taryn Davis
-  position: Senior Associate
-  bio: >
-    Taryn supports DG’s Aid Management Program. Previously, she was an Aid Management fellow in Lao, PDR and also worked with DG’s communications team. She formerly worked for the American Red Cross as the Service to Armed Forces Coordinator. Taryn received her bachelor’s degree from Brigham Young University.
+
+- name: "Taryn Davis"
+  position: "Senior Associate"
   avatar: taryn.png
+  bio: |
+      Taryn supports DG’s Aid Management Program. Previously, she was an Aid Management fellow in Lao, PDR and also worked with DG’s communications team. She formerly worked for the American Red Cross as the Service to Armed Forces Coordinator. Taryn received her bachelor’s degree from Brigham Young University.
 
-- team: Vanessa Goas
-  position: Senior Associate
-  bio: >
-    Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
+
+- name: "Vanessa Goas"
+  position: "Senior Associate"
   avatar: vanessa.png
+  bio: |
+      Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
 
-- team: Dustin Homer
-  position: Business Development and Partnerships Manager
-  bio: >
-    Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
+
+- name: "Dustin Homer"
+  position: "Business Development and Partnerships Manager"
   avatar: dustin.png
+  bio: |
+      Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
 
-- team: Thad Kerosky
-  position: Software Developer
-  bio: >
-    <p>Thad works on data-oriented software development projects at DG. Since 2007, he has worked
-    to implement information and communication technology projects with governments, social
-    enterprises, and startups in the United States and in countries across East and West Africa,
-    including Tanzania and Liberia.</p>
 
+- name: "Thad Kerosky"
+  position: "Software Developer"
   avatar: avatar.png
+  bio: |
+      Thad works on data-oriented software development projects at DG. Since 2007, he has worked to implement information and communication technology projects with governments, social enterprises, and startups in the United States and in countries across East and West Africa, including Tanzania and Liberia.
 
-- team: Paige Kirby
-  position: External Relations Associate
-  bio: >
+
+- name: "Paige Kirby"
+  position: "External Relations Associate"
   avatar: avatar.png
+  bio: ~
 
-- team: Stepan Semenukha
+
+- name: "Stepan Semenukha"
   position: Analyst
-  bio: >
-    Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
   avatar: stepan.png
+  bio: |
+      Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
 
-- team: Bijana Sharma Poudel
-  position: Staff Accountant
-  bio: >
-    <p>Bijana focuses on accurate financial activities for Development Gateway in the Finance Department.
-    Originally from Kathmandu, Nepal, she started her professional career as a middle school teacher,
-    before moving into commercial banking as a supervisor at the Nepal Investment Bank. In the USA,
-    she worked for Ashoka before joining Development Gateway. Bijana has a business degree from Tribhuwan University, Kathmandu, Nepal.</p>
+
+- name: "Bijana Sharma Poudel"
+  position: "Staff Accountant"
   avatar: avatar.png
+  bio: |
+      Bijana focuses on accurate financial activities for Development Gateway in the Finance Department. Originally from Kathmandu, Nepal, she started her professional career as a middle school teacher, before moving into commercial banking as a supervisor at the Nepal Investment Bank. In the USA, she worked for Ashoka before joining Development Gateway. Bijana has a business degree from Tribhuwan University, Kathmandu, Nepal.
 
-- team: Martha Staid
-  position: Senior Associate
-  bio: >
-    <p>Martha Staid manages projects at Development Gateway, including innovation pilot programs
-    and development of mapping tools. Previously, she worked at the World Bank in Innovation,
-    Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.</p>
 
-    <p>She holds an MS in Foreign Service from Georgetown University, an MA in Literature from
-    University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.</p>
+- name: "Martha Staid"
+  position: "Senior Associate"
   avatar: avatar.png
+  bio: |
+      Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
 
-- team: Mounina Bocoum Wade
-  position: In memoriam
-  bio: >
-    <p>In December 2008 Development Gateway lost a beloved colleague, Mounina Bocoum Wade (1974-2008),
-    a development specialist and a member of the aid effectiveness team since 2006.
-    Mounina was instrumental in the evolution and growth of the aid effectiveness program, and worked
-    to strengthen the organization’s presence in Africa.</p >
+      She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
 
-    <p>Previously, Mounina worked as a project manager for IT companies in Cote d’Ivoire and Senegal. She received a master’s degree in computer science from McGill University, and held a bachelor’s degree from the University of Paris, Orsay.
-    She set a standard of excellence in her professional life, but will be remembered above all for her indomitable joie de vivre.</p>
+
+- name: "Mounina Bocoum Wade"
+  position: "In memoriam"
   avatar: avatar.png
+  bio: |
+      In December 2008 Development Gateway lost a beloved colleague, Mounina Bocoum Wade (1974-2008), a development specialist and a member of the aid effectiveness team since 2006. Mounina was instrumental in the evolution and growth of the aid effectiveness program, and worked to strengthen the organization’s presence in Africa.
+
+      Previously, Mounina worked as a project manager for IT companies in Cote d’Ivoire and Senegal. She received a master’s degree in computer science from McGill University, and held a bachelor’s degree from the University of Paris, Orsay. She set a standard of excellence in her professional life, but will be remembered above all for her indomitable joie de vivre.

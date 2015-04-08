@@ -27,20 +27,25 @@ weight: 0
 
 {% assign sections = 'Board of Directors,Staff' | split: ',' %}
 {% for section in sections %}
-<div class="team-section">
+{% assign section_name = section | slugify %}
+<div class="team-section team-{{ section_name }} clearfix">
   <h3 class="title">{{ section }}</h3>
-  {% assign section_name = section | slugify %}
   {% for team in site.data.team[section_name] %}
-  <div class="team-block">
-    <div class="team-photo">
-      <img src="{{site.url}}/images/team/{{team.avatar}}">
+  <div class="team-member mobject clearfix">
+    <div class="photo group-side">
+      <img src="{{ site.url }}/images/team/{{ team.avatar }}">
     </div>
-    <div class="team-info">
-      <div class="team-name">{{team.team}}</div>
-      <div class="team-position">{{team.position}}</div>
-      <div class="team-bio">{{team.bio}}</div>
+    <div class="info group-main">
+      <div class="name">{{ team.name }}</div>
+
+      {% if team.position %}
+        <div class="position">{{ team.position }}</div>
+      {% endif %}
+
+      {% if team.bio %}
+        <div class="bio">{{ team.bio | markdownify }}</div>
+      {% endif %}
     </div>
-    <div class="bottom-helper"></div>
   </div>
   {% endfor %}
 </div>
