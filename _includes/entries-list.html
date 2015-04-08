@@ -3,7 +3,7 @@
   {% for entry in include.entries %}
   <div class="entry" id="{{ entry.title | slugify }}">
     <h2 class="title">{{ entry.title}}</h2>
-    <p class="description">{{ entry.description }}</p>
+    <div class="description">{{ entry.description | markdownify }}</div>
   </div>
   {% endfor %}
 </div>
