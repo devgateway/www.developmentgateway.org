@@ -13,6 +13,8 @@
 
   <script src="{{ '/lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}"></script>
   <script src="{{ '/lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/scripts/jquery-min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/scripts/smoothscroll.js' | prepend: site.baseurl }}"></script>
 
   {% if page.include_map %}
     <link rel="stylesheet" href="{{ '/lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
@@ -26,4 +28,15 @@
     </script>
     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
   {% endif %}
+
+  <script>
+  var num = 50; //number of pixels before modifying styles
+  $(window).bind('scroll', function () {
+      if ($(window).scrollTop() > num) {
+          $('.main-header').addClass('fixed');
+      } else {
+          $('.main-header').removeClass('fixed');
+      }
+  });
+  </script>
 </head>
