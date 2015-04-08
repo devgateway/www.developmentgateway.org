@@ -35,11 +35,11 @@ nav_data: expertise_topics
   </p>
 
   {% assign featured_programs = site.programs | dg_find_all: 'featured', true %}
-  {% include entries-list.html entries=featured_programs class="expertise-featured-programs clearfix" %}
+  {% include widgets/entries-list.html entries=featured_programs class="expertise-featured-programs clearfix" %}
 
-  {% include entries-list.html entries=site.data.expertise_topics class="expertise-topics clearfix" %}
+  {% include widgets/entries-list.html entries=site.data.expertise_topics class="expertise-topics clearfix" %}
 
   {% assign normal_programs = site.programs | dg_find_all: 'featured', false %}
-  {% include entries-list.html entries=normal_programs class="expertise-programs clearfix" %}
+  {% include widgets/entries-list.html entries=normal_programs class="expertise-programs clearfix" %}
 
 </div>
