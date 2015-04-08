@@ -10,12 +10,12 @@ layout: default
     {% include map.html %}
   {% endif %}
 
+  {% if page.nav_data %}
   <div class="page-nav-wrapper">
-    {% if page.nav_data %}
-      {% assign nav_entries = site.data[page.nav_data] %}
-      {% include page-nav.html entries=nav_entries %}
-    {% endif %}
+    {% assign nav_entries = site.data[page.nav_data] %}
+    {% include page-nav.html entries=nav_entries %}
   </div>
+  {% endif %}
 
   <article class="page-content">
     <div class="page-content-inner page-layout-element">
