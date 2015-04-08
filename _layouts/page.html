@@ -7,13 +7,13 @@ layout: default
   {% include page-header.html %}
 
   {% if page.include_map %}
-    {% include map.html %}
+    {% include widgets/map.html %}
   {% endif %}
 
   {% if page.nav_data %}
   <div class="page-nav-wrapper">
     {% assign nav_entries = site.data[page.nav_data] %}
-    {% include page-nav.html entries=nav_entries %}
+    {% include widgets/page-nav.html entries=nav_entries %}
   </div>
   {% endif %}
 

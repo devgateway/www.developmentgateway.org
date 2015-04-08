@@ -2,7 +2,7 @@
 <!-- @see http://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither -->
 <!--[if IE 8 ]> <html class="no-js ie8 lt-ie9"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
-{% include head.html %}
+{% include main/head.html %}
 <body>
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">
@@ -11,14 +11,13 @@
   </div>
 
   <div class="page-wrapper">
-    {% include main-header.html %}
+    {% include main/header.html %}
 
     <div role="main" id="main-content" class="main-content clearfix">
       {{ content }}
     </div>
 
-    {% include main-footer.html %}
-    {% include social-footer.html %}
+    {% include main/footer.html %}
   </div>
 </body>
 </html>
