@@ -3,7 +3,12 @@
   margin-bottom: 2em;
 
   .photo {
-    max-width: 9em;
+    // @TODO: Use smaller images!
+    width: 9em;
+
+    @include media-query-max($bp_small) {
+      display: none;
+    }
   }
 
   .name {
@@ -14,12 +19,15 @@
     color: $black;
   }
 
-  &.col {
-    width: 50%;
-    float: left;
-    // .col-0
-    &-0 {
-      clear: left;
+
+  @include media-query-min($bp_medium) {
+    &.col {
+      width: 50%;
+      float: left;
+      // .col-0
+      &-0 {
+        clear: left;
+      }
     }
   }
 }

@@ -27,16 +27,18 @@ html {
 /**
  * Set the style for a 2 column CSS Media Object, first column is optional.
  */
-.mobject {
-  position: relative;
-  .group-side {
-    display: block;
-    float: left;
-    margin-right: 0.5em;
-  }
-  .group-main {
-    display: table-cell;
-    width: 500em;
+@include media-query-min($bp_small) {
+  .mobject {
+    position: relative;
+    .group-side {
+      display: block;
+      float: left;
+      margin-right: 1em;
+    }
+    .group-main {
+      display: table-cell;
+      width: 500em;
+    }
   }
 }
 
