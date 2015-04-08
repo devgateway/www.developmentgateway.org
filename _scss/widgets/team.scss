@@ -19,11 +19,12 @@
     color: $black;
   }
 
-
   @include media-query-min($bp_medium) {
     &.col {
-      width: 50%;
-      float: left;
+      @include media-query-min($bp_medium) {
+        @include l-column(6);
+      }
+
       // .col-0
       &-0 {
         clear: left;
