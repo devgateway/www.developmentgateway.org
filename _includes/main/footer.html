@@ -1,11 +1,13 @@
 
 <footer role="banner" class="main-footer">
-  <div class="main-footer-inner page-layout-element clearfix">
-
+  <div class="footer-info-wrapper"><div class="footer-info-inner page-layout-element clearfix">
     <div class="footer-items">
       <nav role="navigation" class="footer-navigation">
         <ul class="links clearfix">
-          <li class="item"><a class="link" href="#">About</a></li><li class="item"><a class="link" href="#">Careers</a></li><li class="item"><a class="link" href="#">Contact Us</a></li><li class="item"><a class="link" href="#">Privacy &amp; Terms</a></li>
+          <li class="item"><a class="link" href="#">About</a></li>
+          <li class="item"><a class="link" href="#">Careers</a></li>
+          <li class="item"><a class="link" href="#">Contact Us</a></li>
+          <li class="item"><a class="link" href="#">Privacy &amp; Terms</a></li>
         </ul>
       </nav>
 
@@ -20,6 +22,13 @@
         <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
       </a>
     </div>
+  </div></div>
 
-  </div>
+  <div class="footer-social-wrapper"><div class="footer-social-inner page-layout-element">
+    <nav role="navigation" class="footer-social-navigation layout-spacing">
+      <span class="social-slogan">Follow Us</span>
+      {% include widgets/follow-links.html %}
+    </nav>
+  </div></div>
+
 </footer>
