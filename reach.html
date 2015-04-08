@@ -8,32 +8,38 @@ nav_data: reach
 include_map: True
 ---
 
-{% assign regions = 'africa,asia,europe,americas' | split: ',' %}
+{% assign regions = 'Africa,Asia,Europe,Americas' | split: ',' %}
 
 {% for region in regions %}
-<div class="region-wrapper region-{{ region }}">
-  <h2 id="region-{{ region }}">
-    {% if region == 'americas' %}The{% endif %}
+{% assign region_name = region | slugify %}
+<div id="region-{{ region_name }}" class="region-wrapper clearfix">
+  <h2 class="title">
+    {% if region_name == 'americas' %}The{% endif %}
     {{ region | capitalize }}
   </h2>
 
   {% multicols region-columns clearfix | render-as-html %}
 
-  <img src="/images/other/globe-location-{{ region }}.png" class="globe-image" alt="{{ region | capitalize }} region">
+  <img src="/images/other/globe-location-{{ region_name }}.png" class="globe-image" alt="{{ region }} region">
 
   <--colbreak-->
 
-  {% for project in site.data.projects[region] %}
+  {% for project in site.data.projects[region_name] %}
   <div id="{{ project.id }}" class="project-wrapper clearfix">
 
     <h3 class="title">
       <img class="flag" role="img" src="{{ site.url }}/images/projects/{{ project.id }}.svg" alt="Flag of {{ project.name }}">
       {{ project.name }}
-      <span> – {{project.year}}</span>
+      <span> - {{project.year}}</span>
     </h3>
 
     <div class="category">{{ project.category }}</div>
-    <p>{{ project.description }}</p>
+
+    {% if project.description %}
+    <div class="description">
+      {{ project.description | markdownify }}
+    </div>
+    {% endif %}
 
     <ul class="features">
       {% for feature in project.features %}
@@ -43,7 +49,7 @@ include_map: True
 
     {% if project.quote %}
     <blockquote class="project-quote">
-      <p>{{ project.quote }}</p>
+      {{ project.quote | markdownify }}
     </blockquote>
     {% endif %}
 
