@@ -2,6 +2,7 @@
 <footer role="banner" class="main-footer">
   <div class="footer-info-wrapper"><div class="footer-info-inner page-layout-element clearfix">
     <div class="footer-items">
+      {% stripwhitespace %}
       <nav role="navigation" class="footer-navigation">
         <ul class="links clearfix">
           <li class="item"><a class="link" href="#">About</a></li>
@@ -10,6 +11,7 @@
           <li class="item"><a class="link" href="#">Privacy &amp; Terms</a></li>
         </ul>
       </nav>
+      {% endstripwhitespace %}
 
       <div class="footer-copyright">
         &copy; {{ site.time | date: '%Y' }} {{ site.copyright }}

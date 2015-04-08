@@ -9,6 +9,7 @@
       </a>
     </h1>
 
+    {% stripwhitespace %}
     <ul class="btn-nav">
       <li class="btn-search">
         <a href="#" title="search">
@@ -21,8 +22,10 @@
         </a>
       </li>
     </ul>
+    {% endstripwhitespace %}
   </div>
 
+  {% stripwhitespace %}
   <nav role="navigation" class="main-navigation">
     <ul class="links clearfix">
     {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
@@ -30,6 +33,7 @@
       {{ page.title }}</a></li>{% endif %}{% endfor %}
     </ul>
   </nav>
+  {% endstripwhitespace %}
 
   </div>
 </header>

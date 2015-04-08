@@ -13,10 +13,12 @@ include_map: True
 {% for region in regions %}
 {% assign region_name = region | slugify %}
 <div id="region-{{ region_name }}" class="region-wrapper clearfix">
+  {% forcereducewhitespace %}
   <h2 class="title">
     {% if region_name == 'americas' %}The{% endif %}
     {{ region | capitalize }}
   </h2>
+  {% endforcereducewhitespace %}
 
   {% multicols region-columns clearfix | render-as-html %}
 

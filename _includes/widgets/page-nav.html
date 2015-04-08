@@ -1,4 +1,5 @@
 
+{% stripwhitespace %}
 <ul class="page-nav clearfix">
   {% for entry in include.entries %}
     {% if entry.tag %}
@@ -13,3 +14,4 @@
     </li>
   {% endfor %}
 </ul>
+{% endstripwhitespace %}
