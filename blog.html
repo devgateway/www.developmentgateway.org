@@ -25,11 +25,13 @@ include_share_widgets: True
           <span class="post-categories">{{ post.categories }}</span>
         </div>
 
+        {% if post.thumbnail %}
         <div class="group-side">
           <div class="thumbnail-wrapper">
-            <img src="{{site.url}}/{{post.thumbnail}}" alt="article preview">
+            {% image thumb_small {{ post.thumbnail | prepend: site.baseurl }} title="article preview" %}
           </div>
         </div>
+        {% endif %}
 
         <div class="group-main">
           <p class="post-excerpt">{{ post.excerpt }}</p>

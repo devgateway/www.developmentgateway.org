@@ -22,6 +22,21 @@ map:
 baseurl: ""
 url: ""
 
+# Define image presets for the image tag plugin.
+image:
+  presets:
+    avatar_small:
+      width: 144
+      height: 144
+    thumb_small:
+      width: 240
+      height: 160
+    thumb_large:
+      # 19 * 1em
+      width: 304
+      # 12 * 1em
+      height: 192
+
 collections:
   programs:
     output: false
