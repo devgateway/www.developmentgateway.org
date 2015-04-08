@@ -1,0 +1,17 @@
+
+<div class="team-member {{ include.class }} clearfix">
+  <div class="photo group-side">
+    <img src="{{ site.url }}/images/team/{{ include.member.avatar }}">
+  </div>
+  <div class="info group-main">
+    <div class="name">{{ include.member.name }}</div>
+
+    {% if include.member.position %}
+      <div class="position">{{ include.member.position }}</div>
+    {% endif %}
+
+    {% if include.member.bio %}
+      <div class="bio">{{ include.member.bio | markdownify }}</div>
+    {% endif %}
+  </div>
+</div>

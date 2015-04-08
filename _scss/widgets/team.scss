@@ -13,4 +13,13 @@
   .position {
     color: $black;
   }
+
+  &.col {
+    width: 50%;
+    float: left;
+    // .col-0
+    &-0 {
+      clear: left;
+    }
+  }
 }

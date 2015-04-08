@@ -30,23 +30,22 @@ weight: 0
 {% assign section_name = section | slugify %}
 <div class="team-section team-{{ section_name }} clearfix">
   <h3 class="title">{{ section }}</h3>
-  {% for team in site.data.team[section_name] %}
-  <div class="team-member mobject clearfix">
-    <div class="photo group-side">
-      <img src="{{ site.url }}/images/team/{{ team.avatar }}">
-    </div>
-    <div class="info group-main">
-      <div class="name">{{ team.name }}</div>
-
-      {% if team.position %}
-        <div class="position">{{ team.position }}</div>
+  {% assign offset = 0 %}
+  {% for team_member in site.data.team[section_name] %}
+    {% if team_member.position == 'Chief Executive Officer' %}
+      {% assign wrapper_class = "mobject" %}
+      {% assign offset = 1 %}
+    {% else %}
+      {% comment %}
+        @HACK: The .nth-*() CSS selectors can not be used with an 'offset'.
+      {% endcomment %}
+      {% if offset == 0 %}
+        {% capture wrapper_class %}col col-{{ forloop.index0 | modulo:2 }} mobject{% endcapture %}
+      {% else %}
+        {% capture wrapper_class %}col col-{{ forloop.index | modulo:2 }} mobject{% endcapture %}
       {% endif %}
-
-      {% if team.bio %}
-        <div class="bio">{{ team.bio | markdownify }}</div>
-      {% endif %}
-    </div>
-  </div>
+    {% endif %}
+    {% include widgets/team-member.html member=team_member class=wrapper_class %}
   {% endfor %}
 </div>
 {% endfor %}
