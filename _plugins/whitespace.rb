@@ -2,19 +2,19 @@
 module Jekyll
   class StripWhiteSpace < Liquid::Block
     def render(context)
-      # Remove whitespace between tags.
-      super.gsub />\s*</, '><'
       # Reduce whitespace inside tags.
       super.gsub />\s+(.*?)\s+</, '> \1 <'
+      # Remove whitespace between tags.
+      super.gsub />\s*</, '><'
     end
   end
 
   class ReduceWhiteSpace < Liquid::Block
     def render(context)
-      # Reduce whitespace between tags.
-      super.gsub />\s+</, '> <'
       # Reduce whitespace inside tags.
       super.gsub />\s+(.*?)\s+</, '> \1 <'
+      # Reduce whitespace between tags.
+      super.gsub />\s+</, '> <'
     end
   end
 
