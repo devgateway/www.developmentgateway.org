@@ -1,13 +1,13 @@
 # This Data Files should contain topics for the connect page.
 
 - title: Connect
-  description: >
-
-- title: Partner
-  description: >
+  tag: connect
 
 - title: Join
-  description: >
+  tag: join
+
+- title: Partner
+  tag: partner
 
 - title: Contact
-  description: >
+  tag: contact
