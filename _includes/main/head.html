@@ -17,7 +17,7 @@
   <script src="{{ 'lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}"></script>
   <script src="{{ 'lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
 
-  {% if page.nav_data %}
+  {% if page.nav_data or page.position_indicator %}
     <script src="{{ 'lib/smooth-scroll/smooth-scroll.min.js' | prepend: site.baseurl }}" defer="defer"></script>
   {% endif %}
 

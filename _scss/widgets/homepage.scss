@@ -1,14 +1,14 @@
 
 .homepage-wrapper {
   background-color: $black;
+  color: $white;
+
+  .section-wrapper {
+    @include l-row-separator();
+  }
 }
 
-.homepage-section {
-  @include l-row-separator();
-}
-
-/*section*/
-.homepage-blog-listing {
+.section-latest-stories {
   .section-title {
     color: $highlight_text;
     font-weight: $font_weight_light;
@@ -17,6 +17,7 @@
 
   .blog-entry-wrapper {
     background-color: $white;
+    color: $default_text;
   }
 
   .blog-entry {
@@ -52,5 +53,26 @@
       @include l-column-force-height($line_height: 1.5em, $rows: 7);
     }
   }
+}
 
+.homepage-position-indicator {
+  position: fixed;
+  top: 10em;
+  right: 1em;
+  text-align: right;
+
+  .position {
+    display: block;
+    margin: 0.5em 0;
+  }
+
+  .position-link {
+    @include border-radius(50%);
+    @include hide-text(block, 1em);
+    border: 2px solid $highlight_text;
+
+    &.active {
+      background-color: #FFDE00;
+    }
+  }
 }

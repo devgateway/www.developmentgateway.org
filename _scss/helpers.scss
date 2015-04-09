@@ -3,7 +3,6 @@
  * Misc helpers and shortcuts
  */
 
-// #################### Shortcuts ####################
 /*
  * CSS3 Border-radius.
  *
@@ -143,6 +142,16 @@
     color: $hover_color;
   }
 }
+
+// Hides text inside a tag, useful for replacing text with images.
+@mixin hide-text($type: block, $size: 1em) {
+  display: $type;
+  height: 0;
+  overflow: hidden;
+  padding-top: $size;
+  width: $size;
+}
+
 
 // Define breakpoints. Increased by 1em to account for browsers that include
 // borders in viewport size.

@@ -1,30 +1,16 @@
 ---
 layout: default
+position_indicator: True
 ---
 
 <div class="homepage-wrapper clearfix">
+  <div class="homepage-position-indicator">
+    {% include widgets/position-indicator.html sections=site.homepage_sections %}
+  </div>
 
-  <section class="homepage-section homepage-blog-listing page-layout-element">
-    <h1 class="section-title">The latest stories released by DG</h1>
-    <div class="columns-3 clearfix">
-      {% for post in site.posts | limit: 3 %}
-      <div class="blog-entry-wrapper column clearfix">
-        <article class="blog-entry">
-          <div class="blog-image-wrapper">
-            <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.thumbnail-alt }}">
-          </div>
-
-          <div class="blog-info">
-            <h3 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-
-            <div class="blog-lede clearfix">{{ post.lede | markdownify }}</div>
-
-            <p class="blog-date">{{ post.date | date: '%B %d, %Y' }}</p>
-          </div>
-        </article>
-      </div>
-      {% endfor %}
-    </div>
+  {% for section in site.homepage_sections | sort: "weight" %}
+  <section id="{{ section.selector }}" class="section-wrapper {{ section.selector }} {{ section.class }}" >
+    {{ section.output }}
   </section>
-
+  {% endfor %}
 </div>

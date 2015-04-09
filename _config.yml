@@ -25,6 +25,8 @@ url: ""
 collections:
   programs:
     output: false
+  homepage_sections:
+    output: false
 
 #-----------------#
 # Jekyll settings #

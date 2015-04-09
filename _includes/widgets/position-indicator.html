@@ -1,0 +1,12 @@
+
+{% stripwhitespace %}
+<ul class="position-indicator">
+  {% for section in include.sections %}
+    <li class="position">
+      <a href="#{{ section.selector }}" class="position-link select-{{ section.selector }}" title="Jump to {{ section.title }}">
+        {{ section.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+{% endstripwhitespace %}
