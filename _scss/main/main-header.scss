@@ -60,7 +60,6 @@
       @include transition();
     }
 
-    // Display horizontal scroll bars on small devices.
     @include media-query-max($bp_small) {
       line-height: 2em;
     }

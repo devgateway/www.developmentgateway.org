@@ -21,6 +21,11 @@
     <script src="{{ 'lib/smooth-scroll/smooth-scroll.min.js' | prepend: site.baseurl }}" defer="defer"></script>
   {% endif %}
 
+  {% if page.position_indicator %}
+    <script src="{{ 'lib/classList/classList.min.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ 'scripts/position-indicator.js' | prepend: site.baseurl }}" defer="defer"></script>
+  {% endif %}
+
   {% if page.include_map %}
     <link rel="stylesheet" href="{{ 'lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
     <script src="{{ 'lib/leaflet/leaflet.js' | prepend: site.baseurl }}"></script>
