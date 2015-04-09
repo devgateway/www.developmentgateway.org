@@ -4,7 +4,7 @@ $blue_light: #b8d9fe;
 $blue_deep: #005695;
 $blue_medium: #0588cb;
 $blue_vibrant: #1595d3;
-$yellow: #ffde00;
+$highlight_text: #ffde00;
 
 $footer_bg: #082133;
 $footer_social_bg: #041724;
@@ -26,7 +26,7 @@ $black: #000000;
 // Font variables.
 $font_stack_default: 'Open Sans', 'sans-serif';
 $font_stack_alt: 'Georgia', 'serif';
-$font_weight_light: 300;
+$font_weight_light: 300; // The lowest font weight available for `Open Sans`.
 
 // Text Sizes.
 $smaller: 0.75em;

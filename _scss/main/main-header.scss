@@ -56,7 +56,7 @@
     text-transform: uppercase;
 
     &:hover {
-      color: $yellow;
+      color: $highlight_text;
       @include transition();
     }
 
@@ -92,11 +92,12 @@ h1.site-name {
 
 // header search and social buttons
 ul.btn-nav {
-  @include unstyled_list;
+  display: block;
   float: left;
 
   li {
     float: left;
+    display: inline-block;
 
     a {
       outline: none;

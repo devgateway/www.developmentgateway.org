@@ -1,21 +1,12 @@
 ---
 layout: post
 title: "Improving Aid Management in Ethiopia"
-excerpt: >
+lede: |
     Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
-thumbnail: images/posts/2005/img1.png
-thumbnail-alt: Picture of on Ethiopian lady
-categories:
-  - category 1
-  - category 2
-tags:
-  - tag1
-  - tag2
-  - tag3
-
-author: Paige Kirby
+thumbnail: "images/posts/2005/img1.png"
+thumbnail-alt: "Picture of on Ethiopian lady"
+author: "Paige Kirby"
 ---
-
 
 > Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 

@@ -72,7 +72,7 @@
   width: $country_marker_size;
   margin-top: -$country_marker_size/2;
   margin-left: -$country_marker_size/2;
-  background-color: transparentize($yellow, 0.8);
+  background-color: transparentize($highlight_text, 0.8);
   &:before,
   &:after {
     content: "";
@@ -88,7 +88,7 @@
     width: $s;
     margin-top: -($s/2);
     margin-left: -($s/2);
-    background-color: transparentize($yellow, 0.6);
+    background-color: transparentize($highlight_text, 0.6);
   }
   &:after {
     $s: ($country_marker_size - 1.1rem);
@@ -97,7 +97,7 @@
     width: $s;
     margin-top: -($s/2);
     margin-left: -($s/2);
-    background-color: $yellow;
+    background-color: $highlight_text;
   }
 }
 
@@ -117,7 +117,7 @@
     margin: 0.1em 0;
     font-weight: 300;
     font-size: $largest;
-    color: $yellow;
+    color: $highlight_text;
   }
   .help {
     margin: 0;

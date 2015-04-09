@@ -1,20 +1,12 @@
 ---
 layout: post
 title: "Increasing Business by Going Online"
-excerpt: >
+lede: |
     Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms. Masawe displays samples of her beautiful textiles.  Tanzania In Tanzania, more than half the population lives on...
-thumbnail: images/posts/2005/img3.png
-thumbnail-alt: Picture of on Ethiopian lady
-categories:
-  - category 1
-  - category 2
-tags:
-  - tag1
-  - tag2
-  - tag3
-author: Josh Powell
+thumbnail: "images/posts/2005/img3.png"
+thumbnail-alt: "Picture of on Ethiopian lady"
+author: "Josh Powell"
 ---
-
 
 ## Tanzania
 

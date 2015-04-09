@@ -1,7 +1,9 @@
 
-.blog-entry {
-  border-bottom: 1px solid $grey_lightest;
-  padding: 1em 1em 2em;
+.blog-listing {
+  .blog-entry {
+    border-bottom: 1px solid $grey_lightest;
+    padding: 1em 1em 2em;
+  }
 
   .title {
     @include clearfix-mixin;
@@ -9,25 +11,25 @@
   }
 
   //post meta information
-  .post-meta {
+  .blog-meta {
     @include clearfix-mixin;
     border-bottom: 1px solid lighten($grey_lightest, 3%);
     font-size: $smaller;
     margin-bottom: 1.5em;
     padding-bottom: 1em;
-
-    .post-date,
-    .post-author {
-      margin-right: $gen_gutter_width;
-    }
-    .fa.fa-calendar,
-    .fa.fa-user {
-      color: $blue_vibrant;
-      margin-right: $gen_gutter_width/2;
-    }
   }
 
-  .thumbnail-wrapper {
+  .blog-date,
+  .blog-author {
+    margin-right: $gen_gutter_width;
+  }
+  .fa.fa-calendar,
+  .fa.fa-user {
+    color: $blue_vibrant;
+    margin-right: $gen_gutter_width/2;
+  }
+
+  .blog-image-wrapper {
     @include border-radius(2px);
     border: 1px solid lighten($grey_lightest, 3%);
     display: block;

@@ -2,24 +2,29 @@
 layout: default
 ---
 
-<div class="home">
+<div class="homepage-wrapper clearfix">
 
-  <h1 class="page-heading">Posts</h1>
+  <section class="homepage-section homepage-blog-listing page-layout-element">
+    <h1 class="section-title">The latest stories released by DG</h1>
+    <div class="columns-3 clearfix">
+      {% for post in site.posts | limit: 3 %}
+      <div class="blog-entry-wrapper column clearfix">
+        <article class="blog-entry">
+          <div class="blog-image-wrapper">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.thumbnail-alt }}">
+          </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="blog-info">
+            <h3 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+            <div class="blog-lede clearfix">{{ post.lede | markdownify }}</div>
 
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}">via RSS</a></p>
+            <p class="blog-date">{{ post.date | date: '%B %d, %Y' }}</p>
+          </div>
+        </article>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
 
 </div>

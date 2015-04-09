@@ -27,12 +27,12 @@ include_share_widgets: True
 
         <div class="group-side">
           <div class="thumbnail-wrapper">
-            <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.thumbnail-alt }}">
           </div>
         </div>
 
         <div class="group-main">
-          <div class="post-excerpt">{{ post.excerpt | markdownify }}</div>
+          <div class="post-lede">{{ post.lede | markdownify }}</div>
           <a class="readmore" href="{{ post.url }}">Continue reading</a>
           {% include social-sharing.html %}
         </div>

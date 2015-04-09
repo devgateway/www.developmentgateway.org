@@ -46,19 +46,26 @@
 .footer-social-wrapper {
   background: darken($blue_deep, 22%);
   padding: 2em 0;
-  text-align: right;
+
+  @include media-query-max($bp_small) {
+    text-align: center;
+  }
+  @include media-query-min($bp_small) {
+    text-align: right;
+  }
 
   .social-slogan {
     color: $white;
-    font-size: $largest;
     font-weight: $font_weight_light;
     line-height: 1.50em;
 
     @include media-query-max($bp_small) {
       width: 100%;
       @include clearfix_mixin;
-      text-align: center;
       display: block;
+    }
+    @include media-query-min($bp_small) {
+      font-size: $largest;
     }
   }
 }
@@ -92,7 +99,7 @@
     padding: 0 0.5em;
 
     &:hover {
-      color: $yellow;
+      color: $highlight_text;
     }
   }
 
@@ -128,7 +135,7 @@
     @include transition;
 
     &:hover {
-      color: $yellow;
+      color: $highlight_text;
       background: $black;
     }
 

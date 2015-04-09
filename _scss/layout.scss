@@ -48,6 +48,8 @@ body {
 
 .columns-3 {
   .column {
-    @include l-column(4);
+    @include media-query-min($bp_medium) {
+      @include l-column(4);
+    }
   }
 }
