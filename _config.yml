@@ -19,7 +19,7 @@ map:
   minZoom: 1
   maxZoom: 5
 
-baseurl: ""
+baseurl: "/" # The folder in which the site is located on the web server.
 url: ""
 
 collections:

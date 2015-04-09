@@ -5,23 +5,26 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
+  {% comment %}
+  <!-- @TODO: Fix! -->
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
+  {% endcomment %}
 
-  <link rel="stylesheet" href="{{ '/lib/font-awesome/font-awesome.min.css' | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/lib/normalize/normalize.css' | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/styles/main.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ 'lib/font-awesome/font-awesome.min.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ 'lib/normalize/normalize.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ 'styles/main.css' | prepend: site.baseurl }}">
 
-  <script src="{{ '/lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ 'lib/modernizr/modernizr-custom.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ 'lib/svg4everybody/svg4everybody.min.js' | prepend: site.baseurl }}"></script>
 
   {% if page.nav_data %}
-    <script src="{{ '/lib/smooth-scroll/smooth-scroll.min.js' | prepend: site.baseurl }}" defer="defer"></script>
+    <script src="{{ 'lib/smooth-scroll/smooth-scroll.min.js' | prepend: site.baseurl }}" defer="defer"></script>
   {% endif %}
 
   {% if page.include_map %}
-    <link rel="stylesheet" href="{{ '/lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
-    <script src="{{ '/lib/leaflet/leaflet.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/scripts/reach-map.js' | prepend: site.baseurl }}" defer></script>
+    <link rel="stylesheet" href="{{ 'lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
+    <script src="{{ 'lib/leaflet/leaflet.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ 'scripts/reach-map.js' | prepend: site.baseurl }}" defer></script>
   {% endif %}
 
   {% if page.include_share_widgets %}

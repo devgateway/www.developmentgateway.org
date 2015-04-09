@@ -20,19 +20,19 @@ include_share_widgets: True
             <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
           </span>
           <span class="post-author">
-            <span class="fa fa-user"></span>{{ post.author}}
+            <span class="fa fa-user"></span>{{ post.author }}
           </span>
           <span class="post-categories">{{ post.categories }}</span>
         </div>
 
         <div class="group-side">
           <div class="thumbnail-wrapper">
-            <img src="{{site.url}}/{{post.thumbnail}}" alt="article preview">
+            <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="">
           </div>
         </div>
 
         <div class="group-main">
-          <p class="post-excerpt">{{ post.excerpt }}</p>
+          <div class="post-excerpt">{{ post.excerpt | markdownify }}</div>
           <a class="readmore" href="{{ post.url }}">Continue reading</a>
           {% include social-sharing.html %}
         </div>

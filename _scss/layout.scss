@@ -46,7 +46,7 @@ body {
   }
 }
 
-.columns-3{
+.columns-3 {
   .column {
     @include l-column(4);
   }
