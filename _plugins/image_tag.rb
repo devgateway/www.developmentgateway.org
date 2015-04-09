@@ -16,7 +16,6 @@
 
 require 'fileutils'
 require 'pathname'
-require 'digest/md5'
 require 'mini_magick'
 
 module Jekyll
@@ -108,7 +107,6 @@ module Jekyll
 
       image = MiniMagick::Image.open(image_source_path)
       image.coalesce
-      digest = Digest::MD5.hexdigest(image.to_blob).slice!(0..5)
 
       image_dir = File.dirname(instance[:src])
       ext = File.extname(instance[:src])
@@ -141,7 +139,7 @@ module Jekyll
         gen_height = if orig_ratio > gen_ratio then orig_height else orig_width/gen_ratio end
       end
 
-      gen_name = "#{basename}-#{gen_width.round}x#{gen_height.round}-#{digest}#{ext}"
+      gen_name = "#{basename}-#{gen_width.round}x#{gen_height.round}#{ext}"
       gen_dest_dir = File.join(site_dest, image_dest, image_dir)
       gen_dest_file = File.join(gen_dest_dir, gen_name)
 
