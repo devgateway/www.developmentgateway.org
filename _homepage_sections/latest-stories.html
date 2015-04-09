@@ -11,7 +11,7 @@ weight: 9
   <div class="blog-entry-wrapper column clearfix">
     <article class="blog-entry">
       <div class="blog-image-wrapper">
-        <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.thumbnail-alt }}">
+        {% image thumb_large {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" %}
       </div>
 
       <div class="blog-info">
