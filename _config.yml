@@ -30,7 +30,7 @@ image:
       height: 144
     flag_small:
       width: 64
-      height: 36
+      height: 32
     thumb_small:
       width: 240
       height: 160
