@@ -110,7 +110,9 @@
 
     function locate(where) {
       return function() {
-        window.location.hash = where;
+        window.smoothScrollTo.anchor(where, function() {
+          window.location.hash = where;
+        });
       }
     }
 
