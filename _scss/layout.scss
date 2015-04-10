@@ -3,11 +3,16 @@ body {
   min-width: 20em;
 }
 
-.header-left-section {
+.header-logo-section {
   float: left;
 }
-.header-menu-link-wrapper {
+.header-navigation-section {
   float: right;
+}
+.footer-main-navigation {
+  @include media-query($bp_small, $bp_medium) {
+    @include l-row-wrapper(8);
+  }
 }
 
 .page-layout-element {
@@ -19,9 +24,6 @@ body {
   }
   @include media-query-min($bp_medium) {
     @include l-row-wrapper(12);
-  }
-  & > .layout-spacing {
-    @include l-column-single();
   }
 }
 

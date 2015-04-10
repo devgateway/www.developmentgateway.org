@@ -1,7 +1,9 @@
 
-.footer-info-wrapper {
+.main-footer {
   background-color: $footer_bg;
+}
 
+.footer-info-wrapper {
   @include media-query-max($bp_medium) {
     padding: 1em 0;
   }
@@ -16,8 +18,9 @@
   }
 
   .footer-logo {
-    & > a {
-      font-size: 2em;
+    font-size: 2em;
+    img {
+      height: 2em;
     }
 
     @include media-query-max($bp_small) {
@@ -47,9 +50,6 @@
   background: darken($blue_deep, 22%);
   padding: 2em 0;
 
-  @include media-query-max($bp_small) {
-    text-align: center;
-  }
   @include media-query-min($bp_small) {
     text-align: right;
   }
@@ -133,7 +133,7 @@
     color: $blue_vibrant;
     width: 1em;
     text-align: center;
-    margin-left: $gen_gutter_width/2;
+    margin-right: $gen_gutter_width/2;
 
     &:hover {
       color: $highlight_text;
@@ -146,7 +146,7 @@
 
     @include media-query-max($bp_small) {
       font-size: $large*1.7;
-      margin-left: $gen_gutter_width/3;
+      margin-right: $gen_gutter_width/3;
       padding-right: 0.25em;
       padding-left: 0.25em;
     }

@@ -1,10 +1,6 @@
 
 <header role="banner" class="main-header">
   <div class="main-header-inner clearfix">
-    <div class="header-menu-link-wrapper">
-      <a class="header-menu-link" href="#main-navigation">Menu</a>
-    </div>
-
     <div class="header-logo-section">
       <h1 class="site-name">
         <a href="/" title="Visit the main page" rel="home">
@@ -30,5 +26,11 @@
       {% endstripwhitespace %}
       {% endcomment %}
     </div>
+
+    <div class="header-navigation-section">
+      <a class="header-menu-link" href="#main-navigation" data-no-smoothscroll="">Menu</a>
+      {% include main/navigation.html class="header-main-navigation" %}
+    </div>
+
   </div>
 </header>

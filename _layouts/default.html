@@ -25,7 +25,9 @@
       {{ content }}
     </div>
 
-    {% include main/navigation.html %}
+    <div class="footer-main-navigation-wrapper">
+      {% include main/navigation.html id="main-navigation" class="footer-main-navigation" %}
+    </div>
     {% include main/footer.html %}
   </div>
 </body>

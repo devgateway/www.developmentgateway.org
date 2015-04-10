@@ -1,34 +1,21 @@
 
-.header-menu-link-wrapper {
-  float: right;
-  line-height: 3em;
-  margin: 0 1em;
-  @include media-query-min($bp_small) {
-    display: none;
-  }
-}
-
-.header-menu-link {
-  @include link-color($white);
-
-  background-color: $header_logo;
-  border-radius: 0.25em;
-  font-weight: normal;
-  padding: 0.25em 1em;
-}
-
+.footer-main-navigation-wrapper,
 .main-navigation {
   background: $header_background;
   color: $white;
+}
 
-  // Style menu list.
+.main-navigation {
   .links {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
 
-  // Style menu link.
+  .item {
+    display: inline-block;
+  }
+
   .link {
     @include link-color($white, $highlight_text);
     @include transition(color);
@@ -40,52 +27,86 @@
     text-decoration: none;
     text-transform: uppercase;
   }
+}
 
-  @include media-query-max($bp_small) {
-    padding: 1em;
-
-    .element-invisible {
-      margin-top: 0;
-      @include display-invisible-element();
-    }
-    .item {
-      border-bottom: 1px solid $footer_bg;
-      line-height: 2em;
-      &:last-child {
-        border-bottom: none;
-      }
-    }
-    .link {
-      display: block;
-      padding-left: 1em;
-    }
+.header-main-navigation {
+  // Only show on large devices.
+  @include media-query-max($bp_medium) {
+    display: none;
   }
 
-  @include media-query-min($bp_small) {
-    // @TODO: Remove once the FF height issue has been fixed.
-    background-color: transparent;
-    position: absolute;
-    top: 0;
-    right: 0;
-
-    // Style menu list item.
-    .item {
-      color: $white;
-      display: inline-block;
-      margin: 0;
-      text-align: right;
-    }
-
-    .link {
-      margin: 0 0.4em;
-      line-height: 5em;
-    }
+  // Style menu list item.
+  .item {
+    color: $white;
+    margin: 0;
+    text-align: right;
   }
 
+  .link {
+    margin: 0 0.6em;
+    padding: 0 0.4em;
+    line-height: 5em;
+  }
+}
+
+
+.footer-main-navigation {
+  // Only show on small and medium devices.
   @include media-query-min($bp_medium) {
-    .link {
-      margin: 0 0.6em;
-      padding: 0 0.4em;
+    display: none;
+  }
+
+  padding: 1em;
+
+  // Display the header.
+  /*h2*/.element-invisible {
+    margin: 0;
+    @include display-invisible-element();
+  }
+
+  .item {
+    line-height: 2em;
+    padding-right: 1em;
+    &:last-child {
+      border-bottom: none;
+      padding-right: 0;
     }
+    @include media-query-max($bp_small) {
+      border-bottom: 1px solid $footer_bg;
+      display: block;
+    }
+  }
+
+  .link {
+  }
+}
+
+.header-menu-link {
+  @include link-color($white);
+
+  background-color: $header_logo;
+  border-radius: 0.25em;
+  font-weight: normal;
+  padding: 0.25em 1em;
+}
+.header-navigation-section {
+  float: right;
+  margin: 0 1em;
+
+  // Style the header menu link on small devices.
+  @include media-query-max($bp_small) {
+    line-height: 3em;
+  }
+  // Style the header menu link on medium devices.
+  @include media-query($bp_small, $bp_medium) {
+    line-height: 4em;
+  }
+}
+
+
+// Hide the menu link on large devices.
+@include media-query-min($bp_medium) {
+  .header-menu-link {
+    display: none;
   }
 }

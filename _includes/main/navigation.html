@@ -1,6 +1,9 @@
 
 {% stripwhitespace %}
-<nav role="navigation" id="main-navigation" class="main-navigation">
+{% if include.id %}
+  {% assign element_id = include.id | prepend: 'id="' | append: '"' %}
+{% endif %}
+<nav role="navigation" {{ element_id }} class="main-navigation {{ include.class }}">
   <h2 class="element-invisible">Main Menu</h2>
   <ul class="links clearfix">
     {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
