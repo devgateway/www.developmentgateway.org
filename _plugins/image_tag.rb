@@ -105,12 +105,14 @@ module Jekyll
         return false
       end
 
-      image = MiniMagick::Image.open(image_source_path)
-      image.coalesce
-
       image_dir = File.dirname(instance[:src])
       ext = File.extname(instance[:src])
       basename = File.basename(instance[:src], ext)
+
+      image = MiniMagick::Image.open(image_source_path)
+      if ext != '.svg'
+        image.coalesce
+      end
 
       orig_width = image[:width].to_f
       orig_height = image[:height].to_f
@@ -133,10 +135,19 @@ module Jekyll
       gen_ratio = gen_width/gen_height
 
       # Don't allow upscaling. If the image is smaller than the requested dimensions, recalculate.
-      if orig_width < gen_width || orig_height < gen_height
-        undersize = true
-        gen_width = if orig_ratio < gen_ratio then orig_width else orig_height * gen_ratio end
-        gen_height = if orig_ratio > gen_ratio then orig_height else orig_width/gen_ratio end
+      if ext != '.svg'
+        if orig_width < gen_width || orig_height < gen_height
+
+            undersize = true
+          gen_width = if orig_ratio < gen_ratio then orig_width else orig_height * gen_ratio end
+          gen_height = if orig_ratio > gen_ratio then orig_height else orig_width/gen_ratio end
+        end
+      end
+
+      # Convert all SVGs to PNGs.
+      if ext == '.svg'
+        ext = '.png'
+        image.format 'png'
       end
 
       gen_name = "#{basename}-#{gen_width.round}x#{gen_height.round}#{ext}"
