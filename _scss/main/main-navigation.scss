@@ -30,19 +30,15 @@
 
   // Style menu link.
   .link {
+    @include link-color($white, $highlight_text);
     @include transition(color);
 
-    color: $white;
     display: inline-block;
     font-size: 0.8em;
     font-weight: normal;
 
     text-decoration: none;
     text-transform: uppercase;
-
-    &:hover {
-      color: $highlight_text;
-    }
   }
 
   @include media-query-max($bp_small) {
@@ -66,6 +62,8 @@
   }
 
   @include media-query-min($bp_small) {
+    // @TODO: Remove once the FF height issue has been fixed.
+    background-color: transparent;
     position: absolute;
     top: 0;
     right: 0;
