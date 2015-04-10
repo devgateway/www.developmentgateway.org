@@ -30,7 +30,7 @@ include_map: True
   <div id="{{ project.id }}" class="project-wrapper clearfix">
 
     <h3 class="title">
-      {% capture image_path %}{{ site.url }}/images/projects/{{ project.id }}.svg{% endcapture %}
+      {% capture image_path %}images/projects/{{ project.id }}.svg{% endcapture %}
       {% image flag_small {{ image_path }} alt="Flag of {{ project.name }}" class="flag" role="img" %}
       {{ project.name }}
       <span> - {{project.year}}</span>
