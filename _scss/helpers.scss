@@ -4,6 +4,18 @@
  */
 
 /*
+ * CSS3 Box-shadow.
+ *
+ * @see http://caniuse.com/#search=box-shadow
+ * @see http://www.w3.org/TR/css3-background/#the-box-shadow
+ */
+@mixin box-shadow($type...) {
+  -moz-box-shadow: $type;
+  -webkit-box-shadow: $type;
+  box-shadow: $type;
+}
+
+/*
  * CSS3 Box-sizing.
  *
  * @see: http://caniuse.com/#feat=css3-boxsizing
@@ -13,6 +25,18 @@
   -moz-box-sizing: $type;
   -webkit-box-sizing: $type;
   box-sizing: $type;
+}
+
+/*
+ * CSS3 Text-shadow.
+ *
+ * @see http://caniuse.com/#search=text-shadow
+ * @see http://www.w3.org/TR/css-text-decor-3/#text-shadow-property
+ */
+@mixin text-shadow($type...) {
+  -moz-text-shadow: $type;
+  -webkit-text-shadow: $type;
+  text-shadow: $type;
 }
 
 /*
@@ -27,7 +51,6 @@
   transition-timing-function: $func;
 }
 
-// #################### Helpers ####################
 /*
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
@@ -81,28 +104,6 @@
 }
 
 /*
- * CSS3 Text-shadow.
- * @see http://caniuse.com/#search=text-shadow
- * @see http://www.w3.org/TR/css-text-decor-3/#text-shadow-property
- */
-@mixin text-shadow($type...) {
-  -moz-text-shadow: $type;
-  -webkit-text-shadow: $type;
-  text-shadow: $type;
-}
-
-/*
- * CSS3 Box-shadow.
- * @see http://caniuse.com/#search=box-shadow
- * @see http://www.w3.org/TR/css3-background/#the-box-shadow
- */
-@mixin box-shadow($type...) {
-  -moz-box-shadow: $type;
-  -webkit-box-shadow: $type;
-  box-shadow: $type;
-}
-
-/*
  * Apply single color to anchor tags.
  */
 @mixin link-color($normal_color, $active_color: darken($normal_color, 10), $visited_color: lighten($normal_color, 10), $hover_color: darken($normal_color, 15)) {
@@ -140,11 +141,10 @@
 }
 
 
-// Define breakpoints. Increased by 1em to account for browsers that include
-// borders in viewport size.
+// Define breakpoints.
 $bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
-$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 1em;
-$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 1em;
+$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 2em;
+$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 4em;
 
 /**
  *  Using media queries with like this:
