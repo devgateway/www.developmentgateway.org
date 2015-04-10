@@ -20,7 +20,6 @@
 .main-navigation {
   background: $header_background;
   color: $white;
-  padding: 1em;
 
   // Style menu list.
   .links {
@@ -47,6 +46,8 @@
   }
 
   @include media-query-max($bp_small) {
+    padding: 1em;
+
     .element-invisible {
       margin-top: 0;
       @include display-invisible-element();
