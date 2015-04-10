@@ -12,6 +12,12 @@
     </a>
   </div>
 
+  {% if page.position_indicator %}
+  <div class="position-indicator-wrapper">
+    {% include widgets/position-indicator.html sections=site.homepage_sections %}
+  </div>
+  {% endif %}
+
   <div class="page-wrapper">
     {% include main/header.html %}
 

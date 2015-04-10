@@ -4,10 +4,6 @@ position_indicator: True
 ---
 
 <div class="homepage-wrapper clearfix">
-  <div class="homepage-position-indicator">
-    {% include widgets/position-indicator.html sections=site.homepage_sections %}
-  </div>
-
   {% for section in site.homepage_sections | sort: "weight" %}
   <section id="{{ section.selector }}" class="section-wrapper {{ section.selector }} {{ section.class }}" >
     {{ section.output }}
