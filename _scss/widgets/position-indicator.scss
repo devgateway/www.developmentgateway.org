@@ -1,41 +1,42 @@
 
-@include  media-query-max($bp_medium) {
-  .position-indicator-wrapper {
+.position-indicator-wrapper {
+  position: fixed;
+  top: 50%;
+  margin-top: -2em;
+  text-align: right;
+
+  @include  media-query-max($bp_small) {
     display: none;
+  }
+  @include  media-query-max($bp_medium) {
+    right: 1em;
+  }
+  @include  media-query-min($bp_medium) {
+    right: 2em;
   }
 }
 
-@include  media-query-min($bp_medium) {
-  .position-indicator-wrapper {
-    position: fixed;
-    top: 50%;
-    margin-top: -2em;
-    right: 2em;
-    text-align: right;
+.position-indicator {
+  margin: 0;
+  padding: 0;
+
+  .position {
+    display: block;
+    margin: 0.5em 0;
   }
 
-  .position-indicator {
-    margin: 0;
-    padding: 0;
+  .position-link {
+    @include transition(border-color);
+    @include transition(background-color);
+    @include hide-text(block, 0.875em);
 
-    .position {
-      display: block;
-      margin: 0.5em 0;
-    }
+    border-radius: 50%;
+    border: 2px solid $default_text;
+    outline: none;
 
-    .position-link {
-      @include transition(border-color);
-      @include transition(background-color);
-      @include hide-text(block, 0.875em);
-
-      border-radius: 50%;
-      border: 2px solid $default_text;
-      outline: none;
-
-      &.active {
-        border-color: $highlight_text;
-        background-color: $highlight_text;
-      }
+    &.active {
+      border-color: $highlight_text;
+      background-color: $highlight_text;
     }
   }
 }

@@ -1,13 +1,11 @@
 
 
 .main-header {
-  background: $grey_lightest;
-  .main-header-inner {
-    background: transparentize($grey_dark, 0.58);
-  }
+  background: $header_background;
 }
 
 .site-name {
+  display: inline-block;
   line-height: 1em; // Force vertical alignment.
   margin: 0;
 

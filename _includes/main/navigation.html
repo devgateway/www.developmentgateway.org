@@ -1,0 +1,11 @@
+
+{% stripwhitespace %}
+<nav role="navigation" id="main-navigation" class="main-navigation">
+  <h2 class="element-invisible">Main Menu</h2>
+  <ul class="links clearfix">
+    {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
+    <li class="item"><a class="link" href="{{ page.url }}">
+      {{ page.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+</nav>
+{% endstripwhitespace %}

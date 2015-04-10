@@ -3,16 +3,12 @@ body {
   min-width: 20em;
 }
 
-
-@include media-query-min($bp_small) {
-  .header-left-section {
-    float: left;
-  }
-  .main-navigation {
-    float: right;
-  }
+.header-left-section {
+  float: left;
 }
-
+.header-menu-link-wrapper {
+  float: right;
+}
 
 .page-layout-element {
   @include media-query-max($bp_small) {

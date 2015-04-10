@@ -75,10 +75,7 @@ html {
  */
 .element-invisible.element-focusable:active,
 .element-invisible.element-focusable:focus {
-  clip: auto;
-  height: auto;
-  overflow: visible;
-  position: static !important;
+  @include display-invisible-element();
 }
 
 /**

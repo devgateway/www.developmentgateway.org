@@ -1,41 +1,34 @@
 
 <header role="banner" class="main-header">
   <div class="main-header-inner clearfix">
-    <div class="header-left-section">
-    <h1 class="site-name">
-      <a href="/" title="Visit the main page" rel="home">
-        <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
-        <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
-      </a>
-    </h1>
+    <div class="header-menu-link-wrapper">
+      <a class="header-menu-link" href="#main-navigation">Menu</a>
+    </div>
 
-    {% comment %}
-    {% stripwhitespace %}
-    <ul class="btn-nav">
-      <li class="btn-search">
-        <a href="#" title="search">
-          <span class="fa fa-search"></span>
+    <div class="header-logo-section">
+      <h1 class="site-name">
+        <a href="/" title="Visit the main page" rel="home">
+          <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
+          <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
         </a>
-      </li>
-      <li class="btn-social">
-        <a href="#">
-          <span class="fa fa-comment-o"></span>
-        </a>
-      </li>
-    </ul>
-    {% endstripwhitespace %}
-    {% endcomment %}
-  </div>
+      </h1>
 
-  {% stripwhitespace %}
-  <nav role="navigation" class="main-navigation">
-    <ul class="links clearfix">
-    {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
-    <li class="item"><a class="link" href="{{ page.url }}">
-      {{ page.title }}</a></li>{% endif %}{% endfor %}
-    </ul>
-  </nav>
-  {% endstripwhitespace %}
-
+      {% comment %}
+      {% stripwhitespace %}
+      <ul class="btn-nav">
+        <li class="btn-search">
+          <a href="#" title="search">
+            <span class="fa fa-search"></span>
+          </a>
+        </li>
+        <li class="btn-social">
+          <a href="#">
+            <span class="fa fa-comment-o"></span>
+          </a>
+        </li>
+      </ul>
+      {% endstripwhitespace %}
+      {% endcomment %}
+    </div>
   </div>
 </header>

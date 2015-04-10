@@ -140,11 +140,21 @@
   width: $size;
 }
 
+/**
+ * The can be use to class extends the .element-invisible class to allow the
+ * element to be show. E.g.: When the element is focused using the keyboard.
+ */
+@mixin display-invisible-element() {
+  clip: auto;
+  height: auto;
+  overflow: visible;
+  position: static !important;
+}
 
 // Define breakpoints.
-$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 1em;
-$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 2em;
-$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 4em;
+$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 4em;
+$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 6em;
+$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 8em;
 
 /**
  *  Using media queries with like this:
