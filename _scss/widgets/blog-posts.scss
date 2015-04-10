@@ -10,7 +10,6 @@
     margin-bottom: 0.5em;
   }
 
-  //post meta information
   .blog-meta {
     @include clearfix-mixin;
     border-bottom: 1px solid lighten($grey_lightest, 3%);
@@ -34,9 +33,6 @@
     border-radius: 2px;
     display: block;
     padding: 0.3em;
-
-    // @TODO: Use smaller images!
-    width: 15em;
 
     @include media-query-max($bp_medium) {
       display: none;
