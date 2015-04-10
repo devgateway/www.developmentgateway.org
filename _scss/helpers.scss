@@ -4,19 +4,6 @@
  */
 
 /*
- * CSS3 Border-radius.
- *
- * @see: http://border-radius.com
- * @see: http://caniuse.com/#feat=border-radius
- * @see: http://www.w3.org/TR/css3-background/#corners
- */
-@mixin border-radius($radius) {
-  -moz-border-radius: $radius;
-  -webkit-border-radius: $radius;
-  border-radius: $radius;
-}
-
-/*
  * CSS3 Box-sizing.
  *
  * @see: http://caniuse.com/#feat=css3-boxsizing
@@ -34,10 +21,10 @@
  * @see: http://caniuse.com/#feat=css-transitions
  * @see: http://www.w3.org/TR/css3-transitions/
  */
-@mixin transition($type: all 600ms ease-in-out) {
-  -moz-transition: $type;
-  -webkit-transition: $type;
-  transition: $type;
+@mixin transition($property, $duration: 600ms, $func: ease-in-out) {
+  transition-property: $property;
+  transition-duration: $duration;
+  transition-timing-function: $func;
 }
 
 // #################### Helpers ####################

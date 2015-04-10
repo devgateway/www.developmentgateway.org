@@ -16,7 +16,7 @@
 
     a.leaflet-control-zoom-in,
     a.leaflet-control-zoom-out {
-      @include border-radius(0);
+      border-radius: 0;
       position: relative;
       margin: 0.1em;
       padding: 0.5rem;
@@ -27,7 +27,7 @@
       border: none;
       background-color: transparentize(lighten($black, 20%), 0.5);
       &:before {
-        @include border-radius(2em);
+        border-radius: 2em;
         content: "";
         display: block;
         position: absolute;
@@ -67,7 +67,7 @@
 
 // Country Markers. The yellow circles on the map.
 .country-marker {
-  @include border-radius($country_marker_size/2);
+  border-radius: $country_marker_size/2;
   height: $country_marker_size;
   width: $country_marker_size;
   margin-top: -$country_marker_size/2;
@@ -83,7 +83,7 @@
   }
   &:before {
     $s: ($country_marker_size - 0.6rem);
-    @include border-radius($s/2);
+    border-radius: $s/2;
     height: $s;
     width: $s;
     margin-top: -($s/2);
@@ -92,7 +92,7 @@
   }
   &:after {
     $s: ($country_marker_size - 1.1rem);
-    @include border-radius($s/2);
+    border-radius: $s/2;
     height: $s;
     width: $s;
     margin-top: -($s/2);

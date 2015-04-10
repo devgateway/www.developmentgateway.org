@@ -44,6 +44,8 @@
 
   // Style menu link.
   .link {
+    @include transition(color);
+
     color: $white;
     display: inline-block;
     font-size: 0.75em;
@@ -57,7 +59,6 @@
 
     &:hover {
       color: $highlight_text;
-      @include transition();
     }
 
     @include media-query-max($bp_small) {
@@ -79,13 +80,13 @@
 }
 
 h1.site-name {
-  @include transition;
-  background: adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
+  @include transition(background-color);
+  background-color: adjust_hue(saturate(darken($blue_vibrant, 20), 17), 8);
   padding-left: $gen_gutter_width;
   padding-right: $gen_gutter_width;
 
   &:hover {
-    background: adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
+    background-color: adjust_hue(saturate(darken($blue_vibrant, 30), 17), 8);
   }
 }
 
@@ -102,11 +103,11 @@ ul.btn-nav {
 
     a {
       outline: none;
+      @include transition(color);
       .fa {
         padding: 0.83em;
         font-size: $larger;
         color: $white;
-        @include transition;
       }
     }
   }

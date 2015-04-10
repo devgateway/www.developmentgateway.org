@@ -127,16 +127,17 @@
   }
 
   .fa {
+    @include transition(all);
+
     font-size: $large*2;
     color: $blue_vibrant;
     width: 1em;
     text-align: center;
     margin-left: $gen_gutter_width/2;
-    @include transition;
 
     &:hover {
       color: $highlight_text;
-      background: $black;
+      background-color: $black;
     }
 
     &:hover.fa-border {

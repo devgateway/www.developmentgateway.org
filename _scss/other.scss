@@ -60,7 +60,8 @@ h3.title {
 
 // General logo images hover effect.
 .logo {
-  @include transition;
+  @include transition(opacity);
+
   opacity: 1;
   &:hover{
     opacity: 0.8;

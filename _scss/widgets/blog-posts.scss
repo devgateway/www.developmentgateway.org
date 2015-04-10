@@ -30,8 +30,8 @@
   }
 
   .blog-image-wrapper {
-    @include border-radius(2px);
     border: 1px solid lighten($grey_lightest, 3%);
+    border-radius: 2px;
     display: block;
     padding: 0.3em;
 

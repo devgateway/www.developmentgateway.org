@@ -1,6 +1,5 @@
 // general button
 .btn {
-  @include transition;
   border: none;
   cursor: pointer;
   display: inline-block;
@@ -9,7 +8,6 @@
 }
 
 input {
-  @include transition;
   padding: 0.6em;
 }
 
@@ -42,8 +40,9 @@ input {
 
 .btn-submit {
   @extend .btn;
-  @include border-radius(2px);
+
   background: $blue_vibrant;
+  border-radius: 2px;
   color: $white;
   margin-left: $gen_gutter_width;
   padding: 0.65em 1em;
@@ -63,13 +62,14 @@ input {
     width: 95%;
   }
   textarea {
-    @include transition;
+    @include transition(border-color);
+
     border: 1px solid $grey_lightest;
     margin-bottom: 0.5em;
     padding: 0.6em;
     width: 95%;
     &:focus {
-      border: 1px solid $blue_light;
+      border-color: $blue_light;
     }
   }
   .btn-submit {
