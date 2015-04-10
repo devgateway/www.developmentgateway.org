@@ -3,7 +3,6 @@
 
 @charset "utf-8";
 
-// Import from `sass_dir`.
 @import "variables";
 @import "helpers";
 
@@ -11,9 +10,15 @@
 @import "layout";
 @import "reset";
 @import "main/main-header";
+@import "main/main-navigation";
 @import "main/main-footer";
 @import "main/page-header";
 @import "other";
+
+// Include post content specific styles.
+@import "posts";
+
+// Include widget specific styles.
 @import "widgets/entries-list.scss";
 @import "widgets/map.scss";
 @import "widgets/position-indicator.scss";
