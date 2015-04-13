@@ -1,6 +1,13 @@
 .blog-sidebar{
   margin-top: 2.7em;
 
+  h3{
+    font-weight:$font_weight_light;
+    color:$grey_dark;
+  }
+
+  //subscribe form styling specific to the sidebar
+
   .input-wrapper{
     width:95%;
     float:none;
@@ -12,7 +19,7 @@
 
     &:focus{
       outline:none;
-      border:1px solid #ccc;
+      border:1px solid $blue_vibrant;
     }
   }
 
@@ -24,5 +31,60 @@
   .btn-submit{
      margin: $gen_gutter_width auto;
   }
+
+}
+
+// categories list
+.categories-wrapper{
+  ul{
+    list-style:none;
+    padding-left:$gen_gutter_width;
+
+    li{
+      font-size:$large;
+    }
+
+  }
+}
+
+// tags list
+.tags-wrapper{
+
+  ul{
+    list-style:none;
+    padding-left:$gen_gutter_width;
+  }
+
+.tags {
+  zoom: 1;
+}
+
+.tags li {
+  position: relative;
+  float: left;
+  margin: 0 5px 5px 0;
+  &:first-child{
+    margin-left:0;
+  }
+}
+
+.tags li:active {
+  margin-top: 1px;
+  margin-bottom: 7px;
+}
+
+.tags li a {
+  padding: 5px 10px 8px 10px;
+  font-size: #large;
+  color: $grey_light;
+  background: #eeeeee;
+  display:block;
+  @include transition(500ms);
+
+  &:hover{
+    background: $blue_vibrant;
+    color: $white;
+  }
+}
 
 }
