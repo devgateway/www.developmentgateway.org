@@ -1,13 +1,15 @@
 
 <form class="subscribe-form inline-form" action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&amp;id=29e60e3e20" method="post" name="mc-embedded-subscribe-form">
-  <div>
-    <div class="form-item input-wrapper">
-      <input class="input-text inline_label" name="EMAIL" maxlength="128" title="email@example.com" type="email">
-      <div class="form-item submit-wrapper">
-        <button type="submit" class="btn btn-submit" value="" name="subscribe">
-          <span class="fa fa-chevron-circle-right"></span> Subscribe
-        </button>
-      </div>
-    </div>
+  {% stripwhitespace %}
+  <div class="form-item">
+    <input type="email" name="EMAIL" title="email@example.com"
+           placeholder="E-mail address" class="form-text" maxlength="128">
   </div>
+  <div class="form-item">
+    <button type="submit" class="form-submit" value="" name="subscribe">
+      <span class="fa fa-chevron-circle-right"></span>
+      <span>Subscribe</span>
+    </button>
+  </div>
+  {% endstripwhitespace %}
 </form>

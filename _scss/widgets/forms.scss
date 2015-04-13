@@ -1,0 +1,40 @@
+
+.form-item {
+  margin: 1em 0;
+}
+
+.form-text {
+  border: 1px solid $grey_lightest;
+  box-shadow: none;
+  padding: 0.6em;
+
+  border: 1px solid $grey_lightest;
+  &:focus {
+    border: 1px solid $blue_light;
+  }
+}
+
+.form-submit {
+  border: none;
+  border-radius: 0.2em;
+  color: $white;
+  padding: 0.65em 1em;
+
+  background: $blue_vibrant;
+  &:hover {
+    background: lighten($blue_vibrant, 10%);
+  }
+
+  // Spacing around the icon.
+  // @TODO: Remove font-icons.
+  .fa {
+    margin-right: 0.65em;
+  }
+}
+
+.inline-form {
+  .form-item {
+    float: left;
+    margin-right: 1em;
+  }
+}
