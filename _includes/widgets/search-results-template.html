@@ -1,0 +1,17 @@
+
+{% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article class="search-result">
+      <a href="{{ url }}">
+        <h1>
+          {{ title }}
+        </h1>
+        {{#date}}
+        <time datetime="{{ pubdate }}" pubdate>{{ displaydate }}</time>
+        {{/date}}
+      </a>
+    </article>
+  {{/entries}}
+</script>
+{% endraw %}

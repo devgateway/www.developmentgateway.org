@@ -62,3 +62,11 @@ markdown: kramdown
 # Change the default SASS settings.
 sass:
   sass_dir: _scss
+
+gems:
+  - 'jekyll-lunr-js-search'
+
+lunr_search:
+  excludes:
+    - feed.xml
+  js_dir: scripts

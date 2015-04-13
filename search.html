@@ -1,0 +1,38 @@
+---
+layout: page
+title: Search
+permalink: /search/
+weight: 9
+---
+
+<h2 id="search">Search</h2>
+
+<form action="/search" method="get" id="search-form">
+  <div class="form-item">
+    <input type="text" name="q" class="form-text" id="search-query"
+           autocomplete="off" placeholder="Search">
+  </div>
+</form>
+
+<section id="search-results" style="display: none;">
+  <p>Search results</p>
+  <div class="entries">
+    {% include widgets/search-results-template.html %}
+  </div>
+</section>
+
+
+{% comment %}
+  @TODO: Cleanup and update the search plugin to work without jQuery.
+{% endcomment %}
+<script src="{{ 'scripts/search.min.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('#search-query').lunrSearch({
+      indexUrl: '{{ "scripts/index.json" | prepend: site.baseurl }}',
+      results: '#search-results',
+      entries: '.entries',
+      template: '#search-results-template'
+    })
+  });
+</script>
