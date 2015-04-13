@@ -43,3 +43,15 @@
     }
   }
 }
+
+article.post-content{
+  padding-bottom:3em;
+}
+
+.post-header-inner{
+  padding-top:1em;
+
+  h1{
+    font-weight:$font_weight_light;
+  }
+}
