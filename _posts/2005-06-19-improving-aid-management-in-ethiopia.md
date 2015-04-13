@@ -6,6 +6,10 @@ lede: |
 thumbnail: "images/posts/2005/img1.png"
 thumbnail-alt: "Picture of on Ethiopian lady"
 author: "Paige Kirby"
+categories:
+  - Innovation
+  - Aid Management
+  - Open Data
 ---
 
 > Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.

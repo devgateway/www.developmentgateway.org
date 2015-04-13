@@ -18,6 +18,10 @@
     padding-bottom: 1em;
   }
 
+  .post-meta{
+    margin-bottom: $gen_gutter_width/2;
+  }
+
   .blog-date,
   .blog-author {
     margin-right: $gen_gutter_width;

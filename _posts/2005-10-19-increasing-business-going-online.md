@@ -6,6 +6,10 @@ lede: |
 thumbnail: "images/posts/2005/img3.png"
 thumbnail-alt: "Picture of on Ethiopian lady"
 author: "Josh Powell"
+categories:
+  - Innovation
+  - Aid Management
+  - Open Data
 ---
 
 ## Tanzania

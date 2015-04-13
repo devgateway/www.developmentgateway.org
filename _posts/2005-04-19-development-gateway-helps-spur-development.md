@@ -7,6 +7,9 @@ lede: |
 thumbnail: "images/posts/2005/img2.png"
 thumbnail-alt: "photo"
 author: "Benjamin Arancibia"
+categories:
+  - Innovation
+  - Aid Management
 ---
 
 ## Rwanda

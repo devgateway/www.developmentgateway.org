@@ -1,0 +1,28 @@
+.blog-sidebar{
+  margin-top: 2.7em;
+
+  .input-wrapper{
+    width:95%;
+    float:none;
+  }
+
+  .input-text{
+    width:95%;
+    @include transition(500ms);
+
+    &:focus{
+      outline:none;
+      border:1px solid #ccc;
+    }
+  }
+
+  .submit-wrapper{
+    float:none;
+    text-align:center;
+  }
+
+  .btn-submit{
+     margin: $gen_gutter_width auto;
+  }
+
+}
