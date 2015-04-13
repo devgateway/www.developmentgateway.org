@@ -12,19 +12,19 @@ weight: 7
 {% multicols clearfix | render-as-html %}
   {% assign partner=site.data.partners.coalitions.wm %}
   <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: '/images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
   </a>
   <p class="description">{{ partner.description }}</p>
 <--colbreak-->
   {% assign partner=site.data.partners.coalitions.ogh %}
   <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: '/images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
   </a>
   <p class="description">{{ partner.description }}</p>
 <--colbreak-->
   {% assign partner=site.data.partners.coalitions.fbl %}
   <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: '/images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
   </a>
   <p class="description">{{ partner.description }}</p>
 {% endmulticols %}
