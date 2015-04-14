@@ -1,0 +1,45 @@
+
+.header-drop-down-thingy {
+  display: none;
+  &.is-visible {
+    display: block;
+  }
+
+  background-color: $grey_medium;
+
+  bottom: 0;
+  position: fixed;
+  top: 5em; // The total height of the header.
+  z-index: 10;
+
+  @include media-query-min($bp_medium) {
+    width: 36em;
+  }
+
+  .search-form {
+  }
+
+  .search-query {
+    @include box-sizing();
+
+    border: 1px solid $black;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+    padding: 1em 2em;
+    width: 100%;
+  }
+
+  .search-info {
+    padding: 0 2em;
+    color: $grey_dark;
+  }
+
+  .search-result {
+    padding: 1em 2em;
+    .title {
+      font-size: $larger;
+      margin: 0;
+    }
+  }
+}

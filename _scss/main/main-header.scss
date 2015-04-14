@@ -9,9 +9,23 @@
     height: 2.5em;
   }
 
-  @include media-query-max($bp_medium) {
-    font-size: 1em;
+  // Set fixed header.
+  .main-header-inner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
   }
+  // Leave space for the header at the top of the page.
+  @include media-query-max($bp_medium) {
+    min-height: 2.5em;
+  }
+  @include media-query-min($bp_medium) {
+    min-height: 5em;
+  }
+
+
   @include media-query-min($bp_medium) {
     .header-logo-section {
       font-size: 2em;

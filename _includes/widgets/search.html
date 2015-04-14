@@ -6,9 +6,11 @@
   </div>
 </form>
 
-<section id="search-results" style="display: none;">
-  <p>Search results</p>
-  <div class="entries">
+<section id="search-results-wrapper" class="search-results-wrapper">
+  <div class="search-info">
+    <h2>Search Results</h2>
+  </div>
+  <div class="search-entries">
     {% include widgets/search-results-template.html %}
   </div>
 </section>
@@ -21,8 +23,8 @@
   jQuery(document).ready(function() {
     jQuery('.search-query', '#search-form').lunrSearch({
       indexUrl: '{{ "scripts/index.json" | prepend: site.baseurl }}',
-      results: '#search-results',
-      entries: '.entries',
+      results: '#search-results-wrapper',
+      entries: '.search-entries',
       template: '#search-results-template'
     })
   });

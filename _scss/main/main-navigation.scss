@@ -48,7 +48,6 @@
   }
 }
 
-
 .footer-main-navigation {
   // Only show on small and medium devices.
   @include media-query-min($bp_medium) {
@@ -85,20 +84,16 @@
   font-weight: normal;
   padding: 0.25em 1em;
 }
+
 .header-navigation-section {
   float: right;
   margin: 0 1em;
 
-  // Style the header menu link on small devices.
-  @include media-query-max($bp_small) {
+  // Style the header menu link on small and medium devices.
+  @include media-query-max($bp_medium) {
     line-height: 2.5em;
   }
-  // Style the header menu link on medium devices.
-  @include media-query($bp_small, $bp_medium) {
-    line-height: 4em;
-  }
 }
-
 
 // Hide the menu link on large devices.
 @include media-query-min($bp_medium) {

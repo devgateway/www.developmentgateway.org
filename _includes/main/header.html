@@ -13,7 +13,7 @@
 
       <ul class="header-actions">
         <li class="item">
-          <a class="link btn-search" href="{{ 'search' | prepend: site.baseurl }}" title="search">
+          <a id="toggle-search" class="link btn-search" href="{{ 'search' | prepend: site.baseurl }}" title="search">
             <span class="fa fa-search"></span>
             <span class="element-invisible">Search</span>
           </a>
@@ -33,4 +33,9 @@
     </div>
 
   </div>
+
+  <div id="header-drop-down-thingy" class="header-drop-down-thingy clearfix" style="display: none;">
+    {% include widgets/search.html %}
+  </div>
+
 </header>

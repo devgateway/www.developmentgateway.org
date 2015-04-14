@@ -4,12 +4,9 @@
   {{#entries}}
     <article class="search-result">
       <a href="{{ url }}">
-        <h1>
+        <h1 class="title">
           {{ title }}
         </h1>
-        {{#date}}
-        <time datetime="{{ pubdate }}" pubdate>{{ displaydate }}</time>
-        {{/date}}
       </a>
     </article>
   {{/entries}}

@@ -58,6 +58,7 @@
     color: $white;
     font-weight: $font_weight_light;
     line-height: 1.50em;
+    margin-right: 1em;
 
     @include media-query-max($bp_small) {
       width: 100%;
@@ -121,6 +122,10 @@
   .item {
     display: inline-block;
     margin-left: 1em;
+
+    &:first-child {
+      margin-left: 0;
+    }
 
     @include media-query-max($bp_small) {
       &:first-of-type {
