@@ -24,6 +24,9 @@
     max-width: none;
     height: 2em;
 
+    // @TODO: Find a different way to align the header items.
+    vertical-align: top;
+
     @include media-query-max($bp_small) {
       height: 1.5em;
     }
@@ -32,40 +35,50 @@
 
 
 // Header search and social buttons.
-// ul.btn-nav {
-//   display: block;
-//   float: left;
-//   margin: 0;
-//   padding: 0;
+.header-actions {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 
-//   li {
-//     float: left;
-//     display: inline-block;
+  // @TODO: Find a different way to align the header items.
+  vertical-align: top;
 
-//     a {
-//       outline: none;
-//       @include transition(color);
-//       .fa {
-//         padding: 0.83em;
-//         font-size: $larger;
-//         color: $white;
-//       }
-//     }
-//   }
+  .item {
+    display: inline-block;
+  }
 
-//   li.btn-search {
-//     .fa {
-//       background: $blue_vibrant;
-//       &:hover {
-//         background: lighten($blue_vibrant, 10%);
-//       }
-//     }
-//   }
+  .link {
+    @include transition(color);
+    @include transition(background-color);
 
-//   li.btn-social {
-//     margin-left: -1px;
-//     .fa {
-//       background: $green_deep;
-//     }
-//   }
-// }
+    display: inline-block;
+    font-size: 0.8em;
+    margin: 0;
+    padding: 0 1.5em;
+    line-height: 5em;
+  }
+
+  .btn-search {
+    background-color: $blue_vibrant;
+    color: $white;
+    &:hover {
+      background-color: lighten($blue_vibrant, 10%);
+    }
+  }
+
+  .btn-social {
+    color: $white;
+    background-color: $green_deep;
+    &:hover {
+      background-color: lighten($green_deep, 10%);
+    }
+  }
+
+  // @TODO: Remove font-incons.
+  .fa {
+    font-size: 2em;
+    // @TODO: Find a different way to align the header items.
+    vertical-align: -10%;
+  }
+}
