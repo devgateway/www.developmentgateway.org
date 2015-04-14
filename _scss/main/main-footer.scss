@@ -120,7 +120,7 @@
 
   .item {
     display: inline-block;
-    margin-left: 0.5em;
+    margin-left: 1em;
 
     @include media-query-max($bp_small) {
       &:first-of-type {

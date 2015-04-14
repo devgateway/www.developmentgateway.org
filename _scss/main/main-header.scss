@@ -9,10 +9,10 @@
     height: 2.5em;
   }
 
-  @include media-query-max($bp_small) {
+  @include media-query-max($bp_medium) {
     font-size: 1em;
   }
-  @include media-query-min($bp_small) {
+  @include media-query-min($bp_medium) {
     .header-logo-section {
       font-size: 2em;
     }
@@ -91,5 +91,8 @@
 
     // Make all icons the same width.
     min-width: 2.5em;
+  }
+  .fa-comment-o {
+    vertical-align: 6%; // @HACK: Temporary vertical alignment.
   }
 }
