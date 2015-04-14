@@ -2,12 +2,32 @@
 
 .main-header {
   background: $header_background;
+
+  font-size: 0.8em;
+  // @HACK: Force logo size.
+  .site-logo {
+    height: 2.5em;
+  }
+
+  @include media-query-max($bp_small) {
+    font-size: 1em;
+  }
+  @include media-query-min($bp_small) {
+    .header-logo-section {
+      font-size: 2em;
+    }
+  }
 }
 
 .site-name {
   display: inline-block;
   line-height: 1em; // Force vertical alignment.
   margin: 0;
+
+  font-size: inherit;
+
+  // @TODO: Find a different way to align the header items.
+  vertical-align: top;
 
   & > a {
     display: block;
@@ -22,14 +42,6 @@
 
   .site-logo {
     max-width: none;
-    height: 2em;
-
-    // @TODO: Find a different way to align the header items.
-    vertical-align: top;
-
-    @include media-query-max($bp_small) {
-      height: 1.5em;
-    }
   }
 }
 
@@ -53,10 +65,8 @@
     @include transition(background-color);
 
     display: inline-block;
-    font-size: 0.8em;
     margin: 0;
-    padding: 0 1.5em;
-    line-height: 5em;
+    line-height: 2.5em;
   }
 
   .btn-search {
@@ -77,8 +87,9 @@
 
   // @TODO: Remove font-incons.
   .fa {
-    font-size: 2em;
-    // @TODO: Find a different way to align the header items.
-    vertical-align: -10%;
+    text-align: center;
+
+    // Make all icons the same width.
+    min-width: 2.5em;
   }
 }
