@@ -71,5 +71,6 @@ gems:
 
 lunr_search:
   excludes:
+    - blog.html
     - feed.xml
   js_dir: scripts
