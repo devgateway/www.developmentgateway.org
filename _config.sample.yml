@@ -46,6 +46,9 @@ collections:
 # URL for the mailchimp newsletter.
 mailchimp_form_url: __NONE__
 
+# Google Analytics Web Property ID.
+google_web_property_id: __NONE__
+
 #-----------------#
 # Jekyll settings #
 #-----------------#
