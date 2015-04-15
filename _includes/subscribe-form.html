@@ -1,6 +1,12 @@
 
-<form action="{{ site.mailchimp_form_url }}" name="mc-embedded-subscribe-form"
-      class="subscribe-form inline-form" method="post">
+{% if site.mailchimp_form_url == '__NONE__' %}
+  {% assign form_url = '#' %}
+{% else %}
+  {% assign form_url = site.mailchimp_form_url %}
+{% endif %}
+
+<form action="{{ form_url }}" method="post" name="mc-embedded-subscribe-form"
+      class="subscribe-form inline-form">
   {% stripwhitespace %}
   <div class="form-item">
     <input type="email" name="EMAIL" title="email@example.com"
