@@ -20,14 +20,16 @@
 @import "posts";
 
 // Include widget specific styles.
-@import "widgets/entries-list.scss";
-@import "widgets/map.scss";
-@import "widgets/position-indicator.scss";
-@import "widgets/page-nav.scss";
-@import "widgets/projects.scss";
 @import "widgets/blog-posts.scss";
-@import "widgets/inputs-buttons.scss";
+@import "widgets/entries-list.scss";
+@import "widgets/forms.scss";
 @import "widgets/homepage.scss";
+@import "widgets/header-drop-down.scss";
+@import "widgets/map.scss";
+@import "widgets/page-nav.scss";
+@import "widgets/position-indicator.scss";
+@import "widgets/projects.scss";
+@import "widgets/search.scss";
 @import "widgets/team.scss";
 
 // Include styles for syntax highlighting.

@@ -5,10 +5,16 @@
 {% endif %}
 <nav role="navigation" {{ element_id }} class="main-navigation {{ include.class }}">
   <h2 class="element-invisible">Main Menu</h2>
+
   <ul class="links clearfix">
-    {% assign pages = site.pages | sort: 'weight' %}{% for page in pages %}{% if page.title %}
-    <li class="item"><a class="link" href="{{ page.url }}">
-      {{ page.title }}</a></li>{% endif %}{% endfor %}
+    {% assign pages = site.pages | sort: 'weight' %}
+    {% for page in pages %}
+      {% if page.title %}
+        <li class="item">
+          <a class="link" href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </nav>
 {% endstripwhitespace %}

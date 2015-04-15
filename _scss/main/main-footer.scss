@@ -48,9 +48,9 @@
 
 .footer-social-wrapper {
   background: darken($blue_deep, 22%);
-  padding: 2em 0;
 
   @include media-query-min($bp_small) {
+    padding: 2em 0;
     text-align: right;
   }
 
@@ -58,6 +58,7 @@
     color: $white;
     font-weight: $font_weight_light;
     line-height: 1.50em;
+    margin-right: 1em;
 
     @include media-query-max($bp_small) {
       width: 100%;
@@ -112,59 +113,55 @@
 }
 
 // @TODO: Remove font-icons.
-/*ul*/.follow-links {
+.follow-links {
   list-style: none;
-  display: inline;
+  display: inline-block;
   margin: 0;
   padding: 0;
 
   .item {
-    display: inline;
+    display: inline-block;
+    margin-left: 1em;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    @include media-query-max($bp_small) {
+      &:first-of-type {
+        margin-left: 0;
+      }
+    }
   }
 
-  .fa-border {
-    border: 1px solid darken($blue_vibrant, 30%)
-  }
-
-  .fa {
+  .link {
     @include transition(all);
 
-    font-size: $large*2;
-    color: $blue_vibrant;
-    width: 1em;
+    display: inline-block;
+    font-size: 2em;
+    line-height: 1.5em;
+    padding: 0 0.25em;
     text-align: center;
-    margin-right: $gen_gutter_width/2;
+
+    border: 1px solid darken($blue_vibrant, 30%);
+    border-radius: 0.2em;
+    color: $blue_vibrant;
 
     &:hover {
       color: $highlight_text;
+      border-color: $blue_vibrant;
       background-color: $black;
-    }
-
-    &:hover.fa-border {
-      border: 1px solid $blue_vibrant;
-    }
-
-    @include media-query-max($bp_small) {
-      font-size: $large*1.7;
-      margin-right: $gen_gutter_width/3;
-      padding-right: 0.25em;
-      padding-left: 0.25em;
     }
   }
 
-  // to improve the envelope icon vertical alignment
+  .fa {
+    min-width: 1em;
+  }
   .fa-envelope {
-    line-height: 80%;
-    padding-bottom: 0.35em;
-    padding-top: 0.25em;
-
-    @include media-query-max($bp_small) {
-      font-size: $large*1.6;
-    }
+    vertical-align: 6%; // @HACK: Temporary vertical alignment.
   }
 
   @include media-query-max($bp_small) {
-    width: 100%;
     text-align: center;
   }
 }

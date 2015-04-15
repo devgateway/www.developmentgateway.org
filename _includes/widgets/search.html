@@ -1,0 +1,31 @@
+
+<form action="#" method="get" id="search-form" class="search-form">
+  <div class="form-item">
+    <input type="text" name="q" class="form-text search-query"
+           autocomplete="off" placeholder="Search">
+  </div>
+</form>
+
+<section id="search-results-wrapper" class="search-results-wrapper">
+  <div class="search-info">
+    <h2>Search Results</h2>
+  </div>
+  <div class="search-entries">
+    {% include widgets/search-results-template.html %}
+  </div>
+</section>
+
+{% comment %}
+@TODO: Cleanup and update the search plugin to work without jQuery.
+{% endcomment %}
+<script src="{{ 'scripts/search.min.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('.search-query', '#search-form').lunrSearch({
+      indexUrl: '{{ "scripts/index.json" | prepend: site.baseurl }}',
+      results: '#search-results-wrapper',
+      entries: '.search-entries',
+      template: '#search-results-template'
+    })
+  });
+</script>

@@ -2,12 +2,47 @@
 
 .main-header {
   background: $header_background;
+
+  font-size: 0.8em;
+  // @HACK: Force logo size.
+  .site-logo {
+    height: 2.5em;
+  }
+
+  // Set fixed header.
+  .main-header-inner {
+    background: $header_background;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  // Leave space for the header at the top of the page.
+  @include media-query-max($bp_medium) {
+    min-height: 2.5em;
+  }
+  @include media-query-min($bp_medium) {
+    min-height: 5em;
+  }
+
+
+  @include media-query-min($bp_medium) {
+    .header-logo-section {
+      font-size: 2em;
+    }
+  }
 }
 
 .site-name {
   display: inline-block;
   line-height: 1em; // Force vertical alignment.
   margin: 0;
+
+  font-size: inherit;
+
+  // @TODO: Find a different way to align the header items.
+  vertical-align: top;
 
   & > a {
     display: block;
@@ -22,50 +57,57 @@
 
   .site-logo {
     max-width: none;
-    height: 2em;
-
-    @include media-query-max($bp_small) {
-      height: 1.5em;
-    }
   }
 }
 
 
 // Header search and social buttons.
-// ul.btn-nav {
-//   display: block;
-//   float: left;
-//   margin: 0;
-//   padding: 0;
+.header-actions {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 
-//   li {
-//     float: left;
-//     display: inline-block;
+  // @TODO: Find a different way to align the header items.
+  vertical-align: top;
 
-//     a {
-//       outline: none;
-//       @include transition(color);
-//       .fa {
-//         padding: 0.83em;
-//         font-size: $larger;
-//         color: $white;
-//       }
-//     }
-//   }
+  .item {
+    display: inline-block;
+  }
 
-//   li.btn-search {
-//     .fa {
-//       background: $blue_vibrant;
-//       &:hover {
-//         background: lighten($blue_vibrant, 10%);
-//       }
-//     }
-//   }
+  .link {
+    @include transition(color);
+    @include transition(background-color);
 
-//   li.btn-social {
-//     margin-left: -1px;
-//     .fa {
-//       background: $green_deep;
-//     }
-//   }
-// }
+    display: inline-block;
+    margin: 0;
+    line-height: 2.5em;
+  }
+
+  .btn-search {
+    background-color: $blue_vibrant;
+    color: $white;
+    &:hover {
+      background-color: lighten($blue_vibrant, 10%);
+    }
+  }
+
+  .btn-social {
+    color: $white;
+    background-color: $green_deep;
+    &:hover {
+      background-color: lighten($green_deep, 10%);
+    }
+  }
+
+  // @TODO: Remove font-incons.
+  .fa {
+    text-align: center;
+
+    // Make all icons the same width.
+    min-width: 2.5em;
+  }
+  .fa-comment-o {
+    vertical-align: 6%; // @HACK: Temporary vertical alignment.
+  }
+}

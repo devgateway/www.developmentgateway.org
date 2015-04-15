@@ -1,0 +1,6 @@
+
+.search-result {
+  a {
+    @include link-color($default_text);
+  }
+}

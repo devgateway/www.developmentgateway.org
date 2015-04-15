@@ -1,6 +1,8 @@
 
 <header role="banner" class="main-header">
   <div class="main-header-inner clearfix">
+
+    {% stripwhitespace %}
     <div class="header-logo-section">
       <h1 class="site-name">
         <a href="/" title="Visit the main page" rel="home">
@@ -9,23 +11,21 @@
         </a>
       </h1>
 
-      {% comment %}
-      {% stripwhitespace %}
-      <ul class="btn-nav">
-        <li class="btn-search">
-          <a href="#" title="search">
+      <ul class="header-actions">
+        <li class="item">
+          <a id="toggle-search" class="link btn-search" href="{{ 'search' | prepend: site.baseurl }}" title="search">
             <span class="fa fa-search"></span>
+            <span class="element-invisible">Search</span>
           </a>
         </li>
-        <li class="btn-social">
-          <a href="#">
+        <li class="item">
+          <a class="link btn-social" href="{{ 'connect' | prepend: site.baseurl }}">
             <span class="fa fa-comment-o"></span>
           </a>
         </li>
       </ul>
-      {% endstripwhitespace %}
-      {% endcomment %}
     </div>
+    {% endstripwhitespace %}
 
     <div class="header-navigation-section">
       <a class="header-menu-link" href="#main-navigation" data-no-smoothscroll="">Menu</a>
@@ -33,4 +33,9 @@
     </div>
 
   </div>
+
+  <div id="header-drop-down-thingy" class="header-drop-down-thingy clearfix" style="display: none;">
+    {% include widgets/search.html %}
+  </div>
+
 </header>

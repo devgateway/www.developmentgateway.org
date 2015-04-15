@@ -2,7 +2,7 @@
 (function (window, document, piElement) {
   'use strict';
 
-  const UPDATE_DELAY = 10;
+  var UPDATE_DELAY = 10;
   var sections = [];
   var updateTimeout;
 
