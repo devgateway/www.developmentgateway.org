@@ -44,7 +44,7 @@ collections:
     output: false
 
 # URL for the mailchimp newsletter.
-mailchimp_form_url: http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&amp;id=29e60e3e20
+mailchimp_form_url: __NONE__
 
 #-----------------#
 # Jekyll settings #
@@ -66,9 +66,11 @@ markdown: kramdown
 sass:
   sass_dir: _scss
 
-gems:
-  - 'jekyll-lunr-js-search'
+# Uncomment the following lines to enable lunr.js search.
+# gems:
+#  - 'jekyll-lunr-js-search'
 
+# lunr.js specific settings.
 lunr_search:
   excludes:
     - blog.html

@@ -4,3 +4,6 @@
 .vagrant
 _site
 Vagrant*
+
+# Ignore jekyll configuration file.
+_config.yml
