@@ -57,16 +57,35 @@
 
 // Style for the "empowering.html" homepage section.
 .section-empowering {
-  .column {
-    text-align: center;
-  }
-
-  .info {
-    color: $highlight_text;
-    font-size: 1.5em;
-    font-weight: $font_weight_light;
+  .empowering-subsection {
+    .column {
+      text-align: center;
+    }
+    .info {
+      color: $highlight_text;
+      font-size: 1.5em;
+      font-weight: $font_weight_light;
+    }
+    /* .info > em */
     em {
       display: block;
+      font-size: 1.5em;
+      font-style: normal;
+    }
+  }
+
+  .countries-subsection {
+    .countries-count {
+      color: $blue_vibrant;
+      font-size: 12em;
+    }
+    .title {
+      color: $blue_vibrant;
+      font-size: 4em;
+      font-weight: $font_weight_light;
+      margin-bottom: 0;
+    }
+    p {
       font-size: 1.5em;
     }
   }
@@ -78,27 +97,28 @@
     padding-bottom: 10em;
     padding-top: 20em;
 
-    .info {
-      border-right: 2px solid $highlight_text;
-      padding: 0.5em 1em 0;
-      text-align: right;
+    .empowering-subsection {
+      .info {
+        border-right: 1px solid $highlight_text;
+        padding: 0.5em 1em 0;
+        text-align: right;
+      }
       em {
         font-size: 3em;
-        font-style: normal;
       }
     }
   }
 }
 
 @include media-query-min($bp_medium) {
-  .columns-2.sideimage {
+  .columns-2.empowering-subsection {
     display: table;
 
     .column-0 {
-      @include l-column-cell(9);
+      @include l-column-cell(8);
     }
     .column-1 {
-      @include l-column-cell(3);
+      @include l-column-cell(4);
     }
     .column {
       padding: 0 2em;
