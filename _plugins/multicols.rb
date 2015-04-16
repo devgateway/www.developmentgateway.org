@@ -28,9 +28,9 @@ module Jekyll
 
       markup = "<div class=\"#{wrapper_classes}\">"
 
-      columns.each { |column|
+      columns.each_with_index { |column, index|
 
-        markup += '<div class="column">'
+        markup += '<div class="column column-' + index.to_s + '">'
 
         if @html == 'render-as-html'
           markup += column

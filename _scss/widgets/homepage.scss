@@ -55,3 +55,54 @@
   }
 }
 
+// Style for the "empowering.html" homepage section.
+.section-empowering {
+  .column {
+    text-align: center;
+  }
+
+  .info {
+    color: $highlight_text;
+    font-size: 1.5em;
+    font-weight: $font_weight_light;
+    em {
+      display: block;
+      font-size: 1.5em;
+    }
+  }
+
+  @include media-query-min($bp_medium) {
+    background-image: url("/images/widgets/sagaing_43_bg.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-bottom: 10em;
+    padding-top: 20em;
+
+    .info {
+      border-right: 2px solid $highlight_text;
+      padding: 0.5em 1em 0;
+      text-align: right;
+      em {
+        font-size: 3em;
+        font-style: normal;
+      }
+    }
+  }
+}
+
+@include media-query-min($bp_medium) {
+  .columns-2.sideimage {
+    display: table;
+
+    .column-0 {
+      @include l-column-cell(9);
+    }
+    .column-1 {
+      @include l-column-cell(3);
+    }
+    .column {
+      padding: 0 2em;
+      vertical-align: middle;
+    }
+  }
+}

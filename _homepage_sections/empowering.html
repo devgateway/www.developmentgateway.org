@@ -4,8 +4,22 @@ selector: "section-empowering"
 weight: 1
 ---
 
-<div class="page-layout-element">
-  <h1>Empowering</h1>
-  <p>Vestibulum sapien amet tellus porttitor suspendisse nullam mi velit nec tempus a non duis vestibulum enim a iaculis nibh odio parturient. Diam ac nibh nunc a egestas vestibulum nunc netus a posuere etiam scelerisque tempus scelerisque et condimentum suspendisse proin gravida semper consequat. A curabitur habitasse himenaeos adipiscing a pulvinar adipiscing ridiculus curabitur parturient eu a ullamcorper fermentum nunc consequat in bibendum. A a sed parturient vehicula quis laoreet ad neque vitae a adipiscing accumsan accumsan feugiat. Amet ad ullamcorper id a a aliquet condimentum metus ridiculus dictumst ipsum mi adipiscing a donec a ligula.</p>
-  <p>Potenti dui vestibulum vulputate a at aliquet diam est curabitur habitasse tempus nascetur vestibulum vestibulum dis eget erat senectus venenatis molestie cras. Condimentum eget vel id parturient hendrerit iaculis metus potenti a id orci a nostra sociosqu ligula vestibulum natoque fringilla condimentum. Diam mi sem tempor laoreet nostra dictumst sociis maecenas mi dui vulputate purus parturient scelerisque erat ullamcorper adipiscing potenti per nam a habitasse. Montes ridiculus gravida a volutpat phasellus phasellus vestibulum feugiat parturient nunc leo sem pretium maecenas enim nullam magnis vestibulum a cubilia adipiscing mattis integer.</p>
+<div class="page-layout-element clearfix">
+
+  {% multicols sideimage clearfix | render-as-html %}
+    <h1 class="info">
+      empowering practitioners, governments, and<br>
+      citizens with the knowledge and tools they need
+      <em>to improve lives</em>
+    </h1>
+  <--colbreak-->
+
+    <div class="extra">
+      <img src="/images/widgets/globe_blue.png" alt="Globe"/>
+      <p>
+        Four Regions | One Goal
+      </p>
+    </div>
+
+  {% endmulticols %}
 </div>
