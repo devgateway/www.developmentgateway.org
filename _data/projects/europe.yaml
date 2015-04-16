@@ -2,7 +2,7 @@
 - name: European Union
   id: eu
   year: 2014
-  category: EUEU-DEVFIN
+  category: EU-DEVFIN
   description: "A scalable platform that enhances official development assistance (ODA) reporting capacity for new European Union (EU) member states."
   features:
     - Result Management
