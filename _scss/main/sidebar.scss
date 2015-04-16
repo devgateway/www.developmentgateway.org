@@ -15,7 +15,7 @@
 
   .input-text{
     width:95%;
-    @include transition(500ms);
+    @include transition(all);
 
     &:focus{
       outline:none;
@@ -75,11 +75,11 @@
 
 .tags li a {
   padding: 5px 10px 8px 10px;
-  font-size: #large;
+  font-size: $large;
   color: $grey_light;
   background: #eeeeee;
   display:block;
-  @include transition(500ms);
+  @include transition(all);
 
   &:hover{
     background: $blue_vibrant;
