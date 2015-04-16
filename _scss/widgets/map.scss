@@ -10,7 +10,7 @@
   .leaflet-control-zoom {
     $zcolor: $white;
     $zhovcolor: darken($zcolor, 15%);
-    @include box-shadow(none);
+    box-shadow: none;
     margin-right: $map_side_padding;
     margin-bottom: $map_bottom_padding;
 
@@ -103,7 +103,7 @@
 
 // Inset Text. Page title-ish and flips to country info on country bubble hover.
 .map-inset-text {
-  @include text-shadow(0 0 0.2em $black);
+  text-shadow: 0 0 0.2em $black;
   z-index: 1;
   position: absolute;
   left: $map_side_padding;
