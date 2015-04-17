@@ -8,6 +8,159 @@
   }
 }
 
+// Style for the "empowering.html" homepage section.
+.section-empowering {
+  .empowering-subsection {
+    .column {
+      text-align: center;
+    }
+    .info {
+      color: $highlight_text;
+      font-size: 1.4em;
+      font-weight: $font_weight_light;
+    }
+    /* .info > em */
+    em {
+      display: block;
+      font-size: 1.4em;
+      font-style: normal;
+    }
+  }
+
+  .countries-subsection {
+    .countries-count {
+      color: $blue_vibrant;
+      font-size: 6em;
+    }
+    .title {
+      color: $blue_vibrant;
+      font-weight: $font_weight_light;
+    }
+    p {
+      clear: both;
+      font-size: 1.4em;
+    }
+  }
+
+  @include media-query-max($bp_small) {
+    .countries-subsection {
+      text-align: center;
+      .title {
+        margin-top: 0;
+      }
+    }
+  }
+  @include media-query-min($bp_medium) {
+    background-image: url("/images/widgets/sagaing_43_bg.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-bottom: 10em;
+    padding-top: 20em;
+
+    .empowering-subsection {
+      .info {
+        border-right: 1px solid $highlight_text;
+        padding: 0.5em 1em 0;
+        text-align: right;
+      }
+      em {
+        font-size: 2.5em;
+      }
+    }
+
+    .countries-subsection {
+      margin-top: 3em;
+
+      .countries-count {
+        font-size: 14em;
+        line-height: 0.9em;
+      }
+      .title {
+        font-size: 4em;
+        margin: 0;
+      }
+    }
+
+  }
+}
+
+// Style for the "partners.html" homepage section.
+.section-partners {
+  .title {
+    color: $highlight_text;
+    font-weight: $font_weight_light;
+  }
+
+  .description-subsection {
+    font-size: 1.5em;
+    .column-1 {
+      color: $blue_vibrant;
+    }
+  }
+
+  .partners-list {
+    text-align: center;
+  }
+
+  .partner {
+    list-style: none;
+    margin: 1em 0;
+  }
+
+  @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
+    .title {
+      font-size: 3em;
+      padding-left: 2em;
+    }
+
+    .partner {
+      display: inline;
+      padding: 1em;
+    }
+  }
+}
+
+// Style for the "expertise.html" homepage section.
+.section-expertise {
+  .title {
+    font-weight: $font_weight_light;
+
+    > em {
+      color: $highlight_text;
+    }
+  }
+
+  .info-subsection {
+    font-size: 1.5em;
+  }
+
+  .topic-title {
+    @include box-sizing();
+    border: 1px solid white;
+    padding: 1em;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
+    .title {
+      font-size: 1.8em;
+
+      > em {
+        display: block;
+        font-size: 2em;
+      }
+    }
+  }
+}
+
+// Style for the "latest-stories.html" homepage section.
 .section-latest-stories {
   .section-title {
     color: $highlight_text;
@@ -45,6 +198,9 @@
   }
 
   @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
     // Make all blog posts the same height.
     .blog-title {
       @include l-column-force-height($line_height: 1.3em, $rows: 3);
@@ -55,3 +211,42 @@
   }
 }
 
+@include media-query-min($bp_medium) {
+  .empowering-subsection {
+    display: table;
+
+    .column-0 {
+      @include l-column-cell(8);
+    }
+    .column-1 {
+      @include l-column-cell(4);
+    }
+    .column {
+      padding: 0 2em;
+      vertical-align: middle;
+    }
+  }
+
+  .description-subsection {
+    .column {
+      @include l-column-cell(6);
+      padding: 0.5em 1em;
+      vertical-align: middle;
+    }
+    .column-0 {
+      border-right: 1px solid $highlight_text;
+      text-align: right;
+    }
+  }
+
+  @include media-query-min($bp_medium) {
+    .topics-subsection {
+      display: table;
+      border-collapse: separate;
+      border-spacing: 1em;
+    }
+    .topic-title {
+      @include l-column-cell(3);
+    }
+  }
+}

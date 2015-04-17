@@ -1,0 +1,26 @@
+---
+title: "Expertise"
+selector: "section-expertise"
+weight: 2
+---
+
+
+<div class="page-layout-element clearfix">
+  <h1 class="title">
+    Co-creating <em>information solutions <br> and cultivating skills</em>
+  </h1>
+
+  {% stripwhitespace %}
+  <div class="topics-subsection clearfix">
+    {% for entry in site.data.expertise_topics %}
+    <h2 class="topic-title">{{ entry.title }}</h2>
+    {% endfor %}
+  </div>
+  {% endstripwhitespace %}
+
+  <p class="info-subsection">
+    Because capable individuals with open, accessible, and complete information
+    have the power to demand accountability, increase policy effectiveness, and
+    build a better world.
+  </p>
+</div>

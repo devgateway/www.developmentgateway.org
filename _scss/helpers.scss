@@ -198,6 +198,15 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 8em;
   width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
 }
 
+// NOTE: When you use this mixin, the wrapper element needs to have:
+//       `display: table;`
+@mixin l-column-cell($count) {
+  display: table-cell;
+  padding-left: $gen_gutter_width / 2;
+  padding-right: $gen_gutter_width / 2;
+  width: ($gen_column_width + $gen_gutter_width) * $count - $gen_gutter_width;
+}
+
 @mixin l-column-single() {
   margin-left: $gen_gutter_width / 2;
   margin-right: $gen_gutter_width / 2;

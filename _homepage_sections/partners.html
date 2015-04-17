@@ -1,11 +1,31 @@
 ---
 title: "Partners"
 selector: "section-partners"
-weight: 2
+weight: 3
 ---
 
-<div class="page-layout-element">
-  <h1>Partners</h1>
-  <p>Tristique facilisis vel fames dapibus a ut risus vestibulum a mi et a suspendisse vitae lorem cras bibendum porttitor malesuada at hendrerit est fusce maecenas faucibus a parturient. Odio fames sem placerat dictumst adipiscing est vestibulum suspendisse senectus scelerisque aliquet urna interdum rhoncus in etiam class a ac ad ipsum orci dui in porttitor condimentum ut parturient. Scelerisque pharetra adipiscing eu adipiscing parturient ad cubilia phasellus eros a condimentum feugiat vitae a aptent lectus mi nisl adipiscing parturient fames morbi curae suspendisse parturient ullamcorper leo. Semper adipiscing sem habitasse vestibulum elementum condimentum id hac congue non adipiscing elementum accumsan adipiscing suspendisse quis. Placerat arcu tempor ultricies tellus imperdiet et porta sociosqu parturient magnis ullamcorper vestibulum hac magna phasellus semper fusce.</p>
-  <p>In ad nec a curae per leo enim aliquet eu bibendum ullamcorper eu montes eu per lectus. Faucibus at suspendisse adipiscing bibendum hendrerit egestas vulputate nulla nec ultricies sed mi cum scelerisque adipiscing egestas a scelerisque adipiscing. Felis praesent a ultricies adipiscing consectetur erat malesuada parturient volutpat volutpat taciti consectetur a porta a. A taciti aptent suspendisse in vestibulum commodo per neque augue leo ullamcorper dui eu dictumst rutrum sapien vestibulum facilisi.</p>
+<div class="page-layout-element clearfix">
+  <h1 class="title">
+    Work with us to <br>
+    turn data into action
+  </h1>
+
+  {% multicols description-subsection clearfix | render-as-html %}
+  <p>
+    with the knowledge and <br>
+    tools to truly empower
+  </p>
+  <--colbreak-->
+  <p>
+    some of our parters <br>
+    include
+  </p>
+  {% endmulticols %}
+
+  <ul class="partners-list">
+    <li class="partner"><img src="{{ 'images/widgets/wbg_logo_white.png' | prepend: site.baseurl }}" alt="World Bank Group Logo"/></li>
+    <li class="partner"><img src="{{ 'images/widgets/adb_logo_small.png' | prepend: site.baseurl }}" alt="African Development Bank Logo"/></li>
+    <li class="partner"><img src="{{ 'images/widgets/usaid_logo_white.png' | prepend: site.baseurl }}" alt="USAID Logo"/></li>
+    <li class="partner"><img src="{{ 'images/widgets/esri_logo_white.png' | prepend: site.baseurl }}" alt="ESRI Logo"/></li>
+  </ul>
 </div>
