@@ -69,12 +69,15 @@
     }
 
     .countries-subsection {
+      margin-top: 3em;
+
       .countries-count {
-        font-size: 12em;
+        font-size: 14em;
+        line-height: 0.9em;
       }
       .title {
         font-size: 4em;
-        margin-bottom: 0;
+        margin: 0;
       }
     }
 
