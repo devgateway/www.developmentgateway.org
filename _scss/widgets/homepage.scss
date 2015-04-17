@@ -112,6 +112,30 @@
   }
 }
 
+// Style for the "expertise.html" homepage section.
+.section-expertise {
+  padding-bottom: 10em;
+  padding-top: 10em;
+
+  .title {
+    font-size: 1.8em;
+    font-weight: $font_weight_light;
+
+    > em {
+      color: $highlight_text;
+      display: block;
+      font-size: 2em;
+    }
+  }
+
+  .topics-subsection {
+
+  }
+  .info-subsection {
+    font-size: 1.5em;
+  }
+}
+
 // Style for the "latest-stories.html" homepage section.
 .section-latest-stories {
   padding-bottom: 10em;
@@ -188,6 +212,22 @@
     .column-0 {
       border-right: 1px solid $highlight_text;
       text-align: right;
+    }
+  }
+
+  @include media-query-min($bp_medium) {
+    .topics-subsection {
+      display: table;
+      border-collapse: separate;
+      border-spacing: 1em;
+    }
+    .topic-title {
+      @include box-sizing();
+      @include l-column-cell(3);
+      border: 1px solid white;
+      padding: 1em;
+      text-align: center;
+      vertical-align: middle;
     }
   }
 }
