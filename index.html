@@ -4,7 +4,8 @@ position_indicator: True
 ---
 
 <div class="homepage-wrapper clearfix">
-  {% for section in site.homepage_sections | sort: "weight" %}
+  {% assign sections = site.homepage_sections | sort: 'weight' %}
+  {% for section in sections %}
   <section id="{{ section.selector }}" class="section-wrapper {{ section.selector }} {{ section.class }}" >
     {{ section.output }}
   </section>
