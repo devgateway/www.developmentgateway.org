@@ -8,53 +8,6 @@
   }
 }
 
-.section-latest-stories {
-  .section-title {
-    color: $highlight_text;
-    font-weight: $font_weight_light;
-    text-align: center;
-  }
-
-  .blog-entry-wrapper {
-    background-color: $white;
-    color: $default_text;
-  }
-
-  .blog-entry {
-    margin: 1em;
-
-    a {
-      color: $black;
-    }
-  }
-
-  .blog-date {
-    color: $blue_medium;
-    font-weight: bold;
-  }
-
-  .blog-title {
-    font-weight: $font_weight_light;
-    margin-bottom: 0;
-  }
-
-  @include media-query-max($bp_medium) {
-    .blog-image-wrapper {
-      display: none;
-    }
-  }
-
-  @include media-query-min($bp_medium) {
-    // Make all blog posts the same height.
-    .blog-title {
-      @include l-column-force-height($line_height: 1.3em, $rows: 3);
-    }
-    .blog-lede {
-      @include l-column-force-height($line_height: 1.5em, $rows: 7);
-    }
-  }
-}
-
 // Style for the "empowering.html" homepage section.
 .section-empowering {
   .empowering-subsection {
@@ -128,6 +81,7 @@
   }
 }
 
+// Style for the "partners.html" homepage section.
 .section-partners {
   padding-bottom: 10em;
   padding-top: 10em;
@@ -151,6 +105,54 @@
     .partner {
       display: inline;
       padding: 1em;
+    }
+  }
+}
+
+// Style for the "latest-stories.html" homepage section.
+.section-latest-stories {
+  .section-title {
+    color: $highlight_text;
+    font-weight: $font_weight_light;
+    text-align: center;
+  }
+
+  .blog-entry-wrapper {
+    background-color: $white;
+    color: $default_text;
+  }
+
+  .blog-entry {
+    margin: 1em;
+
+    a {
+      color: $black;
+    }
+  }
+
+  .blog-date {
+    color: $blue_medium;
+    font-weight: bold;
+  }
+
+  .blog-title {
+    font-weight: $font_weight_light;
+    margin-bottom: 0;
+  }
+
+  @include media-query-max($bp_medium) {
+    .blog-image-wrapper {
+      display: none;
+    }
+  }
+
+  @include media-query-min($bp_medium) {
+    // Make all blog posts the same height.
+    .blog-title {
+      @include l-column-force-height($line_height: 1.3em, $rows: 3);
+    }
+    .blog-lede {
+      @include l-column-force-height($line_height: 1.5em, $rows: 7);
     }
   }
 }
