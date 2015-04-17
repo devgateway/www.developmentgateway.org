@@ -111,6 +111,9 @@
 
 // Style for the "latest-stories.html" homepage section.
 .section-latest-stories {
+  padding-bottom: 10em;
+  padding-top: 10em;
+
   .section-title {
     color: $highlight_text;
     font-weight: $font_weight_light;
