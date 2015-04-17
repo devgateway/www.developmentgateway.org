@@ -77,19 +77,26 @@
   .countries-subsection {
     .countries-count {
       color: $blue_vibrant;
-      font-size: 12em;
+      font-size: 6em;
     }
     .title {
       color: $blue_vibrant;
-      font-size: 4em;
       font-weight: $font_weight_light;
-      margin-bottom: 0;
     }
     p {
+      clear: both;
       font-size: 1.4em;
     }
   }
 
+  @include media-query-max($bp_small) {
+    .countries-subsection {
+      text-align: center;
+      .title {
+        margin-top: 0;
+      }
+    }
+  }
   @include media-query-min($bp_medium) {
     background-image: url("/images/widgets/sagaing_43_bg.jpg");
     background-position: top center;
@@ -107,11 +114,49 @@
         font-size: 2.5em;
       }
     }
+
+    .countries-subsection {
+      .countries-count {
+        font-size: 12em;
+      }
+      .title {
+        font-size: 4em;
+        margin-bottom: 0;
+      }
+    }
+
+  }
+}
+
+.section-partners {
+  padding-bottom: 10em;
+  padding-top: 10em;
+
+  .title {
+    color: $highlight_text;
+    font-size: 3em;
+    font-weight: $font_weight_light;
+    padding-left: 2em;
+  }
+
+  .description-subsection {
+    font-size: 1.5em;
+    .column-1 {
+      color: $blue_vibrant;
+    }
+  }
+
+  .partners-list {
+    text-align: center;
+    .partner {
+      display: inline;
+      padding: 1em;
+    }
   }
 }
 
 @include media-query-min($bp_medium) {
-  .columns-2.empowering-subsection {
+  .empowering-subsection {
     display: table;
 
     .column-0 {
@@ -123,6 +168,18 @@
     .column {
       padding: 0 2em;
       vertical-align: middle;
+    }
+  }
+
+  .description-subsection {
+    .column {
+      @include l-column-cell(6);
+      padding: 0.5em 1em;
+      vertical-align: middle;
+    }
+    .column-0 {
+      border-right: 1px solid $highlight_text;
+      text-align: right;
     }
   }
 }
