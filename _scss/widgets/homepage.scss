@@ -86,14 +86,9 @@
 
 // Style for the "partners.html" homepage section.
 .section-partners {
-  padding-bottom: 10em;
-  padding-top: 10em;
-
   .title {
     color: $highlight_text;
-    font-size: 3em;
     font-weight: $font_weight_light;
-    padding-left: 2em;
   }
 
   .description-subsection {
@@ -105,6 +100,22 @@
 
   .partners-list {
     text-align: center;
+  }
+
+  .partner {
+    list-style: none;
+    margin: 1em 0;
+  }
+
+  @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
+    .title {
+      font-size: 3em;
+      padding-left: 2em;
+    }
+
     .partner {
       display: inline;
       padding: 1em;
@@ -114,33 +125,43 @@
 
 // Style for the "expertise.html" homepage section.
 .section-expertise {
-  padding-bottom: 10em;
-  padding-top: 10em;
-
   .title {
-    font-size: 1.8em;
     font-weight: $font_weight_light;
 
     > em {
       color: $highlight_text;
-      display: block;
-      font-size: 2em;
     }
   }
 
-  .topics-subsection {
-
-  }
   .info-subsection {
     font-size: 1.5em;
+  }
+
+  .topic-title {
+    @include box-sizing();
+    border: 1px solid white;
+    padding: 1em;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
+    .title {
+      font-size: 1.8em;
+
+      > em {
+        display: block;
+        font-size: 2em;
+      }
+    }
   }
 }
 
 // Style for the "latest-stories.html" homepage section.
 .section-latest-stories {
-  padding-bottom: 10em;
-  padding-top: 10em;
-
   .section-title {
     color: $highlight_text;
     font-weight: $font_weight_light;
@@ -177,6 +198,9 @@
   }
 
   @include media-query-min($bp_medium) {
+    padding-bottom: 10em;
+    padding-top: 10em;
+
     // Make all blog posts the same height.
     .blog-title {
       @include l-column-force-height($line_height: 1.3em, $rows: 3);
@@ -222,12 +246,7 @@
       border-spacing: 1em;
     }
     .topic-title {
-      @include box-sizing();
       @include l-column-cell(3);
-      border: 1px solid white;
-      padding: 1em;
-      text-align: center;
-      vertical-align: middle;
     }
   }
 }
