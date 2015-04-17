@@ -39,7 +39,7 @@
   lat: 15.4461015
   lon: 18.7350005
 
-- name: Ivory Coast
+- name: Cote d'Ivoire
   id: ivory-coast
   year: 2014
   category: Aid Management Program
@@ -150,6 +150,20 @@
   url:
   lat: 14.5001715
   lon: -14.4392276
+
+- name: The Gambia
+  id: the-gambia
+  year: 2015
+  category: Aid Management Program
+  description: The Gambia will provide the Ministry of Finance and other policymakers with a more complete picture of the resources dedicated to promoting development.
+  features:
+    - System integration
+    - Reducing duplication of efforts
+  quote:
+  quote-author:
+  url:
+  lat: 13.4667
+  lon: 16.6000
 
 - name: Tanzania
   id: tanzania
