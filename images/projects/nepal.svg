@@ -1,41 +1,45 @@
-<svg version="1.0" id="nepal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="5 35 150 90" enable-background="new 0 0 160 160" xml:space="preserve">
-<g>
-	<defs>
-		<rect id="SVGID_1_" x="44.19" y="35.09" width="72.06" height="89.71"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<path clip-path="url(#SVGID_2_)" fill="#22368F" d="M47.59,41.22l56.09,35.13H60.45l45.04,45.04H47.588V41.22 M44.191,35.083v89.71
-		h69.5l-45.05-45.04H115.5L44.18,35.091"/>
-</g>
-<g>
-	<defs>
-		<rect id="SVGID_3_" x="44.19" y="35.09" width="72.06" height="89.71"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_3_"  overflow="visible"/>
-	</clipPath>
-	<path clip-path="url(#SVGID_4_)" fill="#BC0030" d="M45.89,38.15v84.94h63.7L64.55,78.05h45.04L45.89,38.15z"/>
-</g>
-<g>
-	<defs>
-		<rect id="SVGID_5_" x="44.19" y="35.09" width="72.06" height="89.71"/>
-	</defs>
-	<clipPath id="SVGID_6_">
-		<use xlink:href="#SVGID_5_"  overflow="visible"/>
-	</clipPath>
-	<g clip-path="url(#SVGID_6_)">
-		<g>
-			<path fill="#FFFFFF" d="M61.816,75.78c7.01,0,12.682-5.673,12.687-12.677c-1.111,2.814-3.13,5.169-5.696,6.708l-1.088-0.816
-				l2.138-1.601l-2.584-0.657c0,0,0,0,0-0.005l1.361-2.289l-2.643,0.377l0.38-2.646l-2.294,1.366c0,0,0,0-0.003,0l-0.657-2.589
-				l-1.601,2.141l-1.601-2.141l-0.66,2.589l-2.296-1.366l0.382,2.646l-2.643-0.377l1.361,2.289c0,0.005,0,0.005,0,0.005
-				l-2.587,0.657l2.141,1.601l-1.091,0.816c-2.566-1.539-4.585-3.894-5.694-6.708C49.132,70.103,54.813,75.78,61.816,75.78"/>
-			<path fill="#FFFFFF" d="M70.17,102.81l5.28-2.24l-5.28-2.24l3.45-4.58l-5.689,0.71l0.699-5.7l-4.58,3.46l-2.234-5.29l-2.236,5.29
-				l-4.581-3.46l0.706,5.7l-5.695-0.71l3.46,4.58l-5.29,2.24l5.29,2.24l-3.46,4.58l5.695-0.71l-0.706,5.7l4.581-3.46l2.236,5.28
-				l2.234-5.28l4.58,3.46l-0.699-5.7l5.689,0.71L70.17,102.81z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="726" height="885" viewBox="-17.582 -4.664 71.571 87.246">
+<title>Flag of Nepal</title>
+<desc>Coding according to the official construction in "Constitution of the Kingdom of Nepal, Article 5, Shedule 1", adopted in November 1990</desc>
+
+<!-- 2*TN= (17955-7335*Sqrt(2))/1468 -->
+<use xlink:href="#b" stroke="#003893" stroke-width="5.1646754223"/>
+<!-- F,G,C,A,B,D --> <!-- Fy=Gy = 80-30*Sqrt(2) -->
+<path id="b" d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
+
+<g fill="#fff">
+<!-- LN = -Px = Qx = 5/4*Sqrt(609-366*Sqrt(2)), Py = Qy= 50-75/4*Sqrt(2) -->
+<!-- MQ = 5/4*(23-9*Sqrt(2))  -->
+	<path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/> <!-- Px, Py, MQ, MQ, Qx, Qy, LN, LN, Px, Py -->
+<!-- Ty = (183895-69735*Sqrt(2))/2936   TM = (37095-14685*Sqrt(2))/2936 -->
+	<g transform="translate(0,29.0445562765) scale(5.5610605710)">
+		<circle r="1"/>
+		<g id="jags6">
+			<g id="jags3">
+<!-- sin(Pi/16),-cos(Pi/16), 0, -TS/TM = -Sqrt(884995-8076*Sqrt(2))/673, -sin(Pi/16),-cos(Pi/16) -->
+				<path id="jag" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
+				<use xlink:href="#jag" transform="rotate(22.5)"/>
+				<use xlink:href="#jag" transform="rotate(45)"/>
+			</g>
+			<use xlink:href="#jags3" transform="rotate(67.5)"/>
 		</g>
+		<use xlink:href="#jags6" transform="scale(-1, 1)"/>
+	</g>
+<!--  Wy = 80-15*Sqrt(2)   NM= 15/4*(5-2*Sqrt(2)) -->
+	<g transform="translate(0,58.7867965644) scale(8.1433982822)">
+		<circle r="1"/>
+		<g id="rays4">
+			<g id="rays2">
+<!-- sin(Pi/12),cos(Pi/12), 0, LN/NM=(79+Sqrt(2))/51, -sin(Pi/12),cos(Pi/12) -->
+				<path id="ray" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
+				<use xlink:href="#ray" transform="rotate(180)"/>
+			</g>
+			<use xlink:href="#rays2" transform="rotate(90)"/>
+		</g>
+		<use xlink:href="#rays4" transform="rotate(30)"/>
+		<use xlink:href="#rays4" transform="rotate(60)"/>
 	</g>
 </g>
 </svg>
