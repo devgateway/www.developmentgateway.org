@@ -1,6 +1,6 @@
-<svg version="1.0" id="madagascar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="5 35 150 90" enable-background="new 0 0 612 792" xml:space="preserve">
-<rect x="206.7" y="397.3" fill="#00AA66" width="394.5" height="171.7"/>
-<rect x="206.7" y="225.7" fill="#EC1C2E" width="394.5" height="171.7"/>
-<rect x="9.4" y="225.7" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="2.5" width="197.3" height="343.3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+   <rect fill="#ffffff" id="white_stripe" width="900" height="600"/>
+   <rect fill="#fc3d32" id="red_stripe" width="600" height="600" x="300"/>
+   <rect fill="#007e3a" id="green_stripe" width="600" height="300" x="300" y="300"/>
 </svg>

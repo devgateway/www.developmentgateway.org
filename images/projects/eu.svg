@@ -1,30 +1,4 @@
-<svg version="1.0" id="eu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
-<rect x="9.9" y="225" fill="#001689" width="591" height="342.5"/>
-<g>
-	<polygon fill="#FFCE00" points="201.2,321.9 205.6,335.3 219.6,335.3 208.2,343.6 212.6,357 201.2,348.7 189.8,357 194.2,343.6
-		182.8,335.3 196.9,335.3 	"/>
-	<polygon fill="#FFCE00" points="241.9,280.5 246.3,293.9 260.4,293.9 249,302.2 253.3,315.6 241.9,307.3 230.5,315.6 234.9,302.2
-		223.5,293.9 237.6,293.9 	"/>
-	<polygon fill="#FFCE00" points="299.9,264.9 304.3,278.3 318.3,278.3 307,286.5 311.3,299.9 299.9,291.7 288.5,299.9 292.9,286.5
-		281.5,278.3 295.6,278.3 	"/>
-	<polygon fill="#FFCE00" points="357.2,280.6 361.6,294 375.7,294 364.3,302.2 368.6,315.6 357.2,307.4 345.9,315.6 350.2,302.2
-		338.8,294 352.9,294 	"/>
-	<polygon fill="#FFCE00" points="399.5,322.8 403.8,336.2 417.9,336.2 406.5,344.5 410.9,357.9 399.5,349.6 388.1,357.9
-		392.4,344.5 381,336.2 395.1,336.2 	"/>
-	<polygon fill="#FFCE00" points="415.1,380.8 419.5,394.2 433.5,394.2 422.2,402.4 426.5,415.8 415.1,407.6 403.7,415.8
-		408.1,402.4 396.7,394.2 410.8,394.2 	"/>
-	<polygon fill="#FFCE00" points="399.4,439 403.8,452.4 417.8,452.4 406.5,460.6 410.8,474 399.4,465.7 388,474 392.4,460.6
-		381,452.4 395.1,452.4 	"/>
-	<polygon fill="#FFCE00" points="357.2,480.9 361.6,494.3 375.6,494.3 364.2,502.6 368.6,516 357.2,507.7 345.8,516 350.2,502.6
-		338.8,494.3 352.8,494.3 	"/>
-	<polygon fill="#FFCE00" points="300.1,496.2 304.4,509.6 318.5,509.6 307.1,517.9 311.4,531.3 300.1,523 288.7,531.3 293,517.9
-		281.6,509.6 295.7,509.6 	"/>
-	<polygon fill="#FFCE00" points="242.1,480.6 246.4,494 260.5,494 249.1,502.3 253.5,515.7 242.1,507.4 230.7,515.7 235,502.3
-		223.6,494 237.7,494 	"/>
-	<polygon fill="#FFCE00" points="200.7,438.7 205,452.1 219.1,452.1 207.7,460.3 212.1,473.7 200.7,465.5 189.3,473.7 193.7,460.3
-		182.3,452.1 196.3,452.1 	"/>
-	<polygon fill="#FFCE00" points="184.8,379.7 189.2,393.2 203.5,393.2 192,401.6 196.4,415.1 184.8,406.8 173.3,415.1 177.7,401.6
-		166.2,393.2 180.5,393.2 	"/>
-</g>
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="810" height="540"><desc>European flag</desc>
+<defs><g id="s"><g id="c"><path id="t" d="M0,0v1h0.5z" transform="translate(0,-1)rotate(18)"/><use xlink:href="#t" transform="scale(-1,1)"/></g><g id="a"><use xlink:href="#c" transform="rotate(72)"/><use xlink:href="#c" transform="rotate(144)"/></g><use xlink:href="#a" transform="scale(-1,1)"/></g></defs>
+<rect fill="#039" width="810" height="540"/><g fill="#fc0" transform="scale(30)translate(13.5,9)"><use xlink:href="#s" y="-6"/><use xlink:href="#s" y="6"/><g id="l"><use xlink:href="#s" x="-6"/><use xlink:href="#s" transform="rotate(150)translate(0,6)rotate(66)"/><use xlink:href="#s" transform="rotate(120)translate(0,6)rotate(24)"/><use xlink:href="#s" transform="rotate(60)translate(0,6)rotate(12)"/><use xlink:href="#s" transform="rotate(30)translate(0,6)rotate(42)"/></g><use xlink:href="#l" transform="scale(-1,1)"/></g>
 </svg>
