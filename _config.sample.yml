@@ -41,8 +41,6 @@ image:
       height: 192
 
 collections:
-  programs:
-    output: false
   homepage_sections:
     output: false
 
@@ -81,4 +79,7 @@ lunr_search:
   excludes:
     - blog.html
     - feed.xml
+    - lib
+    - scripts
+    - images
   js_dir: scripts

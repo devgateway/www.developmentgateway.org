@@ -1,0 +1,14 @@
+---
+layout: ~
+---
+
+{
+{% for topic in site.collections.expertise_topics.docs %}
+  '{{ topic.id }}': {
+    content: {{ topic.content | jsonify }},
+    permalink: {{ topic.permalink | jsonify }},
+    weight: {{ topic.weight | jsonify }}
+  }
+  {% if forloop.last %} {% else %},{% endif %}
+{% endfor %}
+}
