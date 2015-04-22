@@ -1,8 +1,8 @@
 
 wm:
-  name: William & Mary
+  name: AidData
   description: An innovative partnership with William & Mary and Brigham Young University seeking to make development information open, accessible, and useful for decision makers.
-  logo: wm-logo.png
+  logo: aiddata.png
   url: https://www.wm.edu
 
 fbl:
