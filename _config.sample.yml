@@ -42,7 +42,9 @@ image:
 
 collections:
   homepage_sections:
-    output: false
+    output: true
+  expertise_topics:
+    output: true
 
 # URL for the mailchimp newsletter.
 mailchimp_form_url: __NONE__
@@ -78,8 +80,9 @@ sass:
 lunr_search:
   excludes:
     - blog.html
+    - expertise/topics.json
     - feed.xml
+    - images
     - lib
     - scripts
-    - images
   js_dir: scripts
