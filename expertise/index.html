@@ -24,11 +24,15 @@ nav_data: expertise_topics
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
     {% for topic in sorted_topics %}
       <section class="topic topic-{{ topic.id }}" id="{{ topic.id }}" data-onepager="{{ topic.permalink }}">
-        <h2 class="title">{{ topic.title }}</h2>
-        <p>
-          <a href="{{ topic.permalink }}">Read more about {{ topic.title }}</a>
-        </p>
+        <h1 class="title">{{ topic.title }}</h1>
+        <div id="{{ topic.id }}-content">
+          <p><a href="{{ topic.permalink }}">Read more about {{ topic.title }}</a></p>
+        </div>
       </section>
     {% endfor %}
+
+    {% assign data_url = 'expertise/topics.json' | prepend: site.baseurl %}
+    {% include widgets/one-pager.html json_data_url=data_url %}
+
   </div>
 </div>
