@@ -5,6 +5,7 @@ title_summary: because data should work for people
 permalink: /expertise/
 weight: 2
 nav_data: expertise_topics
+one_pager_data: 'expertise/topics.json'
 ---
 
 {% multicols pageintro half clearfix %}
@@ -30,9 +31,5 @@ nav_data: expertise_topics
         </div>
       </section>
     {% endfor %}
-
-    {% assign data_url = 'expertise/topics.json' | prepend: site.baseurl %}
-    {% include widgets/one-pager.html json_data_url=data_url %}
-
   </div>
 </div>

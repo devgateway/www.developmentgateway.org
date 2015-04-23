@@ -1,8 +1,7 @@
 
 <script>
   (function(window, nanoajax) {
-    var json_data_url = '{{ include.json_data_url }}';
-    var json_data_url = '{{ include.json_data_url }}';
+    var json_data_url = '{{ include.json_data_url | prepend: site.baseurl }}';
     nanoajax.ajax(json_data_url, function (responseCode, responseText) {
       if (responseCode != 200) {
         return;

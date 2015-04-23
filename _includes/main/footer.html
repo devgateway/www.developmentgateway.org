@@ -33,4 +33,8 @@
     </nav>
   </div></div>
 
+  {% if page.one_pager_data %}
+    {% include widgets/one-pager.html json_data_url=page.one_pager_data %}
+  {% endif %}
+
 </footer>
