@@ -176,7 +176,7 @@ module Jekyll
             i.extent "#{gen_width}x#{gen_height}"
           else
             i.flatten
-            i.resize "#{gen_width}x#{gen_height}^"
+            i.scale "#{gen_width}x#{gen_height}"
             i.crop "#{gen_width}x#{gen_height}+0+0"
           end
         end
