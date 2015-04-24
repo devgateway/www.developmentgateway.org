@@ -1,0 +1,20 @@
+
+{% multicols half clearfix | render-as-html %}
+
+  Development Gateway, Inc.<br>
+  1110 Vermont Ave. NW, Suite 500<br>
+  Washington, DC 20005 USA<br>
+  Tel: +1.202.572.9200
+
+<--colbreak-->
+
+  Development Gateway International, ASBL<br>
+  49 rue de Trèves<br>
+  1040 Brussels Belgium<br>
+  T +32.2.285.06.11<br>
+
+  {% if include.display_email %}
+  <a href="mailto: info@developmentgateway.org">info@developmentgateway.org</a>
+  {% endif %}
+
+{% endmulticols %}
