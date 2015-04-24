@@ -220,6 +220,15 @@ $bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 8em;
   margin-right: 0;
 }
 
+@mixin l-fix-nesting() {
+  &:first-child {
+    @include l-first-column();
+  }
+  &:last-child {
+    @include l-last-column();
+  }
+}
+
 // Set fixed height to columns.
 @mixin l-column-force-height($line_height, $rows) {
   line-height: $line_height;

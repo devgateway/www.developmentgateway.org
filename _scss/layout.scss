@@ -5,6 +5,10 @@ body,
   min-width: 20em;
 }
 
+.page-section {
+  margin-bottom: $gen_gutter_width;
+}
+
 .header-logo-section {
   float: left;
 }
@@ -57,23 +61,21 @@ body,
   }
 }
 
-.columns-3 {
-  .column {
-    @include media-query-min($bp_medium) {
-      @include l-column(4);
-    }
+@include media-query-min($bp_medium) {
+  .columns-3 .column {
+    @include l-column(4);
   }
 }
 
-.columns-4 {
-  .column {
-    @include media-query-min($bp_medium) {
-      @include l-column(3);
-    }
+@include media-query-min($bp_medium) {
+  .columns-4 .column {
+    @include l-column(3);
   }
 }
 
-section{
-  margin-bottom:$gen_gutter_width;
-  overflow:hidden;
+@include media-query-min($bp_medium) {
+  .partner-countries .partner {
+    @include l-column(4);
+    @include l-fix-nesting()
+  }
 }

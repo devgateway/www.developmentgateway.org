@@ -7,71 +7,76 @@ nav_data: partnership
 weight: 7
 ---
 
-<h2>Partners</h2>
-<section>
-<ul class="partner-countries">
-  {% for partner in site.data.partners.partners %}
-<li>
-{{ partner.name }}{% endfor %}
-</li>
-</ul>
-</section>
-<section>
-<h2>Coalitions</h2>
-{% multicols clearfix | render-as-html %}
-  {% assign partner=site.data.partners.coalitions.wm %}
-  <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-  </a>
-  <p class="description">{{ partner.description }}</p>
-<--colbreak-->
-  {% assign partner=site.data.partners.coalitions.ogh %}
-  <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-  </a>
-  <p class="description">{{ partner.description }}</p>
-<--colbreak-->
-  {% assign partner=site.data.partners.coalitions.fbl %}
-  <a href="{{ partner.url }}" target="_blank">
-    {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-  </a>
-  <p class="description">{{ partner.description }}</p>
-{% endmulticols %}
+<section class="page-section">
+  <h2>Partners</h2>
+
+  <ul class="partner-countries">
+    {% for partner in site.data.partners.partners %}
+    <li class="partner">{{ partner.name }}</li>
+    {% endfor %}
+  </ul>
 </section>
 
-<section>
-<h2>Consortia</h2>
-{% multicols clearfix | render-as-html %}
-{% assign partner=site.data.partners.consortia.iati %}
-<a href="{{ partner.url }}" target="_blank">
-{% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-</a>
-<--colbreak-->
-<p class="description">{{ partner.description }}</p>
-<--colbreak-->
-{% assign partner=site.data.partners.consortia.openaid %}
-<a href="{{ partner.url }}" target="_blank">
-{% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-</a>
-<--colbreak-->
-<p class="description">{{ partner.description }}</p>
-{% endmulticols %}
+<section class="page-section">
+  <h2>Coalitions</h2>
+  {% multicols clearfix | render-as-html %}
+    {% assign partner=site.data.partners.coalitions.wm %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.coalitions.ogh %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.coalitions.fbl %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  {% endmulticols %}
 </section>
 
-<section>
-<h2>Become a partner today</h2>
-{% multicols half clearfix %}
+<section class="page-section">
+  <h2>Consortia</h2>
 
-Development Gateway, Inc.\\
-1110 Vermont Ave. NW, Suite 500\\
-Washington, DC 20005 USA\\
-Tel: +1.202.572.9200
+  {% multicols clearfix | render-as-html %}
+    {% assign partner=site.data.partners.consortia.iati %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+  <--colbreak-->
+    <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.consortia.openaid %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+  <--colbreak-->
+    <p class="description">{{ partner.description }}</p>
+  {% endmulticols %}
+</section>
 
-<--colbreak-->
-Development Gateway International, ASBL\\
-49 rue de Trèves\\
-1040 Brussels Belgium\\
-T +32.2.285.06.11\\
-<a href="mailto: info@developmentgateway.org">info@developmentgateway.org</a>
-{% endmulticols %}
+<section class="page-section">
+  <h2>Become a partner today</h2>
+
+  {% multicols half clearfix %}
+
+    Development Gateway, Inc.\\
+    1110 Vermont Ave. NW, Suite 500\\
+    Washington, DC 20005 USA\\
+    Tel: +1.202.572.9200
+
+  <--colbreak-->
+
+    Development Gateway International, ASBL\\
+    49 rue de Trèves\\
+    1040 Brussels Belgium\\
+    T +32.2.285.06.11\\
+    <a href="mailto: info@developmentgateway.org">info@developmentgateway.org</a>
+
+  {% endmulticols %}
 </section>

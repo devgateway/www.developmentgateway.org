@@ -80,23 +80,3 @@ cite {
     }
   }
 }
-
-.floated{
-  float:left;
-}
-
-// partner country list
-ul{
-  list-style:none;
-  clear:both;
-  display:block;
-  margin-left:0;
-  padding-left:0;
-  margin-top:0;
-  &.partner-countries{
-    li{
-        float:left;
-        width:33%;
-      }
-  }
-}
