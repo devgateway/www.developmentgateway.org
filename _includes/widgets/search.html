@@ -26,11 +26,9 @@
       template: '#{{ search_form_id }}--results-template'
     }).addClass('lunr-processed');
   };
-</script>
 
-{% if search_form_id == 'main-search-form' %}
-<script>
+  /*{% if search_form_id == 'main-search-form' %}*/
   // Initialize lunr.js search once the requirements were loaded.
   DG.loadScript(DG.baseUrl + 'scripts/search.min.js', initLunrSearch);
+  /*{% endif %}*/
 </script>
-{% endif %}

@@ -1,5 +1,5 @@
 
-(function(window, jRespond) {
+(function(window, DG, jRespond) {
   // Call jRespond and add breakpoints.
   var mediaQueries = jRespond([
     {
@@ -40,7 +40,7 @@
 
     // Remove display none from the html style attribute.
     var drop_down_thingy = window.document.getElementById('header-drop-down-thingy');
-    drop_down_thingy.removeAttribute('style');
+    drop_down_thingy.style.display = null;
 
     // Instead of going to the search page display the header-drop-down-thingy.
     var search_link = window.document.getElementById('toggle-search');
@@ -71,4 +71,4 @@
     }
   });
 
-})(window, jRespond);
+})(window, DG, jRespond);
