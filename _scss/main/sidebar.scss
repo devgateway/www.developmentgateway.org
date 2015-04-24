@@ -1,90 +1,79 @@
-.blog-sidebar{
+.blog-sidebar {
   margin-top: 2.7em;
-
-  h3{
-    font-weight:$font_weight_light;
-    color:$grey_dark;
+  h3 {
+    font-weight: $font_weight_light;
+    color: $grey_dark;
   }
-
   //subscribe form styling specific to the sidebar
-
-  .input-wrapper{
-    width:95%;
-    float:none;
+  .input-wrapper {
+    width: 95%;
+    float: none;
   }
-
-  .input-text{
-    width:95%;
+  .input-text {
+    width: 65%;
     @include transition(all);
-
-    &:focus{
-      outline:none;
-      border:1px solid $blue_vibrant;
+    outline: none;
+    &:focus {
+      outline: none;
+      border: 1px solid $blue_vibrant;
     }
   }
-
-  .submit-wrapper{
-    float:none;
-    text-align:center;
+  .submit-wrapper {
+    float: none;
+    text-align: center;
   }
-
-  .btn-submit{
-     margin: $gen_gutter_width auto;
+  .btn-submit {
+    margin: $gen_gutter_width auto;
   }
-
+  .form-item {
+    margin: -0.5em 0.5em 1.5em 0;
+  }
+  .form-submit {
+    padding: 0.4em 1em;
+  }
 }
-
 // categories list
-.categories-wrapper{
-  ul{
-    list-style:none;
-    padding-left:$gen_gutter_width;
-
-    li{
-      font-size:$large;
+.categories-wrapper {
+  clear: both;
+  ul {
+    list-style: none;
+    padding-left: $gen_gutter_width;
+    li {
+      font-size: $large;
     }
-
   }
 }
-
 // tags list
-.tags-wrapper{
-
-  ul{
-    list-style:none;
-    padding-left:$gen_gutter_width;
+.tags-wrapper {
+  ul {
+    list-style: none;
+    padding-left: $gen_gutter_width;
   }
-
-.tags {
-  zoom: 1;
-}
-
-.tags li {
-  position: relative;
-  float: left;
-  margin: 0 5px 5px 0;
-  &:first-child{
-    margin-left:0;
+  .tags {
+    zoom: 1;
   }
-}
-
-.tags li:active {
-  margin-top: 1px;
-  margin-bottom: 7px;
-}
-
-.tags li a {
-  padding: 5px 10px 8px 10px;
-  font-size: $large;
-  color: $grey_light;
-  background: #eeeeee;
-  display:block;
-  @include transition(all);
-
-  &:hover{
-    background: $blue_vibrant;
-    color: $white;
+  .tags li {
+    position: relative;
+    float: left;
+    margin: 0 5px 5px 0;
+    &:first-child {
+      margin-left: 0;
+    }
   }
-}
-
+  .tags li:active {
+    margin-top: 1px;
+    margin-bottom: 7px;
+  }
+  .tags li a {
+    padding: 5px 10px 8px;
+    font-size: $large;
+    color: $grey_light;
+    background: #eee;
+    display: block;
+    @include transition(all);
+    &:hover {
+      background: $blue_vibrant;
+      color: $white;
+    }
+  }
 }
