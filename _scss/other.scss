@@ -49,14 +49,6 @@ cite {
   color: $green_lime;
 }
 
-// connect page
-.content-social-nav {
-  ul {
-    margin-left: -1.2em;
-    padding-left: 0;
-  }
-}
-
 // General logo images hover effect.
 .logo {
   @include transition(opacity);
