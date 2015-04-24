@@ -1,5 +1,4 @@
 
-
 body,
 .main-header-inner {
   min-width: 20em;
@@ -73,9 +72,12 @@ body,
   }
 }
 
-@include media-query-min($bp_medium) {
-  .partner-countries .partner {
+.partner-countries .partner {
+  @include media-query($bp_small, $bp_medium) {
     @include l-column(4);
-    @include l-fix-nesting()
+  }
+
+  @include media-query-min($bp_medium) {
+    @include l-column(4);
   }
 }
