@@ -1,15 +1,26 @@
 
+- name: Development Gateway International
+  id: dg
+  year: 2014
+  category:
+  description: Development Gateway's European affiliate organization, DGI is headquartered in Brussels, Belgium.
+  quote:
+  quote-author:
+  url:
+  lat: 50.842856
+  lon: 4.375405
+  
 - name: European Union
   id: eu
   year: 2014
   category: EU-DEVFIN
   description: "A scalable platform that enhances official development assistance (ODA) reporting capacity for new European Union (EU) member states."
   features:
-    - Result Management
+    - Results management
     - Open-source and IATI-compliant reporting tool
   quote:
   quote-author:
-  url:
+  url: https://github.com/devgateway/eudevfin
   lat: 49.5
   lon: 22.0
 
