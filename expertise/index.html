@@ -1,0 +1,35 @@
+---
+layout: page
+title: Expertise
+title_summary: because data should work for people
+permalink: /expertise/
+weight: 2
+nav_data: expertise_topics
+one_pager_data: 'expertise/topics.json'
+---
+
+{% multicols pageintro half clearfix %}
+
+  ![Information Management](/images/other/meaningful-impact.png)
+
+<--colbreak-->
+
+  <h1 class="highlighted-title">
+    Co-creating holistic solutions to turn information into meaningful impact.
+  </h1>
+
+{% endmulticols %}
+
+<div class="layout-spacing">
+  <div class="expertise-topics clearfix">
+    {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
+    {% for topic in sorted_topics %}
+      <section class="topic topic-{{ topic.id }}" id="{{ topic.id }}" data-onepager="{{ topic.permalink }}">
+        <h1 class="title">{{ topic.title }}</h1>
+        <div id="{{ topic.id }}-content">
+          <p><a href="{{ topic.permalink }}">Read more about {{ topic.title }}</a></p>
+        </div>
+      </section>
+    {% endfor %}
+  </div>
+</div>

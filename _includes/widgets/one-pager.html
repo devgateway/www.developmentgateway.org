@@ -1,0 +1,19 @@
+
+<script>
+  (function(window, nanoajax) {
+    var json_data_url = '{{ include.json_data_url | prepend: site.baseurl }}';
+    nanoajax.ajax(json_data_url, function (responseCode, responseText) {
+      if (responseCode != 200) {
+        return;
+      }
+
+      var responseJSON = JSON.parse(responseText);
+      for (var sectionId in responseJSON) {
+        var sectionElement = document.getElementById(sectionId + '-content');
+        if (sectionElement) {
+          sectionElement.innerHTML = responseJSON[sectionId].content;
+        }
+      }
+    });
+  }(window, nanoajax));
+</script>

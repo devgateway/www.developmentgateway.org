@@ -29,7 +29,7 @@ weight: 0
 {% for section in sections %}
 {% assign section_name = section | slugify %}
 <div class="team-section team-{{ section_name }} clearfix">
-  <h3 class="title">{{ section }}</h3>
+  <h3 class="highlighted-title">{{ section }}</h3>
   {% assign offset = 0 %}
   {% for team_member in site.data.team[section_name] %}
     {% if team_member.position == 'Chief Executive Officer' %}

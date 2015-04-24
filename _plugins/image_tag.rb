@@ -171,6 +171,7 @@ module Jekyll
           i.gravity "center"
           i.extent "#{gen_width}x#{gen_height}"
           i.layers "Optimize"
+          i.background "white"
         end
 
         image.write gen_dest_file

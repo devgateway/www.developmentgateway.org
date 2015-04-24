@@ -41,10 +41,10 @@ image:
       height: 192
 
 collections:
-  programs:
-    output: false
   homepage_sections:
-    output: false
+    output: true
+  expertise_topics:
+    output: true
 
 # URL for the mailchimp newsletter.
 mailchimp_form_url: __NONE__
@@ -80,5 +80,9 @@ sass:
 lunr_search:
   excludes:
     - blog.html
+    - expertise/topics.json
     - feed.xml
+    - images
+    - lib
+    - scripts
   js_dir: scripts
