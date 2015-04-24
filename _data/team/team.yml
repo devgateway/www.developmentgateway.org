@@ -37,6 +37,13 @@
     Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish. Abdoulaye holds an MBA from the University of Maryland.
 
 
+- name: "Vanessa Goas"
+  position: "Deputy Director of Operations"
+  avatar: vanessa.png
+  bio: |
+      Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
+
+
 - name: "Josh Powell"
   position: "Director of Innovation"
   avatar: josh.png
@@ -63,7 +70,8 @@
 - name: "Hamadoun Cisse"
   position: "Project Accountant"
   avatar: hamadoun.png
-  bio: ~
+  bio: |
+      Hamadoun works on contract management and financial reports in the Finance Department. Originally from Mali, he previously worked with UNDP in Ouagadougou, Burkina Faso and as in intern with Development Gateway. He is a candidate for a Masters in Information Systems Technology Management at the George Washington University.
 
 
 - name: "Taryn Davis"
@@ -73,24 +81,18 @@
       Taryn supports DG’s Aid Management Program. Previously, she was an Aid Management fellow in Lao, PDR and also worked with DG’s communications team. She formerly worked for the American Red Cross as the Service to Armed Forces Coordinator. Taryn received her bachelor’s degree from Brigham Young University.
 
 
-- name: "Vanessa Goas"
-  position: "Senior Associate"
-  avatar: vanessa.png
-  bio: |
-      Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
-
-
 - name: "Dustin Homer"
-  position: "Business Development and Partnerships Manager"
+  position: "Engagement and Partnerships Manager"
   avatar: dustin.png
   bio: |
       Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
 
+
 - name: "Sarah Orton"
-  position: "Business Development Associate"
+  position: "Engagement and Partnerships Associate"
   avatar: sarah.png
   bio: |
-      Sarah's bio goes here.
+      Sarah supports engagement and partnership efforts at Development Gateway. She works to promote efficiency and effectiveness through data uptake and technology use. Before DG, Sarah worked with Nuru International. She earned her bachelor’s degree in International Affairs from The George Washington University. 
 
 
 - name: "Thad Kerosky"
@@ -101,9 +103,10 @@
 
 
 - name: "Paige Kirby"
-  position: "External Relations Associate"
+  position: "Engagement and Partnerships Associate"
   avatar: paige.png
-  bio: ~
+  bio: |
+      Paige manages external communications and supports government and organizational partnerships at Development Gateway. She holds a Bachelor of Science in Foreign Service from Georgetown University.
 
 
 - name: "Stepan Semenukha"
@@ -133,7 +136,6 @@
   avatar: denise.png
   bio: |
       Denise leads product development, primarily in support of the Aid Management Platform. As a certified Scrum Master, she oversees the development of software requirements, implementation, testing and release, ensuring that technical milestones are high-quality and delivered on time. Before DG, Denise worked at a number of Fortune 500 companies, where she built effective international teams to develop software for clients primarily in the banking, healthcare, and insurance sectors. Denise holds degrees from Argosy University and the Chubb Institute and applies her background in psychology and counseling at women's correctional facilities in Maryland.
-
 
 
 - name: "Mounina Bocoum Wade"
