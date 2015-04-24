@@ -64,3 +64,11 @@ body,
     }
   }
 }
+
+.columns-4 {
+  .column {
+    @include media-query-min($bp_medium) {
+      @include l-column(3);
+    }
+  }
+}
