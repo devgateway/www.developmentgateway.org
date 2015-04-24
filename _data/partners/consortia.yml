@@ -2,11 +2,11 @@
 iati:
   name: IATI
   description: IATI aims to make information about aid and development spending easier to access, use and understand; Development Gateway is a member of the Steering Committee and Technical Advisory Group.
-  logo: iati.png
+  logo: iati-logo.png
   url: http://www.aidtransparency.net/
 
 openaid:
   name: Open Aid Partnership
   description: OAP collects and opens data to engage stakeholders in evidence-based discussions, improving aid transparency and effectiveness. Development Gateway is a founding partner.
-  logo: openaid.png
+  logo: openaid-logo.png
   url: http://www.openaidmap.org/

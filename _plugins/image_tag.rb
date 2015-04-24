@@ -165,13 +165,20 @@ module Jekyll
         # Let people know their images are being generated
         puts "Generating #{gen_name}"
 
-        # Scale and crop
+        # Scale and crop.
         image.combine_options do |i|
-          i.scale "#{gen_width}x#{gen_height}+0+0"
           i.gravity "center"
-          i.extent "#{gen_width}x#{gen_height}"
           i.layers "Optimize"
           i.background "white"
+
+          if ext == '.svg'
+            i.scale "#{gen_width}x#{gen_height}+0+0"
+            i.extent "#{gen_width}x#{gen_height}"
+          else
+            i.flatten
+            i.resize "#{gen_width}x#{gen_height}^"
+            i.crop "#{gen_width}x#{gen_height}+0+0"
+          end
         end
 
         image.write gen_dest_file
