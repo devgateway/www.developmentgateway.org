@@ -137,6 +137,19 @@
   lat: -18.6696821
   lon: 35.5273356
 
+- name: Somalia
+  id: somalia
+  year: 2014
+  category: Monitoring & Evaluation System
+  description: DG maintains the USAID/Somalia Clearinghouse, a system that collects and reports on data entered by implementing partners and third-party monitors on USAID-funded programming within Somalia.
+  features:
+    - Data-driven decision making
+  quote:
+  quote-author:
+  url:
+  lat: 2.0333
+  lon: 45.3500
+  
 - name: South Sudan
   id: south-sudan
   year: 2010
