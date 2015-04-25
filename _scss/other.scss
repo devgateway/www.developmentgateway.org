@@ -76,3 +76,8 @@ cite {
 .partner-countries {
   padding: 0;
 }
+
+.leaflet-top, .leaflet-bottom {
+  // Fix Leaflet controls stacking order (we don't need z-index: 1000).
+  z-index: 9 !important;
+}
