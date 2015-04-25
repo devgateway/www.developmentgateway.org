@@ -24,6 +24,7 @@
   }
   .btn-submit {
     margin: $gen_gutter_width auto;
+    @include transition(background,500ms);
   }
   .form-item {
     margin: -0.5em 0.5em 1.5em 0;

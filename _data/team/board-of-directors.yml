@@ -43,7 +43,7 @@
 
 - name: "Adrianus Melkert"
   position: ~
-  avatar: avatar.png
+  avatar: melkert.png
   bio: |
       Senior Fellow at the Results for Development Institute; independent senior adviser on CSR, international public affairs, and employment strategies.
 
@@ -64,4 +64,9 @@
 - name: "Jean-Louis Sarbib"
   position: "CEO of Development Gateway (ex officio, non-voting)"
   avatar: jl.png
+  bio: ~
+
+- name: "Brendah Killen"
+  position: "coming soon"
+  avatar: brendah.png
   bio: ~

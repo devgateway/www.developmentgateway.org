@@ -98,3 +98,10 @@ html {
     text-decoration: none;
   }
 }
+
+// headings
+h2,h3{
+ font-weight:$font_weight_light;
+  a{@include transition(color,500ms);
+}
+}
