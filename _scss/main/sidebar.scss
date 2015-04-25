@@ -31,51 +31,42 @@
   .form-submit {
     padding: 0.4em 1em;
   }
-  .form-text {
-    width: 130%;
-  }
 }
+
 // categories list
 .categories-wrapper {
   clear: both;
   ul {
     list-style: none;
     padding-left: $gen_gutter_width;
-    li {
-      font-size: $large;
-    }
+  }
+  li {
+    font-size: $large;
   }
 }
+
 // tags list
 .tags-wrapper {
   ul {
     list-style: none;
-    padding-left: $gen_gutter_width;
+    padding-left: 1em;
   }
-  .tags {
-    zoom: 1;
+  li {
+    display: inline-block;
+    line-height: 2.5em;
+    margin-right: 0.25em;
   }
-  .tags li {
-    position: relative;
-    float: left;
-    margin: 0 5px 5px 0;
-    &:first-child {
-      margin-left: 0;
-    }
-  }
-  .tags li:active {
-    margin-top: 1px;
-    margin-bottom: 7px;
-  }
-  .tags li a {
-    padding: 5px 10px 8px;
-    font-size: $large;
+  .tag-link {
+    @include transition(background-color);
+    @include transition(color);
+
+    background-color: #eee;
     color: $grey_light;
-    background: #eee;
-    display: block;
-    @include transition(all);
+    font-size: $large;
+    padding: 0.3em 0.6em;
+
     &:hover {
-      background: $blue_vibrant;
+      background-color: $blue_vibrant;
       color: $white;
     }
   }
