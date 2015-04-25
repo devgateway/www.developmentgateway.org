@@ -32,27 +32,30 @@
   p {
     // Create new stacking context.
     position: relative;
+    z-index: 1;
   }
 
   &:before,
   &:after {
-    color: $grey_lightest;
+    background-repeat: no-repeat;
+    background-size: contain;
+    content: ' ';
     display: block;
-    font-family: $font_stack_alt;
-    font-size: 14em;
+    font-size: 1rem;
+    height: 6em;
     position: absolute;
+    width: 6em;
   }
 
-  // @TODO: Replace with svg icons in order to take control of the exact position.
   &:before {
-    content: open-quote;
-    left: -0.2em;
-    top: -0.25em;
+    background-image: url("/images/site/quotes-open.svg");
+    left: -1em;
+    top: -1.5em;
   }
   &:after {
-    content: close-quote;
-    right: -0.08em;
-    bottom: -0.65em;
+    background-image: url("/images/site/quotes-close.svg");
+    right: -1em;
+    bottom: -1.5em;
   }
 
   margin: 1em 0;
