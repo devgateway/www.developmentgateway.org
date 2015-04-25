@@ -5,6 +5,13 @@
 // Expose the site.baseurl variable to SASS.
 $base_url: '{{ site.baseurl }}';
 
+// Expose grid settings to SASS.
+$gen_total_columns_string: '{{ site.sass_variables.gen_total_columns }}';
+$gen_column_width_string: '{{ site.sass_variables.gen_column_width }}';
+$gen_gutter_width_string: '{{ site.sass_variables.gen_gutter_width }}';
+$sidebar_grid_count_string: '{{ site.sass_variables.sidebar_grid_count }}';
+$content_grid_count_string: '{{ site.sass_variables.content_grid_count }}';
+
 @import "helpers";
 @import "variables";
 
