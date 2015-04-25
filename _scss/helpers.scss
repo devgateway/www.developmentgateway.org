@@ -127,11 +127,6 @@
   position: static !important;
 }
 
-// Define breakpoints.
-$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 4em;
-$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 6em;
-$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 8em;
-
 /**
  *  Using media queries with like this:
  *  @include media-query($bp_small, $bp_medium) {
