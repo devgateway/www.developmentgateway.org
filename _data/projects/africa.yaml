@@ -3,25 +3,25 @@
   id: africa-continent
   year: 2014
   category: Map Africa
-  description: "A dynamic online platform that enables citizens, government officials, and donors to track investments from African Development Bank-funded projects."
+  description: "A dynamic online platform that enables citizens, government officials, and donors to track investments from geocoded African Development Bank-funded projects."
   features:
-    - Geocoding Aid Information
+    - Geocoded aid information
     - Tracking development finance for better results
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
   quote-author: Simon Mizrahi, AfDB Director
-  url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
+  url: http://mapafrica.afdb.org/
 
-- name: Burskina Faso
+- name: Burkina Faso
   id: burkina-faso
   year: 2008
   category: Aid Management Program
-  description: "Combining two disparate systems into one platform, Burkina Faso's AMP facilitates data mangement, reporting, and improved decisionmaking."
+  description: Combining two disparate systems into one platform, Burkina Faso's la Plateforme de Gestion de l’Aide facilitates data mangement, reporting, and improved decisionmaking.
   features:
-    - Information Administration
+    - Information management
     - Software tools to meet reporting requirements
-  quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
-  quote-author: Simon Mizrahi, AfDB Director
-  url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
+  quote:
+  quote-author:
+  url:
   lat: 12.2472489
   lon: -1.5556799
 
@@ -29,10 +29,10 @@
   id: chad
   year: 2014
   category: Aid Management Program
-  description:
+  description: Chad's AMP will include geocoded aid information and a public portal, signaling committment to granular, transparent information. 
   features:
-    - Geocoding
-    - Vizualizing data for easier understanding
+    - Transparent aid information
+    - Vizualizing data for better decision making 
   quote:
   quote-author:
   url:
@@ -45,8 +45,8 @@
   category: Aid Management Program
   description: Cote d'Ivoire is the first country to commit to geocoding project locations and launching a public portal during year one of AMP implementation.
   features:
-    - Information Transparency
-    - Making donor information public
+    - Information transparency
+    - Geocoding aid information
   quote: "[AMP] will be a one-stop shop of information on aid flows that will improve efficiency in the monitoring and management of external resources that benefit our country."
   quote-author: Nial Kaba, CIV Minister of Economy and Finance
   url:
@@ -59,7 +59,7 @@
   category: Aid Management Program
   description: Launching their public portal in 2012, the government uses the program to not only manage aid flows, but also all investment financed by the state, private, and local investors.
   features:
-    - Resource Management
+    - Holistic resource management
     - Capturing investment flows for improved policy planning
   quote: "[Before AMP] different ministries would speak directly with donor partners. Now… to acquire information the unique official source is AMP"
   quote-author: Government Representative
@@ -81,14 +81,28 @@
   lat: 9.1491755
   lon: 40.499395
 
+- name: Kenya
+  id: kenya
+  year: 2013
+  category: Open Schools Kenya
+  description: Engaging with community members to collect and combine locally- and government-sourced data, and provide a feedback mechanism for parents to improve education information. OSK is a join initiative of GroundTruth Initiative, Map Kibera, DG, Feedback Labs, and the Gates Foundation.
+  features:
+    - Citizen engagement
+    - Interoperable education data
+  quote:
+  quote-author:
+  url: www.openschoolskenya.org
+  lat: -1.3167
+  lon: 36.7833
+
 - name: Madagascar
   id: madagascar
   year: 2005
   category: Aid Management Program
   description: Magadascar has used the La Plateforme de Gestion de l’Aide to align projects with their national plans and to prepare the national budgets.
   features:
-    - Result Management
-    - Getting the full funding picture for better policymaking
+    - Results management
+    - Capturing the full funding picture for better policymaking
   quote:
   quote-author:
   url:
@@ -119,7 +133,7 @@
     - Government administration for sustainable processes
   quote:
   quote-author:
-  url:
+  url: http://www.odamoz.org.mz/
   lat: -18.6696821
   lon: 35.5273356
 
@@ -157,7 +171,7 @@
   category: Aid Management Program
   description: The Gambia will provide the Ministry of Finance and other policymakers with a more complete picture of the resources dedicated to promoting development.
   features:
-    - System integration
+    - Systems integration
     - Reducing duplication of efforts
   quote:
   quote-author:
@@ -185,10 +199,10 @@
   category: Aid Management Program
   description: Connecting and geocoding government and donor-funded projects within a single system, once launched for the public AMP Uganda will increase transparency and improve decision making capabilities.
   features:
-    - Leveraging GIS
+    - Public aid information
     - Geocoding for better decision making
   quote: We are accountable to the public, so anyone… should be able to access all of the information they need off the system.
   quote-author: Uganda Development Partner Representative
-  url: http://154.72.196.70/portal/
+  url: http://154.72.196.70/amp/portal/
   lat: 1.3681549
   lon: 32.303241
