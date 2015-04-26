@@ -4,22 +4,26 @@
 }
 
 .form-text {
-  border: 1px solid $grey_lightest;
+  @include box-sizing();
+
   box-shadow: none;
-  padding: 0.6em;
-  width:85%;
+  height: 3em;
+  padding: 0 0.6em;
 
   border: 1px solid $grey_lightest;
   &:focus {
-    border: 1px solid $blue_light;
+    border-color: $blue_vibrant;
   }
 }
 
 .form-submit {
+  @include box-sizing();
+
   border: none;
   border-radius: 0.2em;
   color: $white;
-  padding: 0.65em 1em;
+  height: 3em;
+  padding: 0 1em;
 
   background: $blue_vibrant;
   &:hover {
@@ -33,9 +37,24 @@
   }
 }
 
-.inline-form {
+.form--inline {
   .form-item {
     display: inline-block;
-    margin-right: 1em;
+    margin: 0 1em 0 0;
+  }
+}
+
+.form--compact {
+  // Reduce the size of the form items.
+  .form-text,
+  .form-submit {
+    height: auto;
+    padding-bottom: 0.4em;
+    padding-top: 0.4em;
+  }
+
+  .form-text {
+    // Occupy the full width of the wrapper.
+    width: 100%;
   }
 }

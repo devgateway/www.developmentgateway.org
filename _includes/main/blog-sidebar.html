@@ -1,11 +1,16 @@
-<h3>Welcome</h3>
-<p>This is an introductory paragraph about Development Gateway's blog. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque  sunt explicabo.</p>
 
-<h3>Stay Informed</h3>
-{% include subscribe-form.html %}
+<div class="blog-sidebar-element">
+  <h3>Welcome</h3>
+  <p>This is an introductory paragraph about Development Gateway's blog. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque  sunt explicabo.</p>
+</div>
+
+<div class="blog-sidebar-element">
+  <h3>Stay Informed</h3>
+  {% include subscribe-form.html class='form--compact clearfix' %}
+</div>
 
 <!--blog post categories list. should we create those as a navigation similar to the page subnavs ? -->
-<div class="categories-wrapper">
+<div class="blog-sidebar-element categories-wrapper">
   <h3>Categories</h3>
 
   <ul>
@@ -20,10 +25,10 @@
 <!--end: category list-->
 
 <!--start: tags -> how would we pull these from the posts where they are added-->
-<div class="tags-wrapper clearfix">
+<div class="blog-sidebar-element tags-wrapper">
   <h3>Tags</h3>
 
-  <ul>
+  <ul class="clearfix">
     <li><a class="tag-link" href="#">innovation</a></li>
     <li><a class="tag-link" href="#">country program</a></li>
     <li><a class="tag-link" href="#">aid management</a></li>
