@@ -36,7 +36,7 @@
 
 - name: "Julián Casasbuenas"
   position: "Board member"
-  avatar: avatar.png
+  avatar: julian.png
   bio: |
       Director of Colnodo, the Colombia Country Gateway host.
 
@@ -57,7 +57,7 @@
 
 - name: "Dennis Whittle"
   position: "Co-founder of GlobalGiving"
-  avatar: avatar.png
+  avatar: dennis.png
   bio: ~
 
 
