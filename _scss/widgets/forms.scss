@@ -53,8 +53,10 @@
     padding-top: 0.4em;
   }
 
-  .form-text {
-    // Occupy the full width of the wrapper.
-    width: 100%;
+  @include media-query-min($bp_medium) {
+    .form-text {
+      // Occupy the full width of the wrapper.
+      max-width: 100%;
+    }
   }
 }
