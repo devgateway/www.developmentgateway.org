@@ -1,10 +1,8 @@
-
 html {
   // Always show page scrollbar to prevent side-movement when hovering over
   // items that are extending their height.
   overflow-y: scroll;
 }
-
 body,
 html {
   background: $white;
@@ -12,18 +10,15 @@ html {
   font-family: $font_stack_default;
   font-weight: $font_weight_light;
 }
-
 .main-content {
   background-color: $white;
 }
-
 /**
  * Fixes the issue with contained floating elements that do not force the container's height.
  */
 .clearfix {
   @include clearfix-mixin;
 }
-
 /**
  * Set the style for a 2 column CSS Media Object, first column is optional.
  */
@@ -41,7 +36,6 @@ html {
     }
   }
 }
-
 /**
  * Hide elements from all users.
  *
@@ -53,7 +47,6 @@ html {
 .element-hidden {
   display: none;
 }
-
 /**
  * Hide elements visually, but keep them available for screen-readers.
  *
@@ -68,7 +61,6 @@ html {
   overflow: hidden;
   position: absolute !important;
 }
-
 /**
  * The .element-focusable class extends the .element-invisible class to allow
  * the element to be focusable when navigated to via the keyboard.
@@ -77,20 +69,17 @@ html {
 .element-invisible.element-focusable:focus {
   @include display-invisible-element();
 }
-
 /**
  * Style the accessibility "Skip to main content" link.
  */
 #skip-link {
   $block_width: 20em;
-
   left: 50%;
   margin-left: -1 * $block_width / 2;
   position: absolute;
   text-align: center;
   width: $block_width;
   z-index: 10;
-
   a {
     background: $blue_light;
     display: block;
@@ -98,10 +87,21 @@ html {
     text-decoration: none;
   }
 }
-
 // headings
-h2,h3{
- font-weight:$font_weight_light;
-  a{@include transition(color,500ms);
+h2,
+h3 {
+  font-weight: $font_weight_light;
+  a {
+    @include transition(color,500ms);
+  }
 }
+h2 {
+  a {
+    color: $grey_dark;
+    font-size: $largest;
+  }
+}
+h3 {
+  font-size: $larger;
+  color: $black;
 }
