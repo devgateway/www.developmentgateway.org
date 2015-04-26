@@ -28,6 +28,8 @@
   }
 
   .countries-subsection {
+    padding-top:12em;
+
     .countries-count {
       color: $blue_vibrant;
       font-size: 6em;
@@ -42,9 +44,17 @@
     }
   }
 
+  @include media-query-max($bp_medium){
+    .countries-subsection{
+      padding-top:2em;
+      padding-bottom:2em;
+    }
+}
+
   @include media-query-max($bp_small) {
     .countries-subsection {
       text-align: center;
+      padding-top:1em;
       .title {
         margin-top: 0;
       }
@@ -66,6 +76,7 @@
       em {
         font-size: 2.5em;
       }
+
     }
 
     .countries-subsection {

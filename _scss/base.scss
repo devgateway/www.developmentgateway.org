@@ -19,6 +19,7 @@ html {
 .clearfix {
   @include clearfix-mixin;
 }
+
 /**
  * Set the style for a 2 column CSS Media Object, first column is optional.
  */
