@@ -81,3 +81,8 @@ body,
     @include l-column(4);
   }
 }
+
+// adding vertical space between the content and the footer
+.page-wrapper{
+  padding-bottom:$gen_gutter_width*3;
+}
