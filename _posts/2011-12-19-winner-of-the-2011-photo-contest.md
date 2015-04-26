@@ -11,7 +11,7 @@ thumbnail-fid: "5549"
 thumbnail-alt: ""
 ---
 
- 
+
 
 Congratulations to Seshadri Moitra, winner of the 2011 [Development Gateway Photo Contest](/news/photo-contest "Photo-Contest"), for his photo “[Creative Art](/news/photo-contest/2011-photo-contest-finalists "Photo-Contest 2011 Finalists")” taken in a remote village in West Bengal, India. According to Mr. Moitra, it depicts the small scale industry of making historical posters or calendars, and symbolizes the community’s efforts to achieve development through enterprise.
 
@@ -21,8 +21,8 @@ Mr. Moitra is a photographer from Kolkata, India, who was always fascinated by a
 
 The photo contest kicked off in September along with the launch of the new Development Gateway website, and called on photographers to submit images of people in developing countries working to build a better world. Over 400 photographers entered the contest, and the winner was chosen from among five finalists through a public vote.
 
-  
+
 
 The submissions covered an impressive range of subjects and photographic styles, with beautiful images conveying strong and memorable messages about development. The runner-up photos included images of education, using technology, and working together. To view all five finalists, [click here](/news/photo-contest/2011-photo-contest-finalists "Photo-Contest 2011 Finalists").
 
- 
+

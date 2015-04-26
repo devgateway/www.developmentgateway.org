@@ -29,4 +29,4 @@ About COMDES
 
 The Mexican Council for Economic and Social Development (Consejo Mexicano para el Desarollo Economico y Social – COMDES) is a non-partisan, non-profit, national membership organization. COMDES serves as a center for dialogue and the promotion of economic development programs that are holistic, human and sustainable. Visit [www.consejomexicano.com](http://www.consejomexicano.com/)
 
- 
+

@@ -16,7 +16,7 @@ thumbnail-fid: "5408"
 thumbnail-alt: ""
 ---
 
- 
+
 
 A panel discussion on “Open Data, Open Knowledge, Open Solutions,” hosted by the World Bank Institute on September 22, served as a platform for participants to discuss the multifaceted dimensions of open data in international development. It focused on global interconnectedness, free information flows, new technologies, and greater openness.  Panelists explored different avenues to further empower individuals and to create new solutions to global development challenges.
 

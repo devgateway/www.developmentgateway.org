@@ -11,7 +11,7 @@ thumbnail-fid: "5407"
 thumbnail-alt: ""
 ---
 
- 
+
 
 “[Tech@State: Data Visualization](http://tech.state.gov/ "Tech@State")” took place on Sept. 23, 2011 at the Kennedy Center in Washington, DC.  The event was organized by the [U.S. Department of State](http://www.state.gov/ "State Deptartment"), Development Gateway, [AidData](http://www.aiddata.org/ "AidData Portal") and the [Global Facility for Disaster Reduction and Recovery](http://www.gfdrr.org/ "GFDRR"). The conference presented speakers, panelists and guests with the opportunity to explore new and innovative data visualization techniques, and their applications for international development research and practice.
 
@@ -29,4 +29,4 @@ A recording of the first day of the conference is available online:
 
 The opening remarks of Kerri-Ann Jones, Assistant Secretary of the Bureau of Oceans and International Environmental and Scientific Affairs, are also available online: [http://www.state.gov/g/oes/rls/remarks/2011/173894.htm](http://www.state.gov/g/oes/rls/remarks/2011/173894.htm)
 
- 
+

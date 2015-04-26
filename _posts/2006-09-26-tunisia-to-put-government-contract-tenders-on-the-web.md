@@ -15,7 +15,7 @@ lede: Deploying National e-Procurement System with Support from Development Gate
 
 Deploying National e-Procurement System with Support from Development Gateway Foundation, Government of Italy, World Bank
 
- 
+
 
 The Government of Tunisia will deploy a new national procurement system to streamline government purchasing and put government contract information online. The Development Gateway Foundation will fund the project through its e-Government Grants Program backed by the Government of Italy. The World Bank is also providing co-funding.
 

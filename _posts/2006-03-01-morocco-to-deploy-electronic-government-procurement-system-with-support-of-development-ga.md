@@ -26,4 +26,4 @@ The Honorable Lucio Stanca, Italy's Minister for Innovation and Technologies, sa
 
 According to Mark Fleeton, Chief Executive Officer of the Development Gateway Foundation, "Studies show that publishing tenders online can save governments millions of dollars. This project will help Morocco achieve savings in this way, and more, by also improving their processes and systems to handle contract bidding and awards."
 
- 
+

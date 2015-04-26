@@ -21,6 +21,6 @@ Zunia regularly interviews experts on a wide range of development topics. Past i
 
 Zunia provides development practitioners with the latest articles and publications on key development issues, and allows members to sign up for email alerts by topic area and share their documents and ideas. [Join Zunia](http://zunia.org/member-log-in/?redirect_url=http%3A%2F%2Fzunia.org%2Fnew-post%2F) for free and contribute your comments to the discussions in the [Expert Perspectives](http://expertperspectives.zunia.org/) group.
 
- 
+
 
 **Photo credit**: *Mascart Patrick*

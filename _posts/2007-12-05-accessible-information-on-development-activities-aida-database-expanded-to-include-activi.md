@@ -20,4 +20,4 @@ Private philanthropic foundations account for an increasingly large share of tot
 AiDA provides a starting place for anyone needing a quick overview of who is doing what in international development, where they are doing it, and with what funds. It provides the user with project-level information on funding and implementing agency, and can be filtered by country, donor, and topic.
 For more information, visit [http://aida.developmentgateway.org](http://www.aiddata.org/ "AidData")
 
- 
+

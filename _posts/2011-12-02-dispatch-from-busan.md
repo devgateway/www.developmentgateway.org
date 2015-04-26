@@ -11,7 +11,7 @@ thumbnail-fid: "5502"
 thumbnail-alt: ""
 ---
 
- 
+
 
 From Nov. 29-Dec. 1, the [Fourth High-Level Forum on Aid Effectiveness](http://www.aideffectiveness.org/busanhlf4/ "Fourth High-Level Forum on Aid Effectiveness") was held in Busan, South Korea. In an [interview with the Inter Press Service](http://www.ips.org/TV/aideffectiveness2011/%E2%80%98internet-can-bring-transparency-in-aid%E2%80%99/ "interview with the Inter Press Service"), Development Gateway CEO Jean-Louis Sarbib hailed the inclusiveness of the forum, with traditional donors acknowledging the broad range of actors now involved in development. The importance of South-South cooperation, he noted, was also recognized.
 
@@ -19,4 +19,4 @@ Aid transparency was a major theme at the forum, as [donors have made significan
 
 During the forum, Development Gateway led an [interactive workshop on geocoding aid activities](http://www.aideffectiveness.org/busanhlf4/images/stories/hlf4/eposters/ePoster09_en.pdf "Interactive workshop on geocoding aid activities"), giving participants the opportunity to try new tools for making aid information more accessible and transparent. In a side event co-organized by Development Gateway along with the [World Bank Institute](http://wbi.worldbank.org "World Bank Institute"), [aidinfo](http://www.aidinfo.org "Aidinfo"), and [UNICEF](http://www.unicef.org "UNICEF"), the World Bank launched the Open Aid Partnership, which builds on the [Mapping for Results initiative](http://www.aiddata.org/content/index/Initiatives/mapping-for-results-partnership "Mapping for Results initiative"). “What we’ve seen is that mapping aid is a powerful way to convince many different types of stakeholders of the benefits of open information,” said Mr. Sarbib.  “If you have data from lots of donors in a standard format, so that you are comparing apples to apples, it becomes relatively easy to see the real picture of where aid is going, and to start asking questions about whether it could be allocated more effectively.”
 
- 
+

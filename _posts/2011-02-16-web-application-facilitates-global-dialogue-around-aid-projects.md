@@ -12,7 +12,7 @@ PRESS RELEASE
 
 Washington, DC – Public voting is open through February 28 for the World Bank’s “Apps for Development” competition, which challenges development practitioners and technology professionals to develop innovative software applications that address the Millennium Development Goals. AidData, with technical support from Esri, created the “Development Loop” application for submission to the contest. The application demonstrates how geospatial technology can facilitate a rich dialogue between aid donors, beneficiaries, and other stakeholders. To vote or access a demo and prototype of Development Loop, visit the [Apps for Development website.](http://appsfordevelopment.challengepost.com/challenges/78/submissions/1412-development-loop)
 
- 
+
 
 AidData – a joint initiative of Brigham Young University, the College of William and Mary, and the non-profit organization Development Gateway – works to foster aid transparency and effectiveness by gathering, standardizing, and interpreting project-level information on development activities. Development Loop is designed to address the need for increased transparency, accountability, and assessment of the complex flow of development funds across the globe. It incorporates data on projects funded by the World Bank and African Development Bank, overlaid with regional development statistics and project success stories reported by GlobalGiving, to produce a visual story of aid, need, and impact. Future versions will employ crowdsourcing tools, allowing development professionals and community beneficiaries of aid to create or update project data from anywhere in the world via free web and mobile applications. In doing so, AidData hopes to generate a “feedback loop” between aid donors and recipients.
 
@@ -28,7 +28,7 @@ Development organizations interested in collaborating to integrate project infor
 
 AidData is an initiative to gather, standardize, and analyze information on development finance. AidData has gathered project-level information from more than 89 official donor agencies, including 35 donors which have never before systematically reported aid information Projects in AidData’s database represent more than $4 trillion in development finance, constituting the world’s largest single repository of aid information, building on the OECD’s Creditor Reporting System. AidData is a joint program of Brigham Young University, the College of William and Mary, and Development Gateway. For more information, visit [www.aiddata.org](http://www.aiddata.org/).
 
- 
+
 
 **Press Information**
 
