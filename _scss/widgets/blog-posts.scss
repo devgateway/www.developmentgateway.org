@@ -36,6 +36,7 @@
     border: 1px solid lighten($grey_lightest, 3%);
     border-radius: 2px;
     display: block;
+    margin: 1em 0;
     padding: 0.3em;
 
     @include media-query-max($bp_medium) {
