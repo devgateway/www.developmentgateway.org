@@ -11,9 +11,9 @@ a {
 blockquote {
   background: lighten($grey_lightest, 7%);
   display: block;
-  font-size: $large*1.823;
+  font-size: $large;
   font-style: italic;
-  margin: 0;
+  margin: 1em 0;
   padding: 1em 1em 1em 3.5em;
   position: relative;
 
