@@ -8,9 +8,9 @@ title: DG at the Open Data for Development Camp
 lede: ""
 ---
 
-<table align="right" border="0" style="width:272px;height:210px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/imagecache/featured_image_sidebar/featured-images/open-for-change.jpg)</td></tr><tr><td align="center" valign="bottom"> </td><td align="center" valign="bottom"> 
+<table align="right" border="0" style="width:272px;height:210px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/imagecache/featured_image_sidebar/featured-images/open-for-change.jpg)</td></tr><tr><td align="center" valign="bottom"> </td><td align="center" valign="bottom"></td></tr></tbody></table>
 
-</td></tr></tbody></table>*This Story from the Field comes from Anna Lauridsen of Development Gateway International. She tells us about her participation in the Open Data for Development Camp held in Amsterdam in May:*
+*This Story from the Field comes from Anna Lauridsen of Development Gateway International. She tells us about her participation in the Open Data for Development Camp held in Amsterdam in May:*
 
 The Open Data for Development Camp was put together by Open for Change, a network based in the Netherlands committed to transparency, collaboration and impact in development, on request by the Dutch Foreign Ministry. I was there to present the geocoding work that Development Gateway and the AidData team have done. At the heart of my talk was the work we’ve done together with the World Bank in support of the [Mapping for Results initiative](http://maps.worldbank.org "Mapping for Results"). Since my presentation was on the second day of the conference, a number of presentations had already been made, allowing me to reference previous what other speakers had discussed. I was delighted at the enthusiastic response to the work that we are doing with geocoding. If you want to learn more about geocoding and the Open Data for Development camp, take a look at my presentation [here](http://openforchange.info/content/mapping-results "Geocoding and the Open Data for Development camp presentation").
 

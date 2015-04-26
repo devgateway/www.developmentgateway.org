@@ -8,12 +8,11 @@ title: Improving Aid Management in Ethiopia
 lede: Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 ---
 
-<table align="right" border="0" style="width:269px;height:213px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/ethiopianlady_03.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom"> 
+<table align="right" border="0" style="width:269px;height:213px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/ethiopianlady_03.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>
 
-</td></tr></tbody></table>*“Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.”*
-
-**Christopher Hall,** Program Coordinator, Harmonization
-The World Bank
+> Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
+>
+> <cite>Christopher Hall, Program Coordinator, Harmonization The World Bank</cite>
 
 In May 2005, the Government of Ethiopia completed the first implementation of Development Gateway’s new Aid Management Platform (AMP), a Web-based information-sharing system that streamlines aid reporting and management processes for developing country governments and their donors.
 

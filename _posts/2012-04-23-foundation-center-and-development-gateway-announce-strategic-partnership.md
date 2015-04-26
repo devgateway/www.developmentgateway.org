@@ -8,16 +8,11 @@ title: Foundation Center and Development Gateway  Announce Strategic Partnership
 lede: PRESS RELEASE
 ---
 
-<table align="center" border="0" style="width:100%;"><tbody><tr><td>![](/old-files/inline-images/fc_logo.gif)
-
-</td><td>![](/old-files/webfm/amp-demo/dg-logo-with-tagline.png)
-
-</td></tr></tbody></table>**
-**
+<table align="center" border="0" style="width:100%;"><tbody><tr><td>![](/old-files/inline-images/fc_logo.gif)</td><td>![](/old-files/webfm/amp-demo/dg-logo-with-tagline.png)</td></tr></tbody></table>
 
 **PRESS RELEASE**
 
-*****New York, NY – April 23, 2012*.  The Foundation Center and Development Gateway have announced a breakthrough partnership that will link their expertise in global philanthropy and global development to produce a clearer picture of international aid flows. Data from both organizations will power online platforms that will make collaboration between foundations, foreign aid agencies, and nonprofits more efficient and effective.
+*New York, NY – April 23, 2012*.  The Foundation Center and Development Gateway have announced a breakthrough partnership that will link their expertise in global philanthropy and global development to produce a clearer picture of international aid flows. Data from both organizations will power online platforms that will make collaboration between foundations, foreign aid agencies, and nonprofits more efficient and effective.
 
 [The Foundation Center](http://foundationcenter.org/educationexcellence/), based in New York City, maintains the most comprehensive body of current information on the activities of organized philanthropy. Its [Foundation Center 2020](http://2020.foundationcenter.org/) plan recognizes that changes in the information industry present opportunities for providing ever wider access to the data it collects, ultimately empowering donors to make more informed decisions. The new partnership with Development Gateway is in alignment with the Center’s stated priority to build the global data platform for philanthropy.
 

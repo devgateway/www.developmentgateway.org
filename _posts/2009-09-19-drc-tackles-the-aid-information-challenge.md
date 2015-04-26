@@ -9,9 +9,9 @@ lede: Staff members of the Ministry of Finance for the Democratic Republic of th
   Congo training to use the Aid Management Platform.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/drcstory2009b.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Staff members of the Ministry of Finance for the Democratic Republic of the Congo training to use the Aid Management Platform. By building a strong rapport with users in the ministries, Development Gateway increases the likelihood of program sustainability. 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/drcstory2009b.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Staff members of the Ministry of Finance for the Democratic Republic of the Congo training to use the Aid Management Platform. By building a strong rapport with users in the ministries, Development Gateway increases the likelihood of program sustainability.</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Democratic Republic of Congo**
+**Democratic Republic of Congo**
 
 According to the Human Development Index, the Democratic Republic of the Congo (DRC) ranks 177 out of 179 countries-firmly placing it as the third least developed nation in the world. In a country plagued by a civil war that has cost approximately five million lives, and where government institutions are strained for resources and lack the necessary tools for effective oversight, progress is a relative term. Yet recent developments in the area of government capacity building indicate that real progress is being made.
 

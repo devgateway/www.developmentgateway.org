@@ -9,9 +9,9 @@ lede: '"This course must be obligatory for public functionaries," according to J
   Santana, a participant from Fusagasuga, outside Bogota.'
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/ocasa.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">"This course must be obligatory for public functionaries," according to Jovany Santana, a participant from Fusagasuga, outside Bogota. 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/ocasa.jpg)</td></tr><tr><td align="center" valign="bottom">"This course must be obligatory for public functionaries," according to Jovany Santana, a participant from Fusagasuga, outside Bogota.</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Colombia**
+**Colombia**
 
 Some youth in Colombia are showing what their generation can do to increase accountability in government.
 

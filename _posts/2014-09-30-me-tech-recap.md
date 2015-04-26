@@ -46,6 +46,4 @@ Senior Associate Taryn Davis provided an overview of how GIS can help practition
 3. Tailoring data granularity is important – the use case will define how granular you need to go.
 4. There is a lot more to be done in terms of using GIS for decision making – to get the complete picture of development, we need to be able to show where government-development budgets are focused, and we need to improve skills for data analysis among all stakeholders.
 
-<div>*Image source: [www.mandetech.org](http://mandetech.org/)*
-
-</div>
+*Image source: [www.mandetech.org](http://mandetech.org/)*

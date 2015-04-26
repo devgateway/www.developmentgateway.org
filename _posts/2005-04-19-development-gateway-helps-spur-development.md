@@ -8,9 +8,9 @@ title: Development Gateway Helps Spur Development
 lede: Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/jeanphilbert.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">*Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.* 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/jeanphilbert.jpg)</td></tr><tr><td align="center" valign="bottom">*Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.*</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Rwanda**
+**Rwanda**
 
 Founded in 2004, the Rwanda Development Gateway created [www.rwandagateway.org](http://www.rwandagateway.org/ "Rwanda CG"), an online platform that serves as a one-stop shop for information on the country and as a portal to connect with the rest of the world. Housed by the National University of Rwanda, in just three years the Gateway has experienced a steady increase in the demand for its services. Through a combination of income-generating services and pro bono work, the Gateway works with a wide range of clients and partners, leading the Web and content development market in Rwanda with its technology expertise and open source tools. It is part of the Country Gateway program, designed to promote local adaptations of ICT for development.
 

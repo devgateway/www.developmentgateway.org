@@ -36,4 +36,4 @@ Please join us to discuss this important topic.
 
  
 
-<iframe alt="default" src="http://veetle.com/index.php/widget#41C5A442C74BA37B6E447EA707CBF8DD/true/default" style="border:none;width:480px;height:412px;"></iframe>
+<iframe src="http://veetle.com/index.php/widget#41C5A442C74BA37B6E447EA707CBF8DD/true/default"></iframe>

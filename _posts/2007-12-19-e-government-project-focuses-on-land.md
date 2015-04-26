@@ -10,9 +10,9 @@ lede: Cremilide Mambo, director of land management of Gaza Province, center, wit
   a technician
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/mozabique2.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Cremilide Mambo, director of land management of Gaza Province, center, with Elias Dique, right, project manager of the land management information system, and a technician, left, review information from the new digital application. 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/mozabique2.jpg)</td></tr><tr><td align="center" valign="bottom">Cremilide Mambo, director of land management of Gaza Province, center, with Elias Dique, right, project manager of the land management information system, and a technician, left, review information from the new digital application.</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Mozambique**
+**Mozambique**
 
 Land, and its proper management, is a central issue in developing countries. Accurate and accessible information is a necessary requirement for rural development. It makes possible the development of land, forests, and waterways in a sustainable manner that will contribute to the elimination of poverty. The digitization of a land management system could greatly benefit a country that wants to manage its resources and help provide a living for its citizens.
 

@@ -9,9 +9,9 @@ lede: Most of the inquiries handled by Marvelous Batiks now come online. Above, 
   Masawe displays samples of her beautiful textiles.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/cg_tanzania_masawe_01.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms. Masawe displays samples of her beautiful textiles. 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/cg_tanzania_masawe_01.jpg)</td></tr><tr><td align="center" valign="bottom">Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms. Masawe displays samples of her beautiful textiles.</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Tanzania**
+**Tanzania**
 
 In Tanzania, more than half the population lives on less than one dollar a day, and per capita income is roughly $320. But entrepreneurial drive can triumph even in this setting. By adopting high-tech tools, one entrepreneur has increased demand for her products and watched her business grow.
 

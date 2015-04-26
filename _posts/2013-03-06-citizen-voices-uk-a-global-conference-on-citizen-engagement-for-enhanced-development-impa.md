@@ -38,4 +38,4 @@ Citizen Voices UK will focus on citizen engagement and feedback systems that str
 
  This event will be intimate - PowerPoint and presentations are discouraged - to allow for a content rich discussion, where everyone has the chance to participate and share fully in the debate.
 
-<center>![](/old-files/inline-images/sponsors_0.jpg)</center>
+![](/old-files/inline-images/sponsors_0.jpg)

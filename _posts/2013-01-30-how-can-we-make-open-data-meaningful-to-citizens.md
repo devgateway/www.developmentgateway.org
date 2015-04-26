@@ -36,7 +36,9 @@ A major takeaway from the discussion, though in retrospect it should perhaps be 
 
 Again and again during the discussion, the participants from African governments stressed the importance of finding relatively low tech solutions for communicating open information to citizens, with radio being a clear technology of choice.
 
-<div style="float:right;margin-left:10px;margin-bottom:10px;">![](/old-files/inline-images/malawi_house.jpg)</div>This perspective resonates very closely with my own experience in Southern Africa, which included several extended stretches spent living in rural communities. Something like the [Kenya Open Data Portal](https://opendata.go.ke/), impressive and useful though it is, is unlikely to be immediately relevant for citizens in a rural village in Malawi, even if they could access it easily.
+<div style="float:right;margin-left:10px;margin-bottom:10px;">![](/old-files/inline-images/malawi_house.jpg)</div>
+
+This perspective resonates very closely with my own experience in Southern Africa, which included several extended stretches spent living in rural communities. Something like the [Kenya Open Data Portal](https://opendata.go.ke/), impressive and useful though it is, is unlikely to be immediately relevant for citizens in a rural village in Malawi, even if they could access it easily.
 
 But get on the radio and announce how many [fertilizer subsidy coupons](http://www.nytimes.com/2007/12/02/world/africa/02malawi.html?pagewanted=all&_r=0) will be allocated to each village during the next growing season, as well as the name of the village official who will be in charge of their distribution, and watch how quickly "open data" becomes a key part of the daily lives of citizens. The broad concept of open data thus translates nicely across different formats and approaches, with relevance to stakeholders determined at the intersection of specific implementation approaches and implementation contexts.
 

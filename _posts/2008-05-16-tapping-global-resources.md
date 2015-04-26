@@ -9,10 +9,10 @@ lede: dgCommunities brings the latest information on key development topics to d
   around the world, helping members to be more effective in their work. Ms.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/sustory2.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">dgCommunities brings the latest information on key development topics to desktops around the world, helping members to be more effective in their work. Ms. Salazar uses it to access the latest information and best practices on gender issues.
-(Photo credit: Karl Grobl) 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/sustory2.jpg)</td></tr><tr><td align="center" valign="bottom">dgCommunities brings the latest information on key development topics to desktops around the world, helping members to be more effective in their work. Ms. Salazar uses it to access the latest information and best practices on gender issues.
+(Photo credit: Karl Grobl)</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Peru**
+**Peru**
 
 Teresa Salazar Davila is a petite, energetic woman based in Lima who identifies herself as an activist. She is a member of a women’s syndicate which works closely with the ministry of the interior to improve the status of women in Peruvian society, and a volunteer who helps women gain crucial life skills.
 

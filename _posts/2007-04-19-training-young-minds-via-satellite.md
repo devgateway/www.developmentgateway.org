@@ -9,9 +9,9 @@ lede: Mindset Network's satellite-based technology delivers multimedia education
   content straight to students.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/mindset_story.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">*Mindset Network's satellite-based technology delivers multimedia educational content straight to students.* 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/mindset_story.jpg)</td></tr><tr><td align="center" valign="bottom">*Mindset Network's satellite-based technology delivers multimedia educational content straight to students.*</td></tr></tbody></table>
 
-</td></tr></tbody></table>**South Africa**
+**South Africa**
 
 When Mindset Network of South Africa won the 2006 Development Gateway Award, it was already well established as a leader in providing high-quality multimedia educational content. It had installed receivers for its satellite-based delivery system in more than 1,500 schools and 300 hospitals and clinics. Mindset had created educational content on subjects such as HIV/AIDS, TB, and child survival for the health sector and science, math, IT, and English for schools. It made this content further available to over 1.5 million homes via satellite broadcast.
 

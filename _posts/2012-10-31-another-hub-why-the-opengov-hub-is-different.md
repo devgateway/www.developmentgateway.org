@@ -28,12 +28,15 @@ Second, the OpenGov Hub is not an incubator. While we do have a few small start-
 Third, the OpenGov Hub is already financially self-sustaining. Every tenant pays their fair share, and there is no subsidy from a foundation or kind-hearted landlord to keep the space open. This might seem trivial but it’s not. Consider the recent fate of both GeekEasy and a recently shuttered civics hub anchored by the Points of Light Institute, both in Washington, DC. Both spaces closed their doors this year because the math simply didn’t work: the anchor institutions were subsidizing the rent for everyone else, which doesn’t wash in the long-run.
 
 As we state on our new website, the:
+> OpenGov Hub aspires to be the day-to-day home to a range of people and organizations working on the open government agenda while also serving as a community gathering point for open government learning and networking activities in the Washington area.
 
-<div style="padding-left:30px;">*“OpenGov Hub aspires to be the day-to-day home to a range of people and organizations working on the open government agenda while also serving as a community gathering point for open government learning and networking activities in the Washington area.”*</div>One of the challenges going forward will be to nurture this collaborative ecosystem to make real things happen. We’d like it to be a place where the political, the technical, and the practical meet.
+One of the challenges going forward will be to nurture this collaborative ecosystem to make real things happen. We’d like it to be a place where the political, the technical, and the practical meet.
 
 Others like Erik Hersman, founder of the [iHub](http://www.ihub.co.ke/pages/home.php) in Kenya, agree:
 
-<div style="padding-left:30px;">*"The real power of places like the OpenGov Hub is the serendipity that comes from it just existing as a place for like-minded people to meet, start initiatives or businesses and provide a focal point for the whole community."*</div>The iHub itself has sure experienced this phenomenon - read their latest post, "[Evolution of a Tech Space](http://www.ihub.co.ke/blog/2012/08/evolution-of-a-tech-space/)", on their journey over the last two years. It is still early days for the OpenGov Hub, but the environment is already shaping up as we had hoped.
+> The real power of places like the OpenGov Hub is the serendipity that comes from it just existing as a place for like-minded people to meet, start initiatives or businesses and provide a focal point for the whole community.
+
+The iHub itself has sure experienced this phenomenon - read their latest post, "[Evolution of a Tech Space](http://www.ihub.co.ke/blog/2012/08/evolution-of-a-tech-space/)", on their journey over the last two years. It is still early days for the OpenGov Hub, but the environment is already shaping up as we had hoped.
 
 The co-mingling of colleagues from the Accountability Lab, Development Gateway, FrontlineSMS, Global Integrity, ReThink Media, and Ushahidi has already begun in earnest and the community building is moving quickly. Day to day collaboration, and coordination of similar activities like mapping and visualizations, are starting to highlight future joint work. Events like the “[2012 Aid Transparency Index](http://www.publishwhatyoufund.org/index/2012-index/)” in October, and the “OpenGov Hub Launch” in December, are just a few.
 

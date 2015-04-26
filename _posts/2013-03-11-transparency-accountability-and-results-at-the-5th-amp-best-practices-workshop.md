@@ -27,7 +27,9 @@ While the purpose of the workshop is to promote the exchange of good practices a
 
 Moreover, the workshops provide an exceptional opportunity for members of the AMP family to meet, discuss and learn from each other’s experiences, and thus further strengthening “south to south” cooperation. The recurrent “Country Expo” is a popular part of the event, which allows countries to showcase local best practices and solutions to common issues that may be replicated elsewhere.
 
-<div style="float:right;margin-left:10px;margin-bottom:10px;">[![](/old-files/inline-images/amp-summary.jpg)](/old-files/webfm/pdfs/2012_amp_best_practices_workshop.pdf)</div>The 2012 event, entitled “Resources, Results, Voices”, captured the state of play of DG and its partner countries within these three areas. In his opening statement, Development Gateway’s Director General Mr Jean-Louis Sarbib stressed the challenge in changing the reference framework to talk about resources as a whole, rather than aid solely.
+<div style="float:right;margin-left:10px;margin-bottom:10px;">[![](/old-files/inline-images/amp-summary.jpg)](/old-files/webfm/pdfs/2012_amp_best_practices_workshop.pdf)</div>
+
+The 2012 event, entitled “Resources, Results, Voices”, captured the state of play of DG and its partner countries within these three areas. In his opening statement, Development Gateway’s Director General Mr Jean-Louis Sarbib stressed the challenge in changing the reference framework to talk about resources as a whole, rather than aid solely.
 
 Instead of the common perception of aid, it should be viewed as a catalyzer of economic growth and a part of a nation’s resources. As the emphasis shifts to resources, internal and external, and private sector contributions, the end goal for these should be to contribute to development objectives.
 

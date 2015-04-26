@@ -9,9 +9,9 @@ lede: Staff from the Ministry of Finance and Economic Development show visitors 
   Ghana how to use the aid management platform.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/old-files/inline-images/ethiopia_amp2_01.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Staff from the Ministry of Finance and Economic Development show visitors from Ghana how to use the aid management platform. 
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/ethiopia_amp2_01.jpg)</td></tr><tr><td align="center" valign="bottom">Staff from the Ministry of Finance and Economic Development show visitors from Ghana how to use the aid management platform.</td></tr></tbody></table>
 
-</td></tr></tbody></table>**Ethiopia**
+**Ethiopia**
 
 Just two years ago, Ethiopia, one of the largest recipients of development assistance, lacked a system to manage the more than $1 billion in official aid that donors give each year. Today, that has changed. The once cumbersome system of spreadsheets has been replaced by the Aid Management Platform (AMP), an integrated system for tracking development assistance.
 

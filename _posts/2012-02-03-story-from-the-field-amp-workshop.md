@@ -23,6 +23,4 @@ This year, I was able to attend the AMP workshop for a second time. The program 
 
 During the conference, we were able to interview several of the participants. They mentioned how happy they were to attend the conference and several of them commented that they felt like they were part of a family through AMP.  In fact, I interviewed some of the participants from countries that do not have AMP and they said they wanted to be able to join the “AMP family.” 
 
-<div>Eight partner organizations were present during the workshop. Many of them gave good presentations that allowed the attendees to talk directly with the experts about the latest technologies to improve aid management. The attendees responded very well to this this. For example, following a presentation by [Esri](http://www.esri.com), two of the countries immediately started working towards geocoding their AMP data.
-
-</div>
+Eight partner organizations were present during the workshop. Many of them gave good presentations that allowed the attendees to talk directly with the experts about the latest technologies to improve aid management. The attendees responded very well to this this. For example, following a presentation by [Esri](http://www.esri.com), two of the countries immediately started working towards geocoding their AMP data.

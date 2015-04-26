@@ -27,12 +27,10 @@ Opening remarks by:
 
 Followed by Lightning Talks and Live Demos
 
-[AidData 3.0 Launch Event](https://www.eventbrite.com/event/8716058967)  
-12:00 p.m. to 1:30 p.m.  
-Tuesday, October 29th, 2013  
-1779 Massachusetts Ave. NW  
+[AidData 3.0 Launch Event](https://www.eventbrite.com/event/8716058967)
+12:00 p.m. to 1:30 p.m.
+Tuesday, October 29th, 2013
+1779 Massachusetts Ave. NW
 Washington, DC 20036
 
 [**RSVP Now**](https://www.eventbrite.com/event/8716058967)
-
-<div><center><iframe alt="tickets-external?eid=8716058967&ref=etck" height="214" src="https://www.eventbrite.com/tickets-external?eid=8716058967&ref=etckt&v=2" width="550"></iframe></center></div>

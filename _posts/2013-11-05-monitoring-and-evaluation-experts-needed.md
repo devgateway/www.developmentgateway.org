@@ -38,6 +38,4 @@ Development Gateway works in every global region and across all sectors. All M&E
 - Previous experience with government and/or country-wide M&E systems is especially preferred;
 - Strong oral/written communication and English proficiency required; French highly desired and required for some assignments; Spanish a plus
 
-<center>**[Apply Here](http://goo.gl/MHazxD)**
-
-</center>
+**[Apply Here](http://goo.gl/MHazxD)**

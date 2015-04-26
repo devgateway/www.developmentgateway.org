@@ -22,4 +22,4 @@ dgMarket is an online marketplace for government tenders, providing access to te
 
 Transparent contracting activities like dgMarket create major savings in government spending, while giving companies of all sizes greater access to tender opportunities at home and abroad in their own language. Our in-house analysis suggests that dgMarket has reduced national procurement costs by up to $150 million per year on World Bank-funded contracts alone. A big thank you to all our partners around the globe that have helped make dgMarket one of the largest global procurement portals. Now [check out this interactive map](http://infogr.am/dgMarket-clients-worldwide/) to see where in the world dgMarket is used and join us in creating a more transparent contracting ecosystem.
 
-<iframe alt="dgMarket-clients-worldwide" height="1004" src="http://infogr.am/dgMarket-clients-worldwide/" style="border:none;" width="700"></iframe>
+<iframe alt="dgMarket-clients-worldwide" height="1004" src="http://infogr.am/dgMarket-clients-worldwide/" width="700"></iframe>
