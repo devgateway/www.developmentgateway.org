@@ -2,7 +2,6 @@
 layout: page
 title: Blog
 title_summary: because solutions should be shared
-permalink: /blog/
 weight: 8
 include_share_widgets: True
 ---
@@ -11,7 +10,7 @@ include_share_widgets: True
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
     <div class="blog-listing">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <article class="blog-entry mobject clearfix">
         <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
@@ -40,6 +39,19 @@ include_share_widgets: True
         </div>
       </article>
       {% endfor %}
+
+      <!-- Pagination links -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        {% endif %}
+
+        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 

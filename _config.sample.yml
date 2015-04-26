@@ -56,6 +56,10 @@ google_web_property_id: __NONE__
 # Jekyll settings #
 #-----------------#
 
+# Blog listing pagination settings.
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 # Exclude files/folders from being processed by Jekyll and copied to the built website.
 exclude:
   - Gemfile
@@ -79,7 +83,7 @@ sass:
 # lunr.js specific settings.
 lunr_search:
   excludes:
-    - blog.html
+    - blog/index.html
     - expertise/topics.json
     - feed.xml
     - images
