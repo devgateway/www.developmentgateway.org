@@ -10,37 +10,10 @@ include_share_widgets: True
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
     <div class="blog-listing">
-      {% for post in paginator.posts %}
-      <article class="blog-entry mobject clearfix">
-        <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-
-        <div class="post-meta">
-          <span class="post-date">
-            <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
-          </span>
-          <span class="post-author">
-            <span class="fa fa-user"></span>{{ post.author }}
-          </span>
-          <span class="post-categories">{{ post.categories }}</span>
-        </div>
-
-        {% if post.thumbnail %}
-        <div class="group-side">
-          <div class="blog-image-wrapper">
-            {% image thumb_small {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" %}
-          </div>
-        </div>
-        {% endif %}
-
-        <div class="group-main">
-          <div class="post-lede">{{ post.lede | markdownify }}</div>
-          <a class="readmore" href="{{ post.url }}">Continue reading</a>
-          {% include social-sharing.html %}
-        </div>
-      </article>
+      {% for blog_post in paginator.posts %}
+        {% include widgets/blog-teaser.html post=blog_post %}
       {% endfor %}
 
-      <!-- Pagination links -->
       <div class="pagination">
         {% if paginator.previous_page %}
           <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>

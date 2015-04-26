@@ -1,0 +1,29 @@
+
+{% stripwhitespace %}
+{% assign post = include.post %}
+<article class="blog-entry mobject clearfix">
+  <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+  <div class="post-meta">
+    <span class="post-date">
+      <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
+    </span>
+    <span class="post-author">
+      <span class="fa fa-user"></span>{{ post.author }}
+    </span>
+    <span class="post-categories">{{ post.categories }}</span>
+  </div>
+
+  {% if post.thumbnail %}
+  <div class="group-side">
+    {% image thumb_small {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" class="post-image" %}
+  </div>
+  {% endif %}
+
+  <div class="group-main">
+    <div class="post-lede">{{ post.lede | markdownify }}</div>
+    <a class="readmore" href="{{ post.url }}">Continue reading</a>
+    {% include social-sharing.html %}
+  </div>
+</article>
+{% endstripwhitespace %}
