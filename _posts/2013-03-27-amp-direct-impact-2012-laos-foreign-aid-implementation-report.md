@@ -25,6 +25,4 @@ The results indicate that Japan, the Asian Development Bank, and Australia ranke
 
 The Fiscal Year 2011-12 represents the first ODA series published using the AMP. Continued publication of the annual Foreign Aid Report with AMP information will elicit a better data series with which to analyze annual trends in ODA flow to the government of the Lao PDR in future years. The task remains in the current fiscal year for the Government to continue bringing new Development Partners (particularly China and Vietnam) on board the AMP to increase both the scope and the effectiveness of the AMP system; thereby enabling better nationally led development planning.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

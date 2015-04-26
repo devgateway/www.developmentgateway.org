@@ -37,6 +37,4 @@ We will continue to engage with this network through trainings and collaborative
 
 In sum, the successful launch of the geocoding work in Nepal bodes well for the other 14 countries we will be working with over the next 5 years with USAID support. Government, donors, and civil society are all eager for visualized information on aid activities. We are excited and confident that good development data, made public and easy to understand and use, will have significant impacts for the people of Nepal and their partners around the world.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

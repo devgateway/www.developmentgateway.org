@@ -71,6 +71,4 @@ The overall goal of this project is to empower citizens by providing them with i
 
 Government, as well as the public, will then have access to the citizen’s feedback concerning the progress of education in these communities, or lack thereof, and be able to respond to it and integrate this feedback into their future planning. It puts into play a boomerang where there once was a ball. What was originally thrown long as a hopeful touchdown is now able to return to the original source and report on the progress made and the distance to go.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

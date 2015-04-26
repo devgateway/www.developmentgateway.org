@@ -35,6 +35,4 @@ Instead of the common perception of aid, it should be viewed as a catalyzer of e
 
 At a practical level, this new approach is helped by countries linking up all existing systems, such as AMP and all national systems involved in resources processes, to ensure that the information is shared transparently and made available to all stakeholders, including citizens, and development partners.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

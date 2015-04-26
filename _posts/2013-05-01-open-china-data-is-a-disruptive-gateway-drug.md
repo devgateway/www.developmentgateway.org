@@ -42,6 +42,4 @@ For example, the Government of Malawi maintains a database of all incoming aid f
 
 AidData's [Chinese Development Finance database](http://aiddatachina.org/) is not perfect. It was published with an expressed request to help improve the data. So rather than bemoan its errors, or dismiss its very existence, we [welcome experts sharing their knowledge](http://aiddatachina.org/content/improving_the_data) about specific Chinese development finance activities to help improve the accuracy, scope and depth of the database for the benefit of us all.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

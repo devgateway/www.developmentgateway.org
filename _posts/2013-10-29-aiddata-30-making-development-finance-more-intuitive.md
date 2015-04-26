@@ -26,6 +26,4 @@ Building upon previous efforts to track all aid flows, the 3.0 data portal seeks
 
 <div style="margin-left:20px;">*“The new dashboards, data visualizations, and maps bring to life data previously contained in rows and columns,”* Choi said. *“It’s a data sandbox with user-friendly tools for both techies and non-techies to explore the policy and research questions of greatest interest to them.”*</div>Please explore the new AidData 3.0 website yourself at [http://aiddata.org](http://aiddata.org/)
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

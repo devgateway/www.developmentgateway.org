@@ -23,6 +23,4 @@ Media in Kathmandu quickly highlighted and commented upon the most salient point
 
 Development Gateway commends the MoF on an excellent report and is pleased to see AMP data and tools used for high-exposure information sharing. DG staff attended the launch and was asked by the Minister of Finance to “share this DCR with the world.” We gladly tout the DCR here as a strong example of how aid information should be used to enhance accountability and incentivize effectiveness.
 
-<center><table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table></center>

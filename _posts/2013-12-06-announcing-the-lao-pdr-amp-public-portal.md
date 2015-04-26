@@ -26,6 +26,4 @@ The Public Portal is a user-friendly extension of the AMP system. Users can sear
 
 The launch of the AMP Public Portal is a strong testament to the Government’s commitment to the aid effectiveness and transparency agenda espoused at the Paris Declaration in 2005 and subsequent high-level forums on aid transparency in 2008 and 2011. It represents the first time ODA information has been made publicly available in Laos. It will only benefit the Government and larger development stakeholder community to concentrate its efforts to graduate Laos from the list of Least Developed Countries by 2020.
 
-<table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table>

@@ -35,6 +35,4 @@ Highlights from 2012 include:
 
 The Development Cooperation Report is another example of how Aid Management Platform tools and data can be used for high-level analysis and information sharing. We are proud of Timor-Leste’s leadership in delivering on the Paris Declaration objectives to use country systems and procedures and the Busan Declaration that emphasizes aid transparency and harmonization. We look forward to more achievements from the first new sovereign state of the 21st century.
 
-<table><tr><td>### Subscribe to our newsletter:
 
-</td><td><form action="http://developmentgateway.us6.list-manage.com/subscribe/post?u=741012580677f9fb0b79d2b9e&id=29e60e3e20" class="footer-subscribe-form inline-form" method="post" name="mc-embedded-subscribe-form"><div><div class="form-item input-wrapper"><input class="form-text" maxlength="128" name="EMAIL" title="email@example.com" type="email"></input></div><div class="form-item submit-wrapper"><input class="form-submit" name="subscribe" src="/sites/all/themes/corporate/images/short-submit.png" title="Subscribe to our newsletter" type="image" value=""></input></div></div></form></td></tr></table>
