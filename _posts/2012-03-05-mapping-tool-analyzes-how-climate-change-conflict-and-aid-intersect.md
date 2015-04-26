@@ -42,8 +42,6 @@ While the mapping tool is in its first stage of development, the next stage will
 - *Adaptation Aid*: In addition to the current [development aid projects in Malawi](http://ccaps.strausscenter.org/system/research_items/pdfs/53/original.pdf?1322853567), the mapping tool will include climate-coded aid projects in select countries and continent-wide data on adaptation aid.
 - *Governance*: Users will access the first-ever continent-wide database classifying the political institutions in Africa on a spectrum of [constitutional design](http://ccaps.strausscenter.org/system/research_items/pdfs/48/original.pdf?1312219877), as well as data on governance quality and disaster management.
 
-
-
 By integrating the various lines of CCAPS research, as well as other existing datasets, the CCAPS mapping tool aims to provide the most comprehensive view yet of climate change and security in Africa.  CCAPS and AidData will release the thematic mapping tools throughout the spring and summer of 2012.
 
 The current mapping tool is available through a user-friendly interface at [www.strausscenter.org/ccaps/mappingtool](http://www.strausscenter.org/ccaps/mappingtool).

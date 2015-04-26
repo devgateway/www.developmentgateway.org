@@ -14,7 +14,6 @@ thumbnail-alt: ""
 
 Development Gateway is proud to invite you to a Global Transparency Week event:
 
-
 [**AidData 3.0 Launch**](https://www.eventbrite.com/event/8716058967)
 More Data | New Tools | Better Insights
 

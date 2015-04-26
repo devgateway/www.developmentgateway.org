@@ -11,8 +11,6 @@ thumbnail-fid: "5407"
 thumbnail-alt: ""
 ---
 
-
-
 “[Tech@State: Data Visualization](http://tech.state.gov/ "Tech@State")” took place on Sept. 23, 2011 at the Kennedy Center in Washington, DC.  The event was organized by the [U.S. Department of State](http://www.state.gov/ "State Deptartment"), Development Gateway, [AidData](http://www.aiddata.org/ "AidData Portal") and the [Global Facility for Disaster Reduction and Recovery](http://www.gfdrr.org/ "GFDRR"). The conference presented speakers, panelists and guests with the opportunity to explore new and innovative data visualization techniques, and their applications for international development research and practice.
 
 The event featured Edward Tufte of Yale University as a keynote speaker. Tufte discussed his “sparkline theory” and offered insights on how to make the use of data visualizations and graphics available for a mainstream audience. He encouraged a scientific and more critical approach to the use of data. “The purpose of an information display is to assist reasoning and thinking about information and evidence. It’s all about the content and the intellectual activities of the user,” Tufte stated, referencing the link between information support and analytical thinking. The challenge, according to Tufte, is to align data design principles with the principles of analytical thinking.

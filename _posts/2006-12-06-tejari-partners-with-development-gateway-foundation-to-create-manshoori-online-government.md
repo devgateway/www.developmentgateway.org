@@ -31,6 +31,4 @@ The global dgMarket website provides easy access to information on more than $50
 
 The Manshoori website can be integrated into larger national procurement and financial management systems. dgMarket also uses standard international procurement terminologies and helps disseminate common technical standards.
 
-
-
 About Tejari is the Middle East’s premier online business-to-business marketplace. Tejari enables buyers and sellers to transact and share information about a variety of goods and services via a secured Internet environment. Tejari provides a single point of contact for an open and growing community of buyers and suppliers, permitting spot-purchasing and on-line auctions that enable participants’ real-time access to new markets and greater cost savings. Visit Tejari at [www.tejari.com](http://www.tejari.com/).

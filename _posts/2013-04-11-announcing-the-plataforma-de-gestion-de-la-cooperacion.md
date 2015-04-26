@@ -24,7 +24,6 @@ You can enjoy the short video below that visually explains the PGC and visit the
 
 The PGC is being implemented by SEPLAN with support from UNDP, CIDA, and the EU.
 
-
 <iframe height="315" src="http://www.youtube.com/embed/_7gr0DuJiVc?list=UUd36p9ipW7I9fseVjX2angA" width="560"></iframe>
 
 La PGC es una herramienta de gobierno electrónico que brinda información sobre la cooperación que recibe el país, permite conocer los proyectos financiados por los cooperantes, a saber: en que sectores, tipo de cooperación, área geográfica de intervención y quien ejecuta.

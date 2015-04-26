@@ -32,8 +32,4 @@ Please join us to discuss this important topic.
 
 **How:** To attend in person, prior registration is required.  Please RSVP to [ekallaur@developmentgateway.org](mailto:ekallaur@developmentgateway.org) by Friday, Sept. 30, or return to this page to watch online. Viewers online can submit questions in advance or during the event to [ekallaur@developmentgateway.org](mailto:ekallaur@developmentgateway.org).
 
-
-
-
-
 <iframe src="http://veetle.com/index.php/widget#41C5A442C74BA37B6E447EA707CBF8DD/true/default"></iframe>

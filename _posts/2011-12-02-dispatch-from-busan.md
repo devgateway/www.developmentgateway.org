@@ -11,8 +11,6 @@ thumbnail-fid: "5502"
 thumbnail-alt: ""
 ---
 
-
-
 From Nov. 29-Dec. 1, the [Fourth High-Level Forum on Aid Effectiveness](http://www.aideffectiveness.org/busanhlf4/ "Fourth High-Level Forum on Aid Effectiveness") was held in Busan, South Korea. In an [interview with the Inter Press Service](http://www.ips.org/TV/aideffectiveness2011/%E2%80%98internet-can-bring-transparency-in-aid%E2%80%99/ "interview with the Inter Press Service"), Development Gateway CEO Jean-Louis Sarbib hailed the inclusiveness of the forum, with traditional donors acknowledging the broad range of actors now involved in development. The importance of South-South cooperation, he noted, was also recognized.
 
 Aid transparency was a major theme at the forum, as [donors have made significant progress in this area](http://www.publishwhatyoufund.org/news/2011/12/progress-aid-transparency-lays-foundation-further-reforms-improve-quality-aid-say-campaigners/ "PublishWhatYouFund"), and the momentum on increasing transparency could make other aid effectiveness goals more achievable. The US, Canada, the Inter-American Development Bank and the International Fund for Agriculture and Development signed on to the [International Aid Transparency Initiative](http://www.aidtransparency.net "International Aid Transparency Initiative") in Busan. The IATI donor signatories, now at 26, account for more than three-fourths of global development assistance.

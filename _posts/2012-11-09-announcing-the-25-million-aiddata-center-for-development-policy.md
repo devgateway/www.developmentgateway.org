@@ -23,7 +23,6 @@ The award for the [AidData Center for Development Policy](http://www.aiddata.org
 >
 > <cite>said Jean-Louis Sarbib, CEO of Development Gateway and former senior vice president at the World Bank.</cite>
 
-
 The new AidData Center for Development Policy will be headquartered at the College of William and Mary in Williamsburg, Virginia, and support an innovation lab at OpenGov Hub, Development Gateway's headquarters in Washington, DC.
 
 Brad Parks, AidData's Co-Executive Director at William & Mary, believes that the creation of the AidData Center for Development Policy will “fundamentally change the way that foreign assistance is targeted, monitored, and evaluated.”
@@ -35,7 +34,6 @@ Brad Parks, AidData's Co-Executive Director at William & Mary, believes that the
 Stephen Davenport, AidData's Co-Executive Director from Development Gateway, says,
 > The AidData Center for Development Policy will have an impact well beyond traditional donor boundaries. The data, visual analytics, and research produced by the The AidData Center for Development Policy will level the playing field among donors, recipient governments, and citizens by providing access to actionable aid information.
 
-
 The AidData Center for Development Policy is part of USAID’s [Higher Education Solutions Network](www.usaid.gov/hesn) (HESN) - a new groundbreaking partnership with seven top American and foreign universities designed to develop innovative solutions to global development challenges.
 
 > The Higher Education Solutions Network is the latest step in USAID's efforts to harness the best ideas from the academic and scientific community and young people worldwide to foster transformational progress in development,
@@ -43,7 +41,6 @@ The AidData Center for Development Policy is part of USAID’s [Higher Education
 > <cite>explained USAID Administrator Rajiv Shah.</cite>
 >
 > By collaborating with top universities around the world, we hope to tap today’s brightest minds and focus ingenuity on global development challenges,
-
 
 **About AidData**:
 

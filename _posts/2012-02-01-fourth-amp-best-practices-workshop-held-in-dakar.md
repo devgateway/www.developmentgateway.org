@@ -39,7 +39,6 @@ At the workshop, participants had a chance to learn more about the new features 
 
 In addition to a sleeker, more intuitive interface, AMP 2.0 has a sophisticated mapping module built in partnership with Esri, which allows users to geocode projects, add physical structures such as dams or bridges, and view clusters of donors/projects.
 
-
 The ability to automatically import data in IATI format is also new, along with an improved public portal and better dashboards and data analysis tools, including profiles by donor, sector, and region.
 
 A new mobile app, AMPlify, allows remote data entry and access, so that AMP users can keep track of projects and add updates from any location.

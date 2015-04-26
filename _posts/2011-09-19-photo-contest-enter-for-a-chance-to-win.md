@@ -18,7 +18,6 @@ thumbnail-alt: ""
 
 Show us your image of development in action, and you could win a $500 prize from Development Gateway. To celebrate the launch of our new website, we’re calling on photographers around the world to share their images and stories of people in developing countries working to build a better world.
 
-
 **WHAT**: We are looking for images of empowerment and people finding solutions. The photographs should be related to one of the following:
 
 - Images related to the thematic areas of Development Gateway’s work: Governance; Knowledge and networking; and Transparency and accountability
@@ -26,16 +25,13 @@ Show us your image of development in action, and you could win a $500 prize from
 - People making something, selling wares, working in a field, constructing a building or type of infrastructure, teaching, learning, or interacting with each other
 - Abstract images representing hope, the future, or capacity building
 
-
 Please do not submit photographs of groups of people posing.
-
 
 **WHO**: The Development Gateway photo competition is open to ALL photographers at least 13 years of age, except employees of Development Gateway and their immediate families. Your entry to the contest constitutes your agreement to allow your photograph, name, occupation, city and state of residence to be published as the selected award winner or a runner-up; published or used on Development Gateway websites; and used for the promotion of Development Gateway including, but not limited to, web pages, brochures, fact sheets, and other materials. Entrants retain ownership and all other rights to future use of their photographs. The Development Gateway shall have the right to verify, in its sole judgment, winner eligibility.
 
 Each entry must include a brief written statement (100 words maximum) explaining how that image is representative of development. Images will be judged on technical excellence, composition, overall impact, and artistic merit.
 
 Entrants must not infringe on the rights of any other photographer or person.
-
 
 **WHEN**: Deadline for submitting entries is November 18, 2011.
 
@@ -44,7 +40,6 @@ On December 2, 2011, the top five photographs will be posted on the Development 
 Prize: $500
 
 Individuals living within the United States will receive the prize as a check by mail. Individuals living outside the United States will receive the prize as a wire transfer. In this case, the winner must provide information on his or her bank account.
-
 
 **HOW TO ENTER**: Send submissions or questions to: [photocontest@developmentgateway.org](mailto:photocontest@developmentgateway.org "photocontest@developmentgateway.org").
 

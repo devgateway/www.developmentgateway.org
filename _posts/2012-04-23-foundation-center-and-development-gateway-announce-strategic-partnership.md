@@ -34,11 +34,7 @@ Established in 1956, the Foundation Center is the leading source of information 
 
 Development Gateway increases the impact of international development activities through innovative, sustainable information management solutions and services.  A nonprofit organization with activities around the world, Development Gateway works to empower people to accelerate change and transform their societies. Together with its partners the College of William and Mary and Brigham Young University, Development Gateway manages AidData, an initiative to make information on international development activities more transparent and accessible. For more information, please visit [developmentgateway.org](/) or [AidData.org](http://www.aiddata.org/).
 
-
-
 **Contact**:
-
-
 
 <table align="center" border="0" style="width:100%;"><tbody><tr><td>Cheryl Loe 
 

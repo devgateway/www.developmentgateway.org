@@ -16,8 +16,6 @@ thumbnail-fid: "5408"
 thumbnail-alt: ""
 ---
 
-
-
 A panel discussion on “Open Data, Open Knowledge, Open Solutions,” hosted by the World Bank Institute on September 22, served as a platform for participants to discuss the multifaceted dimensions of open data in international development. It focused on global interconnectedness, free information flows, new technologies, and greater openness.  Panelists explored different avenues to further empower individuals and to create new solutions to global development challenges.
 
 In her opening remarks, Caroline Anstey, Managing Director of the World Bank highlighted the [Open Data](http://data.worldbank.org/) and [Mapping for Results](/news/world-bank-and-aiddata-put-aid-information-map "Mapping for Results") initiatives as examples of the push towards democratization of knowledge.  She referred to technology tools as a key way to acquire input from aid beneficiaries, leading to greater transparency and accountability. Ms. Anstey challenged the panelists to think of the innovative ways to make the World Bank’s open data fully interactive and to gather insights from the beneficiaries on what works in development.

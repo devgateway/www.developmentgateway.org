@@ -46,6 +46,4 @@ The co-mingling of colleagues from the Accountability Lab, Development Gateway, 
 
 *--Stephen Davenport*
 
-
-
 *Author: Stephen Davenport ([@davenportsteve](http://www.twitter.com/davenportsteve)) is the Director of Innovation and Partnerships at the Development Gateway.*

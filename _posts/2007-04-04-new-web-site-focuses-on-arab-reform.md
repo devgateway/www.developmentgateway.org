@@ -26,5 +26,4 @@ The Arab reform portal adds to the Development Gateway Foundation’s extensive 
 
 [ Visit the new Arabic portal](http://topics.developmentgateway.org/arab "Opens external link in new window").
 
-
 About the Bibliotheca Alexandrina The Bibliotheca Alexandrina aspires to be the world’s window on Egypt; Egypt’s window on the world; a leading institution of the digital age; and above all a center for learning, tolerance, dialogue and understanding. It is guided by the goal to provide universal access to human knowledge for future generations in digital form. For more information, [visit the Web site](http://www.bibalex.org/English/index.aspx "Opens external link in new window").
