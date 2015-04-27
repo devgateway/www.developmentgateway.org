@@ -2,11 +2,14 @@
 .page-header {
   background: $grey_lightest;
 
-  //replacing page-header-inner for now
   .page-title-wrapper {
-    padding-top: 3em;
-    padding-bottom: 3em;
-    padding-left: 2.2em;
+    @include media-query-max($bp_medium) {
+      padding: 1em;
+    }
+
+    @include media-query-min($bp_medium) {
+      padding: 3em 2em;
+    }
   }
 
   .page-title {
@@ -14,7 +17,7 @@
     font-weight: $font_weight_light;
     text-transform: uppercase;
 
-    // Help verticall alignment with the summary.
+    // Alignment with the title summary.
     margin: 0;
     line-height: 1;
 

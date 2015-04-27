@@ -1,42 +1,19 @@
+
 .blog-sidebar {
-  margin-top: 2.7em;
+  // Fixes vertical alignment issue. Cause the margin-top of the top-most header
+  // to be contained inside the column, just like on the main content page.
+  padding: 1em 0;
+
   h3 {
-    font-weight: $font_weight_light;
     color: $grey_dark;
-  }
-  //subscribe form styling specific to the sidebar
-  .input-wrapper {
-    width: 95%;
-    float: none;
-  }
-  .input-text {
-    width: 65%;
-    @include transition(all);
-    outline: none;
-    &:focus {
-      outline: none;
-      border: 1px solid $blue_vibrant;
-    }
-  }
-  .submit-wrapper {
-    float: none;
-    text-align: center;
-  }
-  .btn-submit {
-    margin: $gen_gutter_width auto;
-    @include transition(background,500ms);
-  }
-  .form-item {
-    margin: -0.5em 0.5em 1.5em 0;
-  }
-  .form-submit {
-    padding: 0.4em 1em;
+    font-weight: $font_weight_light;
+
+    // We want less spacing between the header and block content.
+    margin-bottom: 0;
   }
 }
 
-// categories list
 .categories-wrapper {
-  clear: both;
   ul {
     list-style: none;
     padding-left: $gen_gutter_width;
@@ -46,7 +23,6 @@
   }
 }
 
-// tags list
 .tags-wrapper {
   ul {
     list-style: none;
