@@ -12,7 +12,7 @@ weight: 2
 
   {% stripwhitespace %}
   <div class="topics-subsection clearfix">
-    {% for entry in site.data.expertise_topics %}
+    {% for entry in site.collections.expertise_topics.docs %}
     <h2 class="topic-title">{{ entry.title }}</h2>
     {% endfor %}
   </div>
