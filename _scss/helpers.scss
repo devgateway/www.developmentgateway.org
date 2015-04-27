@@ -225,10 +225,23 @@
 }
 
 // Set fixed height to columns.
-@mixin l-column-force-height($line_height, $rows) {
+@mixin l-column-force-height($line_height, $rows, $color: '') {
   line-height: $line_height;
   height: $line_height * $rows;
   overflow: hidden;
+
+  // Fix overflowing text cropping style.
+  @if type-of($color) == color {
+    position: relative;
+    &:after {
+      background: linear-gradient(to bottom, rgba($color, 0.01) 0%, $color 100%);
+      content: ' ';
+      height: 1em;
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+    }
+  }
 }
 
 // Add function that can cast a strings to a number.

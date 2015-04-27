@@ -17,7 +17,7 @@ weight: 9
         <div class="blog-info">
           <h3 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
-          <div class="blog-lede clearfix">{{ post.lede | markdownify }}</div>
+          <div class="blog-lede">{{ post.lede | markdownify }}</div>
 
           <p class="blog-date">{{ post.date | date: '%B %d, %Y' }}</p>
         </div>

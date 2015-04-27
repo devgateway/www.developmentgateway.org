@@ -215,7 +215,7 @@
       @include l-column-force-height($line_height: 1.3em, $rows: 3);
     }
     .blog-lede {
-      @include l-column-force-height($line_height: 1.5em, $rows: 7);
+      @include l-column-force-height($line_height: 1.5em, $rows: 7, $color: $white);
     }
   }
 }
