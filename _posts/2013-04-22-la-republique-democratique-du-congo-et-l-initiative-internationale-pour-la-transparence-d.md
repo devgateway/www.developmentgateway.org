@@ -9,7 +9,7 @@ title: La République Démocratique du Congo et  l’Initiative Internationale p
 lede: La République Démocratique du Congo (RDC) est partie prenante de toutes les
   initiatives internationales qui participent à la réforme des mécanismes de coordination
   de l’aide et à l’amélioration de son impact dans les pays bénéficiaires.
-thumbnail: old-files/featured-images/8472610004_c5f81dfef7.jpg
+thumbnail: assets/featured-images/8472610004_c5f81dfef7.jpg
 thumbnail-fid: "5986"
 thumbnail-alt: ""
 ---

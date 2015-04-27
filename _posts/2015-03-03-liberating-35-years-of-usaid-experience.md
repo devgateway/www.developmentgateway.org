@@ -9,7 +9,7 @@ lede: 'Since the introduction of a US Open Data Policy in 2013, domestic agencie
   - particularly in the foreign assistance sector - have made great strides in opening
   up their financial, programmatic, and evaluation information. As recently highlighted
   by the Center for Global Development:'
-thumbnail: old-files/featured-images/screen_shot_2015-03-02_at_10.43.17_am.png
+thumbnail: assets/featured-images/screen_shot_2015-03-02_at_10.43.17_am.png
 thumbnail-fid: "6186"
 thumbnail-alt: ""
 ---

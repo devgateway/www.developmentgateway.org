@@ -9,7 +9,7 @@ lede: Logistics – broadly defined as the services and processes needed to move
   and services from production to consumption – is a cornerstone for economic efficiency
   and expansion. High-quality, interconnected roads and ports can make the transportation
   of goods easier, and boost domestic productivity.
-thumbnail: old-files/featured-images/logistics.png
+thumbnail: assets/featured-images/logistics.png
 thumbnail-fid: "6137"
 thumbnail-alt: ""
 ---

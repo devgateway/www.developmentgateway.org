@@ -10,7 +10,7 @@ lede: Development Gateway’s dgMarket was one of the first global e-procurement
   documents from national governments and development agencies. dgMarket now lists
   over a million opportunities every year from 170 countries, representing around
   $1 trillion in government procurement.
-thumbnail: old-files/featured-images/dgmarket_oc.png
+thumbnail: assets/featured-images/dgmarket_oc.png
 thumbnail-fid: "6103"
 thumbnail-alt: ""
 ---

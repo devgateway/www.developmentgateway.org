@@ -11,7 +11,7 @@ lede: 'March 22nd was World Water Day, giving the world a chance to reflect upon
   rapid urbanization, particularly in the developing world, is generating significant
   challenges for municipal governments in managing urban water and waste. To achieve
   water sustainability, cities must explore avenues for conservation and recycling.'
-thumbnail: old-files/featured-images/drinking-water.jpg
+thumbnail: assets/featured-images/drinking-water.jpg
 thumbnail-fid: "4315"
 thumbnail-alt: ""
 ---

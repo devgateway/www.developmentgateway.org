@@ -12,7 +12,7 @@ lede: "The AMP Best Practices Workshop, Development Gateway’s annual flagship 
   Management Platform (AMP), donors and partner organisations. Since the first event,
   organised in Nairobi in 2008, the AMP family has grown to 22 countries1, spread
   over four continents."
-thumbnail: old-files/featured-images/amp-workshop.jpg
+thumbnail: assets/featured-images/amp-workshop.jpg
 thumbnail-fid: "5970"
 thumbnail-alt: ""
 ---

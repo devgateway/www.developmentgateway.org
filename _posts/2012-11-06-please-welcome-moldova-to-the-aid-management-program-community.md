@@ -12,7 +12,7 @@ lede: "Development Gateway is pleased to announce that we will be implementing t
   to share information on external assistance to enhance its effectiveness, transparency
   and mutual accountability. \r\n\r\nThe Moldova AMP will assist the government of
   Moldova in their efforts to:"
-thumbnail: old-files/featured-images/moldova-flag.gif
+thumbnail: assets/featured-images/moldova-flag.gif
 thumbnail-fid: "5924"
 thumbnail-alt: ""
 ---

@@ -10,7 +10,7 @@ lede: From Dec. 14-16, 2010, Development Gateway held the Third Annual Aid Manag
   Platform (AMP) Knowledge Sharing Workshop in Nairobi, Kenya. AMP is a web-based
   software that builds capacity for aid information management, enabling countries
   to more easily and accurately gather, record, and report data on foreign aid flows.
-thumbnail: old-files/featured-images/amp_workshop2010.jpg
+thumbnail: assets/featured-images/amp_workshop2010.jpg
 thumbnail-fid: "4318"
 thumbnail-alt: ""
 ---

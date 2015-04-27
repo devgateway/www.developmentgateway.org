@@ -12,7 +12,7 @@ lede: The Strauss Center's Climate Change and African Political Stability (CCAPS
   geocoded aid data from CCAPS and several partner institutions. AidData and CCAPS
   built the aid dashboard using Esri tools to combine trends analysis with the most
   comprehensive collection of geocoded data on aid projects in Africa.
-thumbnail: old-files/featured-images/int-dash1.jpg
+thumbnail: assets/featured-images/int-dash1.jpg
 thumbnail-fid: "5917"
 thumbnail-alt: ""
 ---

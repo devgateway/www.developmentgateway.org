@@ -9,7 +9,7 @@ lede: Foreign aid dollars promote peace and security – or do they? This is the
   tenet underlying huge amounts of development financing, driven by studies showing
   that higher household wealth can mean reduced violence or that targeted spending
   may undermine rebel groups who win allegiance by providing social services.
-thumbnail: old-files/featured-images/minerva.jpeg
+thumbnail: assets/featured-images/minerva.jpeg
 thumbnail-fid: "6185"
 thumbnail-alt: ""
 ---

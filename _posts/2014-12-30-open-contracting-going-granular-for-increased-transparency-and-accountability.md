@@ -11,7 +11,7 @@ lede: Knowing where aid projects are located is important for making smart alloc
   of detailed project information. While contracts also offer a wealth of data points
   - about who is implementing which activities where, and with how much money - most
   contracts are either not publicly available, or not easily downloadable.
-thumbnail: old-files/featured-images/nepaloc.png
+thumbnail: assets/featured-images/nepaloc.png
 thumbnail-fid: "6161"
 thumbnail-alt: ""
 ---

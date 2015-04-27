@@ -11,7 +11,7 @@ lede: 'The post-2015 development agenda calls for a “Data Revolution,” asser
   is truly revolutionary for the right actors – in particular, the governments who
   should ultimately direct development policy and practice in their countries. To
   do this right, we should think about two important questions:'
-thumbnail: old-files/featured-images/nepal_cover.png
+thumbnail: assets/featured-images/nepal_cover.png
 thumbnail-fid: "6151"
 thumbnail-alt: ""
 ---

@@ -9,7 +9,7 @@ lede: The open data and transparency revolution underway in international develo
   is as much about culture change as it is about data, technology, and standards.  I
   am Nancy Choi, Director of Operations, and recently I have been in the midst of
   these changes.
-thumbnail: old-files/featured-images/opengov.jpg
+thumbnail: assets/featured-images/opengov.jpg
 thumbnail-fid: "5937"
 thumbnail-alt: ""
 ---

@@ -11,7 +11,7 @@ lede: One of the biggest challenges facing a complex entity like the United Nati
   and standardizing data from dozens of offices managing thousands of activities to
   improve the efficiency, effectiveness, coherence and relevance of UN development
   assistance.
-thumbnail: old-files/featured-images/5280585822_ed883a633a_z.jpg
+thumbnail: assets/featured-images/5280585822_ed883a633a_z.jpg
 thumbnail-fid: "6120"
 thumbnail-alt: ""
 ---

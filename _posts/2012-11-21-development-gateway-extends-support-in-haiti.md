@@ -10,7 +10,7 @@ lede: "Development Gateway is pleased to announce that we will be extending the 
   of UNDP Haiti.\r\n\r\nWe will continue to leverage our experience working on aid
   management in over 20 different countries around the world to support the government’s
   commitment to aid effectiveness. Our new activities will include:"
-thumbnail: old-files/featured-images/p1000562.jpg
+thumbnail: assets/featured-images/p1000562.jpg
 thumbnail-fid: "5930"
 thumbnail-alt: ""
 ---

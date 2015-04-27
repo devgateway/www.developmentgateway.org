@@ -7,7 +7,7 @@ old_path: news/message-data-intermediaries
 title: A Message from Data Intermediaries
 lede: This post continues coverage of breakout sessions held at the 7th Annual Aid
   Management program Good Practices Workshop in Kathmandu, Nepal.
-thumbnail: old-files/featured-images/8966416028_8203d7e270_z.jpg
+thumbnail: assets/featured-images/8966416028_8203d7e270_z.jpg
 thumbnail-fid: "6184"
 thumbnail-alt: ""
 ---

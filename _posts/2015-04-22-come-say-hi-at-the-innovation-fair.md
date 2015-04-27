@@ -8,7 +8,7 @@ title: Come say Hi at the Innovation Fair!
 lede: Today is the final day of the Cartagena Data Festival, which is bringing together
   various types of stakeholders to discuss in person the topics and issues around
   the data revolution that we have all been talking about in our offices and online.
-thumbnail: old-files/featured-images/screen_shot_2015-04-15_at_3.49.08_pm_0.png
+thumbnail: assets/featured-images/screen_shot_2015-04-15_at_3.49.08_pm_0.png
 thumbnail-fid: "6221"
 thumbnail-alt: ""
 ---

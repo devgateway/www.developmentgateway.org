@@ -6,7 +6,7 @@ created: 1322799742
 old_path: news/dispatch-busan
 title: Dispatch from Busan
 lede: ""
-thumbnail: old-files/featured-images/image001_0.jpg
+thumbnail: assets/featured-images/image001_0.jpg
 thumbnail-fid: "5502"
 thumbnail-alt: ""
 ---

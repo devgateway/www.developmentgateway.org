@@ -10,7 +10,7 @@ lede: In early May, we highlighted the importance of tracking South-South Cooper
   the United Nations Day for South-South Cooperation, we wanted to highlight some
   updates about SSC across the Western Hemisphere.Tracking SSC Spending for Information
   Accuracy
-thumbnail: old-files/featured-images/ssc_0.png
+thumbnail: assets/featured-images/ssc_0.png
 thumbnail-fid: "6104"
 thumbnail-alt: ""
 ---

@@ -11,7 +11,7 @@ lede: Development Gateway, through its partnership with AidData, recently conclu
   were well received by government officials and key development partners. However,
   everyone acknowledges this is only the first step towards enhancing GIS capacity
   throughout government agencies and the donor community.
-thumbnail: old-files/featured-images/amp_mapping.png
+thumbnail: assets/featured-images/amp_mapping.png
 thumbnail-fid: "6177"
 thumbnail-alt: ""
 ---

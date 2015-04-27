@@ -9,7 +9,7 @@ lede: It’s a new year and you probably have your resolutions picked out, and m
   have already given up on one or two of them. Well it’s not too late to add to the
   list (or replace the unsuccessful). We suggest making a few data-lutions this year
   and have found a few good ideas to ponder.
-thumbnail: old-files/featured-images/data_day.png
+thumbnail: assets/featured-images/data_day.png
 thumbnail-fid: "6165"
 thumbnail-alt: ""
 ---

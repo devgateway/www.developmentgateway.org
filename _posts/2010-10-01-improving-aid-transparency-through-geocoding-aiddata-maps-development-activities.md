@@ -11,7 +11,7 @@ lede: Achieving global development objectives depends on involving stakeholders 
   location of an aid project is difficult to find. Information on project locations
   is critical for determining whether aid is reaching areas of greatest need, as well
   as for avoiding duplication of effort within a country.
-thumbnail: old-files/featured-images/c_geocoding.jpg
+thumbnail: assets/featured-images/c_geocoding.jpg
 thumbnail-fid: "4320"
 thumbnail-alt: ""
 ---

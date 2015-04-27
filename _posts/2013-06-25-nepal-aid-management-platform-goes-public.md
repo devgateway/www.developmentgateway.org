@@ -10,7 +10,7 @@ lede: Development Gateway is very pleased to partner with Nepal’s Ministry of 
   development assistance information recorded in the Aid Management Platform (AMP).
   Nepal Finance Secretary Mr. Shanta Raj Subedi formally introduced the new website
   at a well-attended government event on Friday, June 21.
-thumbnail: old-files/featured-images/nepal-amp-map.jpg
+thumbnail: assets/featured-images/nepal-amp-map.jpg
 thumbnail-fid: "5997"
 thumbnail-alt: ""
 ---

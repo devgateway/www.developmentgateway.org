@@ -11,7 +11,7 @@ lede: "The World Bank, Development Gateway, and Plan UK invite you to RSVP for C
   Voices UK will focus on citizen engagement and feedback systems that strengthen
   the quality of policy making and the science of service delivery, and where the
   impact on the poor is most direct."
-thumbnail: old-files/featured-images/citizensvoicesuk_0.jpg
+thumbnail: assets/featured-images/citizensvoicesuk_0.jpg
 thumbnail-fid: "5967"
 thumbnail-alt: ""
 ---

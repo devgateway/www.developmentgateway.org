@@ -12,7 +12,7 @@ lede: 'Development Gateway a rencontré M. Jean-Marie Kebre,  Chargé de la coor
   exprimé sur deux grand chantiers actuels de la DGCOOP: l’ouverture de la PGA à tous
   les acteurs intervenant dans la gestion de l’aide ; et l’interfaçage entre la PGA
   et le système CIFE (Circuit Intégré des Financements Extérieurs).'
-thumbnail: old-files/featured-images/burkina.jpg
+thumbnail: assets/featured-images/burkina.jpg
 thumbnail-fid: "5988"
 thumbnail-alt: ""
 ---

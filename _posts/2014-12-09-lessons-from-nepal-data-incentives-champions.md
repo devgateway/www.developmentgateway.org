@@ -8,7 +8,7 @@ title: 'Lessons from Nepal: Data, Incentives, & Champions'
 lede: This is the second post in a three-part series relaying the findings from a
   study of government data use in Nepal. Read the first post here.Why should a government
   official care about using data?
-thumbnail: old-files/featured-images/nepal.jpg
+thumbnail: assets/featured-images/nepal.jpg
 thumbnail-fid: "6157"
 thumbnail-alt: ""
 ---

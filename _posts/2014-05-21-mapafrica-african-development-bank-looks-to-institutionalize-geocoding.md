@@ -6,7 +6,7 @@ created: 1400695005
 old_path: news/mapafrica-african-development-bank-looks-institutionalize-geocoding
 title: 'MapAfrica: African Development Bank Looks to Institutionalize Geocoding'
 lede: 'This post was originally published on The AidData Blog: The First Tranche.'
-thumbnail: old-files/featured-images/afdb_dashboard.png
+thumbnail: assets/featured-images/afdb_dashboard.png
 thumbnail-fid: "6048"
 thumbnail-alt: ""
 ---

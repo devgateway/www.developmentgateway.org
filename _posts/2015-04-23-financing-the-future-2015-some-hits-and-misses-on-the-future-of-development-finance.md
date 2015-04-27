@@ -11,7 +11,7 @@ lede: A few weeks ago, an Overseas Development Institute-led consortium of partn
   the Future.” In essence, the purpose of this event was to collect feedback and share
   thoughts on the the “zero draft” of the Financing for Development (FfD) outcome
   document which hit during the event, with the final d
-thumbnail: old-files/featured-images/cazuodru8aa-mpz.jpg
+thumbnail: assets/featured-images/cazuodru8aa-mpz.jpg
 thumbnail-fid: "6219"
 thumbnail-alt: ""
 ---

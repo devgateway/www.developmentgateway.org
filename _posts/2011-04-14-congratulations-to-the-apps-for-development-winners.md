@@ -11,7 +11,7 @@ lede: 'On April 14, the World Bank announced winners of the Apps for Development
   drew 107 entries from 36 countries across 6 continents – more than a third of these
   entries were designed by African developers. The three winners of the contest are
   as follows:'
-thumbnail: old-files/featured-images/appsfordev.jpg
+thumbnail: assets/featured-images/appsfordev.jpg
 thumbnail-fid: "4311"
 thumbnail-alt: ""
 ---

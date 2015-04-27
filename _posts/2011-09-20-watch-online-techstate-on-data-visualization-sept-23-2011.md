@@ -9,7 +9,7 @@ lede: The next Tech@State event will be held on Friday, Sept. 23, 2011, at the K
   Center in Washington, DC and will focus on Data Visualization. Registration is open
   to the public, and the event will also be streamed live on the internet. It will
   be followed by an informal “unconference” on Sept.
-thumbnail: old-files/featured-images/techstate-logo.png
+thumbnail: assets/featured-images/techstate-logo.png
 thumbnail-fid: "5402"
 thumbnail-alt: ""
 ---

@@ -12,7 +12,7 @@ lede: La Constitution du 18 février 2006 a adopté la décentralisation comme m
   le Forum national de haut niveau sur l’efficacité de l’aide qui a eu lieu en 2009
   à Kinshasa a permis d’identifier un besoin réel au niveau des provinces de disposer
   d’informations fiables et en temps réel sur les projets mis en œuvre dans leur circonscription.
-thumbnail: old-files/featured-images/drc-gov.jpg
+thumbnail: assets/featured-images/drc-gov.jpg
 thumbnail-fid: "5987"
 thumbnail-alt: ""
 ---

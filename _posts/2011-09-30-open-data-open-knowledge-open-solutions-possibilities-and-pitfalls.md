@@ -11,7 +11,7 @@ lede: A panel discussion on “Open Data, Open Knowledge, Open Solutions,” hos
   It focused on global interconnectedness, free information flows, new technologies,
   and greater openness.  Panelists explored different avenues to further empower individuals
   and to create new solutions to global development challenges.
-thumbnail: old-files/featured-images/jl-at-the-wbi.jpg
+thumbnail: assets/featured-images/jl-at-the-wbi.jpg
 thumbnail-fid: "5408"
 thumbnail-alt: ""
 ---

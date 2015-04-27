@@ -11,7 +11,7 @@ lede: As attention shifts to the Sustainable Development Goals, Development Gate
   is an outline of remarks given by Development Gateway CEO Jean-Louis Sarbib at the
   United Nations Office for South-South Cooperation’s Global South-South Development
   Expo in Washington, DC.
-thumbnail: old-files/featured-images/2014-11-21_09.39.54.jpg
+thumbnail: assets/featured-images/2014-11-21_09.39.54.jpg
 thumbnail-fid: "6153"
 thumbnail-alt: ""
 ---

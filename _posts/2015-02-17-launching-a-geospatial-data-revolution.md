@@ -9,7 +9,7 @@ lede: In part 1, we took stock of progress made and missing pieces to flesh full
   the data revolution. With that in mind, what are some of the major challenges for
   the development community in launching a Geospatial Data Revolution?1) Matching
   data to Government needs
-thumbnail: old-files/featured-images/9243266112_e24c0cd96a_z.jpg
+thumbnail: assets/featured-images/9243266112_e24c0cd96a_z.jpg
 thumbnail-fid: "6181"
 thumbnail-alt: ""
 ---

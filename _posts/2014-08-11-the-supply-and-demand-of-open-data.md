@@ -10,7 +10,7 @@ lede: We are all familiar with the patterns of supply and demand. For many who a
   might initially think. Since the “open”part of open data implies that users shouldn’t
   need to pay for access to the data, it is harder to gauge what the data are worth
   to people.
-thumbnail: old-files/featured-images/openfinancialdata.png
+thumbnail: assets/featured-images/openfinancialdata.png
 thumbnail-fid: "6079"
 thumbnail-alt: ""
 ---

@@ -10,7 +10,7 @@ lede: I am Stephen Davenport, Director of Innovation at Development Gateway, and
   a development professional with a technology background I am often skeptical of
   such events as too soft a subject. What is knowledge anyway? It’s too generic. It’s
   too easy to immerse yourself in the theoretical and loose sight of the practical.
-thumbnail: old-files/featured-images/open-data-venn-diagram.jpg
+thumbnail: assets/featured-images/open-data-venn-diagram.jpg
 thumbnail-fid: "5921"
 thumbnail-alt: ""
 ---

@@ -12,7 +12,7 @@ lede: Parents, teachers, governments, and social welfare organizations all want 
   efforts. Sometimes even the most basic school information – like school location,
   fees, class size, or even building types – is completely unavailable, inaccessible,
   or out of date.
-thumbnail: old-files/featured-images/screen_shot_2015-02-20_at_3.35.31_pm.png
+thumbnail: assets/featured-images/screen_shot_2015-02-20_at_3.35.31_pm.png
 thumbnail-fid: "6187"
 thumbnail-alt: ""
 ---

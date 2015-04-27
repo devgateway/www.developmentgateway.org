@@ -12,7 +12,7 @@ lede: AidData and the Climate Change and African Political Stability Program (CC
   a precise geographic locality, provides a visual aid for development planning and
   coordination, allowing governments and their donor partners to better assess current
   aid distribution and plan future projects.
-thumbnail: old-files/featured-images/malawi_landscape.jpg
+thumbnail: assets/featured-images/malawi_landscape.jpg
 thumbnail-fid: "4312"
 thumbnail-alt: ""
 ---

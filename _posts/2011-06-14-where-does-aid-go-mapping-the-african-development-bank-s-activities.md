@@ -8,7 +8,7 @@ title: Where does aid go? Mapping the African Development Bank’s Activities
 lede: Last week, the African Development Bank (AfDB) and AidData launched an interactive
   map showing the precise locations of the AfDB’s ongoing operations in Cameroon,
   Morocco, and Tanzania.
-thumbnail: old-files/featured-images/afdb_map.jpg
+thumbnail: assets/featured-images/afdb_map.jpg
 thumbnail-fid: "4309"
 thumbnail-alt: ""
 ---

@@ -11,7 +11,7 @@ lede: 'As we celebrate today the spookiest holiday of the year – complete with
   Bag Lunch earlier this month, "Attack of the Zombie Projects: Why Do NGOs Keep Building
   Lousy Technology?" to discuss the recurrent reappearance of “zombie” projects in
   the NGO and tech space.'
-thumbnail: old-files/featured-images/5318386773_bfcc5ec7f0_o.jpg
+thumbnail: assets/featured-images/5318386773_bfcc5ec7f0_o.jpg
 thumbnail-fid: "6133"
 thumbnail-alt: ""
 ---

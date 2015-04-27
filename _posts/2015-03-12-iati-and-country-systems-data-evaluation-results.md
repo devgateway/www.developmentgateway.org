@@ -10,7 +10,7 @@ lede: Earlier this year, we announced a new partnership between Development Gate
   IATI and Aid Management Platform (AMP) data in Burkina Faso, Chad, Cote d’Ivoire,
   Madagascar, and Senegal. Below is an update on outcomes to-date; our next post will
   describe in-depth the data methodology for this process.
-thumbnail: old-files/featured-images/screen_shot_2015-03-13_at_1.14.44_pm.png
+thumbnail: assets/featured-images/screen_shot_2015-03-13_at_1.14.44_pm.png
 thumbnail-fid: "6204"
 thumbnail-alt: ""
 ---

@@ -9,7 +9,7 @@ lede: On Monday, AidData released the largest Open Data cache of Chinese develop
   finance in Africa. The Chinese Development Finance in Africa database contains nearly
   1,700 official finance projects in 50 African countries, totaling over $70 billion
   in reported financial commitments.
-thumbnail: old-files/featured-images/malawi_china.png
+thumbnail: assets/featured-images/malawi_china.png
 thumbnail-fid: "5992"
 thumbnail-alt: ""
 ---

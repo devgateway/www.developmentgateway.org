@@ -7,7 +7,7 @@ old_path: news/please-join-us-aiddata-30-launch-event
 title: Please Join Us for the AidData 3.0 Launch Event
 lede: Development Gateway is proud to invite you to a Global Transparency Week event:AidData
   3.0 LaunchMore Data | New Tools | Better Insights
-thumbnail: old-files/featured-images/aiddata-launch.jpg
+thumbnail: assets/featured-images/aiddata-launch.jpg
 thumbnail-fid: "6010"
 thumbnail-alt: ""
 ---

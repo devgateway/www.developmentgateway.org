@@ -9,7 +9,7 @@ lede: 'A few days ago, the Devex Impact blog featured, M&E 2.0: Using big data t
   kill white elephants, by Tim Docking about how development monitoring and evaluation
   practices need to accelerate to keep pace with cutting-edge methods for collecting,
   analyzing, and using data to do good. He wrote:'
-thumbnail: old-files/featured-images/mapping-results_0.jpg
+thumbnail: assets/featured-images/mapping-results_0.jpg
 thumbnail-fid: "6003"
 thumbnail-alt: ""
 ---

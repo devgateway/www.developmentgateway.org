@@ -10,7 +10,7 @@ lede: The African Development Bank (AfDB) is now publishing its project-level da
   IATI feed includes geocoded data on all of its ongoing activities, developed in
   partnership with AidData. Development Gateway is proud to have collaborated with
   AfDB to reach this important milestone.
-thumbnail: old-files/featured-images/logo_afdb.gif
+thumbnail: assets/featured-images/logo_afdb.gif
 thumbnail-fid: "5998"
 thumbnail-alt: ""
 ---

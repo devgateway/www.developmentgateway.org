@@ -9,7 +9,7 @@ lede: Development Finance open data has quickly become a hot topic for large int
   groups. The International Aid Transparency Initiative (IATI), World Bank, and AidData
   (a partner of Development Gateway’s) are just a few of the many organizations that
   have promoted this increase in open data and aid transparency.
-thumbnail: old-files/featured-images/ssc.png
+thumbnail: assets/featured-images/ssc.png
 thumbnail-fid: "6044"
 thumbnail-alt: ""
 ---

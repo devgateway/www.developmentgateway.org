@@ -11,7 +11,7 @@ lede: (This is part 1 of a two-part series on the role of sub-national data and 
   will discuss what is needed to put countries in the driver’s seat of the SDG process,
   to ensure that the beneficiaries of the data revolution are the ones who need it
   most.)How far have we come?
-thumbnail: old-files/featured-images/5068482201_79bfbc8ab6_z.jpg
+thumbnail: assets/featured-images/5068482201_79bfbc8ab6_z.jpg
 thumbnail-fid: "6179"
 thumbnail-alt: ""
 ---

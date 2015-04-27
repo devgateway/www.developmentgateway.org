@@ -11,7 +11,7 @@ lede: Development Gateway is proud to announce that the Government of the Lao PD
   allows the Government to record and monitor project level Official Development Assistance
   information. The AMP Public Portal makes the information in the AMP available to
   development stakeholders, Laotian citizens, and the general public.
-thumbnail: old-files/featured-images/screen_shot_2013-12-04_at_3.57.47_pm.jpg
+thumbnail: assets/featured-images/screen_shot_2013-12-04_at_3.57.47_pm.jpg
 thumbnail-fid: "6023"
 thumbnail-alt: ""
 ---

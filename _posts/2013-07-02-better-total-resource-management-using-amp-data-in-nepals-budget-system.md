@@ -9,7 +9,7 @@ lede: Staff in Nepal’s Ministry of Finance now has even more effective tools f
   and planning, thanks to a new link between their Aid Management Platform and the
   national budget system designed around the International Aid Transparency Initiative
   (IATI) standard.
-thumbnail: old-files/featured-images/nepal-goverment5_0.jpg
+thumbnail: assets/featured-images/nepal-goverment5_0.jpg
 thumbnail-fid: "5999"
 thumbnail-alt: ""
 ---

@@ -6,7 +6,7 @@ created: 1303321204
 old_path: news/world-bank-and-aiddata-put-aid-information-map
 title: World Bank and AidData put aid information on the map
 lede: PRESS RELEASE
-thumbnail: old-files/featured-images/geocoded-map.jpg
+thumbnail: assets/featured-images/geocoded-map.jpg
 thumbnail-fid: "4310"
 thumbnail-alt: ""
 ---

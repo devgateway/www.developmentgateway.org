@@ -9,7 +9,7 @@ lede: “If your mother gives you $10 to go to the store to buy a bottle of milk
   have to show her, 'Here is the milk and here is the change.' Likewise, we are obliged
   to show taxpayers exactly what we are doing with their money.”- María Margarita
   “La Paca” Zuleta, Director of Colombia Compra Eficiente
-thumbnail: old-files/featured-images/nepal_1.png
+thumbnail: assets/featured-images/nepal_1.png
 thumbnail-fid: "6162"
 thumbnail-alt: ""
 ---

@@ -8,7 +8,7 @@ title: AidData 3.0 Data Portal Release Makes Development Finance More Intuitive
 lede: AidData, a research and innovation lab that seeks to improve development outcomes
   by making development finance data more accessible and actionable, released the
   3.0 version of the aiddata.org portal during Global Transparency Week.
-thumbnail: old-files/featured-images/aiddata3.png
+thumbnail: assets/featured-images/aiddata3.png
 thumbnail-fid: "6027"
 thumbnail-alt: ""
 ---

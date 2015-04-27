@@ -10,7 +10,7 @@ lede: Development Gateway and Global Integrity are thrilled to announce plans fo
   one physical location to work on issues related to the open government agenda. The
   OpenGov Hub will be housed in Development Gateway’s current headquarters in Washington,
   DC, and will open officially in September.
-thumbnail: old-files/featured-images/opengovhub-splash.jpg
+thumbnail: assets/featured-images/opengovhub-splash.jpg
 thumbnail-fid: "5896"
 thumbnail-alt: ""
 ---

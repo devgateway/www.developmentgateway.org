@@ -11,7 +11,7 @@ lede: 'This week, Development Gatewayand the Government of Nepal have been hosti
   workshop, and follow along on Twitter with #AMPWS2014.  Excellency Mr. Suman Prasad
   Sharma, Nepal Finance Secretary; distinguished delegates; dear collegues and partners
   –'
-thumbnail: old-files/featured-images/amp_workshop2014_blog_1_1.jpg
+thumbnail: assets/featured-images/amp_workshop2014_blog_1_1.jpg
 thumbnail-fid: "6158"
 thumbnail-alt: ""
 ---

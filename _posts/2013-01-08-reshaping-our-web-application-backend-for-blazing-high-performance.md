@@ -9,7 +9,7 @@ lede: Back in the days when web application users’ demands were still basic (b
   using static filtering, simple statistics results, etc) and disk space was plentiful,
   a traditional backend was usually represented by a monolithic product capable of
   performing the entire job of running a data oriented web application
-thumbnail: old-files/featured-images/newbackend1.png
+thumbnail: assets/featured-images/newbackend1.png
 thumbnail-fid: "5939"
 thumbnail-alt: ""
 ---

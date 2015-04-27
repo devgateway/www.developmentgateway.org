@@ -11,7 +11,7 @@ lede: The 7th edition of the European Development Days (EDDs) took place in Brus
   serves as a veritable melting pot of development advocates, decision-makers and
   practitioners, bringing together some 6,000 people and 1,500 organisations annually
   to learn from each other’s best practices, discuss and network.
-thumbnail: old-files/featured-images/edds.jpg
+thumbnail: assets/featured-images/edds.jpg
 thumbnail-fid: "5945"
 thumbnail-alt: ""
 ---

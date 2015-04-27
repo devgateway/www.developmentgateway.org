@@ -9,7 +9,7 @@ lede: On November 4, AidData, the Climate Change and African Political Stability
   program, and the World Bank Institute will co-host an all-day event to highlight
   trends in open data and aid transparency, and how they are influencing work on climate
   change and other issues, leading to better development results on the ground.
-thumbnail: old-files/featured-images/image001.jpg
+thumbnail: assets/featured-images/image001.jpg
 thumbnail-fid: "5431"
 thumbnail-alt: ""
 ---

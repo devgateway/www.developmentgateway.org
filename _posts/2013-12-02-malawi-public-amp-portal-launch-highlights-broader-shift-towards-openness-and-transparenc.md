@@ -10,7 +10,7 @@ lede: Recently, the Government of Malawi launched a new public portal on foreign
   spending. The portal allows citizens, civil society members, development partners,
   government employees, and other stakeholders to see detailed information on aid-funded
   projects.
-thumbnail: old-files/featured-images/malawi2.jpg
+thumbnail: assets/featured-images/malawi2.jpg
 thumbnail-fid: "6018"
 thumbnail-alt: ""
 ---

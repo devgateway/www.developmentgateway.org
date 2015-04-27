@@ -9,7 +9,7 @@ lede: On March 19-20, the IATI Secretariat convened a Regional Workshop on Devel
   Data and Usage. This event included 14 country governments from across Africa, as
   well as a handful of Ghanaian and international civil society organizations and
   service providers.
-thumbnail: old-files/featured-images/untitled.png
+thumbnail: assets/featured-images/untitled.png
 thumbnail-fid: "6212"
 thumbnail-alt: ""
 ---

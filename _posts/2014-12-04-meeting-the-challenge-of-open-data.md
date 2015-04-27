@@ -12,7 +12,7 @@ lede: 'Next week is our Annual Aid Management Program (AMP) Good Practices Works
   why: At Development Gateway, we know that Open Data is about much more than throwing
   data out into the universe; it’s about using that information once it’s available,
   and getting back to the why behind data transparency.'
-thumbnail: old-files/featured-images/amp_workshop2014_blog_1_0.jpg
+thumbnail: assets/featured-images/amp_workshop2014_blog_1_0.jpg
 thumbnail-fid: "6156"
 thumbnail-alt: ""
 ---

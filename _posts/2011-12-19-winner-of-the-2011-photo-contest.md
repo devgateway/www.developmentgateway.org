@@ -6,7 +6,7 @@ created: 1324316612
 old_path: news/winner-2011-photo-contest
 title: Winner of the 2011 Photo Contest
 lede: ""
-thumbnail: old-files/featured-images/seshadri-moitra-creative_art.jpg
+thumbnail: assets/featured-images/seshadri-moitra-creative_art.jpg
 thumbnail-fid: "5549"
 thumbnail-alt: ""
 ---

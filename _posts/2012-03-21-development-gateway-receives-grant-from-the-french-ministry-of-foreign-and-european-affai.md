@@ -14,7 +14,7 @@ lede: Development Gateway has received a grant from the French Ministry of Forei
   signing the agreement, the parties discussed the activities to be funded under the
   grant in 2012, which will include work on data visualization and analytics and other
   areas.
-thumbnail: old-files/featured-images/france-grant.jpg
+thumbnail: assets/featured-images/france-grant.jpg
 thumbnail-fid: "5800"
 thumbnail-alt: ""
 ---

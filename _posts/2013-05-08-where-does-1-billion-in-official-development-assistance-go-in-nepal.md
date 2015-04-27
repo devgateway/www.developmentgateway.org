@@ -10,7 +10,7 @@ lede: On April 16, the Nepal Ministry of Finance (MoF) formally launched its sec
   and analyzes information from the Nepal Aid Management Platform (AMP), dissects
   and displays for the public how $US 1 billion in development assistance – representing
   26% of the national budget - was used in Nepal over the past year.
-thumbnail: old-files/featured-images/nepal-dcr.jpg
+thumbnail: assets/featured-images/nepal-dcr.jpg
 thumbnail-fid: "5993"
 thumbnail-alt: ""
 ---

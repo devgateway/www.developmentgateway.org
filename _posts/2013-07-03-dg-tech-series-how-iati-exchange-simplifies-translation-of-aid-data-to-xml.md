@@ -9,7 +9,7 @@ lede: Development Gateway is proud to announce the first implementation of the I
   Exchange software program to integrate Nepal's Aid Management Program (AMP) and
   Budget Management Information System (BMIS). The software has been designed for
   automated information transfer between the two systems using the IATI standard.
-thumbnail: old-files/featured-images/google-project-hosting.jpg
+thumbnail: assets/featured-images/google-project-hosting.jpg
 thumbnail-fid: "6000"
 thumbnail-alt: ""
 ---

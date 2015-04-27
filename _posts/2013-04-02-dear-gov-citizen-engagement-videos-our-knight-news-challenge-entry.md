@@ -10,7 +10,7 @@ lede: I am Taryn Davis and I've entered Development Gateway into the Knight News
   by introducing them to mapped development projects within their community and develop
   a platform to display citizen feedback and 15 second “Dear Gov” videos layered with
   the mapped project info.
-thumbnail: old-files/featured-images/knight.jpg
+thumbnail: assets/featured-images/knight.jpg
 thumbnail-fid: "5978"
 thumbnail-alt: ""
 ---

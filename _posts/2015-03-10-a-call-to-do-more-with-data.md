@@ -8,7 +8,7 @@ title: A Call to Do More with Data
 lede: On Wednesday, February 25th, 2015, AidData co-hosted a consultation event at
   the OpenGov Hub with U.S. Department of State's Foreign Assistance Resources office,
   the U.S.
-thumbnail: old-files/featured-images/screen_shot_2015-03-10_at_9.20.59_am.png
+thumbnail: assets/featured-images/screen_shot_2015-03-10_at_9.20.59_am.png
 thumbnail-fid: "6189"
 thumbnail-alt: ""
 ---

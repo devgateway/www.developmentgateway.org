@@ -10,7 +10,7 @@ lede: The Open Development Technology Alliance (ODTA) aims to enhance accountabi
   citizen engagement. The ODTA is an initiative of The World Bank, anchored by the
   World Bank Institute, the Social Development Department and the ICT Sector Unit
   of The World Bank.
-thumbnail: old-files/featured-images/zunia-odta.jpg
+thumbnail: assets/featured-images/zunia-odta.jpg
 thumbnail-fid: "5951"
 thumbnail-alt: ""
 ---

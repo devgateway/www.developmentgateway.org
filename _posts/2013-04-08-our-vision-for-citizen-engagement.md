@@ -9,7 +9,7 @@ lede: Recently in Washington and London, we participated in Citizen Voices, a gl
   conference on citizen engagement for enhanced development impact with the World
   Bank. At both events, there was much talk about the role of technology in empowering
   citizen feedback loops to improve development outcomes.
-thumbnail: old-files/featured-images/citizenvoices.jpg
+thumbnail: assets/featured-images/citizenvoices.jpg
 thumbnail-fid: "5981"
 thumbnail-alt: ""
 ---

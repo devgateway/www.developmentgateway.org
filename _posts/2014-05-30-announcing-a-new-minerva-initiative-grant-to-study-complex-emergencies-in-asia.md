@@ -12,7 +12,7 @@ lede: We’re thrilled to announce the U.S. Department of Defense’s Minerva In
   dashboards to support high-level geospatial analysis and modeling. We hope to learn
   about the particular dynamics of these emergencies, and how we might build government
   capacity to respond to and prevent them.
-thumbnail: old-files/featured-images/robert_s_strauss_center_logo.png
+thumbnail: assets/featured-images/robert_s_strauss_center_logo.png
 thumbnail-fid: "6053"
 thumbnail-alt: ""
 ---

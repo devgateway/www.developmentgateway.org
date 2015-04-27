@@ -10,7 +10,7 @@ lede: Development Gateway is delighted to welcome The Gambia to the global Aid M
   and managing aid flows. The Gambia is our 17th African partner government, and joins
   20+ UNDP-supported AMP implementations. We are looking forward to a fruitful partnership
   in the years to come.
-thumbnail: old-files/featured-images/flag_of_the_gambia.svg_.png
+thumbnail: assets/featured-images/flag_of_the_gambia.svg_.png
 thumbnail-fid: "6217"
 thumbnail-alt: ""
 ---

@@ -10,7 +10,7 @@ lede: The Aid Management Program was first introduced in Tanzania in 2007. Worki
   and government officers and development partners trained to effectively use system.
   The platform now hosts over 1800 projects and holds historical aid records from
   2001 to date.
-thumbnail: old-files/featured-images/tanzania.gif
+thumbnail: assets/featured-images/tanzania.gif
 thumbnail-fid: "5942"
 thumbnail-alt: ""
 ---

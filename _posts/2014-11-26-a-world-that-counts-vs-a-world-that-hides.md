@@ -12,7 +12,7 @@ lede: 'The Secretary-General’s Independent Expert Advisory Group on a Data Rev
   proposes a “Global Consensus on Data,” a “Network of Data Innovation Networks,”
   a UN-led “Global Partnership for Sustainable Development Data,” and an “SDGs data
   lab.”'
-thumbnail: old-files/featured-images/3311542781_6175233576_o.jpg
+thumbnail: assets/featured-images/3311542781_6175233576_o.jpg
 thumbnail-fid: "6148"
 thumbnail-alt: ""
 ---

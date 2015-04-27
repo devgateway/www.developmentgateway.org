@@ -8,7 +8,7 @@ title: How are International Development Partners Supporting Timor-Leste?
 lede: "Congratulations to the Government of Timor-Leste for releasing its Development
   Cooperation Report for 2012 using data from the Timor-Leste Aid Management Platform.
   \ \r\n\r\nTimor-Leste has long been at the forefront of the transparency movement."
-thumbnail: old-files/featured-images/timor-cooperation-report.jpg
+thumbnail: assets/featured-images/timor-cooperation-report.jpg
 thumbnail-fid: "6014"
 thumbnail-alt: ""
 ---

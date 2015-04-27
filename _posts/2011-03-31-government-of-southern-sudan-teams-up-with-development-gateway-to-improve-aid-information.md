@@ -11,7 +11,7 @@ lede: The Government of Southern Sudan (GoSS) recently chose to implement Develo
   of technical support and institutional strengthening activities, the Aid Management
   Program helps governments build capacity for managing information on development
   finance.
-thumbnail: old-files/featured-images/juba.jpg
+thumbnail: assets/featured-images/juba.jpg
 thumbnail-fid: "4314"
 thumbnail-alt: ""
 ---

@@ -9,7 +9,7 @@ lede: The African Development Bank (AfDB) and AidData recently released a data s
   containing the sub-national locations of all AfDB projects continent-wide approved
   from 2009-2010. The data, available at Open.AidData, represent more than $10 billion
   in AfDB Group funding to 43 African countries.
-thumbnail: old-files/featured-images/esri-map.jpg
+thumbnail: assets/featured-images/esri-map.jpg
 thumbnail-fid: "3096"
 thumbnail-alt: ""
 ---

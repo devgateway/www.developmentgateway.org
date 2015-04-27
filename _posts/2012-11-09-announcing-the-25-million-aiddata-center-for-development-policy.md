@@ -10,7 +10,7 @@ lede: Development Gateway is pleased to announce that the United States Agency f
   Gateway, Brigham Young University, the University of Texas at Austin, and Esri,
   a five-year, $25-million cooperative agreement to increase global aid transparency
   through the AidData Center for Development Policy.
-thumbnail: old-files/featured-images/crop-aiddata.jpg
+thumbnail: assets/featured-images/crop-aiddata.jpg
 thumbnail-fid: "5928"
 thumbnail-alt: ""
 ---

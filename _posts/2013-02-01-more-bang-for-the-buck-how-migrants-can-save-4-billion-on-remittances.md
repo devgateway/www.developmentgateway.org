@@ -10,7 +10,7 @@ lede: This week the World Bank launched Send Money Africa, a website that empowe
   sending money to their home countries.  Development Gateway created Send Money Africa
   for the World Bank using the Send Money Service toolkit, a platform for making remittance
   price data more transparent via internet, smart phones, and via SMS.
-thumbnail: old-files/featured-images/remittanceinfographic.jpg
+thumbnail: assets/featured-images/remittanceinfographic.jpg
 thumbnail-fid: "5950"
 thumbnail-alt: ""
 ---

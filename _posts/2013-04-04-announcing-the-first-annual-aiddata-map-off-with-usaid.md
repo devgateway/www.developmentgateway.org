@@ -8,7 +8,7 @@ title: Announcing the First Annual AidData Map-Off with USAID
 lede: AidData staff is engaging students at the College of William and Mary to put
   their geocoding and mapping skills to the test accepting USAID Administrator Rajiv
   Shah’s challenge to “inspire and support the next generation of development leaders,”.
-thumbnail: old-files/featured-images/mapoff.jpg
+thumbnail: assets/featured-images/mapoff.jpg
 thumbnail-fid: "5980"
 thumbnail-alt: ""
 ---

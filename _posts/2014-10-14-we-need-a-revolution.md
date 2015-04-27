@@ -9,7 +9,7 @@ lede: The Independent Expert Advisory Group on the “Data revolution for develo
   is giving you only a few days to share your views on what a “revolution” should
   look like. So here’s your chance to be a revolutionary, channel your inner Beatle
   per the Data Revolution Group, and act quickly because the deadline is October 15th!
-thumbnail: old-files/featured-images/launch2.jpg
+thumbnail: assets/featured-images/launch2.jpg
 thumbnail-fid: "6121"
 thumbnail-alt: ""
 ---

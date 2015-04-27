@@ -12,7 +12,7 @@ lede: This Story from the Field comes from Djamila Kerim, a Development Gateway 
   This year, there were more than 90 participants from more than 20 countries. Many
   of them are beginning to see the potential to use AMP as much more than a computer
   system and more as a process of managing aid flows effectively.
-thumbnail: old-files/featured-images/djamila-interviewing.jpg
+thumbnail: assets/featured-images/djamila-interviewing.jpg
 thumbnail-fid: "5739"
 thumbnail-alt: ""
 ---

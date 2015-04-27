@@ -11,7 +11,7 @@ lede: The Strauss Center's program on Climate Change and African Political Stabi
   Program research explores the drivers of climate insecurity, links between climate
   change and conflict, national responses to shocks and conflict, and the impact of
   adaptation aid responses.
-thumbnail: old-files/featured-images/ccaps.jpg
+thumbnail: assets/featured-images/ccaps.jpg
 thumbnail-fid: "5959"
 thumbnail-alt: ""
 ---

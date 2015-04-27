@@ -11,7 +11,7 @@ lede: You may not have been aware of the fact that AidData and Development Gatew
   country governments that are using Development Gateway’s Aid Management Program
   (AMP) to improve the process and systems involved, and ensure accurate, complete,
   and up-to-date data.
-thumbnail: old-files/featured-images/laos.jpg
+thumbnail: assets/featured-images/laos.jpg
 thumbnail-fid: "5948"
 thumbnail-alt: ""
 ---
