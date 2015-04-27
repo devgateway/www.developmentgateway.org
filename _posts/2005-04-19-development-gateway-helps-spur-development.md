@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Development Gateway Helps Spur Development"
-lede: |
-  Jean Philbert Nsengimana, manager of the Gateway, summarizes the organization’s impact by saying,
-  “We help people take advantage of the opportunities that the information society brings.”
-thumbnail: "images/posts/2005/img2.png"
-thumbnail-alt: "photo"
-author: "Benjamin Arancibia"
-categories:
-  - Innovation
-  - Aid Management
+nid: 1303
+author: Andrea Calabrese
+created: 1113890431
+old_path: news/development-gateway-helps-spur-development
+title: Development Gateway Helps Spur Development
+lede: Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway.
 ---
 
-## Rwanda
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/jeanphilbert.jpg)</td></tr><tr><td align="center" valign="bottom">*Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.*</td></tr></tbody></table>
 
-Founded in 2004, the Rwanda Development Gateway created www.rwandagateway.org, an online platform that serves as a one-stop shop for information on the country and as a portal to connect with the rest of the world. Housed by the National University of Rwanda, in just three years the Gateway has experienced a steady increase in the demand for its services. Through a combination of income-generating services and pro bono work, the Gateway works with a wide range of clients and partners, leading the Web and content development market in Rwanda with its technology expertise and open source tools. It is part of the Country Gateway program, designed to promote local adaptations of ICT for development.
+**Rwanda**
+
+Founded in 2004, the Rwanda Development Gateway created [www.rwandagateway.org](http://www.rwandagateway.org/ "Rwanda CG"), an online platform that serves as a one-stop shop for information on the country and as a portal to connect with the rest of the world. Housed by the National University of Rwanda, in just three years the Gateway has experienced a steady increase in the demand for its services. Through a combination of income-generating services and pro bono work, the Gateway works with a wide range of clients and partners, leading the Web and content development market in Rwanda with its technology expertise and open source tools. It is part of the Country Gateway program, designed to promote local adaptations of ICT for development.
 
 Jean Philbert Nsengimana, manager of the Gateway, summarizes the organization’s impact by saying, “We help people take advantage of the opportunities that the information society brings.” He points out that many decision-makers focus on technological development, rather than how technology can spur development. The Gateway is making progress on both fronts. Through a variety of projects, the gateway links individuals and organizations with the information and tools they need to succeed. For example, working with the ministry of agriculture and other stakeholders, the Gateway is setting up an e-agriculture program, so that staff and the public can access information such as trade figures and prices of coffee and tea with the click of a mouse.
 
