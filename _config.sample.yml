@@ -99,3 +99,6 @@ lunr_search:
     - lib
     - scripts
   js_dir: scripts
+
+# Uncomment on localhost so that you don't wait forever for the build to finish.
+# limit_posts: 20
