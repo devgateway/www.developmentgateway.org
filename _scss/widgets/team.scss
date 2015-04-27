@@ -1,26 +1,20 @@
-
 .team-member {
   margin-bottom: 2em;
-
   .photo {
     // @TODO: Use smaller images!
     width: 9em;
-
     @include media-query-max($bp_small) {
       display: none;
     }
   }
-
   .position {
     color: $black;
   }
-
   @include media-query-min($bp_medium) {
     &.col {
       @include media-query-min($bp_medium) {
         @include l-column(6);
       }
-
       // .col-0
       &-0 {
         clear: left;
@@ -28,19 +22,26 @@
     }
   }
 }
-
 .name {
   font-weight: bold;
   color: $blue_deep;
   @include clearfix-mixin();
 }
-
 // consultants
-.consultants{
-    list-style:none;
-  li{
-  width:30%;
-  float:left;
-  margin-bottom:1em;
+.consultants {
+  list-style: none;
+  @include media-query-max($bp_small) {
+    padding-left: 0;
+  }
+  li {
+    width: 30%;
+    float: left;
+    margin-bottom: 1em;
+    @include media-query-max($bp_small) {
+      width: 90%;
+    }
+    @include media-query-max($bp_medium) {
+      width: 45%;
+    }
   }
 }
