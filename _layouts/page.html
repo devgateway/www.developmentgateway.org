@@ -10,10 +10,9 @@ layout: default
     {% include widgets/map.html %}
   {% endif %}
 
-  {% if page.nav_data %}
+  {% if page.page_navigation %}
   <div class="page-nav-wrapper">
-    {% assign nav_entries = site.data[page.nav_data] %}
-    {% include widgets/page-nav.html entries=nav_entries %}
+    {% include widgets/page-navigation.html entries=page.page_navigation %}
   </div>
   {% endif %}
 

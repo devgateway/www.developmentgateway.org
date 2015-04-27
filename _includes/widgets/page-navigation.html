@@ -1,0 +1,17 @@
+
+{% stripwhitespace %}
+<ul class="page-navigation clearfix">
+  {% for entry in include.entries %}
+    {% unless entry.id %}
+      {% continue %}
+    {% endunless %}
+
+    <li class="item">
+      <a href="#{{ entry.id}}" class="link" title="Jump to {{ entry.title }}">
+        {{ entry.title }}
+      </a>
+    </li>
+
+  {% endfor %}
+</ul>
+{% endstripwhitespace %}
