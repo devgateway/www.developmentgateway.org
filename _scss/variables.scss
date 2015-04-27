@@ -39,14 +39,19 @@ $large: 1.125em;
 $larger: 1.5em;
 $largest: 2.125em;
 
-// Grid Settings.
-$gen_total_columns: 12;
-$gen_column_width: 4em;
-$gen_gutter_width: 1em;
-$sidebar_grid_count: 3;
-$content_grid_count: 9;
-
 // Map settings
 $country_marker_size: 2rem;
 $map_side_padding: 3rem;
 $map_bottom_padding: 3.5rem;
+
+// Grid Settings.
+$gen_total_columns: string_to_number($gen_total_columns_string);
+$gen_column_width: string_to_number($gen_column_width_string);
+$gen_gutter_width: string_to_number($gen_gutter_width_string);
+$sidebar_grid_count: string_to_number($sidebar_grid_count_string);
+$content_grid_count: string_to_number($content_grid_count_string);
+
+// Define breakpoints.
+$bp_small: (($gen_column_width + $gen_gutter_width) * 8) + 4em;
+$bp_medium: (($gen_column_width + $gen_gutter_width) * 12) + 6em;
+$bp_large: (($gen_column_width + $gen_gutter_width) * 16) + 8em;

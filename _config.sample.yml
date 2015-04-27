@@ -76,6 +76,15 @@ markdown: kramdown
 sass:
   sass_dir: _scss
 
+# Variables that can be printed inside SASS files.
+# @TODO: Implement a way to inject variables into the compliation process.
+sass_variables:
+  gen_total_columns: '12'
+  gen_column_width: '4em'
+  gen_gutter_width: '1em'
+  sidebar_grid_count: '3'
+  content_grid_count: '9'
+
 # Uncomment the following lines to enable lunr.js search.
 #gems:
 #  - 'jekyll-lunr-js-search'
