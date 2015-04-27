@@ -21,7 +21,7 @@ weight: 0
 <p>We’re committed to a positive, and lasting, social impact. As a nimble and growing social enterprise each project is intrinsically tied to our mission and organically conceived to enhance the common good.</p>
 
 
-{% assign sections = 'Board of Directors,Staff' | split: ',' %}
+{% assign sections = 'Board of Directors,Team' | split: ',' %}
 {% for section in sections %}
 {% assign section_name = section | slugify %}
 <section class="page-section team-section team-{{ section_name }} clearfix">

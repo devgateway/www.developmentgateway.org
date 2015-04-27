@@ -53,11 +53,11 @@
       Dina supports Development Gateway's Aid Management Program; she was previously DG's USAID Geo-coding Aid Management Fellow in Nepal. Before joining the team, Dina was a Project Manager at the DESERTEC Foundation, Hamburg, Germany. Dina holds a Master's of Science in International Development Studies from the University of Amsterdam, the Netherlands and a Bachelor of Arts in International Relations from the College of William and Mary, USA.
 
 
-- name: "Benjamin Arancibia"
-  position: Associate
-  avatar: ben.png
+- name: "Ionut Dobre"
+  position: Software Developer
+  avatar: ionut.png
   bio: |
-      Ben is a Technical Associate at Development Gateway and brings his research, data analysis, and GIS development knowledge to working on various projects for DG. He focuses on AidData platform and DG's Aid Management Platform in Honduras helping to pilot a new module in South-South Cooperation. Ben is a candidate for a Master's in Data Analytics/Data Science.
+      Ionut supports AidData, and has worked implementing the mobile version of the UN Teamworks Application and dgMarket, an open procurement system tracking more than $1 trillion worth of procurement notices. He holds a M.Sc. degree in computer science and also was a teaching assistant for 'Mobile Software Development' course.
 
 
 - name: "Hamadoun Cisse"
@@ -95,7 +95,7 @@
 
 - name: "Thad Kerosky"
   position: "Software Developer"
-  avatar: avatar.png
+  avatar: thad.png
   bio: |
       Thad works on data-oriented software development projects at DG. Since 2007, he has worked to implement information and communication technology projects with governments, social enterprises, and startups in the United States and in countries across East and West Africa, including Tanzania and Liberia.
 
@@ -127,6 +127,13 @@
       Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
 
       She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
+
+- name: "Denise Butcher"
+  position: "Technical Manager"
+  avatar: denise.png
+  bio: |
+      Denise leads product development, primarily in support of the Aid Management Platform. As a certified Scrum Master, she oversees the development of software requirements, implementation, testing and release, ensuring that technical milestones are high-quality and delivered on time. Before DG, Denise worked at a number of Fortune 500 companies, where she built effective international teams to develop software for clients primarily in the banking, healthcare, and insurance sectors. Denise holds degrees from Argosy University and the Chubb Institute and applies her background in psychology and counseling at women's correctional facilities in Maryland.
+
 
 
 - name: "Mounina Bocoum Wade"
