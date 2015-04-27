@@ -26,11 +26,11 @@ one_pager_data: 'expertise/topics.json'
 <div class="layout-spacing">
   <div class="expertise-topics clearfix">
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
-    {% for topic in sorted_topics %}
-      <section class="topic topic-{{ topic.id }}" id="{{ topic.id }}" data-onepager="{{ topic.permalink }}">
-        <h1 class="title">{{ topic.title }}</h1>
-        <div id="{{ topic.id }}-content">
-          <p><a href="{{ topic.permalink }}">Read more about {{ topic.title }}</a></p>
+    {% for entry in sorted_topics %}
+      <section class="topic topic-{{ entry.id }}" id="{{ entry.id }}" data-onepager="{{ entry.permalink }}">
+        <h1 class="title">{{ entry.title }}</h1>
+        <div id="{{ entry.id }}-content">
+          <p><a href="{{ entry.permalink }}">Read more about {{ entry.title }}</a></p>
         </div>
       </section>
     {% endfor %}

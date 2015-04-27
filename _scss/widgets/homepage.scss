@@ -152,6 +152,13 @@
     padding: 1em;
     text-align: center;
     vertical-align: middle;
+
+    // @TODO: Remove when the default style has been reverted to default values?
+    font-size: 1.5em;
+    .topic-link {
+      @include link-color($white, $highlight_text);
+      display: block;
+    }
   }
 
   @include media-query-min($bp_medium) {
