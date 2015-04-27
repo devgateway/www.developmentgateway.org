@@ -45,3 +45,16 @@ weight: 0
   {% endfor %}
 </section>
 {% endfor %}
+
+
+<section id="consultants" class="page-section">
+  <h3>Consultants</h3>
+  <ul class="consultants clearfix">
+    {% for consultant in site.data.team.consultants %}
+    <li>
+      <span class="name">{{ consultant.name }}</span>
+      <span>{{ consultant.country }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

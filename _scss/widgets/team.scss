@@ -11,10 +11,6 @@
     }
   }
 
-  .name {
-    font-weight: bold;
-    color: $blue_deep;
-  }
   .position {
     color: $black;
   }
@@ -30,5 +26,21 @@
         clear: left;
       }
     }
+  }
+}
+
+.name {
+  font-weight: bold;
+  color: $blue_deep;
+  @include clearfix-mixin();
+}
+
+// consultants
+.consultants{
+    list-style:none;
+  li{
+  width:30%;
+  float:left;
+  margin-bottom:1em;
   }
 }
