@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 0
+nav_data: about
 ---
 
 <h3>Solutions that empower</h3>
@@ -24,7 +25,7 @@ weight: 0
 {% assign sections = 'Board of Directors,Team' | split: ',' %}
 {% for section in sections %}
 {% assign section_name = section | slugify %}
-<section class="page-section team-section team-{{ section_name }} clearfix">
+<section id="team" class="page-section team-section team-{{ section_name }} clearfix">
   <h3 class="highlighted-title">{{ section }}</h3>
   {% assign offset = 0 %}
   {% for team_member in site.data.team[section_name] %}
