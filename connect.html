@@ -12,13 +12,13 @@ nav_data: connect
 
   {% multicols half clearfix | render-as-html %}
 
-    <h3>Learn The Latest</h3>
+    <h3 class="highlighted-title">Learn The Latest</h3>
     <p>Subscribe to new updates</p>
     {% include subscribe-form.html class='inline-form clearfix' %}
 
   <--colbreak-->
 
-    <h3>Follow Us</h3>
+    <h3 class="highlighted-title">Follow Us</h3>
     <p>Stay connected and learn the latest from Development Gateway</p>
     {% include widgets/follow-links.html class="content-social-nav" %}
 
@@ -27,8 +27,15 @@ nav_data: connect
 
 <section class="page-section">
   <h2 id="join">Join</h2>
-  <h3>Current Job Openings</h3>
-  <p>Become a member of a creative, dynamic, and international team that values hard work, innovative thinking, and a great sense of humor.</p>
+  <h3 class="highlighted-title">Current Job Openings</h3>
+  <p>Become a member of a creative, dynamic, and international team that values hard work, innovative thinking, and a great sense of humor. We seek highly motivated people who are committed to our core values.</p>
+  {% for career in site.data.careers %}
+  <ul class="half-col-list">
+  <li>
+    <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
+  </li>
+  </ul>
+  {% endfor %}
 </section>
 
 <section class="page-section">

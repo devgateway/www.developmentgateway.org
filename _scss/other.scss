@@ -1,13 +1,10 @@
-
 html,
 body {
   background-color: $footer_bg;
 }
-
 a {
   @include link-color($blue_vibrant)
 }
-
 blockquote {
   background: lighten($grey_lightest, 7%);
   display: block;
@@ -16,7 +13,6 @@ blockquote {
   margin: 1em 0;
   padding: 1em 1em 1em 3.5em;
   position: relative;
-
   &:before {
     color: $grey_lightest;
     content: "\201C";
@@ -26,43 +22,35 @@ blockquote {
     left: 0.05em;
     position: absolute;
     top: -0.1em;
-
     @include media-query-max($bp_medium) {
       padding: 0.5em 0;
     }
   }
 }
-
 cite {
   color: $black;
   display: block;
   font-size: $small;
   margin-top: 0.5em;
-
   &:before {
     content: "\2014 \2009";
   }
 }
-
 // @TODO: Cleanup this section.
 .highlighted-title {
   color: $green_lime;
 }
-
 // General logo images hover effect.
 .logo {
   @include transition(opacity);
-
   opacity: 1;
-  &:hover{
+  &:hover {
     opacity: 0.8;
   }
 }
-
 .page-banner {
   border: 1px solid $grey_lightest;
 }
-
 .page-intro {
   .column {
     @include media-query-max($bp_small) {
@@ -72,12 +60,24 @@ cite {
     }
   }
 }
-
 .partner-countries {
   padding: 0;
 }
-
-.leaflet-top, .leaflet-bottom {
+.leaflet-top,
+.leaflet-bottom {
   // Fix Leaflet controls stacking order (we don't need z-index: 1000).
   z-index: 9 !important;
+}
+// careers list
+.half-col-list {
+  li {
+    width: 45%;
+    float: left;
+    @include media-query-max($bp_small) {
+      width: 100%;
+    }
+    @include media-query-max($bp_medium) {
+      width: 100%;
+    }
+  }
 }

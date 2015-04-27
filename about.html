@@ -6,15 +6,16 @@ weight: 0
 nav_data: about
 ---
 
-<h3>Solutions that empower</h3>
-<p>Development Gateway is an international nonprofit organization that delivers information solutions to governments, organizations, and individuals on the front lines of international development work.</p>
+<h2>Solutions that empower</h2>
+<p>Development Gateway is a non-profit organization that delivers information solutions to the people on the front lines of international development work. Whether they are government policy makers deciding how to invest scarce resources, aid workers building schools and clinics, or citizens who want to have a voice in the development process, Development Gateway offers tools and advisory services that empower them to be more effective. We work behind the scenes to enable others to make a difference.
+</p>
 
 
-<h3>Our mission</h3>
+<h2>Our mission</h2>
 <p>Development Gateway empowers practitioners, governments, and citizens with the knowledge they need to improve lives. We co-create information solutions and cultivate skills to turn information into lasting results.</p>
 
 
-<h3>What we do</h3>
+<h2>What we do</h2>
 <p>Our world is changing faster than ever. Tackling the world’s toughest development challenges, today, requires innovation, collaboration, and iteration.</p>
 
 <p>Development Gateway builds on nearly two decades of technical expertise to develop tools, processes, and custom analyses to help  partners better target their development interventions, achieve results, and give voice to citizens.</p>
@@ -26,7 +27,7 @@ nav_data: about
 {% for section in sections %}
 {% assign section_name = section | slugify %}
 <section id="team" class="page-section team-section team-{{ section_name }} clearfix">
-  <h3 class="highlighted-title">{{ section }}</h3>
+  <h2>{{ section }}</h2>
   {% assign offset = 0 %}
   {% for team_member in site.data.team[section_name] %}
     {% if team_member.position == 'Chief Executive Officer' %}
@@ -49,7 +50,7 @@ nav_data: about
 
 
 <section id="consultants" class="page-section">
-  <h3>Consultants</h3>
+  <h2>Consultants</h2>
   <ul class="consultants clearfix">
     {% for consultant in site.data.team.consultants %}
     <li>

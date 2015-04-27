@@ -5,7 +5,11 @@ body,
 }
 
 .page-section {
-  margin-bottom: $gen_gutter_width;
+  padding-bottom: $gen_gutter_width*4;
+  @include media-query-max($bp_small)
+  {
+    padding-bottom: $gen_gutter_width;
+  }
 }
 
 .header-logo-section {
