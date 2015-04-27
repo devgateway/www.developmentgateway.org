@@ -22,12 +22,17 @@
   .search-query {
     @include box-sizing();
 
-    border: 1px solid $black;
-    border-left: none;
-    border-right: none;
+    border: 1px solid $grey_light;
     background-color: transparent;
-    padding: 1em 2em;
-    width: 100%;
+    padding: 1em 1.4em;
+    width: 96%;
+    font-size:1.5em;
+    @include transition(background, 400ms);
+    outline:none;
+    margin:0.3em auto 0.2em 0.4em;
+    &:focus,&:hover{
+      background:$grey_lightest;
+    }
   }
 
   .search-info {
