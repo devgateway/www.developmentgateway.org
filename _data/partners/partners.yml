@@ -79,7 +79,7 @@
   id:
   category:
 
-- name: Nicaagua
+- name: Nicaragua
   flag:
   id:
   category:
@@ -104,6 +104,11 @@
   id:
   category:
 
+- name: The Gambia
+  flag:
+  id:
+  category:
+  
 - name: Timor-Leste
   flag:
   id:
@@ -115,6 +120,51 @@
   category:
 
 - name: Uganda
+  flag:
+  id:
+  category:
+
+- name: African Development Bank
+  flag:
+  id:
+  category:
+  
+- name: Asian Development Bank
+  flag:
+  id:
+  category:
+  
+- name: The Bill and Melinda Gates Foundation
+  flag:
+  id:
+  category:
+
+- name: Department for International Development
+  flag:
+  id:
+  category:
+
+- name: ESRI
+  flag:
+  id:
+  category:
+  
+- name: Japan International Cooperation Agency
+  flag:
+  id:
+  category:
+
+- name: United Nations Development Programme
+  flag:
+  id:
+  category:
+  
+- name: United States Agency for International Development
+  flag:
+  id:
+  category:
+  
+- name: The World Bank Group
   flag:
   id:
   category:
