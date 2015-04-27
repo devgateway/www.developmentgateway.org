@@ -8,35 +8,34 @@ exclude_from_nav: true
 
 <section class="page-section">
   <h2>Careers</h2>
+
   <p>Development Gateway provides an exciting and fast-paced work environment – with an important mission to serve. We seek highly motivated people who are committed to our core values:</p>
-
-<ul>
-<li>Teamwork and collaboration</li>
-<li>A focus on clients and users, with a premium on listening</li>
-<li>Creativity and innovation</li>
-<li>Excellence and professionalism</li>
-<li>Respect</li>
-</ul>
+  <ul>
+    <li>Teamwork and collaboration</li>
+    <li>A focus on clients and users, with a premium on listening</li>
+    <li>Creativity and innovation</li>
+    <li>Excellence and professionalism</li>
+    <li>Respect</li>
+  </ul>
 </section>
 
 <section class="page-section">
-<h2>Small, Yet International</h2>
-<p>There are approximately 25 employees based in Washington, D.C. and Brussels, plus technical and program consultants in a number of countries. Staff and consultants have backgrounds in technology, economics, international development, project management, business, and more. They are a very international group, speaking over 20 languages.
-</p>
-<p>Development Gateway also employs qualified interns on a regular basis. Some are sponsored by donors, academic institutions, or partner organizations.
-<p>
-<p>All positions are posted on this website. You can also visit the <a href="http://jobs.zunia.org" target="_blank">Jobs page on Zunia</a> to find opportunities with other international development organizations.
-</p>
+  <h2>Small, Yet International</h2>
+
+  <p>There are approximately 25 employees based in Washington, D.C. and Brussels, plus technical and program consultants in a number of countries. Staff and consultants have backgrounds in technology, economics, international development, project management, business, and more. They are a very international group, speaking over 20 languages.</p>
+  <p>Development Gateway also employs qualified interns on a regular basis. Some are sponsored by donors, academic institutions, or partner organizations.</p>
+  <p>All positions are posted on this website. You can also visit the <a href="http://jobs.zunia.org" target="_blank">Jobs page on Zunia</a> to find opportunities with other international development organizations.</p>
 </section>
 
 
 <section class="page-section">
-<h2>We Are Hiring</h2>
-<ul class="half-col-list">
-  {% for career in site.data.careers %}
-  <li>
-    <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
+  <h2>We Are Hiring</h2>
+
+  <ul class="columns-list--half">
+    {% for career in site.data.careers %}
+    <li class="entry">
+      <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
+    </li>
+    {% endfor %}
+  </ul>
 </section>

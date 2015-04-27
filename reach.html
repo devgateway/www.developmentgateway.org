@@ -2,9 +2,13 @@
 layout: page
 title: Our Reach
 title_summary: because everyone should have access
+page_navigation:
+  - { id: africa, title: Africa }
+  - { id: asia, title: Asia }
+  - { id: europe, title: Europe }
+  - { id: americas, title: The Americas }
 permalink: /reach/
 weight: 3
-nav_data: reach
 include_map: True
 ---
 
@@ -12,7 +16,7 @@ include_map: True
 
 {% for region in regions %}
 {% assign region_name = region | slugify %}
-<div id="region-{{ region_name }}" class="region-wrapper clearfix">
+<section id="{{ region_name }}" class="page-section">
   {% forcereducewhitespace %}
   <h2 class="title">
     {% if region_name == 'americas' %}The{% endif %}
@@ -63,5 +67,5 @@ include_map: True
   {% endfor %}
 
   {% endmulticols %}
-</div>
+</section>
 {% endfor %}

@@ -2,13 +2,16 @@
 layout: page
 title: Connect
 title_summary: because you can contribute to a better tomorrow
+page_navigation:
+  - { id: connect, title: Connect }
+  - { id: join, title: Join }
+  - { id: contact, title: Contact }
 permalink: /connect/
 weight: 10
-nav_data: connect
 ---
 
-<section class="page-section">
-  <h2 id="connect">Connect</h2>
+<section id="connect" class="page-section">
+  <h2>Connect</h2>
 
   {% multicols half clearfix | render-as-html %}
 
@@ -25,8 +28,8 @@ nav_data: connect
   {% endmulticols %}
 </section>
 
-<section class="page-section">
-  <h2 id="join">Join</h2>
+<section id="join" class="page-section">
+  <h2>Join</h2>
   <h3 class="highlighted-title">Current Job Openings</h3>
   <p>Become a member of a creative, dynamic, and international team that values hard work, innovative thinking, and a great sense of humor. We seek highly motivated people who are committed to our core values.</p>
   {% for career in site.data.careers %}
@@ -38,8 +41,8 @@ nav_data: connect
   {% endfor %}
 </section>
 
-<section class="page-section">
-  <h2 id="contact">Contact</h2>
+<section id="contact" class="page-section">
+  <h2>Contact</h2>
 
   {% include main/contact-info.html %}
 
