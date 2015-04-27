@@ -85,23 +85,23 @@
 @mixin link-color($normal_color, $hover_color: '', $active_color: '', $visited_color: '') {
   @if (type_of($hover_color) != color) {
     @if (lightness($normal_color) > 50) {
-      $active_color: darken($normal_color, 15);
-    } @else {
-      $active_color: lighten($normal_color, 15);
-    }
-  }
-  @if (type_of($active_color) != color) {
-    @if (lightness($normal_color) > 50) {
       $active_color: darken($normal_color, 10);
     } @else {
       $active_color: lighten($normal_color, 10);
     }
   }
+  @if (type_of($active_color) != color) {
+    @if (lightness($normal_color) > 50) {
+      $active_color: darken($normal_color, 12);
+    } @else {
+      $active_color: lighten($normal_color, 12);
+    }
+  }
   @if (type_of($visited_color) != color) {
     @if (lightness($active_color) > 50) {
-      $visited_color: darken($normal_color, 10);
+      $visited_color: darken($normal_color, 6);
     } @else {
-      $visited_color: lighten($normal_color, 10);
+      $visited_color: lighten($normal_color, 6);
     }
   }
 
