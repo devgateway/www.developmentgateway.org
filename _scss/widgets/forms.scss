@@ -1,6 +1,6 @@
 
 .form-item {
-  margin: 0.3em 0;
+  margin: 1em 0;
 }
 
 .form-text {
@@ -38,13 +38,20 @@
 }
 
 .form--inline {
-  .form-item {
-    display: inline-block;
-    margin: 0 1em 0 0;
+  @include media-query-min($bp_medium) {
+    .form-item {
+      display: inline-block;
+      margin: 0 1em 0 0;
+    }
   }
 }
 
 .form--compact {
+  // Reduce the spacing between form items.
+  .form-item {
+    margin: 0.3em 0;
+  }
+
   // Reduce the size of the form items.
   .form-text,
   .form-submit {
