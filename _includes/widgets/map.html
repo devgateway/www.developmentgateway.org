@@ -15,7 +15,7 @@
   {% forcereducewhitespace %}
   <ul class="reach-data">
     {% assign regions = 'africa,asia,europe,americas' | split: ',' %}
-    {% for region in regions %}{% for project in site.data.projects[region] %}
+    {% for region in regions %}{% for project in site.data.poi_reach[region] %}
       {% if project.lat and project.lon %}
         <!-- maybe create a liquid template filter to generate data- props -->
         <li
