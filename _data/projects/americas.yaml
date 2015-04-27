@@ -40,11 +40,11 @@
   lat: 14.7503821
   lon: -86.2420082
 
-- name: United Nations - Worldwide
+- name: Worldwide
   id: un
   year: 2014
   category: Information Management System
-  description: A tool that will help UNDG staff worldwide to report progress on progress and share good practices.
+  description: A tool that will help United Nations Development Group staff around the globe to report progress on progress and share good practices.
   features:
     - Streamlined reporting
   quote:
