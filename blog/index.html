@@ -9,7 +9,7 @@ include_share_widgets: True
 <div class="blog-page-wrapper page-layout-element clearfix">
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
-    <div class="blog-listing">
+    <section class="page-section">
       {% for blog_post in paginator.posts %}
         {% include widgets/blog-teaser.html post=blog_post %}
       {% endfor %}
@@ -25,7 +25,7 @@ include_share_widgets: True
           <a href="{{ paginator.next_page_path }}" class="next">Next</a>
         {% endif %}
       </div>
-    </div>
+    </section>
   </div>
 
   <section class="blog-sidebar-wrapper">

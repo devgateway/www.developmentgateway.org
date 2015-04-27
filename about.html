@@ -51,11 +51,12 @@ weight: 0
 
 <section id="consultants" class="page-section">
   <h2>Consultants</h2>
-  <ul class="consultants clearfix">
+
+  <ul class="columns-list columns-list--third">
     {% for consultant in site.data.team.consultants %}
-    <li>
-      <span class="name">{{ consultant.name }}</span>
-      <span>{{ consultant.country }}</span>
+    <li class="entry">
+      <div class="name">{{ consultant.name }}</div>
+      <div>{{ consultant.country }}</div>
     </li>
     {% endfor %}
   </ul>

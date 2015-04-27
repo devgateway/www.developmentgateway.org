@@ -1,9 +1,7 @@
 
-.blog-listing {
-  .blog-entry {
-    border-bottom: 1px solid $grey_lightest;
-    padding: 1em 1em 2em;
-  }
+.blog-entry--teaser {
+  border-bottom: 1px solid $grey_lightest;
+  padding: 1em 1em 2em;
 
   .title {
     @include clearfix-mixin;

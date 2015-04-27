@@ -13,16 +13,16 @@ weight: 7
 <section id="partners" class="page-section">
   <h2>Partners</h2>
 
-  <ul class="partner-countries clearfix">
+  <ul class="columns-list columns-list--third">
     {% for partner in site.data.partners.partners %}
-    <li class="partner">{{ partner.name }}</li>
+    <li class="entry">{{ partner.name }}</li>
     {% endfor %}
   </ul>
 </section>
 
 <section id="coalitions" class="page-section">
   <h2>Coalitions</h2>
-  {% multicols clearfix | render-as-html %}
+  {% multicols coalitions | render-as-html %}
     {% assign partner=site.data.partners.coalitions.wm %}
     <a href="{{ partner.url }}" target="_blank">
       {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
@@ -46,7 +46,7 @@ weight: 7
 <section id="consortia" class="page-section">
   <h2>Consortia</h2>
 
-  {% multicols clearfix | render-as-html %}
+  {% multicols consortia | render-as-html %}
     {% assign partner=site.data.partners.consortia.iati %}
     <a href="{{ partner.url }}" target="_blank">
       {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}

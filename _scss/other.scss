@@ -60,24 +60,8 @@ cite {
     }
   }
 }
-.partner-countries {
-  padding: 0;
-}
 .leaflet-top,
 .leaflet-bottom {
   // Fix Leaflet controls stacking order (we don't need z-index: 1000).
   z-index: 9 !important;
-}
-// careers list
-.half-col-list {
-  li {
-    width: 45%;
-    float: left;
-    @include media-query-max($bp_small) {
-      width: 100%;
-    }
-    @include media-query-max($bp_medium) {
-      width: 100%;
-    }
-  }
 }

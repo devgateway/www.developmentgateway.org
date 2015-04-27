@@ -13,6 +13,20 @@ html {
 .main-content {
   background-color: $white;
 }
+
+// Vertical space between the content and the footer.
+.page-wrapper {
+  padding-bottom: 3em;
+}
+
+.page-section {
+  padding-bottom: 2em;
+
+  @include media-query-max($bp_small) {
+    padding-bottom: 1em;
+  }
+}
+
 /**
  * Fixes the issue with contained floating elements that do not force the container's height.
  */

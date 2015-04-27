@@ -13,7 +13,7 @@ weight: 10
 <section id="connect" class="page-section">
   <h2>Connect</h2>
 
-  {% multicols half clearfix | render-as-html %}
+  {% multicols half | render-as-html %}
 
     <h3 class="highlighted-title">Learn The Latest</h3>
     <p>Subscribe to new updates</p>
@@ -32,13 +32,14 @@ weight: 10
   <h2>Join</h2>
   <h3 class="highlighted-title">Current Job Openings</h3>
   <p>Become a member of a creative, dynamic, and international team that values hard work, innovative thinking, and a great sense of humor. We seek highly motivated people who are committed to our core values.</p>
-  {% for career in site.data.careers %}
-  <ul class="half-col-list">
-  <li>
-    <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
-  </li>
+
+  <ul class="columns-list columns-list--half">
+    {% for career in site.data.careers %}
+    <li class="entry">
+      <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
+    </li>
+    {% endfor %}
   </ul>
-  {% endfor %}
 </section>
 
 <section id="contact" class="page-section">

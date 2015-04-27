@@ -23,7 +23,8 @@ module Jekyll
       wrapper_classes = [
         'columns',
         "columns-" + columns.length.to_s,
-        @extra_classes
+        @extra_classes,
+        'clearfix'
       ].join(" ")
 
       markup = "<div class=\"#{wrapper_classes}\">"
