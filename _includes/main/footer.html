@@ -5,10 +5,11 @@
       {% stripwhitespace %}
       <nav role="navigation" class="footer-navigation">
         <ul class="links clearfix">
-          <li class="item"><a class="link" href="#">About</a></li>
-          <li class="item"><a class="link" href="#">Careers</a></li>
-          <li class="item"><a class="link" href="#">Contact Us</a></li>
-          <li class="item"><a class="link" href="#">Privacy &amp; Terms</a></li>
+          {% for entry in site.data.footer-menu %}
+          <li class="item">
+            <a href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
+          </li>
+          {% endfor %}
         </ul>
       </nav>
       {% endstripwhitespace %}
