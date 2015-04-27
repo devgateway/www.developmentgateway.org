@@ -82,7 +82,29 @@
 /*
  * Apply single color to anchor tags.
  */
-@mixin link-color($normal_color, $active_color: darken($normal_color, 10), $visited_color: lighten($normal_color, 10), $hover_color: darken($normal_color, 15)) {
+@mixin link-color($normal_color, $hover_color: '', $active_color: '', $visited_color: '') {
+  @if (type_of($hover_color) != color) {
+    @if (lightness($normal_color) > 50) {
+      $active_color: darken($normal_color, 15);
+    } @else {
+      $active_color: lighten($normal_color, 15);
+    }
+  }
+  @if (type_of($active_color) != color) {
+    @if (lightness($normal_color) > 50) {
+      $active_color: darken($normal_color, 10);
+    } @else {
+      $active_color: lighten($normal_color, 10);
+    }
+  }
+  @if (type_of($visited_color) != color) {
+    @if (lightness($active_color) > 50) {
+      $visited_color: darken($normal_color, 10);
+    } @else {
+      $visited_color: lighten($normal_color, 10);
+    }
+  }
+
   // Style links that have not been visited.
   color: $normal_color;
   &:link {
