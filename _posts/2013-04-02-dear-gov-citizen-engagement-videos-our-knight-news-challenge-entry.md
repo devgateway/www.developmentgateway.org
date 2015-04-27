@@ -29,7 +29,7 @@ However, even though researchers, governments, and donors have increasingly gain
 
 **1. Geocode Development Projects**
 
-<div style="float:right;margin-left:10px;margin-bottom:20px;">![example-of-geocoded-projects-in-nepal.pn](/old-files/inline-images/example-of-geocoded-projects-in-nepal.png)</div>
+<div style="float:right;margin-left:10px;margin-bottom:20px;">![example-of-geocoded-projects-in-nepal.pn](/assets/inline-images/example-of-geocoded-projects-in-nepal.png)</div>
 
 Currently, Development Gateway is working with the Government of Nepal to [geocode all the development projects](/Services/Geocoding-and-Data-Visualization) in their aid management system, including projects on government budget. The output of this will be an interactive map of development projects, including projects on the government budget.
 

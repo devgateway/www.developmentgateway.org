@@ -9,7 +9,7 @@ lede: Mindset Network's satellite-based technology delivers multimedia education
   content straight to students.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/mindset_story.jpg)</td></tr><tr><td align="center" valign="bottom">*Mindset Network's satellite-based technology delivers multimedia educational content straight to students.*</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/mindset_story.jpg)</td></tr><tr><td align="center" valign="bottom">*Mindset Network's satellite-based technology delivers multimedia educational content straight to students.*</td></tr></tbody></table>
 
 **South Africa**
 

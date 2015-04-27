@@ -10,7 +10,7 @@ lede: Cremilide Mambo, director of land management of Gaza Province, center, wit
   a technician
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/mozabique2.jpg)</td></tr><tr><td align="center" valign="bottom">Cremilide Mambo, director of land management of Gaza Province, center, with Elias Dique, right, project manager of the land management information system, and a technician, left, review information from the new digital application.</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/mozabique2.jpg)</td></tr><tr><td align="center" valign="bottom">Cremilide Mambo, director of land management of Gaza Province, center, with Elias Dique, right, project manager of the land management information system, and a technician, left, review information from the new digital application.</td></tr></tbody></table>
 
 **Mozambique**
 

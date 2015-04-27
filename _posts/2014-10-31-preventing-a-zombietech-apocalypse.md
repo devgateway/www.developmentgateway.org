@@ -20,11 +20,11 @@ As we celebrate today the spookiest holiday of the year – complete with zombie
 
 Digital strategist [Jed Miller](https://twitter.com/jedmiller) provided a 3 step approach to successfully ward off zombie infestation:
 
- ![](/old-files/inline-images/one.jpg)
+ ![](/assets/inline-images/one.jpg)
 
-![](/old-files/inline-images/two.png)
+![](/assets/inline-images/two.png)
 
-![](/old-files/inline-images/three.png)
+![](/assets/inline-images/three.png)
 
 All jokes aside, his point of “hide” reverberated strongly with everyone. His recommendation of hiding wasn’t in the literal sense but rather, that we need actively to support innovative development, that usually goes on the side rather than incorporated into the actual design and development of tech projects. [Sam Harper](https://taoti.com/content/sam-harper) from Taoti Creative further emphasized that point that design of tech projects shouldn’t be created in a vacuum nor should be rigid: rather agile and iterative design should be promoted and used as much as possible. At Development Gateway, we’re trying to actively address these challenges in our day to day work. From incorporating design thinking into our qualitative research as well as developing our tools agilely, we’re taking the first step to trying to survive the tech World War Z. But we can’t do this alone: this is a call to action for all tech-oriented organizations around the world, let’s work to ensure that we stop zombie projects before they even have the opportunity to become so – at the project design phase – because if not, it’s so much harder to kill off something that’s already dead.
 

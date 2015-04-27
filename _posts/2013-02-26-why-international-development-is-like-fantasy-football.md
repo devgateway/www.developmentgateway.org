@@ -29,7 +29,7 @@ I am a big fan of team building, that everyone has a role to play, and the human
 - **Trades:** You can make deals with other teams for players. You make those transparent but people have to know where to look. (e.g. Open Data and accessibility)
 - **Make your own trophies:** You define results and outcomes yourself with or without consultation. (e.g. Everybody…since no one can define what winning looks like)
 
-<div style="float:right;margin-left:10px;margin-bottom:5px;">![](/old-files/inline-images/football.jpg)</div>
+<div style="float:right;margin-left:10px;margin-bottom:5px;">![](/assets/inline-images/football.jpg)</div>
 
 **What works**
 

@@ -24,7 +24,7 @@ In 1974, the United Nations General established a [Special Unit for SSC](http://
 
 With our counterparts in the Chancellery of Foreign Affairs of Honduras, we have identified three major types of SSC: Bilateral, Triangular, and Regional SSC. Bilateral SSC is when a “south” country aids another “south” country, for example Costa Rica providing technical assistance to Honduras. Triangular and Regional SSC are very similar. Triangular SSC is when there are, as you might guess, three countries involved: a country that funds the activity (Donor 1), an implementation country (Donor 2) to do the work, and finally, and a country where the work is done (Beneficiary). Donor 1 can be a traditional donor or another south country. The only difference between Triangular SSC and Regional SSC is that in the latter, the final beneficiary is a region.
 
-![](/old-files/inline-images/ssc.png)
+![](/assets/inline-images/ssc.png)
 
 *Okay, but what does this look like in practice?*
 

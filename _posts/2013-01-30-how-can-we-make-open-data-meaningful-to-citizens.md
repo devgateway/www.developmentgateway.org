@@ -36,7 +36,7 @@ A major takeaway from the discussion, though in retrospect it should perhaps be 
 
 Again and again during the discussion, the participants from African governments stressed the importance of finding relatively low tech solutions for communicating open information to citizens, with radio being a clear technology of choice.
 
-<div style="float:right;margin-left:10px;margin-bottom:10px;">![](/old-files/inline-images/malawi_house.jpg)</div>
+<div style="float:right;margin-left:10px;margin-bottom:10px;">![](/assets/inline-images/malawi_house.jpg)</div>
 
 This perspective resonates very closely with my own experience in Southern Africa, which included several extended stretches spent living in rural communities. Something like the [Kenya Open Data Portal](https://opendata.go.ke/), impressive and useful though it is, is unlikely to be immediately relevant for citizens in a rural village in Malawi, even if they could access it easily.
 

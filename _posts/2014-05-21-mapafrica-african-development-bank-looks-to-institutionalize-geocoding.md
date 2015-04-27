@@ -17,7 +17,7 @@ Today, the [African Development Bank](http://www.afdb.org/en/) (AfDB) released [
 
 Users of the MapAfrica platform will be able to filter projects by country, sector and year. For different perspectives on AfDB’s project portfolio, users can select individual country maps to view all projects within a country, or they can choose one project point on a map in order to see all other related locations for the project throughout the country. With these filtering options, policymakers and citizens can gain a better understanding of the scope of a project’s implementation and the distribution of resources for development by location. The platform design also includes various data layers to enable users to look at socio-economic and country specific indicators alongside activity implementation locations on the maps.
 
-![](/old-files/inline-images/afdb_dashboard_0.png)
+![](/assets/inline-images/afdb_dashboard_0.png)
 
 Realizing the full benefits of geocoding development finance data requires moving beyond a mapping exercise to thinking about the sustainability of these efforts over time. AfDB is working towards this as it partners with AidData to identify the best approaches in order to systematically integrate geocoding into AfDB’s internal processes. For example, AfDB will be incorporating geospatial fields – in line with updated International Aid Transparency Initiative standards – into its internal data-entry reporting processes. A geospatial widget to be developed with AidData will lower the burden of reporting on geospatial information alongside other project data.
 

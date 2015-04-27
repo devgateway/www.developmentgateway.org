@@ -35,4 +35,4 @@ Apart from data infrastructure improvements (e.g. procuring more server space), 
 
 Governments should use data to make resource allocation more effective. But governments also have a responsibility to make data available to the academics, companies, CSOs and donors that also need data to improve development decision-making. Direct support to help government make data more clear, open and accessible is an important step for enhancing the development data environment in Nepal. 
 
-[**Download the full study.**](/old-files/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf)
+[**Download the full study.**](/assets/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf)

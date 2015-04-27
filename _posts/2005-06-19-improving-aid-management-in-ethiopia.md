@@ -8,7 +8,7 @@ title: Improving Aid Management in Ethiopia
 lede: Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 ---
 
-<table align="right" border="0" style="width:269px;height:213px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/ethiopianlady_03.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>
+<table align="right" border="0" style="width:269px;height:213px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/ethiopianlady_03.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>
 
 > Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 >

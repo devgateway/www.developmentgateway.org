@@ -21,7 +21,7 @@ The mapping tool, which uses [Esri](http://www.esri.com/) technology, allows use
 
 **How do conflict trends and chronic climate insecurity intersect in Central Africa?**
 
-![](/old-files/inline-images/first_0.jpg)
+![](/assets/inline-images/first_0.jpg)
 
 “Climate change poses an enormous threat to the livelihoods and safety nets of millions of Africans. However the level of risk is not evenly spread and certainly doesn’t respect national boundaries,” said Jean-Louis Sarbib, CEO of Development Gateway. “To ask critical questions about how development assistance can reduce vulnerability, you need local data on climate, and also on aid-funded interventions. This is what the new CCAPS mapping tool shows in a digestible, interactive way. It will no doubt be a valuable new tool not only for researchers, but also policymakers, journalists, and citizens.”
 
@@ -29,7 +29,7 @@ To assess the interaction of climate vulnerability and international aid, users 
 
 **Where is development aid targeting areas with climate security risks?**
 
-![](/old-files/inline-images/2.jpg)
+![](/assets/inline-images/2.jpg)
 
 “Being able to see in a map all the donor-funded activities in Malawi has transformed the way we think about development and positively helped our own planning effort,” said Hon. Ken Lipenga, Minister of Finance and Development Planning in Malawi.
 

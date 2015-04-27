@@ -22,7 +22,7 @@ To begin, we worked to identify data fields that are both commonly used (in repo
 
 To ensure that data imported from IATI is usable and provides a value-add to the country system dataset, this set of “core” fields became our focus of analysis for data completeness and quality.
 
-![](/old-files/inline-images/screen_shot_2015-03-12_at_10.17.12_am_0.png)
+![](/assets/inline-images/screen_shot_2015-03-12_at_10.17.12_am_0.png)
 
 **Step 2: Determining Data Desirability**
 
@@ -46,7 +46,7 @@ This step aimed to ensure that IATI data can be imported into AMP with a similar
 
 Based upon the above criteria, we selected a subset of 5 IATI reporters per country to further investigate for import into AMP.
 
-![](/old-files/inline-images/screen_shot_2015-03-13_at_1.14.44_pm_0.png)
+![](/assets/inline-images/screen_shot_2015-03-13_at_1.14.44_pm_0.png)
 
 As noted above, the identified reporters tended to be DPs that were entirely absent from AMP, although some exceptions (based on extremely high funding or data quality discrepancies) exist. Timeliness of reporting was also a factor, with DPs who report quarterly (e.g. AfDB) given preference over those reporting annually. For the results of this data analysis, [visit last week’s post](/news/iati-and-country-systems-data-evaluation-results).
 

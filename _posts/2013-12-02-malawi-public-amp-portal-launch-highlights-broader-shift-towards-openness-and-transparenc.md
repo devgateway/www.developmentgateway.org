@@ -23,7 +23,7 @@ With the launch of the public portal, Malawi joins 6 of Development Gateway's pa
 
 The Government of Malawi, in collaboration with the [Open Aid Partnership](http://www.openaidmap.org/), took this transparency a step further by timing the AMP launch to take advantage of an important opportunity for promoting the use of the Open Data - an exciting full-day workshop on data literacy and use, supported by the Open Aid Partnership and attended by government officials, development partners, and members of civil society. The event showcased Malawi's world-leading efforts in aid-project geocoding, through which the Government, in partnership with the University of Texas’s [Strauss Center’s program on Climate Change and African Political Stability](https://strausscenter.org/ccaps/) (CCAPS), [AidData Center for Development Policy](http://aiddata.org), and Development Gateway, geocoded thousands of locations associated with development projects in the country.
 
-![malawi aid map](/old-files/inline-images/malawi-aid-map.jpg "malawi aid map")
+![malawi aid map](/assets/inline-images/malawi-aid-map.jpg "malawi aid map")
 
 The geocoding work not only added value to the Government's aid management system, but also was foundational to the country-wide geocoding methodologies promoted by the AidData Center for Development Policy and the Open Aid Partnership. This workshop and launch brought some of that work back home; [to quote](http://malawiaid.finance.gov.mw/news/hon-maxwell-m-mkwezalamba-gives-keynote-address-amp-launch) Malawi's Minister of Finance, Maxwell Mkwezalamba:
 

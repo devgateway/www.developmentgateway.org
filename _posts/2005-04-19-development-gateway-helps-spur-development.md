@@ -8,7 +8,7 @@ title: Development Gateway Helps Spur Development
 lede: Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/old-files/inline-images/jeanphilbert.jpg)</td></tr><tr><td align="center" valign="bottom">*Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.*</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/jeanphilbert.jpg)</td></tr><tr><td align="center" valign="bottom">*Jean Philbert Nsengimana is the manager of the Rwanda Country Gateway. He spoke with staff at Development Gateway in Washington to give them insights on the rapid progress of his organization. Through its strategic partnerships and sound business planning, the Gateway has obtained financial independence, providing a valued service geared to local needs.*</td></tr></tbody></table>
 
 **Rwanda**
 

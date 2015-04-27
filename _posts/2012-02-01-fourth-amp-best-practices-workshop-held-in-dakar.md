@@ -17,15 +17,15 @@ The 4th [Aid Management Platform](http://amp.developmentgateway.org/) (AMP) Best
 
 **Download the workshop report here**:
 
-[AMP Best Practices Workshop 2011 Report](/old-files/webfm/pdfs/amp_best_practices_workshop_2012_eng.pdf)
+[AMP Best Practices Workshop 2011 Report](/assets/webfm/pdfs/amp_best_practices_workshop_2012_eng.pdf)
 
-[PGA Rapport de l'Atelier des Meilleures Pratiques 2011](/old-files/webfm/pdfs/amp_best_practices_workshop_2012_fr.pdf)
+[PGA Rapport de l'Atelier des Meilleures Pratiques 2011](/assets/webfm/pdfs/amp_best_practices_workshop_2012_fr.pdf)
 
 In the past year, several major developments have transformed aid management and many of these changes were at the heart of workshop discussions. [As the International Aid Transparency Initiative](http://www.aidtransparency.net/) (IATI) has grown, countries have been eager to learn how the new data can be integrated into the Aid Management Platform. Other advances in integrating monitoring and evaluation features into the system and technologies to geocode aid activities were featured at the workshop. Halima Wagao, an Aid Coordination Officer from Tanzania, said
 
 > The workshop was very informative and motivated us to be not only technicians, but also to play a vital role in policy making.
 
-![](/old-files/inline-images/dakar-workshop-group.jpg)
+![](/assets/inline-images/dakar-workshop-group.jpg)
 
 Looking ahead, the work on integrating IATI feeds into the AMP system will soon move forward in the Democratic Republic of Congo (DRC).  An upcoming IATI mission will begin to test automatic feeds to the Plateforme pour la Gestion de l’Aide et des Investissements (PGAI), as AMP is known locally.
 
@@ -33,9 +33,9 @@ Currently 50% of the national budget in the DRC comes from aid flows which are m
 
 At the workshop, participants had a chance to learn more about the new features in AMP 2.0, the latest release of the system, which is now operational in the DRC, Honduras, Madagascar, Nepal, and Togo.
 
-![](/old-files/inline-images/graph.jpg)
+![](/assets/inline-images/graph.jpg)
 
-![](/old-files/inline-images/amplify.jpg)
+![](/assets/inline-images/amplify.jpg)
 
 In addition to a sleeker, more intuitive interface, AMP 2.0 has a sophisticated mapping module built in partnership with Esri, which allows users to geocode projects, add physical structures such as dams or bridges, and view clusters of donors/projects.
 
@@ -43,4 +43,4 @@ The ability to automatically import data in IATI format is also new, along with 
 
 A new mobile app, AMPlify, allows remote data entry and access, so that AMP users can keep track of projects and add updates from any location.
 
-To download a factsheet on what’s new in AMP 2.0, [click here](/old-files/webfm/pdfs/what_new_amp_2.0.pdf).
+To download a factsheet on what’s new in AMP 2.0, [click here](/assets/webfm/pdfs/what_new_amp_2.0.pdf).

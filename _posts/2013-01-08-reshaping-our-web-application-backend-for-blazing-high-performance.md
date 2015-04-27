@@ -28,7 +28,7 @@ I am [Cristi Barca](http://www.linkedin.com/in/cbarca), Consultant Software Engi
 
 It is hard to reach performances on top of BigData without splitting the concerns between multiple third party products (tools or components) inside our backend.
 
-<div style="float:right;margin-left:10px;margin-bottom:10px;">![newbackend2.png](/old-files/inline-images/newbackend2.png)</div>
+<div style="float:right;margin-left:10px;margin-bottom:10px;">![newbackend2.png](/assets/inline-images/newbackend2.png)</div>
 
 **Future backend architecture**
 

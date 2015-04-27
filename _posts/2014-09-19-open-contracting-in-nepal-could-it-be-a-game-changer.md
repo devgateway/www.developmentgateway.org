@@ -22,17 +22,17 @@ Most public agencies in Nepal have their own e-procurement portals, designed to
 
 The open contracting portal for Nepal has yet to be released. However, below are a series of screenshots to give you a feel of the system. We can see the number of contracts in different districts, along with various indicators like the Poverty Index, which gives insight on how contractual activities are being carried out.
 
-![](/old-files/inline-images/nepal2.png)
+![](/assets/inline-images/nepal2.png)
 
 We can also see which categories have the highest contract value, and their distribution year-over-year.
 
-![](/old-files/inline-images/nepal3.png)
+![](/assets/inline-images/nepal3.png)
 
 For any given category, we can view how the contracts are disbursed in various districts.
 
 The portal is just a start, and doesn’t provide all of the possible analyses of these contracts. However, the data will be available in open format for those who want to delve into more detail to derive deeper insights.
 
-![](/old-files/inline-images/nepal4.png)
+![](/assets/inline-images/nepal4.png)
 
 So far, the portal doesn't include all contracts executed in Nepal. Only three public agency portals — [Department of Roads](http://eproc.dor.gov.np/), [Nepal Electricity Authority](http://e-nea.org.np/), and [Department of Local Infrastructure Development and Agricultural Roads](http://www.dolidar.gov.np/) — are included. It will take time to integrate all tenders from these portals as well. But even with such a limited number of agencies and contracts, we can already derive interesting insights. Imagine when we will be able to see the entire picture of active and historical contracts in Nepal? Do you think it could be a game changer? Only time will tell.
 

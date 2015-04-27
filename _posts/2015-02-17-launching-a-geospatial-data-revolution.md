@@ -26,7 +26,7 @@ Enabling country governments to perform their own analyses on datasets – indep
 
 *3) Shifting the culture of data reporting to a culture of data use*
 
-This is perhaps the most difficult challenge to tackle, as it often requires an internal shift in process and mindset. As demonstrated by a[ 2014 study of the Government of Nepal](/old-files/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf), major blockers of data use within country governments include heavy reporting responsibilities, low incentives, technological and skill gaps, and nonexistent processes.
+This is perhaps the most difficult challenge to tackle, as it often requires an internal shift in process and mindset. As demonstrated by a[ 2014 study of the Government of Nepal](/assets/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf), major blockers of data use within country governments include heavy reporting responsibilities, low incentives, technological and skill gaps, and nonexistent processes.
 
 Taking these challenges and lessons to heart, I’m calling on agencies, organizations, and individuals to:
 

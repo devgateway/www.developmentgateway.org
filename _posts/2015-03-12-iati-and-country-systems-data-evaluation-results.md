@@ -21,7 +21,7 @@ Over the past several weeks, the DG team has been working closely with governmen
 
 This process involved comparing the largest donor organizations’ IATI data with AMP information, based on the completeness and timeliness of these “core” fields:
 
-![](/old-files/inline-images/screen_shot_2015-03-12_at_10.17.12_am.png)
+![](/assets/inline-images/screen_shot_2015-03-12_at_10.17.12_am.png)
 
 The data comparison and mapping methodology will be covered in a follow-on post next week. Through this work, we have identified the following overarching IATI data challenges which could prevent country partners from easily importing and leveraging IATI information:
 
@@ -43,7 +43,7 @@ The data comparison and mapping methodology will be covered in a follow-on post 
 
 While the above challenges are real, and affect much of the data in AMP, it should be noted that we found real evidence of IATI data adding value to country systems by dramatically expanding coverage and overall financial amounts (sometimes by $100,000,000+). Based upon this initial assessment, our team selected a preliminary subset of 5 IATI reporters per country to try to import into AMP as an initial foray into helping country systems realize this value:
 
-![](/old-files/inline-images/screen_shot_2015-03-13_at_1.14.44_pm.png)
+![](/assets/inline-images/screen_shot_2015-03-13_at_1.14.44_pm.png)
 
 The next step in this process will be to perform the data mapping (e.g. mapping IATI sector classifications to country classifications) needed to match IATI and country data for import. Once the IATI import tool is developed (in late April/early May), we will begin to travel to work with our partners in these 5 Governments to perform the imports and collaboratively update their data management plans for sustainable use of IATI data.
 
