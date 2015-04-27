@@ -1,9 +1,12 @@
 
 # Ignore development specific files
-.sass-cache
-.vagrant
-_site
+.sass-cache/
+.vagrant/
+_site/
 Vagrant*
 
 # Ignore jekyll configuration file.
 _config.yml
+
+# For now ignore all blog post assets.
+assets/
