@@ -42,7 +42,7 @@
 
 
 - name: "Adrianus Melkert"
-  position: ~
+  position: "Board member"
   avatar: melkert.png
   bio: |
       Senior Fellow at the Results for Development Institute; independent senior adviser on CSR, international public affairs, and employment strategies.
@@ -55,18 +55,14 @@
       A Counselor for the Embassy of Australia; representing Australia on the DG board.
 
 
-- name: "Dennis Whittle"
-  position: "Co-founder of GlobalGiving"
-  avatar: dennis.png
-  bio: ~
-
-
 - name: "Jean-Louis Sarbib"
   position: "CEO of Development Gateway (ex officio, non-voting)"
   avatar: jl.png
   bio: ~
 
-- name: "Brendah Killen"
-  position: "coming soon"
+
+- name: "Brenda Killen"
+  position: "Board member"
   avatar: brendah.png
-  bio: ~
+  bio: 
+      Deputy Director of the OECD’s Development Co-operation Directorate.
