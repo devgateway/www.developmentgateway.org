@@ -5,7 +5,7 @@
       {% stripwhitespace %}
       <nav role="navigation" class="footer-navigation">
         <ul class="links clearfix">
-          {% for entry in site.data.footer-menu %}
+          {% for entry in site.data.navigation.footer %}
           <li class="item">
             <a href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
           </li>

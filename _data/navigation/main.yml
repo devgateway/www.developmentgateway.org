@@ -1,0 +1,22 @@
+# URLs should not include the domain nor the preciding `/`.
+
+- title: About
+  url: about
+
+- title: Expertise
+  url: expertise
+
+- title: Reach
+  url: reach
+
+- title: Innovation
+  url: innovation
+
+- title: Partnership
+  url: partnership
+
+- title: Blog
+  url: blog
+
+- title: Connect
+  url: connect

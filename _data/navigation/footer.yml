@@ -1,3 +1,4 @@
+# URLs should not include the domain nor the preciding `/`.
 
 - title: About
   url: about

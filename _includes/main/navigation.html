@@ -7,26 +7,9 @@
   <h2 class="element-invisible">Main Menu</h2>
 
   <ul class="links clearfix">
-    {% assign pages = site.pages | sort: 'weight' %}
-    {% for entry in pages %}
-      {% unless entry.title %}
-        {% continue %}
-      {% endunless %}
-
-      {% comment %}
-      <!-- Show only the main blog listing page link in the navigation. -->
-      <!-- @TODO: Find a better way get the navigation items. -->
-      {% endcomment %}
-      {% if entry.title == 'Blog' and entry.url != '/blog/index.html' %}
-        {% continue %}
-      {% endif %}
-
-      {% if page.url == entry.url %}
-        {% assign item_is_active = 'is-active' %}
-      {% endif %}
-
-      <li class="item {{ item_is_active }}">
-        <a class="link" href="{{ entry.url | replace: '/index.html', '/' }}">{{ entry.title }}</a>
+    {% for entry in site.data.navigation.main %}
+      <li class="item">
+        <a class="link" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
       </li>
     {% endfor %}
   </ul>
