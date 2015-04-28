@@ -262,10 +262,20 @@
   $gradient: linear-gradient(
       rgba(0, 0, 0, 1) 1%,
       rgba(0, 0, 0, 0.4) 2%,
-      rgba(0, 0, 0, 0.5) 98%,
+      rgba(0, 0, 0, 0.6) 98%,
       rgba(0, 0, 0, 1) 99%);
   .section-expertise {
     $background_image: $base_url + 'images/home/technology.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+  }
+
+  .section-partners {
+    $background_image: $base_url + 'images/home/lake-inle.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+  }
+
+  .section-latest-stories {
+    $background_image: $base_url + 'images/home/dc-map.jpg';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 }
