@@ -4,6 +4,7 @@
   top: 50%;
   margin-top: -2em;
   text-align: right;
+  z-index: 2; // We need this because of section l-background-image().
 
   @include  media-query-max($bp_small) {
     display: none;

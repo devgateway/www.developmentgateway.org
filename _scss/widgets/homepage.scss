@@ -4,7 +4,15 @@
   color: $white;
 
   .section-wrapper {
-    @include l-row-separator();
+    margin-bottom: 0;
+  }
+
+  // Background images for homepage sections on large devices.
+  @include media-query-max($bp_medium) {
+    .section-wrapper {
+      padding-bottom: 2em;
+    }
+
   }
 }
 
@@ -14,11 +22,13 @@
     .column {
       text-align: center;
     }
+
     .info {
       color: $highlight_text;
       font-size: 1.4em;
       font-weight: $font_weight_light;
     }
+
     /* .info > em */
     em {
       display: block;
@@ -28,7 +38,8 @@
   }
 
   .countries-subsection {
-    padding-top:12em;
+    padding-top: 6em;
+    padding-bottom: 6em;
 
     .countries-count {
       color: $blue_vibrant;
@@ -44,37 +55,18 @@
     }
   }
 
-  @include media-query-max($bp_medium){
-    .countries-subsection{
-      padding-top:2em;
-      padding-bottom:2em;
-    }
-}
-
-  @include media-query-max($bp_small) {
-    .countries-subsection {
-      text-align: center;
-      padding-top:1em;
-      .title {
-        margin-top: 0;
-      }
-    }
-  }
   @include media-query-min($bp_medium) {
-    background: url($base_url + "images/widgets/sagaing_43_bg.jpg") no-repeat top center;
-    padding-bottom: 10em;
     padding-top: 20em;
 
     .empowering-subsection {
       .info {
         border-right: 1px solid $highlight_text;
-        padding: 0.5em 1em 0;
+        padding: 0.5em 2em 0;
         text-align: right;
       }
       em {
         font-size: 2.5em;
       }
-
     }
 
     .countries-subsection {
@@ -89,7 +81,6 @@
         margin: 0;
       }
     }
-
   }
 }
 
@@ -107,11 +98,11 @@
     }
   }
 
-  .partners-list {
+  .columns-list {
     text-align: center;
   }
 
-  .partner {
+  .entry {
     list-style: none;
     margin: 1em 0;
   }
@@ -125,7 +116,8 @@
       padding-left: 2em;
     }
 
-    .partner {
+    .entry {
+      @include box-sizing(); // Make sure we don't break the columns layout.
       display: inline;
       padding: 1em;
     }
@@ -238,7 +230,7 @@
       @include l-column-cell(4);
     }
     .column {
-      padding: 0 2em;
+      padding: 0;
       vertical-align: middle;
     }
   }
@@ -264,5 +256,17 @@
     .topic-title {
       @include l-column-cell(3);
     }
+  }
+}
+
+// Background images for homepage sections on large devices.
+@include media-query-min($bp_medium) {
+  .section-empowering {
+    $background_image: $base_url + 'images/home/engineer-wide.jpg';
+    $gradient: linear-gradient(
+        rgba(0, 0, 0, 0) 10%,
+        rgba(0, 0, 0, 0.5) 35%,
+        rgba(0, 0, 0, 1) 55%);
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 }
