@@ -45,7 +45,7 @@
   id: timor
   year: 2009
   category: Aid Management Platform
-  description: "Implemented in just 2 months - and made public 4 months later - Timor's AMP features a geocided project map and is linked with the country's Integrated Financial Information Management System."
+  description: "Implemented in just 2 months - and made public 4 months later - Timor's AMP features a geocoded project map and is linked with the country's Integrated Financial Information Management System."
   features:
     - System Integration
     - Connecting aid with national budgets
