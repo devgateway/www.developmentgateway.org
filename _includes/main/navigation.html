@@ -8,7 +8,14 @@
 
   <ul class="links clearfix">
     {% for entry in site.data.navigation.main %}
-      <li class="item">
+      {% assign active_url = page.url | replace: '/index.html', '/' %}
+      {% assign entry_url = entry.url | prepend: site.baseurl | append: '/' %}
+      {% assign item_is_active = null %}
+      {% if active_url == entry_url %}
+        {% assign item_is_active = 'is-active' %}
+      {% endif %}
+
+    <li class="item {{ item_is_active }}">
         <a class="link" href="{{ entry.url | prepend: site.baseurl }}">{{ entry.title }}</a>
       </li>
     {% endfor %}

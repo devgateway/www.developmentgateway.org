@@ -1,4 +1,5 @@
-# URLs should not include the domain nor the preciding `/`.
+# URLs should not include the domain, nor the preciding or trailing `/`.
+# Otherwise the active link will not be displayed.
 
 - title: About
   url: about
