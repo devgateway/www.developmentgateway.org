@@ -1,6 +1,11 @@
 
-(function (window, document, piElement) {
+(function (window, document) {
   'use strict';
+
+  var piElement = document.getElementById('position-indicator')
+  if (!piElement) {
+    return;
+  }
 
   var UPDATE_DELAY = 10;
   var sections = [];
@@ -86,4 +91,4 @@
   // Update the position indicator.
   updatePositionIndicator();
 
-})(window, document, document.getElementById('position-indicator'));
+})(window, document);

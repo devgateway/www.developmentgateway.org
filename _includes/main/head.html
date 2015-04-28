@@ -39,9 +39,7 @@
 
   <script src="{{ 'main.js' | prepend: site.baseurl }}"></script>
 
-  {% if page.position_indicator %}
-    <script src="{{ 'scripts/position-indicator.js' | prepend: site.baseurl }}" defer="defer"></script>
-  {% endif %}
+  <script src="{{ 'scripts/scroll.js' | prepend: site.baseurl }}" defer="defer"></script>
 
   {% if page.include_map %}
     <link rel="stylesheet" href="{{ 'lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
