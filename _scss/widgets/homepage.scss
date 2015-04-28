@@ -3,8 +3,21 @@
   background-color: $black;
   color: $white;
 
+  // Reset the default section spacing. Helps with bg images.
   .section-wrapper {
-    @include l-row-separator();
+    margin-bottom: 0;
+
+    // Spacing for background images on small devices.
+    @include media-query-max($bp_medium) {
+      padding: 2em 0;
+    }
+    // Spacing for background images on large devices.
+    @include media-query-min($bp_medium) {
+      padding: 10em 0;
+      &.section-empowering {
+        padding: 20em 0 0;
+      }
+    }
   }
 }
 
@@ -14,11 +27,13 @@
     .column {
       text-align: center;
     }
+
     .info {
       color: $highlight_text;
       font-size: 1.4em;
       font-weight: $font_weight_light;
     }
+
     /* .info > em */
     em {
       display: block;
@@ -28,8 +43,6 @@
   }
 
   .countries-subsection {
-    padding-top:12em;
-
     .countries-count {
       color: $blue_vibrant;
       font-size: 6em;
@@ -44,42 +57,21 @@
     }
   }
 
-  @include media-query-max($bp_medium){
-    .countries-subsection{
-      padding-top:2em;
-      padding-bottom:2em;
-    }
-}
-
-  @include media-query-max($bp_small) {
-    .countries-subsection {
-      text-align: center;
-      padding-top:1em;
-      .title {
-        margin-top: 0;
-      }
-    }
-  }
   @include media-query-min($bp_medium) {
-    background: url($base_url + "images/widgets/sagaing_43_bg.jpg") no-repeat top center;
-    padding-bottom: 10em;
     padding-top: 20em;
 
     .empowering-subsection {
       .info {
         border-right: 1px solid $highlight_text;
-        padding: 0.5em 1em 0;
+        padding: 0.5em 2em 0;
         text-align: right;
       }
       em {
         font-size: 2.5em;
       }
-
     }
 
     .countries-subsection {
-      margin-top: 3em;
-
       .countries-count {
         font-size: 14em;
         line-height: 0.9em;
@@ -89,7 +81,12 @@
         margin: 0;
       }
     }
+  }
 
+  // @TODO: REMOVE! This is temporary.!
+  margin-bottom: 10em !important;
+  .countries-subsection {
+    display: none;
   }
 }
 
@@ -107,27 +104,23 @@
     }
   }
 
-  .partners-list {
+  .columns-list {
     text-align: center;
   }
 
-  .partner {
+  .entry {
     list-style: none;
     margin: 1em 0;
   }
 
   @include media-query-min($bp_medium) {
-    padding-bottom: 10em;
-    padding-top: 10em;
-
     .title {
       font-size: 3em;
       padding-left: 2em;
     }
 
-    .partner {
+    .entry {
       display: inline;
-      padding: 1em;
     }
   }
 }
@@ -162,9 +155,6 @@
   }
 
   @include media-query-min($bp_medium) {
-    padding-bottom: 10em;
-    padding-top: 10em;
-
     .title {
       font-size: 1.8em;
 
@@ -214,9 +204,6 @@
   }
 
   @include media-query-min($bp_medium) {
-    padding-bottom: 10em;
-    padding-top: 10em;
-
     // Make all blog posts the same height.
     .blog-title {
       @include l-column-force-height($line_height: 1.3em, $rows: 3);
@@ -238,7 +225,7 @@
       @include l-column-cell(4);
     }
     .column {
-      padding: 0 2em;
+      padding: 0;
       vertical-align: middle;
     }
   }
@@ -264,5 +251,39 @@
     .topic-title {
       @include l-column-cell(3);
     }
+  }
+}
+
+// Background images for homepage sections on large devices.
+@include media-query-min($bp_medium) {
+  $gradient: linear-gradient(
+      rgba(0, 0, 0, 0) 10%,
+      rgba(0, 0, 0, 0.6) 35%,
+      rgba(0, 0, 0, 1) 55%);
+  .section-empowering {
+    $background_image: $base_url + 'images/home/engineer-wide.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+  }
+
+  $gradient: linear-gradient(
+      rgba(0, 0, 0, 0.7) 2%,
+      rgba(0, 0, 0, 0.8) 60%,
+      rgba(0, 0, 0, 0.7) 98%);
+  .section-expertise {
+    $background_image: $base_url + 'images/home/technology.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+  }
+
+  .section-partners {
+    $background_image: $base_url + 'images/home/lake-inle.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+  }
+
+  $gradient: linear-gradient(
+      rgba(0, 0, 0, 0.8) 2%,
+      rgba(0, 0, 0, 0.7) 98%);
+  .section-latest-stories {
+    $background_image: $base_url + 'images/home/dc-map.jpg';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 }

@@ -266,6 +266,36 @@
   }
 }
 
+// Adds a background image to a page section.
+@mixin l-background-image($image_path, $fallback, $gradient) {
+  @include _lbi_helper($fallback, $gradient);
+
+  background: url($image_path);
+  background-position: center center;
+  background-size: cover;
+}
+@mixin _lbi_helper($fallback, $gradient...) {
+  position: relative;
+  background-repeat: no-repeat;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: $fallback; // @TODO: Make things look decent on older browsers.
+    background: $gradient;
+    content: "";
+    z-index: 1;
+  }
+
+  & > .page-layout-element {
+    position: relative;
+    z-index: 2;
+  }
+}
+
 // Add function that can cast a strings to a number.
 // http://hugogiraudel.com/2014/01/15/sass-string-to-number/
 @function _string_length($number, $unit) {
