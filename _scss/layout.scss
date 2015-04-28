@@ -47,11 +47,13 @@ body,
 
 .columns-list {
   list-style-type: none;
-  padding: 0 1em;
+  padding: 0;
 
+  @include media-query-max($bp_small) {
+    padding: 0 1em;
+  }
   @include media-query-min($bp_small) {
     @include clearfix-mixin();
-    padding: 0;
   }
 }
 
