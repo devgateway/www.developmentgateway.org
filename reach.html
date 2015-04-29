@@ -61,7 +61,7 @@ include_map: True
     {% endif %}
 
     {% if project.url %}
-      <a class="readmore" href="{{ project.url }}">Learn more</a>
+      <a class="readmore" href="{{ project.url }}">{{ project.urlText | default: 'Learn more' }}</a>
     {% endif %}
   </div>
   {% endfor %}
