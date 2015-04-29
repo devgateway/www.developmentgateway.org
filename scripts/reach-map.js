@@ -57,7 +57,8 @@
         return function() {
           rewrite({
             h: data.name,
-            p: data.category + ' – ' + data.year + '. ' + data.description
+            p: (data.category ? (data.category + ' – ') : '') +
+              data.year + '. ' + data.description
           });
         }
       },
