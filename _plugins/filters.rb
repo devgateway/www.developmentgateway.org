@@ -10,6 +10,18 @@ module Jekyll
       input.find_all{|item| item.data.key?(property) && item.data[property] == value }
     end
 
+    # Use a default value for missing variables
+    #
+    # This filter is in Liquid master, but not in Jekyll v2.4.0.
+    # https://github.com/Shopify/liquid/commit/5db1695694e1cbf12892d5dd67c7773282a669af
+    #
+    # USAGE:
+    # {{ myVar | default: 'Default value' }}
+    def default(input, default_value = "")
+      is_blank = input.respond_to?(:empty?) ? input.empty? : !input
+      is_blank ? default_value : input
+    end
+
     # Concat lists
     #
     # It only just landed in liquid, so one day we can drop this

@@ -7,9 +7,10 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 50.842856
   lon: 4.375405
-  
+
 - name: European Union
   id: eu
   year: 2014
@@ -21,6 +22,7 @@
   quote:
   quote-author:
   url: https://github.com/devgateway/eudevfin
+  urlText:
   lat: 49.5
   lon: 22.0
 
@@ -35,6 +37,7 @@
   quote: "…we are now more effective and more efficient because the information necessary is just one click away."
   quote-author: Development Partner Representative, Kosovo
   url: http://public.amp-mei.net/
+  urlText:
   lat: 42.5632698
   lon: 20.9020755
 
@@ -49,5 +52,6 @@
   quote:
   quote-author: Development Partner Representative, Kosovo
   url: http://amp.gov.md/portal/
+  urlText:
   lat: 46.979424
   lon: 28.3896969
