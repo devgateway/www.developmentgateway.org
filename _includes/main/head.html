@@ -108,6 +108,8 @@
         throw new Error('Breakpoint not found.');
       },
 
+      fixedHeaderHeight: 0,  // computed on DOM ready
+
       // DOMReady callbacks
       _domReady: false,
       _domReadyQueue: [],
@@ -127,5 +129,23 @@
       }
     };
     document.addEventListener('DOMContentLoaded', DG._domIsReady.bind(DG));
+
+
+    DG.ready(function computeFixedHeaderHeight() {
+      var mainHeader = document.querySelector('.main-header-inner'),
+          sticky = document.querySelector('#page-navigation'),
+          totalHeight = 0;
+      if (mainHeader !== null) {
+        totalHeight += mainHeader.offsetHeight;
+      }
+      if (sticky != null) {
+        totalHeight +=  sticky.offsetHeight;
+      }
+      DG.fixedHeaderHeight = totalHeight;
+    });
+
+    DG.ready(function setSmoothscrollHeaderHeight() {
+      window.smoothScrollTo.setHeader(DG.fixedHeaderHeight);
+    });
   </script>
 </head>
