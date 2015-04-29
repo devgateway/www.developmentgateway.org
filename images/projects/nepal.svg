@@ -1,45 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="726" height="885" viewBox="-17.582 -4.664 71.571 87.246">
-<title>Flag of Nepal</title>
-<desc>Coding according to the official construction in "Constitution of the Kingdom of Nepal, Article 5, Shedule 1", adopted in November 1990</desc>
-
-<!-- 2*TN= (17955-7335*Sqrt(2))/1468 -->
-<use xlink:href="#b" stroke="#003893" stroke-width="5.1646754223"/>
-<!-- F,G,C,A,B,D --> <!-- Fy=Gy = 80-30*Sqrt(2) -->
-<path id="b" d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
-
-<g fill="#fff">
-<!-- LN = -Px = Qx = 5/4*Sqrt(609-366*Sqrt(2)), Py = Qy= 50-75/4*Sqrt(2) -->
-<!-- MQ = 5/4*(23-9*Sqrt(2))  -->
-	<path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/> <!-- Px, Py, MQ, MQ, Qx, Qy, LN, LN, Px, Py -->
-<!-- Ty = (183895-69735*Sqrt(2))/2936   TM = (37095-14685*Sqrt(2))/2936 -->
-	<g transform="translate(0,29.0445562765) scale(5.5610605710)">
-		<circle r="1"/>
-		<g id="jags6">
-			<g id="jags3">
-<!-- sin(Pi/16),-cos(Pi/16), 0, -TS/TM = -Sqrt(884995-8076*Sqrt(2))/673, -sin(Pi/16),-cos(Pi/16) -->
-				<path id="jag" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
-				<use xlink:href="#jag" transform="rotate(22.5)"/>
-				<use xlink:href="#jag" transform="rotate(45)"/>
-			</g>
-			<use xlink:href="#jags3" transform="rotate(67.5)"/>
-		</g>
-		<use xlink:href="#jags6" transform="scale(-1, 1)"/>
-	</g>
-<!--  Wy = 80-15*Sqrt(2)   NM= 15/4*(5-2*Sqrt(2)) -->
-	<g transform="translate(0,58.7867965644) scale(8.1433982822)">
-		<circle r="1"/>
-		<g id="rays4">
-			<g id="rays2">
-<!-- sin(Pi/12),cos(Pi/12), 0, LN/NM=(79+Sqrt(2))/51, -sin(Pi/12),cos(Pi/12) -->
-				<path id="ray" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
-				<use xlink:href="#ray" transform="rotate(180)"/>
-			</g>
-			<use xlink:href="#rays2" transform="rotate(90)"/>
-		</g>
-		<use xlink:href="#rays4" transform="rotate(30)"/>
-		<use xlink:href="#rays4" transform="rotate(60)"/>
-	</g>
-</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 726 885"
+   height="885"
+   width="726"
+   xml:space="preserve"
+   version="1.1"
+   id="svg6495"><metadata
+     id="metadata6501"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6499" /><g
+     transform="matrix(1.25,0,0,-1.25,0,885)"
+     id="g6503"><g
+       transform="matrix(1,0,0,-1,0,708)"
+       id="g6507"><path
+         id="path6509"
+         d="m -0.00195313,0 c 0,236.00065 0,472.0013 0,708.00195 l 558.44531313,0 -344.28906,-344.28906 366.64453,0 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003893;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:41.91126633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></g><path
+       id="path6511"
+       transform="matrix(0.8,0,0,-0.8,0,708)"
+       d="m 26.191406,47.310547 c 0,270.499343 0,540.998693 0,811.498043 l 608.623044,0 -430.36133,-430.36132 430.36133,0 z"
+       style="fill:#dc143c;fill-opacity:1;fill-rule:nonzero;stroke:none" /><path
+       id="path6513"
+       transform="matrix(0.8,0,0,-0.8,0,708)"
+       d="M 163.06641 265.0918 L 156.76367 289.80859 C 156.76122 289.80961 156.75831 289.80953 156.75586 289.81055 L 134.82422 276.79297 L 138.46289 302.04102 L 113.20703 298.4082 L 126.22852 320.33594 C 126.22741 320.33861 126.22572 320.34108 126.22461 320.34375 L 101.51367 326.64453 L 121.93945 341.92969 L 111.20703 349.95898 C 88.053471 336.24506 68.622579 314.7676 57.128906 285.52344 C 57.128906 352.47219 111.40086 406.74414 178.34961 406.74414 C 245.29711 406.74414 299.57031 352.47219 299.57031 285.52344 C 288.07664 314.76759 268.64574 336.24506 245.49219 349.95898 L 234.76172 341.92969 L 255.18555 326.64453 L 230.47461 320.3457 C 230.47248 320.34057 230.47088 320.33521 230.46875 320.33008 L 243.48633 298.4082 L 218.23828 302.04102 L 218.23828 302.04297 C 218.23599 302.04068 218.23276 302.0394 218.23047 302.03711 L 218.23828 302.04102 L 221.875 276.79297 L 199.94141 289.81055 C 199.93895 289.80953 199.93605 289.80961 199.93359 289.80859 L 193.63281 265.0918 L 178.34961 285.52344 L 163.06641 265.0918 z "
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" /><path
+       id="path6541"
+       transform="matrix(0.8,0,0,-0.8,0,708)"
+       d="M 178.34961 513.37891 L 156.97266 563.82422 C 156.96686 563.82577 156.96088 563.82657 156.95508 563.82812 L 113.22656 530.83008 L 119.93555 585.2207 L 119.93945 585.21875 C 119.93685 585.22135 119.93424 585.22396 119.93164 585.22656 L 119.93555 585.2207 L 65.550781 578.50586 L 98.548828 622.22852 C 98.546541 622.23706 98.5433 622.24536 98.541016 622.25391 L 48.099609 643.62695 L 98.541016 665.00195 C 98.54314 665.0099 98.546702 665.01744 98.548828 665.02539 L 65.550781 708.75 L 119.93555 702.03711 L 119.92969 702.02734 C 119.93489 702.03255 119.94011 702.03776 119.94531 702.04297 L 119.93555 702.03711 L 113.22656 756.42578 L 156.95703 723.42578 C 156.96222 723.42717 156.96747 723.4283 156.97266 723.42969 L 178.34961 773.87305 L 199.7207 723.43164 C 199.7265 723.43009 199.73248 723.42928 199.73828 723.42773 L 243.4707 756.42578 L 236.75781 702.03711 L 291.14844 708.75 L 258.14844 665.01953 C 258.14983 665.01434 258.15096 665.0091 258.15234 665.00391 L 308.59375 643.62695 L 258.15234 622.25195 C 258.1508 622.24616 258.14999 622.24017 258.14844 622.23438 L 291.14844 578.50586 L 236.75977 585.2207 C 236.75945 585.22039 236.75813 585.22102 236.75781 585.2207 C 236.75748 585.22037 236.75815 585.21908 236.75781 585.21875 L 243.4707 530.83008 L 199.74023 563.82812 C 199.73306 563.82621 199.72593 563.82418 199.71875 563.82227 L 178.34961 513.37891 z "
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></svg>
