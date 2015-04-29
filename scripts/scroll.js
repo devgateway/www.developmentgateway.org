@@ -2,8 +2,6 @@
 (function (window, document) {
   'use strict';
 
-  var UPDATE_DELAY = 10;
-
   // Sticky Navigation variables.
   var snElement = document.getElementById('page-navigation');
   var snUpdateTimeout;
@@ -63,8 +61,8 @@
 
     // Update the position indicator on scroll after a small delay.
     window.addEventListener('scroll', function() {
-      clearTimeout(snUpdateTimeout);
-      snUpdateTimeout = setTimeout(updateStickyNavigation, UPDATE_DELAY);
+      window.cancelAnimationFrame(snUpdateTimeout);
+      snUpdateTimeout = window.requestAnimationFrame(updateStickyNavigation);
     });
 
     // Update the sticky header state.
@@ -118,8 +116,8 @@
 
     // Updates the position indicator on scroll after a small delay.
     window.addEventListener('scroll', function() {
-      clearTimeout(piUpdateTimeout);
-      piUpdateTimeout = setTimeout(updatePositionIndicator, UPDATE_DELAY);
+      window.cancelAnimationFrame(piUpdateTimeout);
+      piUpdateTimeout = window.requestAnimationFrame(updatePositionIndicator);
     });
 
     // Update the position indicator.
