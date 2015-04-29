@@ -41,18 +41,17 @@
 
   // Enable the sticky navigation functionality.
   if (snElement) {
-    var originalNavigationPosition = getScrollTopElement(snElement);
-    console.log(originalNavigationPosition);
+    // Get the initial position of the page navigation element.
+    var initialNavigationPosition = getScrollTopElement(snElement);
+
+    // Get the main site header height.
+    var headerHeight = document.getElementsByClassName('main-header')[0].clientHeight;
 
     var updateStickyNavigation = function() {
-      console.log('updating sticky navigation!');
       // Update the state of the sticky navigation.
       var scrollTopPosition = getScrollTopDocument();
 
-      var headerHeight = 5 * (16 * 0.8);
-      console.log('header: ' + headerHeight + ' <> total:' + (scrollTopPosition + headerHeight));
-
-      if (originalNavigationPosition < scrollTopPosition + headerHeight) {
+      if (initialNavigationPosition < scrollTopPosition + headerHeight) {
         if (!snElement.classList.contains('is-fixed')) {
           snElement.classList.add('is-fixed');
         }
