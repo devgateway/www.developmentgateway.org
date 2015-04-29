@@ -67,9 +67,8 @@
     // Get the main site header height.
     var headerHeight = document.getElementsByClassName('main-header')[0].clientHeight;
 
-    var updateStickyNavigation = function() {
+    var updateStickyNavigation = function(scrollTopPosition) {
       // Update the state of the sticky navigation.
-      var scrollTopPosition = getScrollTopDocument();
 
       if (initialNavigationPosition < scrollTopPosition + headerHeight) {
         if (!snElement.classList.contains('is-fixed')) {
@@ -115,8 +114,7 @@
     }
 
     // Updates the active class for the position indicator.
-    var updatePositionIndicator = function() {
-      var scrollTopPosition = getScrollTopDocument();
+    var updatePositionIndicator = function(scrollTopPosition) {
       var classUpdated = false;
 
       for (var i = piSections.length - 1; i >= 0; i--) {
