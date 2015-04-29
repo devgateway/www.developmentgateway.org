@@ -36,8 +36,7 @@ include_map: True
     <h3 class="highlighted-title">
       {% capture image_path %}images/projects/{{ project.id }}.svg{% endcapture %}
       {% image flag_small {{ image_path }} alt="Flag of {{ project.name }}" class="flag" role="img" %}
-      {{ project.name }}
-      <span> - {{project.year}}</span>
+      {{ project.name }}{% if project.year %}, <span> beginning in {{project.year}}</span>{% endif %}
     </h3>
 
     <div class="category">{{ project.category }}</div>
