@@ -267,16 +267,18 @@
 }
 
 // Adds a background image to a page section.
-@mixin l-background-image($image_path, $fallback, $gradient) {
-  @include _lbi_helper($fallback, $gradient);
+@mixin l-background-image($image_path, $fallback: null, $gradient: null) {
+  @if ($fallback and $gradient) {
+    @include _lbi_helper($fallback, $gradient);
+  }
 
   background: url($image_path);
   background-position: center center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 @mixin _lbi_helper($fallback, $gradient...) {
   position: relative;
-  background-repeat: no-repeat;
 
   &:after {
     position: absolute;
