@@ -26,8 +26,14 @@
 - name: Carmen Cañas
   country: Honduras
 
-- name: Debabrata Chakraborty
+- name: Alexandru Cartaleanu
+  country: Moldova
+
+- name: Debobroto Chakraborty
   country: Bangladesh
+
+- name: Viorel Chihai
+  country: Moldova
 
 - name: Diego Andres Dimunzio
   country: Argentina
@@ -66,7 +72,7 @@
   country: Kenya
 
 - name: Andrey Kabanets
-  country: United States of America
+  country: Ukraine
 
 - name: Galina Kalvatcheva
   country: United States of America
@@ -120,10 +126,13 @@
   country: Kenya
 
 - name: Emanuel Perez
-  country: Kenya
+  country: Argentina
 
 - name: Aldo Picca
   country: Argentina
+
+- name: Adrian Popescu
+  country: Romania
 
 - name: Mihai Postelnicu
   country: Romania
