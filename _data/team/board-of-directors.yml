@@ -50,7 +50,7 @@
 
 - name: "Matthew Williams"
   position: "Board member"
-  avatar: avatar.png
+  avatar: matthew.png
   bio: |
       A Counselor for the Embassy of Australia; representing Australia on the DG board.
 
@@ -58,7 +58,7 @@
 - name: "Brenda Killen"
   position: "Board member"
   avatar: brendah.png
-  bio: 
+  bio:
       Deputy Director of the OECD’s Development Co-operation Directorate.
 
 
