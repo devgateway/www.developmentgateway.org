@@ -60,11 +60,11 @@
       Dina supports Development Gateway's Aid Management Program; she was previously DG's USAID Geo-coding Aid Management Fellow in Nepal. Before joining the team, Dina was a Project Manager at the DESERTEC Foundation, Hamburg, Germany. Dina holds a Master's of Science in International Development Studies from the University of Amsterdam, the Netherlands and a Bachelor of Arts in International Relations from the College of William and Mary, USA.
 
 
-- name: "Ionut Dobre"
-  position: Software Developer
-  avatar: ionut.png
+- name: "Denise Butcher"
+  position: "Technical Manager"
+  avatar: denise.png
   bio: |
-      Ionut supports AidData, and has worked implementing the mobile version of the UN Teamworks Application and dgMarket, an open procurement system tracking more than $1 trillion worth of procurement notices. He holds a M.Sc. degree in computer science and also was a teaching assistant for 'Mobile Software Development' course.
+      Denise leads product development, primarily in support of the Aid Management Platform. As a certified Scrum Master, she oversees the development of software requirements, implementation, testing and release, ensuring that technical milestones are high-quality and delivered on time. Before DG, Denise worked at a number of Fortune 500 companies, where she built effective international teams to develop software for clients primarily in the banking, healthcare, and insurance sectors. Denise holds degrees from Argosy University and the Chubb Institute and applies her background in psychology and counseling at women's correctional facilities in Maryland.
 
 
 - name: "Hamadoun Cisse"
@@ -81,18 +81,18 @@
       Taryn supports DG’s Aid Management Program. Previously, she was an Aid Management fellow in Lao, PDR and also worked with DG’s communications team. She formerly worked for the American Red Cross as the Service to Armed Forces Coordinator. Taryn received her bachelor’s degree from Brigham Young University.
 
 
+- name: "Ionut Dobre"
+  position: Software Developer
+  avatar: ionut.png
+  bio: |
+      Ionut supports AidData, and has worked implementing the mobile version of the UN Teamworks Application and dgMarket, an open procurement system tracking more than $1 trillion worth of procurement notices. He holds a M.Sc. degree in computer science and also was a teaching assistant for 'Mobile Software Development' course.
+
+
 - name: "Dustin Homer"
   position: "Engagement and Partnerships Manager"
   avatar: dustin.png
   bio: |
       Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
-
-
-- name: "Sarah Orton"
-  position: "Engagement and Partnerships Associate"
-  avatar: sarah.png
-  bio: |
-      Sarah supports engagement and partnership efforts at Development Gateway. She works to promote efficiency and effectiveness through data uptake and technology use. Before DG, Sarah worked with Nuru International. She earned her bachelor’s degree in International Affairs from The George Washington University.
 
 
 - name: "Thad Kerosky"
@@ -109,11 +109,11 @@
       Paige manages external communications and supports government and organizational partnerships at Development Gateway. She holds a Bachelor of Science in Foreign Service from Georgetown University.
 
 
-- name: "Stepan Semenukha"
-  position: Analyst
-  avatar: stepan.png
+- name: "Sarah Orton"
+  position: "Engagement and Partnerships Associate"
+  avatar: sarah.png
   bio: |
-      Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
+      Sarah supports engagement and partnership efforts at Development Gateway. She works to promote efficiency and effectiveness through data uptake and technology use. Before DG, Sarah worked with Nuru International. She earned her bachelor’s degree in International Affairs from The George Washington University.
 
 
 - name: "Bijana Sharma Poudel"
@@ -123,6 +123,13 @@
       Bijana focuses on accurate financial activities for Development Gateway in the Finance Department. Originally from Kathmandu, Nepal, she started her professional career as a middle school teacher, before moving into commercial banking as a supervisor at the Nepal Investment Bank. In the USA, she worked for Ashoka before joining Development Gateway. Bijana has a business degree from Tribhuwan University, Kathmandu, Nepal.
 
 
+- name: "Stepan Semenukha"
+  position: Analyst
+  avatar: stepan.png
+  bio: |
+      Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
+
+
 - name: "Martha Staid"
   position: "Senior Associate"
   avatar: martha.png
@@ -130,12 +137,6 @@
       Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
 
       She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
-
-- name: "Denise Butcher"
-  position: "Technical Manager"
-  avatar: denise.png
-  bio: |
-      Denise leads product development, primarily in support of the Aid Management Platform. As a certified Scrum Master, she oversees the development of software requirements, implementation, testing and release, ensuring that technical milestones are high-quality and delivered on time. Before DG, Denise worked at a number of Fortune 500 companies, where she built effective international teams to develop software for clients primarily in the banking, healthcare, and insurance sectors. Denise holds degrees from Argosy University and the Chubb Institute and applies her background in psychology and counseling at women's correctional facilities in Maryland.
 
 
 - name: "Mounina Bocoum Wade"
