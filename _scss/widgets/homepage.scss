@@ -266,17 +266,17 @@
   }
 
   .section-expertise {
-    $background_image: $base_url + 'images/home/technology.jpg';
+    $background_image: $base_url + 'images/home/expertise.jpg';
     @include l-background-image($background_image);
   }
 
   .section-partners {
-    $background_image: $base_url + 'images/home/lake-inle.jpg';
+    $background_image: $base_url + 'images/home/partners.jpg';
     @include l-background-image($background_image);
   }
 
   .section-latest-stories {
-    $background_image: $base_url + 'images/home/dc-map.jpg';
+    $background_image: $base_url + 'images/home/latest-stories-bg.jpg';
     @include l-background-image($background_image);
   }
 }
