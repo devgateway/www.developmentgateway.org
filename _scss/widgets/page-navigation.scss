@@ -1,34 +1,40 @@
 
 .page-navigation-wrapper {
-  margin-bottom: 1em;
+  // Keeps the page-navigation-wrapper height constant.
+  border-top: 1px solid $grey_lightest;
+  border-bottom: 1px solid $grey_lightest;
+
+  // Sticky navigation on large devices.
+  min-height: 3.5em;
+  @include media-query-min($bp_medium) {
+    .page-navigation {
+      background-color: $white;
+      line-height: 1.5em;
+      &.is-fixed {
+        // Keeps the page-navigation-wrapper height constant.
+        border-top: 1px solid $grey_lightest;
+        border-bottom: 1px solid $grey_lightest;
+
+        position: fixed;
+        top: 4em;
+        width: 100%;
+        z-index: 10;
+        .link {
+          padding-bottom: 0.5em;
+          padding-top: 0.5em;
+        }
+      }
+    }
+  }
 }
 
 .page-navigation {
-  border-top: 1px solid $grey_lightest;
-  border-bottom: 1px solid $grey_lightest;
   list-style-type: none;
   margin: 0;
   padding: 0;
 
   overflow-x: auto;
   white-space: nowrap;
-
-  // Sticky navigation on large devices.
-  @include media-query-min($bp_medium) {
-    background-color: $white;
-    line-height: 1.5em;
-    min-height: 2.5em;
-    &.is-fixed {
-      position: fixed;
-      top: 4em;
-      width: 100%;
-      z-index: 1;
-      .link {
-        padding-bottom: 0.5em;
-        padding-top: 0.5em;
-      }
-    }
-  }
 
   .item {
     display: inline-block;
