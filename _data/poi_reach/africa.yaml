@@ -10,6 +10,7 @@
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
   quote-author: Simon Mizrahi, AfDB Director
   url: http://mapafrica.afdb.org/
+  urlText:
 
 - name: Burkina Faso
   id: burkina-faso
@@ -22,6 +23,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 12.2472489
   lon: -1.5556799
 
@@ -36,6 +38,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 15.4461015
   lon: 18.7350005
 
@@ -50,6 +53,7 @@
   quote: "[AMP] will be a one-stop shop of information on aid flows that will improve efficiency in the monitoring and management of external resources that benefit our country."
   quote-author: Nial Kaba, CIV Minister of Economy and Finance
   url:
+  urlText:
   lat: 7.5455351
   lon: -5.547545
 
@@ -64,6 +68,7 @@
   quote: "[Before AMP] different ministries would speak directly with donor partners. Now… to acquire information the unique official source is AMP"
   quote-author: Government Representative
   url:
+  urlText:
   lat: -4.033516
   lon: 21.7500605
 
@@ -78,6 +83,7 @@
   quote: Development Gateway builds trust and ability among individuals interested in using AMP.
   quote-author: Government of Ethiopia Representative
   url:
+  urlText:
   lat: 9.1491755
   lon: 40.499395
 
@@ -92,6 +98,7 @@
   quote:
   quote-author:
   url: www.openschoolskenya.org
+  urlText:
   lat: -1.3167
   lon: 36.7833
 
@@ -106,6 +113,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: -18.7792398
   lon: 46.8344597
 
@@ -120,6 +128,7 @@
   quote: "...the Public Portal of the AMP marks yet another milestone in the open development agenda, as all key stakeholders will have direct accept to development aid data."
   quote-author: Maxwell Mkwezalamba, Malawi Minister of Finance
   url: http://malawiaid.finance.gov.mw/
+  urlText:
   lat: -13.2483745
   lon: 34.2955468
 
@@ -134,6 +143,7 @@
   quote:
   quote-author:
   url: http://www.odamoz.org.mz/
+  urlText:
   lat: -18.6696821
   lon: 35.5273356
 
@@ -147,6 +157,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 2.0333
   lon: 45.3500
   
@@ -161,6 +172,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 7.8626845
   lon: 29.694923
 
@@ -175,6 +187,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 14.5001715
   lon: -14.4392276
 
@@ -189,6 +202,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 13.4667
   lon: 16.6000
 
@@ -203,6 +217,7 @@
   quote: ...everyone can use AMP to analyze, to see, to view, and to provide any data.
   quote-author: Tanzania Development Partner Representative
   url:
+  urlText:
   lat: -6.3728255
   lon: 34.8924826
 
@@ -217,5 +232,6 @@
   quote: We are accountable to the public, so anyone… should be able to access all of the information they need off the system.
   quote-author: Uganda Development Partner Representative
   url: http://154.72.196.70/amp/portal/
+  urlText:
   lat: 1.3681549
   lon: 32.303241

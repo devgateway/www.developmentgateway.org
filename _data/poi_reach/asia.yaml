@@ -10,6 +10,7 @@
   quote:
   quote-author:
   url: http://amp.gov.md/portal/
+  urlText:
   lat: 41.2228055
   lon: 74.7387787
 
@@ -24,6 +25,7 @@
   quote:
   quote-author:
   url: http://amp.mpi.gov.la/
+  urlText:
   lat: 18.206296
   lon: 103.889022
 
@@ -38,6 +40,7 @@
   quote: "AMP gets everyone in the same room and puts information in a package."
   quote-author: Nepal Development Partner Representative
   url: http://amis.mof.gov.np/portal/
+  urlText:
   lat: 28.3974557
   lon: 84.1299978
 
@@ -52,5 +55,6 @@
   quote: "Transparency means transparency. We have nothing to hide."
   quote-author: Emilia Pires, Timor-Leste Minister of Finance
   url: https://www.aidtransparency.gov.tl/TEMPLATE/ampTemplate/gisModule/dist/index.html
+  urlText:
   lat: -8.7947508
   lon: 126.1369154

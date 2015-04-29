@@ -9,6 +9,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 4.624335
   lon: -74.063644
 
@@ -23,6 +24,7 @@
   quote: "[AMP] will directly support our efforts to become an emerging economy by 2030."
   quote-author: Government of Haiti Representative
   url: https://haiti.ampsite.net/
+  urlText:
   lat: 19.0558462
   lon: -73.0513321
 
@@ -37,6 +39,7 @@
   quote:
   quote-author:
   url: http://pgc.sre.gob.hn/
+  urlText:
   lat: 14.7503821
   lon: -86.2420082
 
@@ -50,6 +53,7 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 40.751985
   lon: -73.969780
 
@@ -63,5 +67,6 @@
   quote:
   quote-author:
   url:
+  urlText:
   lat: 38.894598
   lon: -77.047151
