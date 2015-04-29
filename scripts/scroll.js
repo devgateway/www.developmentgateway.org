@@ -2,28 +2,55 @@
 (function (window, document) {
   'use strict';
 
-  // Sticky Navigation variables.
-  var snElement = document.getElementById('page-navigation');
-  var snUpdateTimeout;
-
-  // Position Indicator variables.
-  var piElement = document.getElementById('position-indicator');
-  var piSectionLinks = piElement && piElement.getElementsByClassName('position-link') || null;
-  var piUpdateTimeout;
-  var piSections = [];
-
   // Get the current window scroll position.
   var getScrollTopDocument = function() {
     if (typeof window.pageYOffset !== 'undefined') {
       return window.pageYOffset;
     }
-
     if (typeof document.documentElement.scrollTop !== 'undefined') {
       return document.documentElement.scrollTop;
     }
-
     return document.body.scrollTop;
   };
+
+  var addScrollHandler = (function() {
+    var handlers = [],
+        scrollUpdate;
+
+    var _addScrollHandler = function addScrollHandler(handler) {
+      if (typeof handler !== 'function') {
+        console.error('scroll handlers must be functions. Got', handler);
+        return;
+      }
+      handlers.push(handler);
+      // also execute immediately on add
+      handler(getScrollTopDocument());
+    };
+
+    var runHandlers = function() {
+      var currentPosition = getScrollTopDocument();
+      for (var i = 0; i < handlers.length; i++) {
+        handlers[i](currentPosition);
+      }
+    };
+
+    window.addEventListener('scroll', function() {
+      window.cancelAnimationFrame(scrollUpdate);
+      scrollUpdate = window.requestAnimationFrame(runHandlers);
+    });
+
+    return _addScrollHandler;
+  })();
+
+
+  // Sticky Navigation variables.
+  var snElement = document.getElementById('page-navigation');
+
+  // Position Indicator variables.
+  var piElement = document.getElementById('position-indicator');
+  var piSectionLinks = piElement && piElement.getElementsByClassName('position-link') || null;
+  var piSections = [];
+
 
   // Get the position of the element from the top of the page.
   var getScrollTopElement = function(target) {
@@ -58,15 +85,7 @@
         snElement.classList.remove('is-fixed');
       }
     };
-
-    // Update the position indicator on scroll after a small delay.
-    window.addEventListener('scroll', function() {
-      window.cancelAnimationFrame(snUpdateTimeout);
-      snUpdateTimeout = window.requestAnimationFrame(updateStickyNavigation);
-    });
-
-    // Update the sticky header state.
-    updateStickyNavigation();
+    addScrollHandler(updateStickyNavigation);
   }
 
   // Enable the position indicator functionality.
@@ -114,14 +133,7 @@
       }
     };
 
-    // Updates the position indicator on scroll after a small delay.
-    window.addEventListener('scroll', function() {
-      window.cancelAnimationFrame(piUpdateTimeout);
-      piUpdateTimeout = window.requestAnimationFrame(updatePositionIndicator);
-    });
-
-    // Update the position indicator.
-    updatePositionIndicator();
+    addScrollHandler(updatePositionIndicator);
   }
 
 })(window, document);
