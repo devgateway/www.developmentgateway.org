@@ -4,6 +4,10 @@
 
   var UPDATE_DELAY = 10;
 
+  // Sticky Navigation variables.
+  var snElement = document.getElementById('page-navigation');
+  var snUpdateTimeout;
+
   // Position Indicator variables.
   var piElement = document.getElementById('position-indicator');
   var piSectionLinks = piElement && piElement.getElementsByClassName('position-link') || null;
@@ -11,7 +15,7 @@
   var piSections = [];
 
   // Get the current window scroll position.
-  var getScrollTopDocument = function () {
+  var getScrollTopDocument = function() {
     if (typeof window.pageYOffset !== 'undefined') {
       return window.pageYOffset;
     }
@@ -24,17 +28,49 @@
   };
 
   // Get the position of the element from the top of the page.
-  var getScrollTopElement = function (event) {
+  var getScrollTopElement = function(target) {
     var top = 0;
 
-    while (event.offsetParent != undefined && event.offsetParent != null) {
-      top += event.offsetTop + (event.clientTop != null ? event.clientTop : 0);
-      event = event.offsetParent;
+    while (target.offsetParent != undefined && target.offsetParent != null) {
+      top += target.offsetTop + (target.clientTop != null ? target.clientTop : 0);
+      target = target.offsetParent;
     }
 
     return top;
   };
 
+  // Enable the sticky navigation functionality.
+  if (snElement) {
+    var originalNavigationPosition = getScrollTopElement(snElement);
+    console.log(originalNavigationPosition);
+
+    var updateStickyNavigation = function() {
+      console.log('updating sticky navigation!');
+      // Update the state of the sticky navigation.
+      var scrollTopPosition = getScrollTopDocument();
+
+      var headerHeight = 5 * (16 * 0.8);
+      console.log('header: ' + headerHeight + ' <> total:' + (scrollTopPosition + headerHeight));
+
+      if (originalNavigationPosition < scrollTopPosition + headerHeight) {
+        if (!snElement.classList.contains('is-fixed')) {
+          snElement.classList.add('is-fixed');
+        }
+      }
+      else {
+        snElement.classList.remove('is-fixed');
+      }
+    };
+
+    // Update the position indicator on scroll after a small delay.
+    window.addEventListener('scroll', function() {
+      clearTimeout(snUpdateTimeout);
+      snUpdateTimeout = setTimeout(updateStickyNavigation, UPDATE_DELAY);
+    });
+
+    // Update the sticky header state.
+    updateStickyNavigation();
+  }
 
   // Enable the position indicator functionality.
   if (piElement && piSectionLinks) {
