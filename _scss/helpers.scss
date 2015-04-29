@@ -85,9 +85,9 @@
 @mixin link-color($normal_color, $hover_color: '', $active_color: '', $visited_color: '') {
   @if (type_of($hover_color) != color) {
     @if (lightness($normal_color) > 50) {
-      $active_color: darken($normal_color, 10);
+      $hover_color: darken($normal_color, 10);
     } @else {
-      $active_color: lighten($normal_color, 10);
+      $hover_color: lighten($normal_color, 10);
     }
   }
   @if (type_of($active_color) != color) {
