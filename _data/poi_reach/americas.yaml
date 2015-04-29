@@ -2,7 +2,7 @@
 - name: Colombia
   id: colombia
   year: 2015
-  category: MONITOR GIS
+  category: USAID MONITOR GIS
   description: An open source GIS solution integrated into USAID/Colombia's existing M&E system allowing the visualization of disaggregated results data.
   features:
     - GIS technology for better decision making
@@ -24,7 +24,7 @@
   quote: "[AMP] will directly support our efforts to become an emerging economy by 2030."
   quote-author: Government of Haiti Representative
   url: https://haiti.ampsite.net/
-  urlText:
+  urlText: Visit Haiti's Module de Gestion de l'Aide Externe (MGAE).
   lat: 19.0558462
   lon: -73.0513321
 
@@ -39,7 +39,7 @@
   quote:
   quote-author:
   url: http://pgc.sre.gob.hn/
-  urlText:
+  urlText: Visit Honduras' Plataforma de la Gestión de la Ayuda (PGC).
   lat: 14.7503821
   lon: -86.2420082
 
