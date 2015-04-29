@@ -6,14 +6,14 @@ layout: default
 
   {% include page-header.html %}
 
-  {% if page.include_map %}
-    {% include widgets/map.html %}
-  {% endif %}
-
   {% if page.page_navigation %}
-  <div class="page-nav-wrapper">
+  <div class="page-navigation-wrapper">
     {% include widgets/page-navigation.html entries=page.page_navigation %}
   </div>
+  {% endif %}
+
+  {% if page.include_map %}
+    {% include widgets/map.html %}
   {% endif %}
 
   <article class="page-content">

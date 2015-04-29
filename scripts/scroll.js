@@ -2,93 +2,138 @@
 (function (window, document) {
   'use strict';
 
-  var piElement = document.getElementById('position-indicator')
-  if (!piElement) {
-    return;
-  }
+  // Get the current window scroll position.
+  var getScrollTopDocument = function() {
+    if (typeof window.pageYOffset !== 'undefined') {
+      return window.pageYOffset;
+    }
+    if (typeof document.documentElement.scrollTop !== 'undefined') {
+      return document.documentElement.scrollTop;
+    }
+    return document.body.scrollTop;
+  };
 
-  var UPDATE_DELAY = 10;
-  var sections = [];
-  var updateTimeout;
-
-  // @TODO: Make sure elements are sorted by Y offset.
-  var sectionLinks = piElement.getElementsByClassName('position-link');
 
   // Get the position of the element from the top of the page.
-  var getScrollTopElement = function (event) {
+  var getScrollTopElement = function(target) {
     var top = 0;
 
-    while (event.offsetParent != undefined && event.offsetParent != null) {
-      top += event.offsetTop + (event.clientTop != null ? event.clientTop : 0);
-      event = event.offsetParent;
+    while (target.offsetParent != undefined && target.offsetParent != null) {
+      top += target.offsetTop + (target.clientTop != null ? target.clientTop : 0);
+      target = target.offsetParent;
     }
 
     return top;
   };
 
-  // Generate a list of sections to be used by updatePositionIndicator().
-  for (var i = 0; i < sectionLinks.length; i++) {
-    if (typeof sectionLinks[i].attributes.href === 'undefined') {
-      continue;
-    }
 
-    var href = sectionLinks[i].attributes.href.nodeValue.toString();
-    if (href.length <= 1 && href.indexOf('#') != -1) {
-      continue;
-    }
+  var addScrollHandler = (function() {
+    var handlers = [],
+        scrollUpdate;
 
-    var target_id = href.substr(href.indexOf('#') + 1);
+    var _addScrollHandler = function addScrollHandler(handler) {
+      if (typeof handler !== 'function') {
+        console.error('scroll handlers must be functions. Got', handler);
+        return;
+      }
+      handlers.push(handler);
+      // also execute immediately on add
+      handler(getScrollTopDocument());
+    };
 
-    var target = document.getElementById(target_id);
-    if (target) {
-      sections.push({
-        'link': sectionLinks[i],
-        'target': target,
-        'offset': getScrollTopElement(target)
-      });
-    }
-  }
+    var runHandlers = function() {
+      var currentPosition = getScrollTopDocument();
+      for (var i = 0; i < handlers.length; i++) {
+        handlers[i](currentPosition);
+      }
+    };
 
-  // Update the active class for the position indicator.
-  var updatePositionIndicator = function() {
-    var scrollTopPosition = getScrollTopDocument();
-    var classUpdated = false;
+    window.addEventListener('scroll', function() {
+      window.cancelAnimationFrame(scrollUpdate);
+      scrollUpdate = window.requestAnimationFrame(runHandlers);
+    });
 
-    for (var i = sections.length - 1; i >= 0; i--) {
-      var elementTopOffset = sections[i].offset;
-      if (scrollTopPosition >= elementTopOffset ||
-          i == 0 && scrollTopPosition < elementTopOffset) {
-        if (!classUpdated) {
-          sections[i].link.classList.add('active');
-          classUpdated = true;
-          continue;
+    return _addScrollHandler;
+  })();
+
+
+  DG.ready(function initStickyHeader() {
+    var snElement = document.getElementById('page-navigation');
+    if (snElement === null) { return; }
+
+    // Get the initial position of the page navigation element.
+    var initialNavigationPosition = getScrollTopElement(snElement);
+
+    // Get the main site header height.
+    var headerHeight = document.getElementsByClassName('main-header')[0].clientHeight;
+
+    var updateStickyNavigation = function(scrollTopPosition) {
+      // Update the state of the sticky navigation.
+
+      if (initialNavigationPosition < scrollTopPosition + headerHeight) {
+        if (!snElement.classList.contains('is-fixed')) {
+          snElement.classList.add('is-fixed');
         }
       }
-
-      sections[i].link.classList.remove('active');
-    }
-  };
-
-  // Get the current window scroll position.
-  var getScrollTopDocument = function () {
-    if (typeof window.pageYOffset !== 'undefined') {
-      return window.pageYOffset;
-    }
-
-    if (typeof document.documentElement.scrollTop !== 'undefined') {
-      return document.documentElement.scrollTop;
-    }
-
-    return document.body.scrollTop;
-  };
-
-  // Update the position indicator on scroll after a small delay.
-  window.addEventListener('scroll', function() {
-    clearTimeout(updateTimeout);
-    updateTimeout = setTimeout(updatePositionIndicator, UPDATE_DELAY);
+      else {
+        snElement.classList.remove('is-fixed');
+      }
+    };
+    addScrollHandler(updateStickyNavigation);
   });
 
-  // Update the position indicator.
-  updatePositionIndicator();
+
+  DG.ready(function initPositionIndicator() {
+    var piElement = document.getElementById('position-indicator');
+    if (piElement === null) { return; }
+
+    var piSectionLinks = piElement.getElementsByClassName('position-link') || null,
+        piSections = [];
+
+    // Generate a list of sections to be used by updatePositionIndicator().
+    for (var i = 0; i < piSectionLinks.length; i++) {
+      if (typeof piSectionLinks[i].attributes.href === 'undefined') {
+        continue;
+      }
+
+      var href = piSectionLinks[i].attributes.href.value.toString();
+      if (href.length <= 1 && href.indexOf('#') != -1) {
+        continue;
+      }
+
+      // Add the target to the list of sections.
+      var target_id = href.substr(href.indexOf('#') + 1);
+      var target = document.getElementById(target_id);
+      if (target) {
+        piSections.push({
+          'link': piSectionLinks[i],
+          'target': target,
+          'offset': getScrollTopElement(target) - DG.fixedHeaderHeight
+        });
+      }
+    }
+
+    // Updates the active class for the position indicator.
+    var updatePositionIndicator = function(scrollTopPosition) {
+      var classUpdated = false;
+
+      for (var i = piSections.length - 1; i >= 0; i--) {
+        var elementTopOffset = piSections[i].offset;
+        if (scrollTopPosition >= elementTopOffset ||
+          i == 0 && scrollTopPosition < elementTopOffset) {
+          if (!classUpdated) {
+            piSections[i].link.classList.add('active');
+            classUpdated = true;
+            continue;
+          }
+        }
+
+        piSections[i].link.classList.remove('active');
+      }
+    };
+
+    addScrollHandler(updatePositionIndicator);
+  });
+
 
 })(window, document);
