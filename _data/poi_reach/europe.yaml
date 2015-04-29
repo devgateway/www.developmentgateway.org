@@ -22,7 +22,7 @@
   quote:
   quote-author:
   url: https://github.com/devgateway/eudevfin
-  urlText:
+  urlText: Visit EU-DEVFIN on GitHub.
   lat: 49.5
   lon: 22.0
 
@@ -37,7 +37,7 @@
   quote: "…we are now more effective and more efficient because the information necessary is just one click away."
   quote-author: Development Partner Representative, Kosovo
   url: http://public.amp-mei.net/
-  urlText:
+  urlText: Visit Kosovo's Aid Management Platform.
   lat: 42.5632698
   lon: 20.9020755
 
@@ -52,6 +52,6 @@
   quote:
   quote-author: Development Partner Representative, Kosovo
   url: http://amp.gov.md/portal/
-  urlText:
+  urlText: Visit Moldova's Aid Management Platform.
   lat: 46.979424
   lon: 28.3896969
