@@ -109,7 +109,7 @@
         piSections.push({
           'link': piSectionLinks[i],
           'target': target,
-          'offset': getScrollTopElement(target)
+          'offset': getScrollTopElement(target) - DG.fixedHeaderHeight
         });
       }
     }
