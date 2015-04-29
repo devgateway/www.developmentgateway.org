@@ -1,5 +1,9 @@
 
 .map-wrapper {
+  .no-js & {
+    display: none;
+  }
+
   width: 100%;
   background: $black;
 

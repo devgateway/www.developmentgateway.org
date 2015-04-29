@@ -1,5 +1,9 @@
 
 .position-indicator-wrapper {
+  .no-js & {
+    display: none;
+  }
+
   position: fixed;
   top: 50%;
   margin-top: -2em;
