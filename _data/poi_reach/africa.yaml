@@ -31,10 +31,10 @@
   id: chad
   year: 2014
   category: Aid Management Program
-  description: Chad's AMP will include geocoded aid information and a public portal, signaling committment to granular, transparent information. 
+  description: Chad's AMP will include geocoded aid information and a public portal, signaling committment to granular, transparent information.
   features:
     - Transparent aid information
-    - Vizualizing data for better decision making 
+    - Vizualizing data for better decision making
   quote:
   quote-author:
   url:
@@ -160,7 +160,7 @@
   urlText:
   lat: 2.0333
   lon: 45.3500
-  
+
 - name: South Sudan
   id: south-sudan
   year: 2010
