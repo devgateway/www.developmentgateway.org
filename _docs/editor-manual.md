@@ -34,3 +34,12 @@ Format reminder [here](https://en.wikipedia.org/wiki/YAML#Lists).
 
 For more information on how work with content see the [kramdown Quick Reference](http://kramdown.gettalong.org/quickref.html) page.
 
+
+Resources:
+http://jekyllrb.com/docs/frontmatter/ - info about the file headers
+https://en.wikipedia.org/wiki/YAML - syntax for the post header and other `.yml` or `.yaml` files
+http://jekyllrb.com/docs/posts/ - some info about blog posts.
+
+And
+http://kramdown.gettalong.org/syntax.html - for syntax information inside `.md` files
+but instead of learning the markdown syntax from kramdown, you can use this one: http://prose.io/
