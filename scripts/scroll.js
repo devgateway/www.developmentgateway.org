@@ -13,6 +13,20 @@
     return document.body.scrollTop;
   };
 
+
+  // Get the position of the element from the top of the page.
+  var getScrollTopElement = function(target) {
+    var top = 0;
+
+    while (target.offsetParent != undefined && target.offsetParent != null) {
+      top += target.offsetTop + (target.clientTop != null ? target.clientTop : 0);
+      target = target.offsetParent;
+    }
+
+    return top;
+  };
+
+
   var addScrollHandler = (function() {
     var handlers = [],
         scrollUpdate;
@@ -43,29 +57,10 @@
   })();
 
 
-  // Sticky Navigation variables.
-  var snElement = document.getElementById('page-navigation');
+  DG.ready(function initStickyHeader() {
+    var snElement = document.getElementById('page-navigation');
+    if (snElement === null) { return; }
 
-  // Position Indicator variables.
-  var piElement = document.getElementById('position-indicator');
-  var piSectionLinks = piElement && piElement.getElementsByClassName('position-link') || null;
-  var piSections = [];
-
-
-  // Get the position of the element from the top of the page.
-  var getScrollTopElement = function(target) {
-    var top = 0;
-
-    while (target.offsetParent != undefined && target.offsetParent != null) {
-      top += target.offsetTop + (target.clientTop != null ? target.clientTop : 0);
-      target = target.offsetParent;
-    }
-
-    return top;
-  };
-
-  // Enable the sticky navigation functionality.
-  if (snElement) {
     // Get the initial position of the page navigation element.
     var initialNavigationPosition = getScrollTopElement(snElement);
 
@@ -86,10 +81,16 @@
       }
     };
     addScrollHandler(updateStickyNavigation);
-  }
+  });
 
-  // Enable the position indicator functionality.
-  if (piElement && piSectionLinks) {
+
+  DG.ready(function initPositionIndicator() {
+    var piElement = document.getElementById('position-indicator');
+    if (piElement === null) { return; }
+
+    var piSectionLinks = piElement.getElementsByClassName('position-link') || null,
+        piSections = [];
+
     // Generate a list of sections to be used by updatePositionIndicator().
     for (var i = 0; i < piSectionLinks.length; i++) {
       if (typeof piSectionLinks[i].attributes.href === 'undefined') {
@@ -134,6 +135,7 @@
     };
 
     addScrollHandler(updatePositionIndicator);
-  }
+  });
+
 
 })(window, document);

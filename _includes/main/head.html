@@ -106,7 +106,26 @@
         }
 
         throw new Error('Breakpoint not found.');
+      },
+
+      // DOMReady callbacks
+      _domReady: false,
+      _domReadyQueue: [],
+      _domIsReady: function() {
+        this._domReady = true;
+        for (var i = 0; i < this._domReadyQueue.length; i++) {
+          this._domReadyQueue[i]();
+        }
+        this._domReadyQueue = [];  // reset, we don't need to keep these callbacks around
+      },
+      ready: function(cb) {
+        if (typeof cb !== 'function') {
+          console.error('DG.domReady requires a function callback. Got', cb);
+          return;
+        }
+        this._domReady ? cb() : this._domReadyQueue.push(cb);
       }
     };
+    document.addEventListener('DOMContentLoaded', DG._domIsReady.bind(DG));
   </script>
 </head>
