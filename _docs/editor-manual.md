@@ -28,6 +28,9 @@ Where `Development Gateway Helps Spur Development` is the text displayed to the 
 
 > [Development Gateway Helps Spur Development]({% post_url 2005-04-19-development-gateway-helps-spur-development %}).
 
+## Blog Tags
+
+Format reminder [here](https://en.wikipedia.org/wiki/YAML#Lists). 
 
 For more information on how work with content see the [kramdown Quick Reference](http://kramdown.gettalong.org/quickref.html) page.
 
