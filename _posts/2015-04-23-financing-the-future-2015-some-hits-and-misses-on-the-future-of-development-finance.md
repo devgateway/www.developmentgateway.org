@@ -14,6 +14,7 @@ lede: A few weeks ago, an Overseas Development Institute-led consortium of partn
 thumbnail: assets/featured-images/cazuodru8aa-mpz.jpg
 thumbnail-fid: "6219"
 thumbnail-alt: ""
+categories: [Aid Management, Open Data]
 ---
 
 A few weeks ago, an Overseas Development Institute-led consortium of partners hosted a wide range of organizations and Governments for an event entitled “[Financing the Future](http://www.developmentprogress.org/event/financing-future-fresh-perspectives-global-development-sdgs-accra).” In essence, the purpose of this event was to collect feedback and share thoughts on the the “[zero draft](http://www.un.org/esa/ffd/wp-content/uploads/2015/03/1ds-zero-draft-outcome.pdf)” of the Financing for Development (FfD) outcome document which hit during the event, with the final draft to be negotiated in Addis Ababa in July. The document identifies commitments and actions needed to finance the post-2015 development agenda, including the ambitious Sustainable Development Goals (SDGs), now under negotiation.
