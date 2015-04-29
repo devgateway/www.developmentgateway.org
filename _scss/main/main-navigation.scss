@@ -14,15 +14,6 @@
 
   .item {
     display: inline-block;
-
-    &.is-active {
-      background-color: $grey_lightest;
-      border-top-left-radius: 0.5em;
-      border-top-right-radius: 0.5em;
-      .link {
-        @include link-color($black);
-      }
-    }
   }
 
   .link {
@@ -51,9 +42,20 @@
   }
 
   .link {
-    margin: 0 0.6em;
-    padding: 0 0.4em;
+    padding: 0 1em;
     line-height: 5em;
+  }
+  .is-active {
+    & > .link {
+      @include link-color($black);
+      background-color: $grey_lightest;
+      border-top-left-radius: 0.5em;
+      border-top-right-radius: 0.5em;
+
+      // Make the active link smaller and move it down.
+      line-height: 4em;
+      padding-bottom: 0.5em;
+    }
   }
 }
 
