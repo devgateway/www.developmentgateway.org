@@ -36,7 +36,7 @@ weight: 10
   <ul class="columns-list columns-list--half">
     {% for career in site.data.careers %}
     <li class="entry">
-      <a href="{{site.url}}/pdfs/careers/{{ career.url }}.pdf" target="_blank">{{ career.name }}</a>
+      <a href="{{site.url}}/pdfs/careers/{{ career.file }}" target="_blank">{{ career.name }}</a>
     </li>
     {% endfor %}
   </ul>
