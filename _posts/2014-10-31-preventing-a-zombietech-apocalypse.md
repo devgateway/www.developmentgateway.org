@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1480
-author: Paige Kirby
+author: Dina Abdel-Fattah
 created: 1414765958
 old_path: news/preventing-zombietech-apocalypse
 title: Preventing a Zombie(Tech) Apocalypse
@@ -32,4 +32,3 @@ Full slide deck (it’s a great one!) is available [here](http://static.squaresp
 
 *Photo credits: [Joe McCarthy](https://www.flickr.com/photos/gumption/5318386773) via [CC License](https://creativecommons.org/licenses/by-nc-sa/2.0/) and Jed Miller.*
 
-*Dina Abdel-Fattah is an Associate at Development Gateway.*
