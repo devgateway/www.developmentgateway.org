@@ -15,7 +15,7 @@ weight: 2
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
     {% for entry in sorted_topics %}
     <h2 class="topic-title">
-      <a class="topic-link" href="{{ entry.id | prepend: 'expertise/#' | prepend: site.baseurl }}">
+      <a class="topic-link topic-{{ entry.id }}" href="{{ entry.id | prepend: 'expertise/#' | prepend: site.baseurl }}">
         {{ entry.title }}
       </a>
     </h2>

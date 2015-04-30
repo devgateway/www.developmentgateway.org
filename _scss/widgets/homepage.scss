@@ -133,10 +133,9 @@
 // Style for the "expertise.html" homepage section.
 .section-expertise {
   .title {
-    font-weight: $font_weight_light;
-
     > em {
       color: $highlight_text;
+      font-style: normal;
     }
   }
 
@@ -152,16 +151,35 @@
     vertical-align: middle;
 
     // @TODO: Remove when the default style has been reverted to default values?
-    font-size: 1.5em;
+    font-size: 1.4em;
     .topic-link {
       @include link-color($white, $highlight_text);
       display: block;
     }
   }
 
+  .topic-link:before {
+    background-repeat: no-repeat;
+    background-position: center center;
+    content: ' ';
+    display: block;
+    float: left;
+    height: 3em;
+    width: 3em;
+  }
+  .topic-information-management:before {
+    background-image: url($base_url + "images/other/icon-information-management.png");
+  }
+  .topic-data-uptake:before {
+    background-image: url($base_url + "images/other/icon-data-uptake.png");
+  }
+  .topic-openness-engagement:before {
+    background-image: url($base_url + "images/other/icon-openness-engagement.png");
+  }
+
   @include media-query-min($bp_medium) {
     .title {
-      font-size: 1.8em;
+      font-size: 1.7em;
 
       > em {
         display: block;
