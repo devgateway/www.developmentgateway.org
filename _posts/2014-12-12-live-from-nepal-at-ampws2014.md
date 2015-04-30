@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1493
-author: Paige Kirby
+author: Jean-Louis Sarbib
 created: 1418396444
 old_path: news/live-nepal-ampws2014
 title: 'Live from Nepal at #AMPWS2014'
