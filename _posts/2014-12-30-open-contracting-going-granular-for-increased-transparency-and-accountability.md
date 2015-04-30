@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1495
-author: Paige Kirby
+author: Dustin Homer & Rebecca Latourell
 created: 1419949518
 old_path: news/open-contracting-going-granular-increased-transparency-and-accountability
 title: 'Open Contracting: Going Granular for Increased Transparency and Accountability'
@@ -38,4 +38,3 @@ Stay tuned - on next week’s blog, we will share lessons learned from the works
 
 *This post has been modified and was originally published on [The First Tranche](http://aiddata.org/blog/open-contracting-going-granular-for-increased-transparency-and-accountability).*
 
-*Dustin Homer is Manager of Business Development and Partnerships with Development Gateway and an AidData Project Manager. Rebecca Latourell is a Policy Specialist with AidData.*
