@@ -5,8 +5,9 @@
   border-bottom: 1px solid $grey_lightest;
 
   // Sticky navigation on large devices.
-  min-height: 3.5em;
   @include media-query-min($bp_medium) {
+    min-height: 3.5em;
+
     .page-navigation {
       background-color: $white;
       line-height: 1.5em;
