@@ -14,7 +14,7 @@ weight: 4
 
 <--colbreak-->
 
-<h3 class="highlighted-title">Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h3>
+<h3 class="highlighted-title intro-title">Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h3>
 {% endmulticols %}
 
 <div class="page-section">
