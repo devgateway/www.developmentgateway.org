@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1490
-author: Paige Kirby
+author: Jean-Louis Sarbib
 created: 1417619245
 old_path: news/scaling-south-south-cooperation
 title: Scaling up South-South Cooperation
