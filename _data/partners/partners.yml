@@ -1,4 +1,6 @@
 
+  <h3 class="highlighted-title">Governments</h3>
+  
 - name: Burkina Faso
   flag: burkina-faso.svg
   id:
@@ -128,6 +130,8 @@
   flag:
   id:
   category:
+
+  <h3 class="highlighted-title">Organizations</h3>
 
 - name: Asian Development Bank
   flag:
