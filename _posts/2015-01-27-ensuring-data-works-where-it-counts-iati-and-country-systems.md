@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1501
-author: Paige Kirby
+author: Josh Powell
 created: 1422368127
 old_path: news/ensuring-data-works-where-it-counts-iati-and-country-systems
 title: 'Ensuring Data Works Where it Counts: IATI and Country Systems'
@@ -52,6 +52,5 @@ Specific deliverables will include:
 
 We look forward to working closely with the IATI Secretariat and Technical Advisory Group (TAG) over the next 6 months, and especially with our government colleagues, to make sure that IATI data are useful where they are needed most.
 
-*Josh Powell is the Director of Innovation at Development Gateway.*
 
 *Image of IATI data from the [Open Knowledge Foundation](https://www.flickr.com/photos/okfn/5558849930/) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/).*
