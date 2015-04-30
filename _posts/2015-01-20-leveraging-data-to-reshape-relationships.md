@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1498
-author: Paige Kirby
+author: Anna van Schie
 created: 1421772610
 old_path: news/leveraging-data-reshape-relationships
 title: Leveraging Data to Reshape Relationships
@@ -27,6 +27,5 @@ Learning about successful high-level data uptake was a great experience. However
 
 Is the creation of more data alone sufficient to increase uptake? Stay tuned for our next #AMPWS2014 post, in which the Governments of Malawi and Niger wrestles with this very question.
 
-*Anna van Schie is a Business Development Intern at Development Gateway.*
 
 *Image: Government of Nepal representative showcasing a data-driven report at the AMP Good Practices Workshop. *
