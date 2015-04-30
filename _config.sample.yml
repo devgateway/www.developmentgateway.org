@@ -42,7 +42,7 @@ image:
 
 collections:
   homepage_sections:
-    output: true
+    output: false
   expertise_topics:
     output: true
 
