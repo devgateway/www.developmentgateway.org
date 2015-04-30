@@ -10,20 +10,18 @@ weight: 4
 
 {% multicols pageintro half %}
 
-<img src="/images/other/innovation-banner.png" alt="innovation points" role="banner">
+<img src="/images/other/innovation-graphic.png" alt="innovation points" role="banner">
 
 <--colbreak-->
 
-<h2>Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h2>
-
-<p>Development Gateway builds on over 15 years of technical and institutional expertise. Through developing tools, processes, and custom analyses, we help our partners better collect and understand information to achieve greater impact.</p>
-
-<p>The Development Gateway team is a unique mix of techies — software engineers who research and build innovative new tools — and non-techies who understand development challenges. Most of our team members speak more than one language and have worked in various parts of the world. Project teams include members with a mix of skills, so that we approach problems with institutional as well as technical aspects in mind.<p/>
-
-<p>Case studies should be blog posts selected to be "featured" - so can be statically input if easiest to implement. Related posts (below case studies) should be ones most recently tagged as "Innovation", but if too time consuming to implement that could be phase 2.</p>
-
-
+<h3 class="highlighted-title">Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h3>
 {% endmulticols %}
+
+<div class="page-section">
+<h3>Language on DG style of Innovation, to include Research Partnership Language. Nunc arcu augue, imperdiet at leo sit amet, convallis semper nibh. Integer eu finibus risus. </h3>
+
+<p>Proin sit amet vestibulum dui. Nam euismod sem non velit vulputate tempus. Vestibulum quam mi, tincidunt nec lectus eget, finibus imperdiet nisi. Nam eget mi vulputate, rhoncus nunc sed, elementum tortor. Phasellus tristique diam ac quam pellentesque, eget laoreet ipsum vulputate.</p>
+</div>
 
 
 
