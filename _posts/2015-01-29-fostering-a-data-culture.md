@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1500
-author: Paige Kirby
+author: Anna van Schie
 created: 1422512123
 old_path: news/fostering-data-culture
 title: Fostering a “Data Culture”
@@ -31,6 +31,5 @@ Increased data availability does not guarantee an increased uptake or usage. As 
 
 So how do we shift from qualitative to quantitative decision making? With partner governments, Development Gateway is working to catalyze data uptake through identifying “data champions” – high-ranking officials in government departments who push their peers towards data-driven decision making. Importantly, building a data culture and improving accessibility are not mutually exclusive; both can be tackled in tandem, and are vital to making the Data Revolution work for everyone.
 
-*Anna van Schie is a Business Development Intern at Development Gateway.*
 
 *Image: Government of Malawi Representatives at #AMPWS2014.*
