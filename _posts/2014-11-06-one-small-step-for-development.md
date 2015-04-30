@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1481
-author: Paige Kirby
+author: Taryn Davis
 created: 1415276634
 old_path: news/one-small-step-development
 title: One Small Step for Development
@@ -22,6 +22,5 @@ That last part is so important and goes along with making actors feel ownership 
 
 As we make progress, it’s important to remember that not everything will turn out exactly how we picture it, and we might not immediately achieve the goals and dreams we work so hard for, but that doesn’t mean that no progress is being made at all. [DataScience LTD recently made this point](http://datascience.co.ke/blog/the-underplayed-outcomes-of-kenya-open-data-initiative/) in relation to the Kenya Open Data Initiative. In the face of those who have declared the initiative as dead, the company points out all the positive change that the initiative has made, and is still making. It might not be the magic bullet (it never is though is it?) but it might be the ladder that leads to higher ground.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This piece was originally published on AidData's [The First Tranche](http://aiddata.org/blog/this-week-one-small-step-for-development-project-pulse-in-bhutan).*
