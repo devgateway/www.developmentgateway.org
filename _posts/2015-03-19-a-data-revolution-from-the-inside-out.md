@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1515
-author: Paige Kirby
+author: Benjamin Arancibia
 created: 1426767708
 old_path: news/data-revolution-inside-out
 title: A Data Revolution from the Inside Out
@@ -28,6 +28,5 @@ Who in your organization should care about data science? Everyone. Project Manag
 
 For the data revolution to become a meaningful contributor to the SDGs, organizations need to ensure their staff understand basic statistics and analysis – otherwise, the investment in data will have a reduced payoff, programs will underperform, and we will fall short of our goals for the next 15 years.
 
-*Benjamin Arancibia is a Technical Associate at Development Gateway.*
 
 *Image from [benedikt koehler](https://www.flickr.com/photos/metaroll/6621199759) [CC-BY NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).*
