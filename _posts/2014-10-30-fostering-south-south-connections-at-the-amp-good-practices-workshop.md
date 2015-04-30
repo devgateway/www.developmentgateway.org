@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1479
-author: Paige Kirby
+author: Taryn Davis
 created: 1414672848
 old_path: news/fostering-south-south-connections-amp-good-practices-workshop
 title: Fostering South-South Connections at the AMP Good Practices Workshop
@@ -24,4 +24,3 @@ Every year we get feedback about how valuable it is to learn from other countrie
 
 This year’s workshop will be held in Kathmandu, Nepal on December 10-12. We look forward to see the relationships that will be built and the lessons that our partners will share. Every year a general theme runs through the workshop, and this year the theme is: “Meeting the Challenge of Open Data.” While many sessions will be structured around this topic and include some hands-on learning, the workshop is designed to be flexible to adapt to topics into which attendees want to dig deeper. Led by the country participants the workshop gives them an opportunity to share, lead, dictate, create, discuss, and hopefully, plan for the productive use of the AMP to promote the most efficient use of resources, increase transparency and accountability, and allow citizens to know and see where the money goes.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
