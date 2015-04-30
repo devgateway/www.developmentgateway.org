@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1497
-author: Paige Kirby
+author: Dina Abdel-Fattah
 created: 1421071141
 old_path: news/next-five-years-replacing-build-back-better-cycle-constructive-communication
 title: 'The Next Five Years: Replacing "Build Back Better" with a Cycle of Constructive
@@ -32,6 +32,5 @@ However, a tool is only as good as its inputs. Late reporting or funding that do
 
 Rather than look back on the past five years, let’s look forward to the next five - and recommit ourselves to being reliable, equal partners working towards a sustainable future.
 
-*Dina Abdel-Fattah is an Associate at Development Gateway and manages Development Gateway’s work with the MGAE in Haiti.*
 
 *Image from: [DFID – UK Department for International Aid](https://www.flickr.com/photos/dfid/4776467337), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).  *
