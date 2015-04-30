@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1488
-author: Paige Kirby
+author: Taryn Davis
 created: 1417010600
 old_path: news/world-counts-vs-world-hides
 title: A World that Counts vs. A World that Hides
@@ -27,7 +27,6 @@ He goes on to focus on the importance of building an “empowered but regulated 
 
 And we all agree how important transparency is. [A guest post on Oxfam’s From Poverty to Power blog](http://oxfamblogs.org/fp2p/the-four-magic-words-of-development-by-tom-carothers-and-saskia-brechenmacher/) noted the resounding AMEN to four critical principles for development-accountability, transparency, participation, and inclusion. However, what these mean in action can be drastically different depending on what point of view we are coming from. The authors note that a stronger consensus will likely determine the success of truly integrating these principles into development.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *Image from [United Nations Photo](https://www.flickr.com/photos/un_photo/3311542781), CC BY-NC-ND 2.0*
 
