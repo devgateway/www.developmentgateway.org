@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1496
-author: Paige Kirby
+author: Dustin Homer & Rebecca Latourell
 created: 1420555880
 old_path: news/open-contracting-open-development-insights-and-applications
 title: 'Open Contracting for Open Development: Insights and Applications'
@@ -35,4 +35,3 @@ The work in Nepal proves that the OCDS can be implemented, and that standardized
 
 *This post has been modified and was originally published on [The First Tranche](http://aiddata.org/blog/open-contracting-for-open-development-insights-and-applications).*
 
-*Dustin Homer is the Manager of Business Development and Partnerships with Development Gateway and a Project Manager with AidData. Rebecca Latourell is a Policy Specialist with AidData.*
