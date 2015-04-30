@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1478
-author: Paige Kirby
+author: Dustin Homer & Paige Kirby
 created: 1414155703
 old_path: news/whats-next-iati
 title: What's next for IATI
@@ -33,6 +33,5 @@ Some pilots have already occurred – in the DRC, Rwanda, and others – aiming 
 
 Over the next few years, as we seek country partners willing to adopt IATI into their existing systems and processes, the international community of IATI publishers needs to provide an equal level of support to catalyze IATI uptake. Progress has been made, but we’re only halfway there. DG encourages the IATI community to remember that it’s not enough to fund the creation of data – we have to make sure people can use it.
 
-*Dustin Homer is the Business Development and Partnerships Manager, and Paige Kirby is the External Relations Associate at Development Gateway. *
 
 *Image from the [Open Knowledge Foundation](https://www.flickr.com/photos/okfn/6419794587/in/photolist-aMi8gz-bVSEZQ-8Z9pht-9Ei5gW-9gS9o6-dQXAYm-aywJ1i-h8Ysi2-eeejVG-gGWCfU-h8UDvw-bUY1mb-7V5bEy-dq9qxc-7V5c9A-7V1Xxp-8Hbxda-7V1XgT-7V5bSS-h8Q2Zj-h8QjH1-h8PNXB-h8PZGH-h8NAzp-9gSjVT-9Rk68o-dkYNt8-95fCEB-knv6Mk-knvL1T-knxkSQ-knxo1C-knv9nk-knxtpy-knvTax-knuYPc-knxqVq-knvKtR-knuVyV-knv3qk-knxp2A-knxoqA-knv254-knuYar-knw1Br-kqAVDp-kqAXei-kqDcAQ-knvVC8-knvPZK) under [CC license](https://creativecommons.org/licenses/by/2.0/).*
