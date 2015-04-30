@@ -27,6 +27,8 @@
 // Style for the "empowering.html" homepage section.
 .section-empowering {
   .empowering-subsection {
+    margin-top: 15em;
+
     .column {
       text-align: center;
     }
@@ -267,19 +269,18 @@
 // Background images for homepage sections on large devices.
 @include media-query-min($bp_medium) {
   $gradient: linear-gradient(
-      rgba(0, 0, 0, 0) 10%,
-      rgba(0, 0, 0, 0.6) 35%,
-      rgba(0, 0, 0, 1) 95%);
+      rgba(0, 0, 0, 0) 95%,
+      rgba(0, 0, 0, 1) 99%);
   .section-empowering {
     $background_image: $base_url + 'images/home/frame1.png';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
   $gradient: linear-gradient(
-      rgba(0, 0, 0, 1) 2%,
-      rgba(0, 0, 0, 0.1) 20%,
-      rgba(0, 0, 0, 0.1) 80%,
-      rgba(0, 0, 0, 1) 98%);
+      rgba(0, 0, 0, 1) 1%,
+      rgba(0, 0, 0, 0) 5%,
+      rgba(0, 0, 0, 0) 95%,
+      rgba(0, 0, 0, 1) 99%);
   .section-expertise {
     $background_image: $base_url + 'images/home/frame2.png';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
@@ -291,9 +292,8 @@
   }
 
   $gradient: linear-gradient(
-      rgba(0, 0, 0, 1) 2%,
-      rgba(0, 0, 0, 0.1) 20%,
-      rgba(0, 0, 0, 0.1) 80%);
+      rgba(0, 0, 0, 1) 1%,
+      rgba(0, 0, 0, 0) 5%);
   .section-latest-stories {
     $background_image: $base_url + 'images/home/frame4.png';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
