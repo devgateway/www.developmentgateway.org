@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1503
-author: Paige Kirby
+author: Fabrice Musoni & Guillaume Léveillé
 created: 1423141819
 old_path: news/notes-field-geocoding-aid-data-drc
 title: 'Notes from the Field: Geocoding Aid Data in DRC'
@@ -54,4 +54,3 @@ Nous sommes enthousiastes de poursuivre notre partenariat avec le gouvernement c
 
 La RDC est munie de la PGAI depuis 2008 et les efforts d’intégrer la fonctionnalité SIG dans la plateforme informatisée ont commencé en 2013. La PGAI possède une des bases de données nationales sur l’aide publique au développement la plus volumineuse avec ses 7,000 projets totalisant plus de 13 milliards de dollars de 1999 à 2015.
 
-*Fabrice Musoni est un Consultant avec Development Gateway. Guillaume Léveillé est un Expert en Géocodage à Development Gateway.*
