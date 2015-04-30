@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1509
-author: Paige Kirby
+author: Bibhusan Bista & Anna van Schie
 created: 1424966601
 old_path: news/message-data-intermediaries
 title: A Message from Data Intermediaries
@@ -37,6 +37,5 @@ The extra effort required to put data into the right format, and to make it open
 
 From their role as intermediaries, YI urges suppliers to hold up their end of the bargain: when suppliers provide high-quality information, intermediaries can better facilitate demand, and the Open Data Ecosystem can flourish.
 
-*Bibhusan Bista is the CEO of YoungInnovations and a co-founder of Open Nepal. Anna van Schie is a Business Development Intern at Development Gateway.*
 
 *Image from [Open Nepal](https://www.flickr.com/photos/opennepal/8966416028/) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).*
