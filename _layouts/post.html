@@ -1,37 +1,46 @@
 ---
 layout: default
+page_navigation:
+  - { url: blog, title: Back to blog listing }
 ---
 
-<div class="blog-page-wrapper page-layout-element clearfix">
+<div class="blog-page-wrapper">
 
-  <div class="blog-main-column-wrapper blog-post-wrapper">
-    <header class="post-header">
-      <div class="post-header-inner">
-        <h1 class="title">{{ page.title }}</h1>
-
-        <p class="post-meta">
-          {{ page.date | date: "%b %-d, %Y" }}
-          {% if page.author %}
-            • {{ page.author }}
-          {% endif %}
-          {% if page.meta %}
-            • {{ page.meta }}
-          {% endif %}
-        </p>
-      </div>
-    </header>
-
-    <article class="post-content">
-      <div class="post-content-inner">
-        {{ content }}
-      </div>
-    </article>
+  {% if page.page_navigation %}
+  <div class="page-navigation-wrapper">
+    {% include widgets/page-navigation.html entries=page.page_navigation %}
   </div>
+  {% endif %}
 
-  <section class="blog-sidebar-wrapper">
-    <div class="blog-sidebar">
-      {% include main/blog-sidebar.html %}
+  <div class="page-layout-element clearfix">
+    <div class="blog-main-column-wrapper blog-post-wrapper">
+      <header class="post-header">
+        <div class="post-header-inner">
+          <h1 class="title">{{ page.title }}</h1>
+
+          <p class="post-meta">
+            {{ page.date | date: "%b %-d, %Y" }}
+            {% if page.author %}
+            • {{ page.author }}
+            {% endif %}
+            {% if page.meta %}
+            • {{ page.meta }}
+            {% endif %}
+          </p>
+        </div>
+      </header>
+
+      <article class="post-content">
+        <div class="post-content-inner">
+          {{ content }}
+        </div>
+      </article>
     </div>
-  </section>
 
+    <section class="blog-sidebar-wrapper">
+      <div class="blog-sidebar">
+        {% include main/blog-sidebar.html %}
+      </div>
+    </section>
+  </div>
 </div>

@@ -2,12 +2,16 @@
 {% stripwhitespace %}
 <ul id="page-navigation" class="page-navigation clearfix">
   {% for entry in include.entries %}
-    {% unless entry.id %}
+    {% if entry.id != null %}
+      {% assign entry_url=entry.id | prepend: '#' %}
+    {% elsif entry.url != null %}
+      {% assign entry_url=entry.url | prepend: site.baseurl %}
+    {% else %}
       {% continue %}
-    {% endunless %}
+    {% endif %}
 
     <li class="item">
-      <a href="#{{ entry.id }}" class="link" title="Jump to {{ entry.title }}">
+      <a href="{{ entry_url }}" class="link" title="Jump to {{ entry.title }}">
         {{ entry.title }}
       </a>
     </li>
