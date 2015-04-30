@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1526
-author: Paige Kirby
+author: Josh Powell & Liz Dodds
 created: 1429789064
 old_path: news/financing-future-2015-some-hits-and-misses-future-development-finance
 title: 'Financing the Future 2015: Some Hits and Misses on the Future of Development
@@ -10,7 +10,7 @@ lede: A few weeks ago, an Overseas Development Institute-led consortium of partn
   hosted a wide range of organizations and Governments for an event entitled “Financing
   the Future.” In essence, the purpose of this event was to collect feedback and share
   thoughts on the the “zero draft” of the Financing for Development (FfD) outcome
-  document which hit during the event, with the final d
+  document which hit during the event...
 thumbnail: assets/featured-images/cazuodru8aa-mpz.jpg
 thumbnail-fid: "6219"
 thumbnail-alt: ""
@@ -40,6 +40,5 @@ Perhaps *the* key change from years past was positioning ODA as a catalytic ende
 
 With the release of the “zero draft”, donors, governments, scholars, and advocacy groups alike are beginning to weigh in on what is missing or weak in the current draft. An updated draft will be circulated in advance of July’s FfD summit, which will draw some of the top policymakers from developed and developing countries, multilateral development banks, civil society, and the private sector to determine how FfD can contribute to kick-starting the era of sustainable development.
 
-*Josh Powell is Director of Innovation for Development Gateway and AidData. Liz Dodds is a Consultant working on the Open Aid Partnership at the World Bank.*
 
 *This piece was originally posted on the [First Tranche](http://aiddata.org/blog/financing-the-future-2015-some-hits-and-misses-on-the-future-of-development-finance). Image from [@AectForAfrica](https://twitter.com/AcetforAfrica/status/578242659334144000).*
