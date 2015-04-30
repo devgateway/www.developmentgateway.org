@@ -61,7 +61,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 # Change the default blog post link.
-permalink: "/:year/:month/:day/:title.html"
+permalink: "/:year/:month/:day/:title"
 
 # Exclude files/folders from being processed by Jekyll and copied to the built website.
 exclude:
