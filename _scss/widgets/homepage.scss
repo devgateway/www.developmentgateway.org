@@ -200,6 +200,13 @@
     margin-bottom: 0;
   }
 
+  // @TODO: Remove once image processing has been fixed.
+  .blog-image-wrapper {
+    & > img {
+      min-height: 12em;
+    }
+  }
+
   @include media-query-max($bp_medium) {
     .blog-image-wrapper {
       display: none;
