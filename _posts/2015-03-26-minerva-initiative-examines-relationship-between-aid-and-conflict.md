@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1510
-author: Paige Kirby
+author: Martha Staid
 created: 1427376727
 old_path: news/minerva-initiative-examines-relationship-between-aid-and-conflict
 title: Minerva Initiative examines relationship between aid and conflict
@@ -28,4 +28,5 @@ This work is supplemented by further research under the Minerva Initiative. Curr
 
 [Read the University of Maryland press release here](http://www.cidcm.umd.edu/about/announcements/announcement.aspx?id=324). For more information on the current Strauss Center collaboration, [click here](/news/announcing-new-minerva-initiative-grant-study-complex-emergencies-asia).
 
-*Martha Staid is a Senior Associate at Development Gateway, an institutional member of the AidData partnership. This is a modified post originally published on AidData's [The First Tranche](http://aiddata.org/blog/new-minerva-research-explores-the-relationship-between-aid-and-conflict). *
+
+*This is a modified post originally published on AidData's [The First Tranche](http://aiddata.org/blog/new-minerva-research-explores-the-relationship-between-aid-and-conflict). *
