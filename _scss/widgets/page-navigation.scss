@@ -60,7 +60,7 @@
       text-decoration: none;
     }
     &.active {
-      background: $blue_deep;
+      background:$header_logo;
       color: $white;
     }
     @include media-query-min($bp_medium) {
