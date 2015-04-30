@@ -148,9 +148,8 @@
     color: $blue_vibrant;
 
     &:hover {
-      color: $highlight_text;
-      border-color: $blue_vibrant;
-      background-color: $black;
+      border-color: $blue_deep;
+      background-color:$blue_deep;
     }
   }
 
