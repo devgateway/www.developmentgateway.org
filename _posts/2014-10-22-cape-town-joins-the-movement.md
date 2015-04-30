@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1477
-author: Paige Kirby
+author: Sarah McDuff
 created: 1413976497
 old_path: news/cape-town-joins-movement
 title: Cape Town Joins the Movement
@@ -25,7 +25,6 @@ While some criticisms have been raised on [whether Cape Town’s policy goes far
 
 As with any open data initiatives, it will be critical that the city raises awareness about the portal, effectively monitors data quality, and encourages use of the data. As IBM’s Chief Information Strategist recently pointed out, “[Lots of cities are publishing open data in vast online catalogs that remain under-utilized](http://gijn.org/2014/10/08/open-data-in-the-21st-century-city/).” At the least, this could be an impetus for increased conversations on the opening of city government data across the continent.
 
-*Sarah McDuff is an Associate at Development Gateway.*
 
 *Image credit: [www.htxt.co.za](http://www.htxt.co.za/2014/09/26/cape-town-approves-plan-to-create-open-data-portal-but-does-policy-go-far-enough/)*
 
