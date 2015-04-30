@@ -66,15 +66,19 @@ weight: 0
 
 
 <section id="financials"  class="page-section">
-  <h2>Annual Reports</h2>
-  <p>[2012-2014 Report](dg_uploads/pdfs/dg_2014_annual_report_eng.pdf)</p>
-  <p>[2011 Report](/dg_uploads/pdfs/dg_2011_annual_report_eng.pdf)</p>
-  <p>[2010 Report](/dg_uploads/pdfs/dg_annual_report-2010eng.pdf)</p>
-  <h2>Combined Financial Statements</h2>
-  <p>[Years 2013-2012](/dg_uploads/pdfs/combined_financial_statements_for_the_years_ended_june_30_2013_and_2012.pdf)</p>
-  <p>[Years 2012-2011](/dg_uploads/pdfs/2012_audited_financials.pdf)</p>
-  <p>[Years 2011-2010](/dg_uploads/pdfs/combined_financial_statements_for_the_years_ended_june_30_2011_and_2010.pdf)</p>
-  <h2>Form 990s</h2>
-  <p>[Year 2013](/dg_uploads/pdfs/form990-2013.pdf)</p>
-  <p>[Year 2012](/dg_uploads/pdfs/2012-990.pdf)</p>
-  <p>[Year 2011](/dg_uploads/pdfs/form990-2011.pdf)</p>
+  <h2>Financials</h2>
+
+  {% for group in site.data.financials %}
+    <h3>{{ group.type }}</h3>
+
+    <ul>
+      {% for item in group.items %}
+      <li>
+        <a href="{{ item.file | prepend: site.baseurl }}" target="_blank">
+          {{ item.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</section>
