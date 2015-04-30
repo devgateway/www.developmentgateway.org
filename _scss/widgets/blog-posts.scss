@@ -37,6 +37,9 @@
     margin: 1em 0;
     padding: 0.3em;
 
+    // @TODO: Remove once image processing has been fixed.
+    min-width: 15em;
+
     @include media-query-max($bp_medium) {
       display: none;
     }

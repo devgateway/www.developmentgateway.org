@@ -13,9 +13,12 @@
     }
     // Spacing for background images on large devices.
     @include media-query-min($bp_medium) {
-      padding: 10em 0;
+      padding: 15em 0;
       &.section-empowering {
         padding: 20em 0 0;
+      }
+      &.section-latest-stories {
+        padding: 10em 0;
       }
     }
   }
@@ -197,6 +200,13 @@
     margin-bottom: 0;
   }
 
+  // @TODO: Remove once image processing has been fixed.
+  .blog-image-wrapper {
+    & > img {
+      min-height: 12em;
+    }
+  }
+
   @include media-query-max($bp_medium) {
     .blog-image-wrapper {
       display: none;
@@ -259,24 +269,33 @@
   $gradient: linear-gradient(
       rgba(0, 0, 0, 0) 10%,
       rgba(0, 0, 0, 0.6) 35%,
-      rgba(0, 0, 0, 1) 55%);
+      rgba(0, 0, 0, 1) 95%);
   .section-empowering {
-    $background_image: $base_url + 'images/home/engineer-wide.jpg';
+    $background_image: $base_url + 'images/home/frame1.png';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
+  $gradient: linear-gradient(
+      rgba(0, 0, 0, 1) 2%,
+      rgba(0, 0, 0, 0.1) 20%,
+      rgba(0, 0, 0, 0.1) 80%,
+      rgba(0, 0, 0, 1) 98%);
   .section-expertise {
-    $background_image: $base_url + 'images/home/expertise.jpg';
-    @include l-background-image($background_image);
+    $background_image: $base_url + 'images/home/frame2.png';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
   .section-partners {
-    $background_image: $base_url + 'images/home/partners.jpg';
-    @include l-background-image($background_image);
+    $background_image: $base_url + 'images/home/frame3.png';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
+  $gradient: linear-gradient(
+      rgba(0, 0, 0, 1) 2%,
+      rgba(0, 0, 0, 0.1) 20%,
+      rgba(0, 0, 0, 0.1) 80%);
   .section-latest-stories {
-    $background_image: $base_url + 'images/home/latest-stories-bg.jpg';
-    @include l-background-image($background_image);
+    $background_image: $base_url + 'images/home/frame4.png';
+    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 }
