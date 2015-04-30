@@ -1,34 +1,39 @@
+
 <div class="blog-sidebar-element">
   <h3>Stay Informed</h3>
   {% include subscribe-form.html class='form--compact clearfix' %}
 </div>
 
-<!--blog post categories list. should we create those as a navigation similar to the page subnavs ? -->
+{% if site.categories != empty %}
 <div class="blog-sidebar-element categories-wrapper">
   <h3>Categories</h3>
 
-  <ul>
-    <!--finish the link structure once we agree on category file structure-->
-    <li><a href="">Aid Management</a></li>
-    <li><a href="">IATI</a></li>
-    <li><a href="">Innovation</a></li>
-    <li><a href="">Open Data</a></li>
-    <li><a href="">Open Contracting</a></li>
+  <ul class="categories">
+    {% for category in site.categories %}
+    <li class="category">
+      {% assign category_url = category[0] | slugify | prepend: 'categories/' %}
+      <a href="{{ category_url | prepend: site.baseurl}}">
+        {{ category[0] }}
+      </a>
+    </li>
+    {% endfor %}
   </ul>
 </div>
-<!--end: category list-->
+{% endif %}
 
-<!--start: tags -> how would we pull these from the posts where they are added-->
+{% if site.tags != empty %}
 <div class="blog-sidebar-element tags-wrapper">
   <h3>Tags</h3>
 
-  <ul class="clearfix">
-    <li><a class="tag-link" href="#">innovation</a></li>
-    <li><a class="tag-link" href="#">country program</a></li>
-    <li><a class="tag-link" href="#">aid management</a></li>
-    <li><a class="tag-link" href="#">amp</a></li>
-    <li><a class="tag-link" href="#">country program</a></li>
+  <ul class="tags clearfix">
+    {% for tag in site.tags %}
+    <li class="tag">
+      {% assign tag_url = tag[0] | slugify | prepend: 'tags/' %}
+      <a class="tag-link" href="{{ tag_url | prepend: site.baseurl}}">
+        {{ tag[0] }}
+      </a>
+    </li>
+    {% endfor %}
   </ul>
-
 </div>
-<!--end: tags-->
+{% endif %}
