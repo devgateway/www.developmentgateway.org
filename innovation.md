@@ -12,6 +12,7 @@ weight: 4
 </section>
 
 <div class="page-section">
+<h2>Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h2>
 
 <p>Development Gateway builds on over 15 years of technical and institutional expertise. Through developing tools, processes, and custom analyses, we help our partners better collect and understand information to achieve greater impact.</p>
 
