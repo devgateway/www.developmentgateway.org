@@ -6,6 +6,7 @@ page_navigation:
   - { id: about, title: About }
   - { id: board-of-directors, title: Board of Directors }
   - { id: team, title: Team }
+  - { id: financials, title: Financials }
 permalink: /about/
 weight: 0
 ---
@@ -61,4 +62,23 @@ weight: 0
     </li>
     {% endfor %}
   </ul>
+</section>
+
+
+<section id="financials"  class="page-section">
+  <h2>Financials</h2>
+
+  {% for group in site.data.financials %}
+    <h3>{{ group.type }}</h3>
+
+    <ul>
+      {% for item in group.items %}
+      <li>
+        <a href="{{ item.file | prepend: site.baseurl }}" target="_blank">
+          {{ item.name }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </section>
