@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1475
-author: Paige Kirby
+author: Taryn Davis
 created: 1413304238
 old_path: news/we-need-revolution
 title: We Need a Revolution!
@@ -30,6 +30,5 @@ The recently published brief “[From Numbers to Nurses: Why Budget Transparency
 
 Slides from the event “[The Power of Data: Extractives Data Event in Washington](http://www.resourcegovernance.org/news/october-9-washington-power-data-transform-natural-resource-governance-and-drive-economic-develo)” by the Natural Resource Governance Institute highlights some powerful information how open data can help improve and enlighten extractives governance. This data will become increasingly important as climate change alters the balance of resources globally. One area this is already playing out is in [China’s limited water resources](http://www.theguardian.com/sustainable-business/2014/oct/10/china-water-dilemma-farming-growing-urban-population) which are critical to China’s and therefore the world’s food sources, but may soon begin to be diverted to more urban and similarly important industrial sector.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This piece was slightly modified from its original publication on AidData's [The First Tranche](http://aiddata.org/blog/this-week-we-need-a-revolution-project-pulse-cote-divoire).*
