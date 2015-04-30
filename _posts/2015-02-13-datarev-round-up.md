@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1505
-author: Paige Kirby
+author: Taryn Davis
 created: 1423840554
 old_path: news/datarev-round
 title: DataRev Round-Up
@@ -21,7 +21,6 @@ One thing that is on many local community’s plates is building resilience agai
 
 Have a little bit of time on your hands? Not really, but love learning anyway? Lucky for you there are a few options that are quick and accessible from wherever you get Wi-Fi. Check out the [Engineering for Change webinar series](http://www.engineeringforchange-webinars.org/). Then after that, check out USAID’s course on [How to Use Mobile Data Solutions for Better Development Outcomes](http://www.ictworks.org/2015/01/16/free-usaid-course-how-to-use-mobile-data-solutions-for-better-development-outcomes/).
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This piece has been modified and was originally posted on the [First Tranche.](http://aiddata.org/blog/this-week-state-of-the-data-revolution-project-pulse-in-senegal)*
 
