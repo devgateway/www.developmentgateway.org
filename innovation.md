@@ -7,11 +7,13 @@ weight: 4
 ---
 
 
-<div class="page-section">
-<img src="/images/other/innovation-banner.png" alt="innovation points" role="banner">
-</section>
 
-<div class="page-section">
+{% multicols pageintro half %}
+
+<img src="/images/other/innovation-banner.png" alt="innovation points" role="banner">
+
+<--colbreak-->
+
 <h2>Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h2>
 
 <p>Development Gateway builds on over 15 years of technical and institutional expertise. Through developing tools, processes, and custom analyses, we help our partners better collect and understand information to achieve greater impact.</p>
@@ -19,7 +21,11 @@ weight: 4
 <p>The Development Gateway team is a unique mix of techies — software engineers who research and build innovative new tools — and non-techies who understand development challenges. Most of our team members speak more than one language and have worked in various parts of the world. Project teams include members with a mix of skills, so that we approach problems with institutional as well as technical aspects in mind.<p/>
 
 <p>Case studies should be blog posts selected to be "featured" - so can be statically input if easiest to implement. Related posts (below case studies) should be ones most recently tagged as "Innovation", but if too time consuming to implement that could be phase 2.</p>
-</div>
+
+
+{% endmulticols %}
+
+
 
 <div class="page-layout-element">
   <h2>Innovation stories released by Development Gateway</h2>
