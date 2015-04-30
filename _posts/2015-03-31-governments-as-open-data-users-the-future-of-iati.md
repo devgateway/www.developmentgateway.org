@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1520
-author: Paige Kirby
+author: Josh Powell
 created: 1427802716
 old_path: news/governments-open-data-users-future-iati
 title: 'Governments as Open Data Users: The Future of IATI'
@@ -32,4 +32,3 @@ Drawing from this really valuable exchange, we’d like to note a few of the mos
 
 We hope this marks the start of a move toward ensuring that global open development data are responsive to local context and use, and that IATI can help Partner Countries drive down costs, while improving data and decisions.
 
-*Josh Powell is the Director of Innovation at Development Gateway and AidData.*
