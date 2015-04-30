@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1511
-author: Paige Kirby
+author: Josh Powell & Paige Kirby
 created: 1425389913
 old_path: news/liberating-35-years-usaid-experience
 title: Liberating 35 Years of USAID Experience
@@ -26,6 +26,5 @@ To “liberate” DEC information, [AidData](http://aiddata.org/) is piloting a 
 
 Of course, simply unleashing this information doesn’t mean we’ve solved everything. We still need to learn how to effectively interpret data for better decision-making and creatively employ it to spark on-the-ground innovations. As CGD suggests, this would be much easier if DEC documentation was properly associated with the programmatic and financial data contained in the [Foreign Assistance Dashboards](http://www.foreignassistance.gov/web/default.aspx). As a first step, USAID and AidData are collaborating to organize a Hackathon on April 30-May 1 at the [OpenGov Hub ](http://opengovhub.org/)using the DEC, Foreign Assistance Dashboard, and other data sources in tandem to identify trends and stories in the impact and effectiveness of US Foreign Assistance. Stay tuned for more updates along the way.
 
-*Joshua Powell is the Director of Innovation at Development Gateway and AidData. Paige Kirby is an External Relations Associate at Development Gateway.*
 
 *This article was originally published on AidData's [The First Tranche](http://aiddata.org/blog/liberating-35-years-of-usaid-experience).*
