@@ -25,6 +25,5 @@ How can we as private citizens support more, higher-quality open data from the U
 
 After numerous studies on [data use](/news/demand-side-data-revolution-lessons-government-nepal), [citizen voice](/news/making-citizen-feedback-more-actionable-uganda), and [data ecosystems](/news/fostering-data-culture) internationally, we cannot forget to apply those lessons here at home. Open data starts with individuals, and it’s all of our responsibilities to cultivate a thriving and transparent ecosystem.
 
-*Paige Kirby is an External Relations Associate at Development Gateway.*
 
 *Image from [AidData's Twitter](https://twitter.com/AidData/status/570618717345878016).*
