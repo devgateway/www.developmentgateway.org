@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1504
-author: Paige Kirby
+author: Josh Powell
 created: 1423664893
 old_path: news/staging-geospatial-data-revolution
 title: Staging a Geospatial Data Revolution
@@ -46,7 +46,6 @@ Reviewing the past 15 years, much has been achieved in getting, using, and publi
 
 *Next week, we’ll take a look at [three major challenges ](/news/launching-geospatial-data-revolution)for the development community in launching a Geospatial Data Revolution.*
 
-*Josh Powell is the Director of Innovation at Development Gateway and AidData.*
 
 *This was first presented at the [Esri Federal GIS Conference ](http://www.esri.com/events/federal)on February 9, 2015.*
 *Image from [Elif Ayiter](https://www.flickr.com/photos/alpha_auer/5068482201) under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).*
