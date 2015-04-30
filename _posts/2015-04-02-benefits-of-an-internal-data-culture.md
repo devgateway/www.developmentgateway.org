@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1516
-author: Paige Kirby
+author: Benjamin Arancibia
 created: 1427978761
 old_path: news/benefits-internal-data-culture
 title: Benefits of an Internal Data Culture
@@ -29,6 +29,5 @@ I came up with four.
 
 So why does this matter to my development organization? The post-2015 Sustainable Development Goals call for a data revolution, and a fundamental part of implementing these goals is fostering the culture that is based not only on the destination, but the road there.
 
-*Benjamin Arancibia is a Technical Associate at Development Gateway.*
 
 *Image from [Sebastiaan ter Burg ](https://www.flickr.com/photos/ter-burg/14560889147) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). This piece was originally posted on AidData's [The First Tranche](http://aiddata.org/blog/this-week-fostering-a-data-driven-culture-post-2015).*
