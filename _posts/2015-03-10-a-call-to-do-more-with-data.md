@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1513
-author: Paige Kirby
+author: Nancy McGuire Choi
 created: 1425993769
 old_path: news/call-do-more-data
 title: A Call to Do More with Data
