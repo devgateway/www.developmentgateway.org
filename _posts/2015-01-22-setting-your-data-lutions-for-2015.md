@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1499
-author: Paige Kirby
+author: Taryn Davis
 created: 1421935005
 old_path: news/setting-your-data-lutions-2015
 title: Setting your Data-lutions for 2015
@@ -26,7 +26,6 @@ If you’re really ready to take the next step in data, then you’re ready for 
 
 Maybe you need something a bit easier to achieve. You can start by celebrating [Data Innovation Day](http://www.datainnovationday.org/) with the Center for Data Innovation and lots of partners to discuss all the ways data innovation is changing the economy and society. So pick your poison, and let’s get ready for another data driven year.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This post was first published on AidData’s [The First Tranche](http://aiddata.org/blog/this-week-setting-your-data-lutions-for-2015-project-pulse-returns).*
 
