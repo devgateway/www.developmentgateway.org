@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1508
-author: Paige Kirby
+author: Dina Abdel-Fattah
 created: 1424785654
 old_path: news/aid-information-matters-us-citizens-too-transparency-efforts-and-domestic-audiences
 title: Aid information matters for U.S. citizens, too – transparency efforts and domestic
@@ -44,7 +44,6 @@ Despite these promising steps forward, there is still a need to further develop 
 
 I hope that country ownership and accountability are at the forefront of foreign assistance discussions. Last year was a pivotal year in US accountability with the enactment of the [Assessing Progress in Haiti Act of 2014](https://www.govtrack.us/congress/bills/113/s1104/text), which puts more calls for more stringent reporting, and consequently accountability, regarding US Government-funded post-earthquake recovery work in Haiti. Liberating more and better data on development resources and results is an important step forward. However, we collectively need to continue to invest in practical ways in which data can be turned into action, whether for evidence-based resource allocation, discussions around development priorities or for monitoring government performance.
 
-*Dina Abdel-Fattah is an Associate at Development Gateway and Project Manager at AidData.*
 
 *This piece has been modified and was originally posted on the [First Tranche](http://aiddata.org/blog/aid-information-matters-for-us-citizens-too-transparency-efforts-and-domestic-audiences).*
 
