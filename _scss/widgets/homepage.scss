@@ -86,6 +86,15 @@
         margin: 0;
       }
     }
+
+    .description-subsection {
+      .column {
+        padding: 0.5em 1em;
+      }
+      .column-0 {
+        border-right: 1px solid $highlight_text;
+      }
+    }
   }
 
   // @TODO: REMOVE! This is temporary.!
@@ -120,12 +129,25 @@
 
   @include media-query-min($bp_medium) {
     .title {
-      font-size: 3em;
-      padding-left: 2em;
+      font-size: 2.8em;
+      padding-left: 2.6em;
     }
 
     .entry {
       display: inline;
+    }
+
+    // @TODO: Cleanup this mess!!!
+    .description-subsection {
+      .column {
+        padding: 0 1em;
+        & > p {
+          margin: 0.5em 0;
+        }
+      }
+      .column-0 {
+        border-right: 1px solid $white;
+      }
     }
   }
 }
@@ -263,11 +285,9 @@
   .description-subsection {
     .column {
       @include l-column-cell(6);
-      padding: 0.5em 1em;
       vertical-align: middle;
     }
     .column-0 {
-      border-right: 1px solid $highlight_text;
       text-align: right;
     }
   }
