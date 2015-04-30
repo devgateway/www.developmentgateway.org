@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1491
-author: Paige Kirby
+author: Taryn Davis
 created: 1417706965
 old_path: news/meeting-challenge-open-data
 title: Meeting the Challenge of Open Data
@@ -27,6 +27,5 @@ For part of the workshop, we will get our hands dirty with the data we already h
 
 Our hope is that these sessions will not only encourage more data use for decisionmaking in our partner countries, but also demonstrate the demand for more transparent and accessible data from non-government actors. Whether our country partners have public data, or haven’t yet taken that step, we look forward to meeting the challenge of open data together.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *[Follow us on Twitter](https://twitter.com/DGateway) and stay up-to-date on #AMPWS2014.*
