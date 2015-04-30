@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1528
-author: Paige Kirby
+author: Taryn Davis
 created: 1429706493
 old_path: news/come-say-hi-innovation-fair
 title: Come say Hi at the Innovation Fair!
@@ -23,6 +23,5 @@ A recent article about the d[ifficulties around getting good data](https://www.d
 
 I’ll be at the Festival’s Innovation Fair representing Development Gateway, and hope you’ll stop by to discuss how we can move towards making this a more successful data revolution.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This piece has been modified and was originally posted on the [First Tranche](http://aiddata.org/blog/this-week-come-say-hi-at-cartagena).*
