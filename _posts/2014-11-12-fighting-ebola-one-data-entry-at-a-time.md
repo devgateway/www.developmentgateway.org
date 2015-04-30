@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1484
-author: Paige Kirby
+author: Taryn Davis
 created: 1415799964
 old_path: news/fighting-ebola-one-data-entry-time
 title: Fighting Ebola, One Data Entry at a Time
@@ -23,7 +23,6 @@ When trying to figure out which cooks are in the kitchen, Aptivate recently adde
 
 But when is data most useful? When it allows people and organizations to make better, more informed decisions to improve efficacy, improve results, and improve lives. One such example is how a little data science allowed the microfinance organization, Zidisha, to[ reduce the number of fraudulent loan applicants](http://www.bayesimpact.org/blog/defending-microfinance-with-data-science.html). This not only decreases the waste of money spent on individuals seeking a quick dollar, but as more individuals pay back loans, faith in the system is increased, and popularity of providing this type of microfinance likely grows and funds become increasingly available for those seeking small loans. Thus we see improved lives, better results and more efficiency stemming from a good look at data that was already available to them.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *Image: Screenshot of [TradeMapper ](http://trademapper.aptivate.org/?csvtype=ocds&loadcsv=http://trademapper.aptivate.org/sample_data/ocds/TradeMap.csv)from Aptivate.*
 
