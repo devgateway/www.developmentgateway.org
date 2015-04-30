@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1506
-author: Paige Kirby
+author: Josh Powell 
 created: 1424182656
 old_path: news/launching-geospatial-data-revolution
 title: Launching a Geospatial Data Revolution
@@ -37,6 +37,5 @@ Taking these challenges and lessons to heart, I’m calling on agencies, organiz
 
 If we can ensure the Data Revolution works for all, we will build a firm foundation for a sustainable future.
 
-*Josh Powell is the Director of Innovation at Development Gateway and AidData.*
 
 *This was first presented at the [Esri Federal GIS Conference](http://www.esri.com/events/federal) on February 9, 2015. Image by [Kris Krüg](https://www.flickr.com/photos/kk/9243266112) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
