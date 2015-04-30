@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1517
-author: Paige Kirby
+author: Benjamin Arancibia, Hamadoun Cisse, Paige Kirby, & Josh Powell
 created: 1426597796
 old_path: news/iati-and-country-systems-data-evaluation-methodology
 title: 'IATI and Country Systems: Data Evaluation Methodology'
@@ -62,4 +62,4 @@ Phase two of this work will include:
 
 Stay tuned for additional updates.
 
-*Associates Benjamin Arancibia, Hamadoun Cisse, Paige Kirby, and Director of Innovation Josh Powell contributed to this post.*
+
