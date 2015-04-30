@@ -11,7 +11,7 @@
     <span class="post-author">
       <span class="fa fa-user"></span>{{ post.author }}
     </span>
-    <span class="post-categories">{{ post.categories }}</span>
+    <span class="post-categories">{{ post.categories | category_links }}</span>
   </div>
 
   {% if post.thumbnail %}

@@ -14,6 +14,7 @@ lede: Since 2010, the Government of Nepal has been maintaining an Aid Management
 thumbnail: assets/featured-images/screen_shot_2015-04-20_at_11.14.22_pm.png
 thumbnail-fid: "6220"
 thumbnail-alt: ""
+categories: [Aid Management]
 ---
 
 Since 2010, the Government of Nepal has been maintaining an Aid Management Platform (AMP), an “effective tool for enhancing transparency and accountability in managing foreign aid in Nepal.” Through an annual Development Cooperation Report (DCR), Nepal’s Ministry of Finance draws on AMP data to offer government officials, donors and the public an overall view of aid trends in country, as well as a series of recommendations for better targeting future development assistance. This year, [AMP’s GIS module](http://amis.mof.gov.np/TEMPLATE/ampTemplate/gisModule/dist/index.html), created through the [USAID/HESN-supported AidData Partnership](http://aiddata.org/), was also used by the Ministry to create a series of maps about aid flows in major sectors.
