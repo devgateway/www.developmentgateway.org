@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Legal
+title: Privacy & Terms
 page_navigation:
   - { id: privacy-policy, title: Privacy Policy }
   - { id: terms-and-conditions, title: Terms and Conditions }
   - { id: copyright, title: Copyright }
+  - { id: cknowledgements, title: Acknowledgements }
 permalink: /privacy-and-terms/
 ---
 
@@ -93,3 +94,8 @@ If you believe that your copyrighted work has been copied and is accessible on t
 Our agent for notice of claim of copyright infringement on this site can be reached as follows:
 
 {% include main/contact-info.html display_email=1 %}
+
+
+# Acknowledgements
+
+Site design by [District Design Group](http://districtdesigngroup.com/). Homepage image courtesy of [Doug Greenall](http://www.douggreenall.com/). 
