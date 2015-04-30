@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1522
-author: Paige Kirby
+author: Taryn Davis
 created: 1428577799
 old_path: news/moocs-maps-robots-oh-my
 title: MOOCs, Maps, & Robots, Oh My!
@@ -26,6 +26,5 @@ Parents, teachers, students and government officials in Kenya now have access to
 
 Kinshasa is finding success through replacing actual human traffic officers with [robots](http://www.theguardian.com/cities/gallery/2015/mar/13/kinshasa-traffic-robots-robocops-in-pictures?CMP=twt_gu) – [robots that direct traffic and give out tickets](http://www.npr.org/blogs/thetwo-way/2015/03/05/391030925/respect-the-robot-giant-robots-oversee-traffic-in-kinshasa). Many of the citizens of Kinshasa are happy with the robots, which provide more safety and organization to the congested streets and don’t take bribes. However, others are wondering [why they don’t put in more traffic lights](http://www.citylab.com/tech/2015/03/the-case-against-giant-traffic-robots/387358/), which are less costly than the giant robots, and spend more effort on improving urban planning.
 
-*Taryn Davis is a Senior Associate at Development Gateway.*
 
 *This piece has been modified and was originally posted on the [First Tranche](http://aiddata.org/blog/this-week-moocs-maps-robots-oh-my).*
