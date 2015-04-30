@@ -72,6 +72,11 @@ cite {
   }
 }
 
+.topic{
+  margin-top:8em;
+  margin-bottom:3em;
+}
+
 .leaflet-top,
 .leaflet-bottom {
   // Fix Leaflet controls stacking order (we don't need z-index: 1000).
