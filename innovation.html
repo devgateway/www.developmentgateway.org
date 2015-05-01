@@ -1,0 +1,32 @@
+---
+layout: page
+title: Innovation
+title_summary: because technology should benefit the common good
+permalink: /innovation/
+---
+
+{% multicols pageintro half %}
+
+  <img src="/images/other/innovation-graphic.png" alt="innovation points" role="banner">
+
+<--colbreak-->
+
+  <h2 class="grey intro-title">Tackling the world’s toughest problems by challenging established boundaries and partnering to research and co-create impactful solutions.</h2>
+{% endmulticols %}
+
+<section class="page-section">
+  <h3 class="blue">Development Gateway builds on over 15 years of technical and institutional expertise. Through developing tools, processes, and custom analyses, we help our partners better collect and understand information to achieve greater impact.</h3>
+
+  <p>The Development Gateway team is a unique mix of techies — software engineers who research and build innovative new tools — and non-techies who understand development challenges. Most of our team members speak more than one language and have worked in various parts of the world. Project teams include members with a mix of skills, so that we approach problems with institutional as well as technical aspects in mind.</p>
+</section>
+
+<section class="page-section">
+  <h3>Innovation stories released by Development Gateway</h3>
+  <div class="columns-3 clearfix">
+    {% for blog_post in site.categories['innovation'] | limit: 3 %}
+    <div class="blog-entry-wrapper column clearfix">
+      {% include widgets/blog-teaser-alternative.html post=blog_post %}
+    </div>
+    {% endfor %}
+  </div>
+</section>

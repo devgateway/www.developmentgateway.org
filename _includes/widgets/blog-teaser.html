@@ -21,7 +21,7 @@
   {% endif %}
 
   <div class="group-main">
-    <div class="post-lede">{{ post.lede | markdownify }}</div>
+    <div class="post-lede">{{ post.excerpt | markdownify }}</div>
     <a class="readmore" href="{{ post.url }}">Continue reading</a>
   </div>
 </article>
