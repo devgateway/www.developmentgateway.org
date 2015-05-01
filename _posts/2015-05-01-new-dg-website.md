@@ -5,7 +5,7 @@ title: New DG website, now looking for feedback
 excerpt: The Development Gateway team is pleased to roll out a new, redesigned website! Incorporating revitalized DG branding, streamlined messaging, and optimization for low-bandwidth environments...
 thumbnail: assets/featured-images/homepage-screenshot.jpg
 thumbnail-alt: ""
-categories: []
+categories: [Innovation]
 ---
 
 The Development Gateway team is pleased to roll out a new, redesigned website!
