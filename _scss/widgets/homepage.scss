@@ -309,7 +309,7 @@
       rgba(0, 0, 0, 0) 95%,
       rgba(0, 0, 0, 1) 99%);
   .section-empowering {
-    $background_image: $base_url + 'images/home/frame1.png';
+    $background_image: $base_url + 'images/home/frame1.jpg';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
@@ -319,12 +319,12 @@
       rgba(0, 0, 0, 0) 95%,
       rgba(0, 0, 0, 1) 99%);
   .section-expertise {
-    $background_image: $base_url + 'images/home/frame2.png';
+    $background_image: $base_url + 'images/home/frame2.jpg';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
   .section-partners {
-    $background_image: $base_url + 'images/home/frame3.png';
+    $background_image: $base_url + 'images/home/frame3.jpg';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 
@@ -332,7 +332,7 @@
       rgba(0, 0, 0, 1) 1%,
       rgba(0, 0, 0, 0) 5%);
   .section-latest-stories {
-    $background_image: $base_url + 'images/home/frame4.png';
+    $background_image: $base_url + 'images/home/frame4.jpg';
     @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
   }
 }
