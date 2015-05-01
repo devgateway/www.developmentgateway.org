@@ -5,7 +5,7 @@ page_navigation:
   - { id: privacy-policy, title: Privacy Policy }
   - { id: terms-and-conditions, title: Terms and Conditions }
   - { id: copyright, title: Copyright }
-  - { id: cknowledgements, title: Acknowledgements }
+  - { id: acknowledgements, title: Acknowledgements }
 permalink: /privacy-and-terms/
 ---
 
