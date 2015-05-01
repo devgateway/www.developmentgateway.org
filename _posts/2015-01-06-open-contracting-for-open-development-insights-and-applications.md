@@ -5,7 +5,7 @@ author: Dustin Homer & Rebecca Latourell
 created: 1420555880
 old_path: news/open-contracting-open-development-insights-and-applications
 title: 'Open Contracting for Open Development: Insights and Applications'
-lede: “If your mother gives you $10 to go to the store to buy a bottle of milk, you
+excerpt: “If your mother gives you $10 to go to the store to buy a bottle of milk, you
   have to show her, 'Here is the milk and here is the change.' Likewise, we are obliged
   to show taxpayers exactly what we are doing with their money.”- María Margarita
   “La Paca” Zuleta, Director of Colombia Compra Eficiente

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1321480508
 old_path: news/development-gateway-software-developers-win-third-prize-eu-hackathon
 title: Development Gateway Software Developers Win Third Prize in EU Hackathon
-lede: ""
+excerpt: ""
 thumbnail: assets/featured-images/hackthon_team.jpg
 thumbnail-fid: "5482"
 thumbnail-alt: ""

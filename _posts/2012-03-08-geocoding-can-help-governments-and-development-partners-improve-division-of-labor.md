@@ -6,7 +6,7 @@ created: 1331229623
 old_path: news/geocoding-can-help-governments-and-development-partners-improve-division-labor
 title: Geocoding can help governments and development partners improve division of
   labor
-lede: Mapping aid activities is a powerful way to show what donors are doing and where,
+excerpt: Mapping aid activities is a powerful way to show what donors are doing and where,
   which could be a big help in division of labor discussions.
 thumbnail: assets/featured-images/ccaps-dashboard-shot.jpg
 thumbnail-fid: "5762"

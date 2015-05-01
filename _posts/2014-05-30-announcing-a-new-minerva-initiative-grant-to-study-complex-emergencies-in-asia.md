@@ -5,7 +5,7 @@ author: Katie Zanecchia
 created: 1401461993
 old_path: news/announcing-new-minerva-initiative-grant-study-complex-emergencies-asia
 title: Announcing a New Minerva Initiative Grant to Study Complex Emergencies in Asia
-lede: We’re thrilled to announce the U.S. Department of Defense’s Minerva Initiative
+excerpt: We’re thrilled to announce the U.S. Department of Defense’s Minerva Initiative
   has awarded a $1.9 million grant to the Robert S. Strauss Center for International
   Security and Law. As a Strauss Center research partner, Development Gateway will
   support the exploration of complex emergencies in Asia by creating a series of new

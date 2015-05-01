@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1359122884
 old_path: news/data-visualization-development-planning-european-development-days
 title: Data Visualization for Development Planning at European Development Days
-lede: The 7th edition of the European Development Days (EDDs) took place in Brussels,
+excerpt: The 7th edition of the European Development Days (EDDs) took place in Brussels,
   Belgium, in October 2012. Organised by the European Commission, the EDDs is the
   main forum on international affairs and development cooperation in Europe. The forum
   serves as a veritable melting pot of development advocates, decision-makers and

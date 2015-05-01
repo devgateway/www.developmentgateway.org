@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1341929584
 old_path: news/new-geocoded-data-sheds-light-social-conflict
 title: New Geocoded Data Sheds Light on Social Conflict
-lede: The Climate Change and African Political Stability (CCAPS) program launched
+excerpt: The Climate Change and African Political Stability (CCAPS) program launched
   Version 2.0 of the CCAPS mapping tool this week, adding the full Social Conflict
   in Africa Database, and updating the Armed Conflict Location and Event Dataset (ACLED)
   with events through 2012.

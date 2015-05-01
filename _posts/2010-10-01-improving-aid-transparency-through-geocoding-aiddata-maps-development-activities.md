@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1285954504
 old_path: news/improving-aid-transparency-through-geocoding-aiddata-maps-development-activities
 title: 'Improving Aid Transparency Through Geocoding: AidData Maps Development Activities'
-lede: Achieving global development objectives depends on involving stakeholders in
+excerpt: Achieving global development objectives depends on involving stakeholders in
   aid-funded work, strengthening accountability of donor agencies and partner governments,
   and building country ownership. Yet sometimes even basic information such as the
   location of an aid project is difficult to find. Information on project locations

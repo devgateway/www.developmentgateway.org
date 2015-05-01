@@ -6,7 +6,7 @@ created: 1141234504
 old_path: news/morocco-deploy-electronic-government-procurement-system-support-development-gateway-government-
 title: Morocco to Deploy Electronic Government Procurement System with Support of
   Development Gateway, Government of Italy and World Bank
-lede: The Government of Morocco has agreed to partner with the Development Gateway
+excerpt: The Government of Morocco has agreed to partner with the Development Gateway
   Foundation and the Government of Italy to deploy a new e-government system that
   will streamline public procurement processes, increase competitive bidding and save
   money for Moroccan taxpayers. A letter of intent was signed today at the International

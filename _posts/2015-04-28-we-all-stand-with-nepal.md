@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 old_path: news/we-all-stand-nepal
 title: We all stand with Nepal
-lede: After the devastating earthquake, Development Gateway sends condolences and well-wishes to our colleagues and friends in the Government of Nepal, the donor community, civil society organizations, and to the millions of people affected by this terrible disaster....
+excerpt: After the devastating earthquake, Development Gateway sends condolences and well-wishes to our colleagues and friends in the Government of Nepal, the donor community, civil society organizations, and to the millions of people affected by this terrible disaster....
 thumbnail: assets/featured-images/flag_of_nepal.png
 thumbnail-alt: ""
 categories: []

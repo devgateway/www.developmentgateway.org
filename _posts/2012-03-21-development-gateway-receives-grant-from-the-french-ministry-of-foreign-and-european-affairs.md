@@ -6,7 +6,7 @@ created: 1332345406
 old_path: news/development-gateway-receives-grant-french-ministry-foreign-and-european-affairs
 title: Development Gateway Receives Grant from the French Ministry of Foreign and
   European Affairs
-lede: Development Gateway has received a grant from the French Ministry of Foreign
+excerpt: Development Gateway has received a grant from the French Ministry of Foreign
   and European Affairs (MAEE) for EUR 600,000, to be used for a series of research
   and innovation activities over a three year period.  M. Jean-Baptiste Mattei, Director-General
   for Globalization, Partnerships, and Development, and Jean-Louis Sarbib, CEO of

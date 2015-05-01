@@ -6,7 +6,7 @@ created: 1309542004
 old_path: news/open-data-development-camp-highlights-challenges-and-innovations-aid-transparency
 title: Open Data for Development Camp highlights challenges and innovations in aid
   transparency
-lede: The Open Data for Development Camp (ODDC), hosted by Open for Change in Amsterdam
+excerpt: The Open Data for Development Camp (ODDC), hosted by Open for Change in Amsterdam
   from May 12-13, proved to be a fantastic forum for discussion of practical issues
   in institutionalizing open data practices. Participants generally agreed that open
   development data should be a core component of a paradigm shift towards increased

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1139333704
 old_path: news/francis-dogo-lead-country-operations-development-gateway
 title: Francis Dogo To Lead Country Operations of Development Gateway
-lede: Mr. Francis. S. Dogo has been promoted to the position of Senior Director, Country
+excerpt: Mr. Francis. S. Dogo has been promoted to the position of Senior Director, Country
   Operations, of the Development Gateway Foundation. This is a new position created
   to reflect the Development Gateway’s focus on delivering Internet solutions in developing
   countries for effective aid coordination and government procurement, as well as

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1219167304
 old_path: news/e-government-tool-makes-development-aid-more-effective
 title: E-government Tool Makes Development Aid More Effective
-lede: WASHINGTON—The Development Gateway announced today that it will showcase the
+excerpt: WASHINGTON—The Development Gateway announced today that it will showcase the
   results of the implementation of the Aid Management Platform (AMP) at the Accra
   High-Level Forum on Aid Effectiveness, to be held from Sept. 2–4, 2008.
 ---

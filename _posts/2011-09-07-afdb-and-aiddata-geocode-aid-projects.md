@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1315424805
 old_path: news/afdb-and-aiddata-geocode-aid-projects
 title: AfDB and AidData geocode aid projects
-lede: The African Development Bank (AfDB) and AidData recently released a data set
+excerpt: The African Development Bank (AfDB) and AidData recently released a data set
   containing the sub-national locations of all AfDB projects continent-wide approved
   from 2009-2010. The data, available at Open.AidData, represent more than $10 billion
   in AfDB Group funding to 43 African countries.

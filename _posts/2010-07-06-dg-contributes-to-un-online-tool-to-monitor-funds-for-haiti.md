@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1278437704
 old_path: news/dg-contributes-un-online-tool-monitor-funds-haiti
 title: DG Contributes to UN Online Tool to Monitor Funds for Haiti
-lede: Responding to a request from the UN Special Envoy to Haiti, the Development
+excerpt: Responding to a request from the UN Special Envoy to Haiti, the Development
   Gateway has partnered with other organizations to build a system to help with Hatian
   reconstruction. The joint system, which partially adapts Aid Management Platform
   technology, will track damage reports and donor funding as well as pledges to Haiti.

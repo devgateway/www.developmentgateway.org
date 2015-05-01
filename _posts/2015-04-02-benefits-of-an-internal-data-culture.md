@@ -5,7 +5,7 @@ author: Benjamin Arancibia
 created: 1427978761
 old_path: news/benefits-internal-data-culture
 title: Benefits of an Internal Data Culture
-lede: 'The United States made a big move when it announced DJ Patil as the First US
+excerpt: 'The United States made a big move when it announced DJ Patil as the First US
   Chief Data Scientist. Patil was at the Strata + Hadoop World Conference when Barack
   Obama announced the decision via video call before Patil spoke to the audience about
   "Data Science: Where Are We Going". The video can be found here and it is definitely

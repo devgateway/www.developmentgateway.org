@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1357826454
 old_path: news/nepal-amp-could-be-best-way-improve-aid-information-availability
 title: Nepal AMP Could be the Best Way to Improve Aid Information Availability
-lede: "We are proud to announce that the Nepal Aid Management Program (AMP) has just
+excerpt: "We are proud to announce that the Nepal Aid Management Program (AMP) has just
   received another kudos.\r\n\r\nAccording to a \"Pilot Study on Improving Aid Transparency,\"
   prepared by NGO Federation of Nepal, the Aid Management Program may be \"the best\"
   way to improve the availability of aid information to NGOs in Nepal:"

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1354719600
 old_path: news/4-ways-bring-sexy-back-us-governments-open-data-strategy
 title: 4 Ways to Bring Sexy Back to the US Government's Open Data Strategy
-lede: The US Office of Management and Budget (OMB) recently released its Guidance
+excerpt: The US Office of Management and Budget (OMB) recently released its Guidance
   on Collection of U.S. Foreign Assistance Data prompting well-deserved praise from
   the Center for Global Development in Hooray for Unsexy OMB Data Guidance.
 thumbnail: assets/featured-images/omb_0.jpg

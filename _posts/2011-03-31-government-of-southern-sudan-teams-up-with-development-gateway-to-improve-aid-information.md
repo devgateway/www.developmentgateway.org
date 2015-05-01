@@ -6,7 +6,7 @@ created: 1301593204
 old_path: news/government-southern-sudan-teams-development-gateway-improve-aid-information-management
 title: Government of Southern Sudan teams up with Development Gateway to improve aid
   information management
-lede: The Government of Southern Sudan (GoSS) recently chose to implement Development
+excerpt: The Government of Southern Sudan (GoSS) recently chose to implement Development
   Gateway’s Aid Management Program, with financing from UNDP. Through a combination
   of technical support and institutional strengthening activities, the Aid Management
   Program helps governments build capacity for managing information on development

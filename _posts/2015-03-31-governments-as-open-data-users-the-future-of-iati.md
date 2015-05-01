@@ -5,7 +5,7 @@ author: Josh Powell
 created: 1427802716
 old_path: news/governments-open-data-users-future-iati
 title: 'Governments as Open Data Users: The Future of IATI'
-lede: On March 19-20, the IATI Secretariat convened a Regional Workshop on Development
+excerpt: On March 19-20, the IATI Secretariat convened a Regional Workshop on Development
   Data and Usage. This event included 14 country governments from across Africa, as
   well as a handful of Ghanaian and international civil society organizations and
   service providers.

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1372170513
 old_path: news/nepal-aid-management-platform-goes-public
 title: Nepal Aid Management Platform Goes Public
-lede: Development Gateway is very pleased to partner with Nepal’s Ministry of Finance
+excerpt: Development Gateway is very pleased to partner with Nepal’s Ministry of Finance
   on the launch of the AMP Public Portal. This online portal publicizes all of the
   development assistance information recorded in the Aid Management Platform (AMP).
   Nepal Finance Secretary Mr. Shanta Raj Subedi formally introduced the new website

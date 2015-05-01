@@ -5,7 +5,7 @@ author: Fabrice Musoni & Guillaume Léveillé
 created: 1423141819
 old_path: news/notes-field-geocoding-aid-data-drc
 title: 'Notes from the Field: Geocoding Aid Data in DRC'
-lede: Development Gateway, through its partnership with AidData, recently concluded
+excerpt: Development Gateway, through its partnership with AidData, recently concluded
   the first phase of USAID’s Higher Education Solutions Network-funded geocoding work
   in collaboration with the Democratic Republic of Congo’s Ministry of Planning. Outcomes
   were well received by government officials and key development partners. However,

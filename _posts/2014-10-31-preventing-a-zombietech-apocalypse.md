@@ -5,7 +5,7 @@ author: Dina Abdel-Fattah
 created: 1414765958
 old_path: news/preventing-zombietech-apocalypse
 title: Preventing a Zombie(Tech) Apocalypse
-lede: 'As we celebrate today the spookiest holiday of the year – complete with zombies
+excerpt: 'As we celebrate today the spookiest holiday of the year – complete with zombies
   and vampire galore – we wanted to bring to light another sort of zombie invasion,
   one which has plagued the tech sector for many years. The OpenGov Hub hosted a Brown
   Bag Lunch earlier this month, "Attack of the Zombie Projects: Why Do NGOs Keep Building

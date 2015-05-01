@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1324316612
 old_path: news/winner-2011-photo-contest
 title: Winner of the 2011 Photo Contest
-lede: ""
+excerpt: ""
 thumbnail: assets/featured-images/seshadri-moitra-creative_art.jpg
 thumbnail-fid: "5549"
 thumbnail-alt: ""

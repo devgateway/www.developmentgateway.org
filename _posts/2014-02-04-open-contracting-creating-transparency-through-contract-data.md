@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1391525588
 old_path: news/open-contracting-creating-transparency-through-contract-data
 title: 'Open Contracting: Creating Transparency Through Contract Data'
-lede: In all countries, whether rich or poor, contracts are at the nexus of revenue
+excerpt: In all countries, whether rich or poor, contracts are at the nexus of revenue
   generation, budget planning, resource management and the delivery of public goods.
   Open contracting refers to norms and practices for increased disclosure and participation
   in public contracting at all stages of the contracting process.

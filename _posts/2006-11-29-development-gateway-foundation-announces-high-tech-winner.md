@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1164821704
 old_path: news/development-gateway-foundation-announces-high-tech-winner
 title: Development Gateway Foundation Announces High-Tech Winner
-lede: Award Ceremony to be Held at ITU Telecom World 2006 in Hong Kong WASHINGTON
+excerpt: Award Ceremony to be Held at ITU Telecom World 2006 in Hong Kong WASHINGTON
   (November 29, 2006) - The Development Gateway Foundation will announce next week
   the winner of the 2006 Development Gateway Award. The award’s $100,000 prize recognizes
   excellence in information and communications technologies. This year the award will

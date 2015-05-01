@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1365442113
 old_path: news/our-vision-citizen-engagement
 title: Our Vision for Citizen Engagement
-lede: Recently in Washington and London, we participated in Citizen Voices, a global
+excerpt: Recently in Washington and London, we participated in Citizen Voices, a global
   conference on citizen engagement for enhanced development impact with the World
   Bank. At both events, there was much talk about the role of technology in empowering
   citizen feedback loops to improve development outcomes.

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1355313600
 old_path: news/development-gateway-extends-support-ethiopia
 title: Development Gateway Extends Support in Ethiopia
-lede: Seven years ago, Development Gateway designed and piloted the Aid Management
+excerpt: Seven years ago, Development Gateway designed and piloted the Aid Management
   Program with local and international partners and the Ethiopian Ministry of Finance
   and Economic Development (MOFED). Today, AMP is embedded in Ethiopia’s aid effectiveness
   action plan and MOFED has declared AMP the official government system for capturing

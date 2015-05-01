@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1166549704
 old_path: news/high-tech-partnership-aid-developing-countries
 title: High-tech Partnership to Aid Developing Countries
-lede: The Development Gateway Foundation and FreeBalance today announced a strategic
+excerpt: The Development Gateway Foundation and FreeBalance today announced a strategic
   alliance to integrate public financial management and aid management software. The
   alliance partners have recorded their first major milestone with the successful
   integration of budget and accounting modules from the FreeBalance Government Accountability

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1129701631
 old_path: news/increasing-business-going-online
 title: Increasing Business by Going Online
-lede: Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms.
+excerpt: Most of the inquiries handled by Marvelous Batiks now come online. Above, Ms.
   Masawe displays samples of her beautiful textiles.
 ---
 

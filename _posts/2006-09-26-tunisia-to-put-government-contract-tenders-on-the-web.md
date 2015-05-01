@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1159292104
 old_path: news/tunisia-put-government-contract-tenders-web
 title: Tunisia to Put Government Contract Tenders on the Web
-lede: Deploying National e-Procurement System with Support from Development Gateway
+excerpt: Deploying National e-Procurement System with Support from Development Gateway
   Foundation, Government of Italy, World Bank The Government of Tunisia will deploy
   a new national procurement system to streamline government purchasing and put government
   contract information online. The Development Gateway Foundation will fund the project

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1253340031
 old_path: news/drc-tackles-aid-information-challenge
 title: DRC Tackles the Aid Information Challenge
-lede: Staff members of the Ministry of Finance for the Democratic Republic of the
+excerpt: Staff members of the Ministry of Finance for the Democratic Republic of the
   Congo training to use the Aid Management Platform.
 ---
 

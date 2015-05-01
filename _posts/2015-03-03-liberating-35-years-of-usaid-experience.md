@@ -5,7 +5,7 @@ author: Josh Powell & Paige Kirby
 created: 1425389913
 old_path: news/liberating-35-years-usaid-experience
 title: Liberating 35 Years of USAID Experience
-lede: 'Since the introduction of a US Open Data Policy in 2013, domestic agencies
+excerpt: 'Since the introduction of a US Open Data Policy in 2013, domestic agencies
   - particularly in the foreign assistance sector - have made great strides in opening
   up their financial, programmatic, and evaluation information. As recently highlighted
   by the Center for Global Development:'

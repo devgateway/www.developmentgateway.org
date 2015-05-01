@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1175708104
 old_path: news/new-web-site-focuses-arab-reform
 title: New Web Site Focuses on Arab Reform
-lede: The Bibliotheca Alexandrina and the Development Gateway Foundation announced
+excerpt: The Bibliotheca Alexandrina and the Development Gateway Foundation announced
   today the launch of a virtual community in Arabic on the theme of Arab reform.  The
   new portal will serve as a platform for aggregating information about reform activities
   in the Arab world. Creating a virtual community, the site will facilitate the sharing

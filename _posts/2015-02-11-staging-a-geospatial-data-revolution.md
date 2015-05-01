@@ -5,7 +5,7 @@ author: Josh Powell
 created: 1423664893
 old_path: news/staging-geospatial-data-revolution
 title: Staging a Geospatial Data Revolution
-lede: (This is part 1 of a two-part series on the role of sub-national data and country
+excerpt: (This is part 1 of a two-part series on the role of sub-national data and country
   systems in the Data Revolution. Part 1 discusses the progress made during the MDG
   process and what challenges are ahead over the next 15 years of the SDGs. Part 2
   will discuss what is needed to put countries in the driver’s seat of the SDG process,

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1360244959
 old_path: news/how-aid-management-fellowships-benefit-governments
 title: How Aid Management Fellowships Benefit Governments
-lede: You may not have been aware of the fact that AidData and Development Gateway
+excerpt: You may not have been aware of the fact that AidData and Development Gateway
   have a program that offers governments the opportunity to have in-depth, in-country
   support for an extended period of time. Aid Management Fellows work directly with
   country governments that are using Development Gateway’s Aid Management Program

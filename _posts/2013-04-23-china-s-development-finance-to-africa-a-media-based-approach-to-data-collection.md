@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1366727935
 old_path: news/china-s-development-finance-africa-media-based-approach-data-collection
 title: 'China’s Development Finance to Africa: A Media-Based Approach to Data Collection'
-lede: How big is China’s aid to Africa? Does it complement or undermine the efforts
+excerpt: How big is China’s aid to Africa? Does it complement or undermine the efforts
   of traditional donors? China releases little information and outside estimates of
   the size and nature of Chinese aid vary widely. In an effort to overcome this problem,
   AidData has compiled a database of thousands of media reports on Chinese-backed

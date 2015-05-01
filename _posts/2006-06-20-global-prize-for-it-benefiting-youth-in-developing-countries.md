@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1150824904
 old_path: news/global-prize-it-benefiting-youth-developing-countries
 title: Global Prize for IT Benefiting Youth in Developing Countries
-lede: The Development Gateway Foundation is calling for nominations for its US$100,000
+excerpt: The Development Gateway Foundation is calling for nominations for its US$100,000
   prize for outstanding achievement in the use of information and communication technologies
   to improve lives in developing countries.Sponsored in part by Intel Corporation,
   this year’s Development Gateway Award is focusing on initiatives that empower or

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1290146431
 old_path: news/making-aid-information-transparent-kosovo
 title: Making aid information transparent in Kosovo
-lede: 'KosovoAlthough it is the youngest country to have implemented the Aid Management
+excerpt: 'KosovoAlthough it is the youngest country to have implemented the Aid Management
   Platform (AMP), Kosovo became a model for aid transparency by making its AMP available
   to the public online. Vanessa Goas, part of the Development Gateway team working
   on AMP Kosovo, shares a summary of her time in Pristina:'

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1190181631
 old_path: news/facilitating-partnerships
 title: Facilitating Partnerships
-lede: Staff from the Ministry of Finance and Economic Development show visitors from
+excerpt: Staff from the Ministry of Finance and Economic Development show visitors from
   Ghana how to use the aid management platform.
 ---
 

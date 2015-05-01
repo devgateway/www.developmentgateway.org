@@ -6,7 +6,7 @@ created: 1424785654
 old_path: news/aid-information-matters-us-citizens-too-transparency-efforts-and-domestic-audiences
 title: Aid information matters for U.S. citizens, too – transparency efforts and domestic
   audiences
-lede: This January, a newly elected U.S. Congress took the stage, bringing up the
+excerpt: This January, a newly elected U.S. Congress took the stage, bringing up the
   question of how it will shape U.S. foreign assistance discussions in 2015. The US
   Global Leadership Coalition’s Liz Schayer has argued that there is a consensus from
   both sides of the aisle that aid accountability and transparency will continue to

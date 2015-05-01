@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1352225519
 old_path: news/please-welcome-moldova-aid-management-program-community
 title: Please Welcome Moldova to the Aid Management Program Community
-lede: "Development Gateway is pleased to announce that we will be implementing the
+excerpt: "Development Gateway is pleased to announce that we will be implementing the
   Aid Management Program with the government of Moldova thanks to the generous support
   of UNDP Moldova.\r\n\r\nWe will leverage our experience working on aid management
   in over 20 different countries around the world to support the government’s commitment

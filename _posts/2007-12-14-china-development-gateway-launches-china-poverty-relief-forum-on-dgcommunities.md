@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1197653704
 old_path: news/china-development-gateway-launches-china-poverty-relief-forum-dgcommunities
 title: China Development Gateway Launches China Poverty Relief Forum on dgCommunities
-lede: The China Development Gateway (CnDG), located in Beijing, has launched the first
+excerpt: The China Development Gateway (CnDG), located in Beijing, has launched the first
   stage of the "China Poverty Relief Forum" in partnership with the Development Gateway
   Foundation. The new all-Chinese dgCommunity, announced in December at the GK3 Conference
   in Malaysia, will provide a unique venue for knowledge sharing and collaboration

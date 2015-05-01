@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1319824024
 old_path: news/putting-aid-data-work-event-november-4-will-be-webcast
 title: 'Putting Aid Data to Work: Event on November 4 (will be webcast)'
-lede: On November 4, AidData, the Climate Change and African Political Stability (CCAPS)
+excerpt: On November 4, AidData, the Climate Change and African Political Stability (CCAPS)
   program, and the World Bank Institute will co-host an all-day event to highlight
   trends in open data and aid transparency, and how they are influencing work on climate
   change and other issues, leading to better development results on the ground.

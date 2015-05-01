@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1413813319
 old_path: news/good-data-and-you
 title: “Good” Data and You
-lede: After the 2014 Annual Meetings of the IMF and World Bank, below are some key
+excerpt: After the 2014 Annual Meetings of the IMF and World Bank, below are some key
   questions and takeaways on how open data, development finance, and diverse stakeholders
   mix:Why do we need to publish data?
 thumbnail: assets/featured-images/img_0829.jpg

@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1417010600
 old_path: news/world-counts-vs-world-hides
 title: A World that Counts vs. A World that Hides
-lede: 'The Secretary-General’s Independent Expert Advisory Group on a Data Revolution
+excerpt: 'The Secretary-General’s Independent Expert Advisory Group on a Data Revolution
   has released their report, A World that Counts: Mobilising the Data Revolution for
   Sustainable Development, which outlines how to enact the data revolution into the
   Sustainable Development Goals. In true MDG/SDG global goal setting fashion the report

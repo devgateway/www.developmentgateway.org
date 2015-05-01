@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1190050504
 old_path: news/virtual-communities-focus-disaster-prevention-and-reconstruction
 title: Virtual Communities to Focus on Disaster Prevention and Reconstruction
-lede: The Development Gateway Foundation announces today a new partnership with the
+excerpt: The Development Gateway Foundation announces today a new partnership with the
   Center for Strategic and International Studies (CSIS) to establish online communities
   dedicated to disaster prevention and reconstruction.
 ---

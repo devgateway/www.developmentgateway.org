@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1428408910
 old_path: news/cultivating-data-culture-united-states
 title: Cultivating a "Data Culture" in the United States
-lede: A few weeks ago, the AidData Partnership co-hosted a consultation event at the
+excerpt: A few weeks ago, the AidData Partnership co-hosted a consultation event at the
   OpenGov Hub with Department of State's Office of US Foreign Assistance Resources,
   the Modernizing Foreign Assistance Network (MFAN) and USAID Global Development Lab.
 thumbnail: assets/featured-images/b-s-ixowkaidd2z.jpg

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1365693153
 old_path: news/announcing-plataforma-de-gestion-de-la-cooperacion
 title: Announcing the Plataforma de Gestión de la Cooperación
-lede: "Today the Government of Honduras is launching their Aid Management Platform
+excerpt: "Today the Government of Honduras is launching their Aid Management Platform
   (Plataforma de Gestión de la Cooperación - PGC). \r\n\r\nThe PGC contains information
   on all external cooperation projects in the country, and allows citizens to interact
   with the information through public reports, documents, maps, and graphics. This

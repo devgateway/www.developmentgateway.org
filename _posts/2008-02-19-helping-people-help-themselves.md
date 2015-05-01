@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1203400831
 old_path: news/helping-people-help-themselves
 title: Helping People Help Themselves
-lede: Thanks to Development Gateway Senegal and other organizations, Fallou Diagne
+excerpt: Thanks to Development Gateway Senegal and other organizations, Fallou Diagne
   is better able to meet his business needs.
 ---
 

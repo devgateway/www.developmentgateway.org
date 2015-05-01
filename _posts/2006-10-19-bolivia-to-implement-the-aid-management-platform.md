@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1161279304
 old_path: news/bolivia-implement-aid-management-platform
 title: Bolivia to Implement the Aid Management Platform
-lede: The government of Bolivia will implement the Development Gateway Foundation’s
+excerpt: The government of Bolivia will implement the Development Gateway Foundation’s
   Aid Management Platform (AMP) as part of a national strategy to better manage international
   assistance.  AMP is a Web-based software solution for developing country governments
   and donors. The platform, based on open source software, provides a virtual workspace

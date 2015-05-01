@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1416842691
 old_path: news/learning-our-lessons-we-shape-post-2015-data-revolution
 title: Learning our lessons as we shape the post 2015 "Data Revolution"
-lede: The United Nations IEAG report on mobilizing the Data Revolution for development,
+excerpt: The United Nations IEAG report on mobilizing the Data Revolution for development,
   opens with this truism:"Without high-quality data providing the right information
   on the right things at the right time; designing, monitoring and evaluating effective
   policies becomes almost impossible."

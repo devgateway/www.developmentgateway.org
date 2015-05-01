@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1357657200
 old_path: news/reshaping-our-web-application-backend-blazing-high-performance
 title: Reshaping Our Web Application Backend for Blazing High Performance
-lede: Back in the days when web application users’ demands were still basic (browsing,
+excerpt: Back in the days when web application users’ demands were still basic (browsing,
   using static filtering, simple statistics results, etc) and disk space was plentiful,
   a traditional backend was usually represented by a monolithic product capable of
   performing the entire job of running a data oriented web application

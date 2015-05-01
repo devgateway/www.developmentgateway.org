@@ -6,7 +6,7 @@ created: 1196876104
 old_path: news/accessible-information-development-activities-aida-database-expanded-include-activities-funded-
 title: Accessible Information on Development Activities (AiDA) database expanded to
   include activities funded by non-traditional donors
-lede: Accessible Information on Development Activities (AiDA), the largest online
+excerpt: Accessible Information on Development Activities (AiDA), the largest online
   directory of information about international development activities, has broadened
   its database for the first time to include projects funded by a non-traditional
   donor organization.

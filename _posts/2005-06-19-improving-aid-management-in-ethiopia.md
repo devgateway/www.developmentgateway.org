@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1119160831
 old_path: news/improving-aid-management-ethiopia
 title: Improving Aid Management in Ethiopia
-lede: Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
+excerpt: Stronger systems for tracking and reporting aid help recipients and donors better manage resources for greater development impact.
 ---
 
 <table align="right" border="0" style="width:269px;height:213px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/ethiopianlady_03.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>

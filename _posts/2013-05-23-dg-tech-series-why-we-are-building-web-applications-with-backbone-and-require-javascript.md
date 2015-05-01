@@ -6,7 +6,7 @@ created: 1369317645
 old_path: news/dg-tech-series-why-we-are-building-web-applications-backbone-and-require-javascript
 title: 'DG Tech Series: Why We Are Building Web Applications with Backbone and Require
   JavaScript'
-lede: I'm Ionut Dobre and the evolution of browsers into powerful platforms is inspiring
+excerpt: I'm Ionut Dobre and the evolution of browsers into powerful platforms is inspiring
   developers to write richer and more complex applications. The downside to this is
   of course that as the code becomes more complicated, problems like code maintenance
   or resolving new bugs begin to appear.

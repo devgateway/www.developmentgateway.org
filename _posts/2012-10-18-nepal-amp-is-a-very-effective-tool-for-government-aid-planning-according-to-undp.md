@@ -6,7 +6,7 @@ created: 1350565473
 old_path: news/nepal-amp-very-effective-tool-government-aid-planning-according-undp
 title: Nepal AMP is a “Very Effective Tool for Government Aid Planning” According
   to UNDP
-lede: The Developing Capacities for Effective Aid Management and Coordination (DCEAMC)
+excerpt: The Developing Capacities for Effective Aid Management and Coordination (DCEAMC)
   project commenced in February 2009 with one of its objectives to put in place a
   transparent and functioning aid information management system for Nepal. The project
   is managed by the Foreign Aid Coordination Division (FACD) of the Ministry of Finance

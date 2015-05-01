@@ -6,7 +6,7 @@ created: 1429789064
 old_path: news/financing-future-2015-some-hits-and-misses-future-development-finance
 title: 'Financing the Future 2015: Some Hits and Misses on the Future of Development
   Finance'
-lede: A few weeks ago, an Overseas Development Institute-led consortium of partners
+excerpt: A few weeks ago, an Overseas Development Institute-led consortium of partners
   hosted a wide range of organizations and Governments for an event entitled “Financing
   the Future.” In essence, the purpose of this event was to collect feedback and share
   thoughts on the the “zero draft” of the Financing for Development (FfD) outcome

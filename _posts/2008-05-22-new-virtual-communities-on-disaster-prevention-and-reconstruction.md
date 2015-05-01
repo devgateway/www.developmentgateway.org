@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1211477704
 old_path: news/new-virtual-communities-disaster-prevention-and-reconstruction
 title: New Virtual Communities on Disaster Prevention and Reconstruction
-lede: These new portals will provide a virtual space in which participants can share
+excerpt: These new portals will provide a virtual space in which participants can share
   knowledge, best practices, and other relevant information. The purpose of this initiative
   is to build capacity, strengthen working relationships, and improve development
   outcomes. Particular emphasis will be placed on bringing together government agencies

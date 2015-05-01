@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1328301885
 old_path: news/story-field-amp-workshop
 title: 'Story from the Field: AMP Workshop'
-lede: This Story from the Field comes from Djamila Kerim, a Development Gateway Senior
+excerpt: This Story from the Field comes from Djamila Kerim, a Development Gateway Senior
   Associate working on the Aid Management Program:This year, I was able to attend
   the AMP workshop for a second time. The program is growing both with respect to
   the number of people participating, and the scope of activities we are discussing.

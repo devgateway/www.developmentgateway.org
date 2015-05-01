@@ -5,7 +5,7 @@ author: Benjamin Arancibia
 created: 1426767708
 old_path: news/data-revolution-inside-out
 title: A Data Revolution from the Inside Out
-lede: The eight Millennium Development Goals are targeted for completion in 2015,
+excerpt: The eight Millennium Development Goals are targeted for completion in 2015,
   and the Sustainable Development Goals (SDGs) will be the world’s new targets. These
   SDGs necessitate a “Data Revolution,” and every organization needs to start laying
   the groundwork now for a successful future.

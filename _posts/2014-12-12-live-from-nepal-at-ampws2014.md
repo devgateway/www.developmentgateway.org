@@ -5,7 +5,7 @@ author: Jean-Louis Sarbib
 created: 1418396444
 old_path: news/live-nepal-ampws2014
 title: 'Live from Nepal at #AMPWS2014'
-lede: 'This week, Development Gatewayand the Government of Nepal have been hosting
+excerpt: 'This week, Development Gatewayand the Government of Nepal have been hosting
   the 7th Annual Aid Management Program Good Practices Workshop. Below are the opening
   remarks from DG CEO Jean-Louis Sarbib; stay tuned for more blog posts about the
   workshop, and follow along on Twitter with #AMPWS2014.  Excellency Mr. Suman Prasad

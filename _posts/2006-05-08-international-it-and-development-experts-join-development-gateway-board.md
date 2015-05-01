@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1147109704
 old_path: news/international-it-and-development-experts-join-development-gateway-board
 title: International IT and Development Experts Join Development Gateway Board
-lede: Dr. Hisham El-Sherif of Egypt, Mr. Walter Fust of Switzerland and Mr. Dhanendra
+excerpt: Dr. Hisham El-Sherif of Egypt, Mr. Walter Fust of Switzerland and Mr. Dhanendra
   Kumar of India have been elected to the Board of Directors of the Development Gateway
   Foundation, an Internet-focused spin-off of the World Bank. The Development Gateway
   provides web-based solutions to help developing countries improve governance and

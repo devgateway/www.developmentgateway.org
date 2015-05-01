@@ -6,7 +6,7 @@ created: 1368712822
 old_path: news/le-burkina-faso-rend-ses-donnees-publiques-et-lie-la-pga-son-systeme-de-gestion-budgetaire
 title: Le Burkina Faso rend ses données publiques et lie la PGA à son système de gestion
   budgétaire
-lede: 'Development Gateway a rencontré M. Jean-Marie Kebre,  Chargé de la coordination
+excerpt: 'Development Gateway a rencontré M. Jean-Marie Kebre,  Chargé de la coordination
   de l’aide et point focal de la PGA au sein de la Direction Générale de la Coopération
   (DGCOOP), au Ministère de l’Économie et des Finances du Burkina Faso. M. Kebre s’est
   exprimé sur deux grand chantiers actuels de la DGCOOP: l’ouverture de la PGA à tous

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1259170599
 old_path: news/aid-transparency-tool-launched-improve-donor-coordination-nicaragua
 title: Aid transparency tool launched to improve donor coordination in Nicaragua
-lede: Development Gateway announced today the successful launch of the upgraded ODAnic
+excerpt: Development Gateway announced today the successful launch of the upgraded ODAnic
   and the release of the 2008 EU Blue Book. ODAnic is a publicly available online
   tool that facilitates donor coordination, aid transparency, and the management of
   aid information in Nicaragua.

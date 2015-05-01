@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1362150054
 old_path: news/open-development-technology-alliance-now-runs-zunia-technology
 title: Open Development Technology Alliance Now Runs on Zunia Technology
-lede: The Open Development Technology Alliance (ODTA) aims to enhance accountability
+excerpt: The Open Development Technology Alliance (ODTA) aims to enhance accountability
   and improve the delivery and quality of public services through technology-enabled
   citizen engagement. The ODTA is an initiative of The World Bank, anchored by the
   World Bank Institute, the Social Development Department and the ICT Sector Unit

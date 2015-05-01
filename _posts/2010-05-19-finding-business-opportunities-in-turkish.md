@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1274248831
 old_path: news/finding-business-opportunities-turkish
 title: Finding Business Opportunities… in Turkish
-lede: Turkey
+excerpt: Turkey
 ---
 
 <table align="right" border="0" style="width:269px;height:202px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/turkishman_02.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>

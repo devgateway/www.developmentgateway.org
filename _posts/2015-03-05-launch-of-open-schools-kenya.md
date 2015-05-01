@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1425562249
 old_path: news/launch-open-schools-kenya
 title: Launch of Open Schools Kenya
-lede: Parents, teachers, governments, and social welfare organizations all want to
+excerpt: Parents, teachers, governments, and social welfare organizations all want to
   provide children with the best education possible. In most places, these groups
   work together to allocate resources, build schools and improve the quality of education.
   But education officials, organizations and families need information to guide these

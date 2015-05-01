@@ -5,7 +5,7 @@ author: Vanessa Goas & Anna van Schie
 created: 1422973949
 old_path: news/roadmap-amp-sustainability
 title: A Roadmap for AMP Sustainability
-lede: Working toward a self-sustainable Aid Management Program is among the highest
+excerpt: Working toward a self-sustainable Aid Management Program is among the highest
   priorities of Development Gateway. We believe that an AMP has the best chance of
   longevity when the government has the skills it needs, the resources it requires,
   and commitment from decision-makers. However, empowering a partner country to manage

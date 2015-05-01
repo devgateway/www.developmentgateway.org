@@ -6,7 +6,7 @@ created: 1221672904
 old_path: news/accessible-information-development-activities-aida-database-adds-new-features-better-design
 title: Accessible Information on Development Activities (AiDA) Database Adds New Features,
   Better Design
-lede: WASHINGTON— Development Gateway announced today that it has redesigned the Accessible
+excerpt: WASHINGTON— Development Gateway announced today that it has redesigned the Accessible
   Information on Development Activities (AiDA) database to make information more accessible
   to users. The new design of the site helps give visitors a full picture of development
   activities as information is now grouped by country, sector, and donor. The site

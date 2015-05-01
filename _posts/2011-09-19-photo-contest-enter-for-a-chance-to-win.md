@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1316412031
 old_path: news/photo-contest-enter-chance-win
 title: 'Photo Contest: Enter for a chance to win!'
-lede: 'Show us your image of development in action, and you could win a $500 prize
+excerpt: 'Show us your image of development in action, and you could win a $500 prize
   from Development Gateway. To celebrate the launch of our new website, we’re calling
   on photographers around the world to share their images and stories of people in
   developing countries working to build a better world.WHAT: We are looking for images

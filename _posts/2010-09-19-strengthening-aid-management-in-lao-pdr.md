@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1284876031
 old_path: news/strengthening-aid-management-lao-pdr
 title: Strengthening Aid Management in Lao PDR
-lede: 'LaosFor many at Development Gateway, the most engaging and rewarding aspect
+excerpt: 'LaosFor many at Development Gateway, the most engaging and rewarding aspect
   of our work is the time we spend in-country working with our partners and counterparts.
   Here, Travis Harvey reports back on a recent mission to Lao PDR:'
 ---

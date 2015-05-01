@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1415799964
 old_path: news/fighting-ebola-one-data-entry-time
 title: Fighting Ebola, One Data Entry at a Time
-lede: Maybe it’s just me, but the hysteria over Ebola seems to be far greater than
+excerpt: Maybe it’s just me, but the hysteria over Ebola seems to be far greater than
   any other contagion-type scenario we’ve been through of late (or I’ve just become
   more cognizant of the fact that I’m a little bit older, and death is that much closer).
 thumbnail: assets/featured-images/screen_shot_2014-11-03_at_9.10.05_am.png

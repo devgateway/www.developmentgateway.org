@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1372777411
 old_path: news/afdb-now-publishes-project-level-and-geocoded-data-iati
 title: AfDB Now Publishes Project-Level and Geocoded Data to IATI
-lede: The African Development Bank (AfDB) is now publishing its project-level data
+excerpt: The African Development Bank (AfDB) is now publishing its project-level data
   to the International Aid Transparency Initiative (IATI). The newly launched AfDB
   IATI feed includes geocoded data on all of its ongoing activities, developed in
   partnership with AidData. Development Gateway is proud to have collaborated with

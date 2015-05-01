@@ -5,7 +5,7 @@ author: Stephen Davenport
 created: 1361887236
 old_path: news/why-international-development-fantasy-football
 title: Why International Development is like Fantasy Football
-lede: I am Stephen Davenport and this year I took a stab at fantasy football, which
+excerpt: I am Stephen Davenport and this year I took a stab at fantasy football, which
   is like other fantasy sports (FIFA Soccer, Baseball, etc.), where you select individual
   players using statistics and form virtual teams that compete each week against other
   virtual teams in a pseudo league. It's for sports fanatics.

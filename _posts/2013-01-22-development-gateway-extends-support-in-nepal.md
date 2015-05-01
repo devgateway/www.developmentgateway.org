@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1358866854
 old_path: news/development-gateway-extends-support-nepal
 title: Development Gateway Extends Support In Nepal
-lede: Since 2010, Development Gateway has cooperated with the Government of Nepal
+excerpt: Since 2010, Development Gateway has cooperated with the Government of Nepal
   on a high-functioning Aid Management Platform. The Nepal AMP is headquartered in
   the Ministry of Finance but its information is shared widely with the National Planning
   Commission, all of Nepal’s line ministries, and the Nepalese media.

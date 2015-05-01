@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1366142689
 old_path: news/geocoding-and-opening-aid-information-nepal-usaid-support
 title: Geocoding and Opening Aid Information in Nepal with USAID Support
-lede: The Government of Nepal (GoN) recently hosted a team of AidData and Development
+excerpt: The Government of Nepal (GoN) recently hosted a team of AidData and Development
   Gateway staff for our first geocoding effort as part of the AidData Center for Development
   Policy program with USAID. Alena Stern, Dustin Homer, Josh Powell, and Dina Abdel-Fattah
   took our work to a broader audience of government officials, donors, and concerned

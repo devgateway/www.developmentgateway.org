@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1358517654
 old_path: news/how-we-use-virtual-clouds-achieve-virtually-uninterrupted-uptime
 title: How We Use Virtual Clouds to Achieve Virtually Uninterrupted Uptime
-lede: Computer hardware would be useless without data and programs to process it.
+excerpt: Computer hardware would be useless without data and programs to process it.
   But to run programs, the computer must know how to do basic tasks like booting up,
   reading user input or loading programs. This is performed by the operating system,
   e.g. Windows, Linux or Mac OS. So when we speak of a computer, we mean the combination

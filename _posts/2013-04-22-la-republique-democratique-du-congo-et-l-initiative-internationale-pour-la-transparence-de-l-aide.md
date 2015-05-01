@@ -6,7 +6,7 @@ created: 1366652011
 old_path: news/la-republique-democratique-du-congo-et-l-initiative-internationale-pour-la-transparence-de-l-ai
 title: La République Démocratique du Congo et  l’Initiative Internationale pour la
   Transparence de l’Aide
-lede: La République Démocratique du Congo (RDC) est partie prenante de toutes les
+excerpt: La République Démocratique du Congo (RDC) est partie prenante de toutes les
   initiatives internationales qui participent à la réforme des mécanismes de coordination
   de l’aide et à l’amélioration de son impact dans les pays bénéficiaires.
 thumbnail: assets/featured-images/8472610004_c5f81dfef7.jpg

@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1407773779
 old_path: news/supply-and-demand-open-data
 title: The Supply and Demand of Open Data
-lede: We are all familiar with the patterns of supply and demand. For many who are
+excerpt: We are all familiar with the patterns of supply and demand. For many who are
   asked to supply open data, the question of demand is a bit more complex than one
   might initially think. Since the “open”part of open data implies that users shouldn’t
   need to pay for access to the data, it is harder to gauge what the data are worth

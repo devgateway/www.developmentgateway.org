@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1340138605
 old_path: news/undp-receives-international-award-knowledge-management
 title: UNDP Receives International Award for Knowledge Management
-lede: Development Gateway congratulates the United Nations Development Programme (UNDP)
+excerpt: Development Gateway congratulates the United Nations Development Programme (UNDP)
   on winning a Knowledge Management Award 2012 in Vienna, Austria for its “outstanding
   efforts and achievements to promote the idea of knowledge societies”.
 ---

@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1409069532
 old_path: news/geocoding-101-behind-scenes-look-visualizing-aid-and-development
 title: 'Geocoding 101: A Behind the Scenes Look at Visualizing Aid and Development'
-lede: I often get asked how AidData takes vast stores of development finance information
+excerpt: I often get asked how AidData takes vast stores of development finance information
   and translates them into something that can be easily understood by the public.
   Last week, we published our geocoded data on aid flows to Nepal via the International
   Aid Transparency Initiative (IATI) registry. Now anyone can easily download the

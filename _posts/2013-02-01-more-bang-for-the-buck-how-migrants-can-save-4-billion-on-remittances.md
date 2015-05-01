@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1359727442
 old_path: news/more-bang-buck-how-migrants-can-save-4-billion-remittances
 title: 'More Bang for the Buck: How Migrants Can Save $4 Billion on Remittances'
-lede: This week the World Bank launched Send Money Africa, a website that empowers
+excerpt: This week the World Bank launched Send Money Africa, a website that empowers
   African migrants with information to compare the costs of different services for
   sending money to their home countries.  Development Gateway created Send Money Africa
   for the World Bank using the Send Money Service toolkit, a platform for making remittance

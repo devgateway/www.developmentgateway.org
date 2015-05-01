@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1212168904
 old_path: news/jean-louis-sarbib-chair-board-directors
 title: Jean-Louis Sarbib to Chair the Board of Directors
-lede: WASHINGTON—The Development Gateway Foundation announces today that Jean-Louis
+excerpt: WASHINGTON—The Development Gateway Foundation announces today that Jean-Louis
   Sarbib will serve as chair of the board of directors. Mr. Sarbib succeeds Dr. Michael
   Hofmann, who stepped down in October 2007“Jean-Louis has been a strong supporter
   of the role of information and communications technologies for development and the

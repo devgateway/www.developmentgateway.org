@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1190136904
 old_path: news/travis-harvey-named-asia-pacific-regional-coordinator
 title: Travis Harvey Named as Asia-Pacific Regional Coordinator
-lede: The Development Gateway Foundation announced today the appointment of Travis
+excerpt: The Development Gateway Foundation announced today the appointment of Travis
   Harvey as the new program coordinator for the Asia-Pacific region.
 ---
 

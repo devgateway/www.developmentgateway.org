@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1372792426
 old_path: news/better-total-resource-management-using-amp-data-nepals-budget-system
 title: Better Total Resource Management Using AMP Data in Nepal's Budget System
-lede: Staff in Nepal’s Ministry of Finance now has even more effective tools for budgeting
+excerpt: Staff in Nepal’s Ministry of Finance now has even more effective tools for budgeting
   and planning, thanks to a new link between their Aid Management Platform and the
   national budget system designed around the International Aid Transparency Initiative
   (IATI) standard.

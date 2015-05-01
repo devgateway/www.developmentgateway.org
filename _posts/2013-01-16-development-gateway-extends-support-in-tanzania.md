@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1358355654
 old_path: news/development-gateway-extends-support-tanzania
 title: Development Gateway Extends Support in Tanzania
-lede: The Aid Management Program was first introduced in Tanzania in 2007. Working
+excerpt: The Aid Management Program was first introduced in Tanzania in 2007. Working
   with the Tanzanian Ministry of Finance, the software platform was installed in 2008
   and government officers and development partners trained to effectively use system.
   The platform now hosts over 1800 projects and holds historical aid records from

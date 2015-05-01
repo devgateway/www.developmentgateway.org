@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1415887065
 old_path: news/amp-210-new-frontier
 title: 'AMP 2.10: A New Frontier'
-lede: 'As a technical-minded social enterprise, much of Development Gateway’s work
+excerpt: 'As a technical-minded social enterprise, much of Development Gateway’s work
   involves partnering with governments to devise solutions to improve the effectiveness
   and transparency of their aid management activities. The Aid Management Program
   (AMP) – a comprehensive suite of co-created software, technical training, and good

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1142748031
 old_path: news/getting-mozambique-online
 title: Getting Mozambique Online
-lede: MozambiqueWhen basic information systems are lacking, it is not easy to make
+excerpt: MozambiqueWhen basic information systems are lacking, it is not easy to make
   the most of a country’s resources and serve people in need. In Mozambique, a nation
   of 19 million people in southern Africa, daily operations have been made even harder
   by a lack of communication among different government institutions.

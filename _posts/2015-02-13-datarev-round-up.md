@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1423840554
 old_path: news/datarev-round
 title: DataRev Round-Up
-lede: A recent ODI paper focused on what ‘localizing’ might be applied in the post-2015
+excerpt: A recent ODI paper focused on what ‘localizing’ might be applied in the post-2015
   agenda. With the exception of a few broad considerations, it depends on the local
   context. It’s an important phrase we’re all familiar with, but sometimes is left
   behind when we start talking about things like scalability. It also means involving

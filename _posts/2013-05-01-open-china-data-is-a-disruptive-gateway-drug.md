@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1367430318
 old_path: news/open-china-data-disruptive-gateway-drug
 title: Open China Data is a Disruptive Gateway Drug
-lede: On Monday, AidData released the largest Open Data cache of Chinese development
+excerpt: On Monday, AidData released the largest Open Data cache of Chinese development
   finance in Africa. The Chinese Development Finance in Africa database contains nearly
   1,700 official finance projects in 50 African countries, totaling over $70 billion
   in reported financial commitments.

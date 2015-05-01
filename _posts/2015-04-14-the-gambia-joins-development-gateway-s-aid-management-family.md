@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1429012961
 old_path: news/gambia-joins-development-gateway-s-aid-management-family
 title: The Gambia joins Development Gateway’s Aid Management Family
-lede: Development Gateway is delighted to welcome The Gambia to the global Aid Management
+excerpt: Development Gateway is delighted to welcome The Gambia to the global Aid Management
   Program (AMP) family, joining over 25 countries worldwide dedicated to better tracking
   and managing aid flows. The Gambia is our 17th African partner government, and joins
   20+ UNDP-supported AMP implementations. We are looking forward to a fruitful partnership

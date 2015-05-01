@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1328128422
 old_path: news/fourth-amp-best-practices-workshop-held-dakar
 title: Fourth AMP Best Practices Workshop Held In Dakar
-lede: The 4th Aid Management Platform (AMP) Best Practices Workshop was held from
+excerpt: The 4th Aid Management Platform (AMP) Best Practices Workshop was held from
   Jan. 24-26 in Dakar, Senegal. More than 90 people attended from nineteen AMP countries
   and several observer countries (you can view photos on our new Flickr photostream).
 thumbnail: assets/featured-images/dakar-workshop.jpg

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1329766006
 old_path: news/honduras-first-amp-country-central-america
 title: Honduras is First AMP Country in Central America
-lede: Honduras recently became the first country in Central America and the second
+excerpt: Honduras recently became the first country in Central America and the second
   middle-income country to use the Aid Management Platform (AMP, or Plataforma de
   Gestión de la Ayuda in Spanish). During this initial pilot phase of the project,
   eleven people from the government’s Secretaría Técnica de Planificación y Cooperación

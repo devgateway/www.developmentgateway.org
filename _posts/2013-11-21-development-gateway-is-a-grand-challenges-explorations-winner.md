@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1385035828
 old_path: news/development-gateway-grand-challenges-explorations-winner
 title: Development Gateway is a Grand Challenges Explorations Winner
-lede: Development Gateway is proud to announce that it is a Grand Challenges Explorations
+excerpt: Development Gateway is proud to announce that it is a Grand Challenges Explorations
   winner, an initiative funded by the Bill &amp; Melinda Gates Foundation.
 thumbnail: assets/featured-images/melindagates3.jpg
 thumbnail-fid: "6015"

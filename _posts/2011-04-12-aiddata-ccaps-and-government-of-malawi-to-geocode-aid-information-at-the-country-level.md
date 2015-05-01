@@ -6,7 +6,7 @@ created: 1302630004
 old_path: news/aiddata-ccaps-and-government-malawi-geocode-aid-information-country-level
 title: AidData, CCAPS, and Government of Malawi to geocode aid information at the
   country level
-lede: AidData and the Climate Change and African Political Stability Program (CCAPS)
+excerpt: AidData and the Climate Change and African Political Stability Program (CCAPS)
   at the University of Texas are working with Malawi's Ministry of Finance to geocode
   aid activity information. Geocoding, through which information is pinpointed to
   a precise geographic locality, provides a visual aid for development planning and

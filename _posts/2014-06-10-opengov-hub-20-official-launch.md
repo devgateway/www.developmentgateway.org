@@ -5,7 +5,7 @@ author: Katie Zanecchia
 created: 1402416304
 old_path: news/opengov-hub-20-official-launch
 title: 'OpenGov Hub 2.0: Official Launch!'
-lede: We're beyond excited to announce that, last night, we officially launched the
+excerpt: We're beyond excited to announce that, last night, we officially launched the
   new (and we're proud to say, improved!) OpenGov Hub. We've all been trickling in
   and getting settled over the last two months, but we're finally ready to (re)take
   the open government space by storm.

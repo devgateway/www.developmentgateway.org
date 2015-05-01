@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1342537996
 old_path: news/announcing-opengov-hub
 title: Announcing the OpenGov Hub
-lede: Development Gateway and Global Integrity are thrilled to announce plans for
+excerpt: Development Gateway and Global Integrity are thrilled to announce plans for
   the new OpenGov Hub, an endeavor to bring like-minded organizations together in
   one physical location to work on issues related to the open government agenda. The
   OpenGov Hub will be housed in Development Gateway’s current headquarters in Washington,

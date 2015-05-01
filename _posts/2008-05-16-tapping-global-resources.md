@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1210962882
 old_path: news/tapping-global-resources
 title: Tapping Global Resources
-lede: dgCommunities brings the latest information on key development topics to desktops
+excerpt: dgCommunities brings the latest information on key development topics to desktops
   around the world, helping members to be more effective in their work. Ms.
 ---
 

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1303192831
 old_path: news/aid-information-management-mozambique-success-story
 title: 'Aid information management in Mozambique: A success story'
-lede: Development Gateway has worked with Mozambique since 2008 to update and expand
+excerpt: Development Gateway has worked with Mozambique since 2008 to update and expand
   its aid information management system, known as ODAmoz. ODAmoz was created in 2005
   as a way to coordinate and harmonize donor activities in Mozambique.
 ---

@@ -6,7 +6,7 @@ created: 1288114504
 old_path: news/government-kosovo-and-european-commission-launch-aid-management-platform-support-transparency-a
 title: Government of Kosovo and European Commission Launch Aid Management Platform
   to Support Transparency and Donor Coordination
-lede: PRISTINA, Oct. 21, 2010 – At an international donors’ conference in 2008, more
+excerpt: PRISTINA, Oct. 21, 2010 – At an international donors’ conference in 2008, more
   than 50 countries and international organizations pledged support to Kosovo’s socio-economic
   development. On Oct. 11, 2010, the Government of Kosovo and the European Commission
   Liaison Office to Kosovo (ECLO) launched the Aid Management Platform (AMP) at a

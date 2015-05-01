@@ -6,7 +6,7 @@ created: 1307641204
 old_path: news/african-development-bank-and-aiddata-map-development-projects-increasing-aid-transparency-great
 title: 'African Development Bank and AidData map development projects: Increasing
   aid transparency for greater development impact'
-lede: PRESS RELEASE
+excerpt: PRESS RELEASE
 ---
 
 PRESS RELEASE

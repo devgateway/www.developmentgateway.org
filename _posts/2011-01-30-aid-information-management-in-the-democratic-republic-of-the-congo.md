@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1296408904
 old_path: news/aid-information-management-democratic-republic-congo
 title: Aid information management in the Democratic Republic of the Congo
-lede: The government of the Democratic Republic of the Congo (DRC) produced a short
+excerpt: The government of the Democratic Republic of the Congo (DRC) produced a short
   video describing its experiences using Development Gateway’s Aid Management Platform
   (AMP) (video in French, with English subtitles).AMP is a web-based software that
   builds capacity for aid information management, enabling host countries to more

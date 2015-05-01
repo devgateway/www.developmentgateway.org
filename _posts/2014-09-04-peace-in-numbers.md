@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1409839928
 old_path: news/peace-numbers
 title: Peace in Numbers
-lede: For years, Big Data – enormous amounts of information from a variety of sources,
+excerpt: For years, Big Data – enormous amounts of information from a variety of sources,
   covering a range of topics – has been recognized as a resource for evaluating the
   impact and benefit of development projects. Increasingly, implementers, governments,
   and citizens are working in concert to use this data to shape domestic policy and

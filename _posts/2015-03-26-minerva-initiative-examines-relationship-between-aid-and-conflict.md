@@ -5,7 +5,7 @@ author: Martha Staid
 created: 1427376727
 old_path: news/minerva-initiative-examines-relationship-between-aid-and-conflict
 title: Minerva Initiative examines relationship between aid and conflict
-lede: Foreign aid dollars promote peace and security – or do they? This is the fundamental
+excerpt: Foreign aid dollars promote peace and security – or do they? This is the fundamental
   tenet underlying huge amounts of development financing, driven by studies showing
   that higher household wealth can mean reduced violence or that targeted spending
   may undermine rebel groups who win allegiance by providing social services.

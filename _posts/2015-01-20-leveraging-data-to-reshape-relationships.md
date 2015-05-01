@@ -5,7 +5,7 @@ author: Anna van Schie
 created: 1421772610
 old_path: news/leveraging-data-reshape-relationships
 title: Leveraging Data to Reshape Relationships
-lede: In December 2014, Development Gateway hosted the 7th Annual Aid Management Program
+excerpt: In December 2014, Development Gateway hosted the 7th Annual Aid Management Program
   Good Practices Workshop in Kathmandu, Nepal. This event brought together representatives
   from over ten countries for discussions, knowledge sharing, and hands-on sessions.
   Over the next several weeks, we will be releasing posts covering some of these breakout

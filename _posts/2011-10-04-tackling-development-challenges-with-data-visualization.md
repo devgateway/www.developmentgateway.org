@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1317758731
 old_path: news/tackling-development-challenges-data-visualization
 title: Tackling Development Challenges with Data Visualization
-lede: ""
+excerpt: ""
 thumbnail: assets/featured-images/techatstate_panel.jpg
 thumbnail-fid: "5407"
 thumbnail-alt: ""

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1144776904
 old_path: news/china-joins-dgmarket-publish-tenders-internationally
 title: China Joins dgMarket to Publish Tenders Internationally
-lede: China has begun publishing government tenders on dgMarket.com, the leading independent
+excerpt: China has begun publishing government tenders on dgMarket.com, the leading independent
   website aggregating government procurement information from 150 countries. dgMarket,
   created by the Development Gateway Foundation, aims to increase access to government
   contracting and bring down government procurement costs through greater competition.

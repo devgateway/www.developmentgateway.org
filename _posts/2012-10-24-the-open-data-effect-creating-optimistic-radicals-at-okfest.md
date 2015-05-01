@@ -5,7 +5,7 @@ author: Stephen Davenport
 created: 1351096371
 old_path: news/open-data-effect-creating-optimistic-radicals-okfest
 title: 'The Open Data Effect: Creating Optimistic Radicals at OKFest'
-lede: I am Stephen Davenport, Director of Innovation at Development Gateway, and recently
+excerpt: I am Stephen Davenport, Director of Innovation at Development Gateway, and recently
   I attended my first Open Knowledge event, the OKFestival in Helsinki Finland. As
   a development professional with a technology background I am often skeptical of
   such events as too soft a subject. What is knowledge anyway? It’s too generic. It’s

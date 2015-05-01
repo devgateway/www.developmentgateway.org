@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 old_path: news/transparency-strikes-oil
 title: Transparency Strikes Oil!
-lede: Transparency saw a win recently when the oil company Statoil disclosed project-level payments it makes to governments it works in. Organizations like Oxfam America and National Resource Governance Institute ...
+excerpt: Transparency saw a win recently when the oil company Statoil disclosed project-level payments it makes to governments it works in. Organizations like Oxfam America and National Resource Governance Institute ...
 thumbnail: assets/featured-images/pumpe_hemmingstedt.jpeg
 thumbnail-alt: ""
 categories: []

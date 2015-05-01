@@ -5,7 +5,7 @@ author: Dustin Homer & Paige Kirby
 created: 1414155703
 old_path: news/whats-next-iati
 title: What's next for IATI
-lede: On World Development Information Day, DG reports on the future of the International
+excerpt: On World Development Information Day, DG reports on the future of the International
   Aid Transparency Initiative, a global campaign that encourages donors and governments
   to make aid information open and accessible.
 thumbnail: assets/featured-images/6419794587_8f03286f61_o.jpg

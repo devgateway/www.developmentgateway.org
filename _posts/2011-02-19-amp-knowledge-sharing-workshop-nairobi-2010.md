@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1298095231
 old_path: news/amp-knowledge-sharing-workshop-nairobi-2010
 title: AMP Knowledge Sharing Workshop, Nairobi 2010
-lede: Bindu Venugopal, a Senior Technical Associate with Development Gateway who manages
+excerpt: Bindu Venugopal, a Senior Technical Associate with Development Gateway who manages
   product development of the Aid Management Platform, shares her experience at the
   recent Knowledge Sharing Workshop:In early December, I traveled to Nairobi, Kenya,
   to attend Development Gateway’s annual Knowledge Sharing Workshop for countries

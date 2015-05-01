@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1415723110
 old_path: news/helping-new-eu-member-states-fulfill-busan-commitments
 title: Helping New EU Member States Fulfill Busan Commitments
-lede: Development Gateway is pleased to announce the launch of EU-DEVFIN, a platform
+excerpt: Development Gateway is pleased to announce the launch of EU-DEVFIN, a platform
   that enhances official development assistance (ODA) reporting capacity for new European
   Union (EU) member states.
 thumbnail: assets/featured-images/devfin.jpg

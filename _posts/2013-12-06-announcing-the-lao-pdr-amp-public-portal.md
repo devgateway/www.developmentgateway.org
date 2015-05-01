@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1386334899
 old_path: news/announcing-lao-pdr-amp-public-portal
 title: Announcing the Lao PDR AMP Public Portal
-lede: Development Gateway is proud to announce that the Government of the Lao PDR
+excerpt: Development Gateway is proud to announce that the Government of the Lao PDR
   launched a public portal to its Aid Management Platform (AMP) on 18 November 2013.  The
   Aid Management Platform is a country level aid information management system that
   allows the Government to record and monitor project level Official Development Assistance

@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1412770387
 old_path: news/coordinating-un-development-efforts-better-results
 title: Coordinating UN Development Efforts for Better Results
-lede: One of the biggest challenges facing a complex entity like the United Nations
+excerpt: One of the biggest challenges facing a complex entity like the United Nations
   Development Group (UNDG) is how to coordinate efforts across the 32 agencies, departments,
   and programs that play a role in the UN’s development work. Coordination means collecting
   and standardizing data from dozens of offices managing thousands of activities to

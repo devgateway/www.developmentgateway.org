@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1418740078
 old_path: news/lessons-nepal-getting-government-data-everyone-else
 title: 'Lessons from Nepal: Getting government data to everyone else'
-lede: This is the third (and final) post in a three-part series relaying the findings
+excerpt: This is the third (and final) post in a three-part series relaying the findings
   from a study of government data use in Nepal. Read the first post and second post.
 thumbnail: assets/featured-images/nepal_data.png
 thumbnail-fid: "6159"

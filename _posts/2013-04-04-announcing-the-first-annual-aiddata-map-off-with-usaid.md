@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1365084019
 old_path: news/announcing-first-annual-aiddata-map-usaid
 title: Announcing the First Annual AidData Map-Off with USAID
-lede: AidData staff is engaging students at the College of William and Mary to put
+excerpt: AidData staff is engaging students at the College of William and Mary to put
   their geocoding and mapping skills to the test accepting USAID Administrator Rajiv
   Shah’s challenge to “inspire and support the next generation of development leaders,”.
 thumbnail: assets/featured-images/mapoff.jpg

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1383042605
 old_path: news/aiddata-30-making-development-finance-more-intuitive
 title: 'AidData 3.0: Making Development Finance More Intuitive'
-lede: Development Gateway is proud to announce that AidData, a research and innovation
+excerpt: Development Gateway is proud to announce that AidData, a research and innovation
   lab that seeks to improve development outcomes by making development finance data
   more accessible and actionable, released the 3.0 version of its http://aiddata.org
   portal today during Global Transparency Week.

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1179336904
 old_path: news/french-development-agency-selects-dgmarket-online-tenders
 title: French Development Agency Selects dgMarket for Online Tenders
-lede: 'The Development Gateway Foundation announced today an agreement to collaborate
+excerpt: 'The Development Gateway Foundation announced today an agreement to collaborate
   with the French Development Agency (AFD) to publish its tenders online.  The aid
   agency chose dgMarket, the foundation’s platform for online tenders, to publish
   tenders for all projects funded by AFD. It will include notices from 60 countries

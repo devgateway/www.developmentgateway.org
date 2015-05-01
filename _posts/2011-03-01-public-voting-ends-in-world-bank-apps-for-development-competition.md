@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1299001204
 old_path: news/public-voting-ends-world-bank-apps-development-competition
 title: Public Voting Ends in World Bank Apps for Development Competition
-lede: Between January 31st and February 28th, thousands around the world voted on
+excerpt: Between January 31st and February 28th, thousands around the world voted on
   their favorite submissions to the World Bank Apps for Development Competition. The
   contest challenged software developers to create IT platforms that use World Bank
   data to address pressing development questions, particularly those related to the

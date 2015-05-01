@@ -6,7 +6,7 @@ created: 1421071141
 old_path: news/next-five-years-replacing-build-back-better-cycle-constructive-communication
 title: 'The Next Five Years: Replacing "Build Back Better" with a Cycle of Constructive
   Communication'
-lede: Today marks the fifth anniversary of the devastating 2010 earthquake in Haiti.
+excerpt: Today marks the fifth anniversary of the devastating 2010 earthquake in Haiti.
   While the disaster has faded from the news cycle, the Government of Haiti, donor
   agencies, and citizens are still walking down the road of reconstruction. As individuals
   involved in this effort, today of all days we should stop to ask:“What is my role

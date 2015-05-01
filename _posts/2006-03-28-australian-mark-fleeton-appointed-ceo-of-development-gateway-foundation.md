@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1143567304
 old_path: news/australian-mark-fleeton-appointed-ceo-development-gateway-foundation
 title: Australian Mark Fleeton Appointed CEO of Development Gateway Foundation
-lede: Mr. Mark Fleeton has been appointed Chief Executive Officer of the Development
+excerpt: Mr. Mark Fleeton has been appointed Chief Executive Officer of the Development
   Gateway Foundation, an independent spin-off of the World Bank. The Development Gateway’s
   mission is to leverage the Internet for the benefit of people in developing countries,
   providing online solutions to strengthen good governance, improve the effectiveness

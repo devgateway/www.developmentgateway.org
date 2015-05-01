@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1261202431
 old_path: news/staff-gives-back-local-community
 title: Staff gives back to local community
-lede: The DC Central Kitchen is nonprofit organization that prepares 4,500 meals per
+excerpt: The DC Central Kitchen is nonprofit organization that prepares 4,500 meals per
   day for DC’s homeless. The kitchen started in 1989 as an effort by Robert Egger
   to use surplus food from local businesses to feed the area’s homeless population.
   Since its creation, the kitchen has also begun to provide culinary training and

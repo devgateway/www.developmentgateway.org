@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1297791604
 old_path: news/milestone-aid-transparency-iati-finalizes-aid-reporting-standard
 title: 'Milestone in Aid Transparency: IATI Finalizes Aid Reporting Standard'
-lede: Projects funded by development aid are complicated undertakings - they take
+excerpt: Projects funded by development aid are complicated undertakings - they take
   many forms, financing different activities in different currencies over different
   periods of time. In order for development actors to use aid information for development
   planning, coordination, and monitoring, project-level data must be recorded in a

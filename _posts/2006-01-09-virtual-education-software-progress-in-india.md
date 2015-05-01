@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1136828104
 old_path: news/virtual-education-software-progress-india
 title: Virtual education software progress in India
-lede: Bangalore's Centre for Development of Advanced Computing, which leads the Indian
+excerpt: Bangalore's Centre for Development of Advanced Computing, which leads the Indian
   Government-funded Development Gateway ICT Research and Training Centre, has published
   a technical paper on building virtual classroom situations using the center's Vartalaap
   software. The open-source software is being developed to cater to the online communications

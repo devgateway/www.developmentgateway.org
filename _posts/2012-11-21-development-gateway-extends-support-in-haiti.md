@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1353524400
 old_path: news/development-gateway-extends-support-haiti
 title: Development Gateway Extends Support in Haiti
-lede: "Development Gateway is pleased to announce that we will be extending the implementation
+excerpt: "Development Gateway is pleased to announce that we will be extending the implementation
   of the Aid Management Program with the government of Haiti, thanks to the support
   of UNDP Haiti.\r\n\r\nWe will continue to leverage our experience working on aid
   management in over 20 different countries around the world to support the government’s

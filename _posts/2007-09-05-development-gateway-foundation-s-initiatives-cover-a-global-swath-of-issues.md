@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1189013704
 old_path: news/development-gateway-foundation-s-initiatives-cover-global-swath-issues
 title: Development Gateway Foundation’s Initiatives Cover a Global Swath of Issues
-lede: The Development Gateway Foundation, as part of its mission to reduce poverty
+excerpt: The Development Gateway Foundation, as part of its mission to reduce poverty
   and enable change in developing nations, has been quietly moving mountains through
   information technology for seven years. Below is a brief rundown of its recent global
   initiatives. For more information, visit www.developmentgateway.org, or call Elizabeth

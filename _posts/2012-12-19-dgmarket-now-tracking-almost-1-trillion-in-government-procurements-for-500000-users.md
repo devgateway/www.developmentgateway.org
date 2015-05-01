@@ -6,7 +6,7 @@ created: 1355936454
 old_path: news/dgmarket-now-tracking-almost-1-trillion-government-procurements-500000-users
 title: dgMarket Now Tracking Almost $1 Trillion in Government Procurements for 500,000
   Users
-lede: "This month, dgMarket reached a new milestone – we now have over half a million
+excerpt: "This month, dgMarket reached a new milestone – we now have over half a million
   users who can track almost $1 trillion in government procurements annually!\r\n\r\ndgMarket
   is an online marketplace for government tenders, providing access to tender notices,
   bidding documents, and other procurement information.  It also provides open information

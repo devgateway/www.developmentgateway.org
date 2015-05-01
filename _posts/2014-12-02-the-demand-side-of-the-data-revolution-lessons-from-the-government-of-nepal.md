@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1417527704
 old_path: news/demand-side-data-revolution-lessons-government-nepal
 title: 'The Demand Side of the Data Revolution: Lessons from the Government of Nepal'
-lede: 'The post-2015 development agenda calls for a “Data Revolution,” asserting that
+excerpt: 'The post-2015 development agenda calls for a “Data Revolution,” asserting that
   a worldwide commitment to providing more high-quality, open data is the key to sustained
   global development.We’re in.At the same time, we want to make sure that the Revolution
   is truly revolutionary for the right actors – in particular, the governments who

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1368108062
 old_path: news/le-togo-produit-son-premier-rapport-sur-l-aide-grace-la-pga
 title: Le Togo produit son premier rapport sur l’aide grâce à la PGA
-lede: Dans le souci d’améliorer la gestion de l’aide et la transparence dans son utilisation,
+excerpt: Dans le souci d’améliorer la gestion de l’aide et la transparence dans son utilisation,
   le gouvernement togolais a choisi de mettre en place la Plateforme de Gestion de
   l’Aide (PGA) comme système de gestion de l’information de l’aide au développement.
   M. Essobouzou Awade, Coordonnateur National de la Déclaration de Paris au sein du

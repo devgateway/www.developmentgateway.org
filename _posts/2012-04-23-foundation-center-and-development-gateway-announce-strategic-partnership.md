@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1335186000
 old_path: news/foundation-center-and-development-gateway-announce-strategic-partnership
 title: Foundation Center and Development Gateway  Announce Strategic Partnership
-lede: PRESS RELEASE
+excerpt: PRESS RELEASE
 ---
 
 <table align="center" border="0" style="width:100%;"><tbody><tr><td>![](/assets/inline-images/fc_logo.gif)</td><td>![](/assets/webfm/amp-demo/dg-logo-with-tagline.png)</td></tr></tbody></table>

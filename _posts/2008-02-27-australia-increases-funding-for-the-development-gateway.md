@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1204133704
 old_path: news/australia-increases-funding-development-gateway
 title: Australia Increases Funding for the Development Gateway
-lede: The government of Australia will contribute $6.9 million (AUS$7.5 million) to
+excerpt: The government of Australia will contribute $6.9 million (AUS$7.5 million) to
   the Development Gateway Foundation in support of its mission to reduce poverty through
   information technology. Australia was a founding contributor of the foundation and
   ranks as its largest donor. This is its third round of financial support and represents

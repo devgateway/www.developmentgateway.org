@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1364410050
 old_path: news/amp-direct-impact-2012-laos-foreign-aid-implementation-report
 title: 'AMP Direct Impact: 2012 Laos Foreign Aid Implementation Report'
-lede: The Ministry of Planning and Investment of the Lao PDR released last week its
+excerpt: The Ministry of Planning and Investment of the Lao PDR released last week its
   annual Foreign Aid Implementation Report (FAIR) for the fiscal year 2011-2012. This
   year's FAIR is unique because it is the first FAIR report published by the Ministry
   to be comprised of Official Development Assistance (ODA) data entirely from the

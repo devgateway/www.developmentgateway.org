@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1372907685
 old_path: news/dg-tech-series-how-iati-exchange-simplifies-translation-aid-data-xml
 title: 'DG Tech Series: How IATI Exchange Simplifies Translation of Aid Data to XML'
-lede: Development Gateway is proud to announce the first implementation of the IATI
+excerpt: Development Gateway is proud to announce the first implementation of the IATI
   Exchange software program to integrate Nepal's Aid Management Program (AMP) and
   Budget Management Information System (BMIS). The software has been designed for
   automated information transfer between the two systems using the IATI standard.

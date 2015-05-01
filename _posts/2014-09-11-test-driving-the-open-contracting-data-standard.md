@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1410458618
 old_path: news/test-driving-open-contracting-data-standard
 title: Test Driving the Open Contracting Data Standard
-lede: Development Gateway’s dgMarket was one of the first global e-procurement platforms.
+excerpt: Development Gateway’s dgMarket was one of the first global e-procurement platforms.
   Since 2003, dgMarket has aggregated tender notices, contract awards and bidding
   documents from national governments and development agencies. dgMarket now lists
   over a million opportunities every year from 170 countries, representing around

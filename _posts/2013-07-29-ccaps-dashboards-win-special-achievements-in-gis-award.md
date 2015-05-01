@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1375107851
 old_path: news/ccaps-dashboards-win-special-achievements-gis-award
 title: CCAPS Dashboards Win Special Achievements in GIS Award
-lede: Development Gateway would like to congratulate our partner, the Robert Strauss
+excerpt: Development Gateway would like to congratulate our partner, the Robert Strauss
   Center for International Security and Law, for receiving the coveted Special Achievements
   in GIS (SAG) Award for its work mapping security risks related to climate change.
 thumbnail: assets/featured-images/ccaps-win.jpg

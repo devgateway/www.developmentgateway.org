@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1170783304
 old_path: news/launch-brazilian-portal-promote-national-ict-development
 title: Launch of Brazilian Portal to Promote National ICT Development
-lede: Telemática e Desenvolvimento Ltda announced today the launch of the e-Brazil
+excerpt: Telemática e Desenvolvimento Ltda announced today the launch of the e-Brazil
   portal, a bilingual portal that is part of the international network of country
   gateways supported by the Development Gateway Foundation.
 ---

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1317413814
 old_path: news/open-data-open-knowledge-open-solutions-possibilities-and-pitfalls
 title: 'Open Data, Open Knowledge, Open Solutions: Possibilities and Pitfalls'
-lede: A panel discussion on “Open Data, Open Knowledge, Open Solutions,” hosted by
+excerpt: A panel discussion on “Open Data, Open Knowledge, Open Solutions,” hosted by
   the World Bank Institute on September 22, served as a platform for participants
   to discuss the multifaceted dimensions of open data in international development.
   It focused on global interconnectedness, free information flows, new technologies,

@@ -6,7 +6,7 @@ created: 1218562504
 old_path: news/development-gateway-and-odadata-team-leverage-expertise-aid-information-management
 title: Development Gateway and ODAdata Team Up to Leverage Expertise in Aid Information
   Management
-lede: WASHINGTON—The Development Gateway and ODAdata, two leading providers of aid
+excerpt: WASHINGTON—The Development Gateway and ODAdata, two leading providers of aid
   information management systems, announced today that they have joined forces to
   provide effective, user-friendly, and results-driven applications to advance aid
   management and donor coordination efforts. This partnership leverages the expertise

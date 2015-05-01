@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1302803100
 old_path: news/congratulations-apps-development-winners
 title: Congratulations to the Apps for Development Winners!
-lede: 'On April 14, the World Bank announced winners of the Apps for Development Contest,
+excerpt: 'On April 14, the World Bank announced winners of the Apps for Development Contest,
   which challenged software developers around the world to leverage World Bank open
   data in creating innovative applications that address development issues. The contest
   drew 107 entries from 36 countries across 6 continents – more than a third of these

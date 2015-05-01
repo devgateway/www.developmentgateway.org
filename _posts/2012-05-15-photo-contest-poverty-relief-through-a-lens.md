@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1337094903
 old_path: news/photo-contest-poverty-relief-through-lens
 title: 'Photo Contest: Poverty Relief Through a Lens'
-lede: 'The China Development Gateway and China Internet Information Center launched
+excerpt: 'The China Development Gateway and China Internet Information Center launched
   a photo contest called “Lending Spotlight: Poverty Relief Through a Lens” on May
   15. Entries will be accepted until Sept. 20, with an awards ceremony in Nov. 2012.
   The contest focuses on global development and aims to share China’s experience in

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1316498431
 old_path: news/watch-online-techstate-data-visualization-sept-23-2011
 title: 'Watch Online: Tech@State on Data Visualization, Sept. 23, 2011'
-lede: The next Tech@State event will be held on Friday, Sept. 23, 2011, at the Kennedy
+excerpt: The next Tech@State event will be held on Friday, Sept. 23, 2011, at the Kennedy
   Center in Washington, DC and will focus on Data Visualization. Registration is open
   to the public, and the event will also be streamed live on the internet. It will
   be followed by an informal “unconference” on Sept.

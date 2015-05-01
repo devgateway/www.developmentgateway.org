@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1411137522
 old_path: news/open-contracting-nepal-could-it-be-game-changer
 title: 'Open Contracting in Nepal: Could it be a game changer?'
-lede: This is a modified version of a post originally published on Open Nepal’s blog,
+excerpt: This is a modified version of a post originally published on Open Nepal’s blog,
   authored by Anjesh Tuladhar.No one would disagree with the fact that proactive disclosure
   of public contracts by public agencies improves service delivery, curbs corruption,
   and helps monitoring. Laura Bacon says open contracting could be a game changer.

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1158645631
 old_path: news/youth-working-reduce-corruption
 title: Youth Working to Reduce Corruption
-lede: '"This course must be obligatory for public functionaries," according to Jovany
+excerpt: '"This course must be obligatory for public functionaries," according to Jovany
   Santana, a participant from Fusagasuga, outside Bogota.'
 ---
 

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1165340104
 old_path: news/development-gateway-award-goes-south-africa-s-mindset-network
 title: Development Gateway Award Goes to South Africa’s Mindset Network
-lede: HONG KONG—Mindset Network of Johannesburg, South Africa, has been chosen from
+excerpt: HONG KONG—Mindset Network of Johannesburg, South Africa, has been chosen from
   a group of over 160 nominees as the winner of the 2006 Development Gateway Award.
   The Development Gateway Foundation awarded $100,000 to Mindset Network, a nonprofit
   organization, in recognition of its developing and providing educational materials

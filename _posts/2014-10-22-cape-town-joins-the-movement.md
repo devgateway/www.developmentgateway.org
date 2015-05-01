@@ -5,7 +5,7 @@ author: Sarah McDuff
 created: 1413976497
 old_path: news/cape-town-joins-movement
 title: Cape Town Joins the Movement
-lede: On 25 September, the city of Cape Town explicitly recognized the importance
+excerpt: On 25 September, the city of Cape Town explicitly recognized the importance
   of making city government data accessible to the public with the approval of an
   Open Data Policy. The policy lays out a plan to make data centrally accessible through
   the development of an open data portal – with the goal of increasing transparency

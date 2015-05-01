@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1298051044
 old_path: news/development-gateway-partners-global-giving
 title: Development Gateway partners with Global Giving
-lede: Development Gateway has recently partnered with GlobalGiving, a non-profit that
+excerpt: Development Gateway has recently partnered with GlobalGiving, a non-profit that
   connects donors with non-profits around the world through their online marketplace.
   Through the GlobalGiving website donors are able to connect with projects and regions
   that interest them, and support the communities and ideas they find important. The

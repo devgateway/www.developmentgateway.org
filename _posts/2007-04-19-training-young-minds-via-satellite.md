@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1176962431
 old_path: news/training-young-minds-satellite
 title: Training Young Minds via Satellite
-lede: Mindset Network's satellite-based technology delivers multimedia educational
+excerpt: Mindset Network's satellite-based technology delivers multimedia educational
   content straight to students.
 ---
 

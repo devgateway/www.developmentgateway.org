@@ -6,7 +6,7 @@ created: 1366984801
 old_path: news/la-republique-democratique-du-congo-decentralise-l-utilisation-de-la-pgai-au-niveau-provincial
 title: La République Démocratique du Congo décentralise l’utilisation de la PGAI au
   niveau provincial
-lede: La Constitution du 18 février 2006 a adopté la décentralisation comme mode de
+excerpt: La Constitution du 18 février 2006 a adopté la décentralisation comme mode de
   gestion des affaires de l’Etat à travers trois paliers du pouvoir (central, provincial
   et local) et prévoit le passage de l’Etat congolais de 11 à 26 provinces. De plus,
   le Forum national de haut niveau sur l’efficacité de l’aide qui a eu lieu en 2009

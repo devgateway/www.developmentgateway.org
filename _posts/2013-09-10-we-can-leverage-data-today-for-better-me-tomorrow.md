@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1378858020
 old_path: news/we-can-leverage-data-today-better-me-tomorrow
 title: We Can Leverage Data Today for Better M&E Tomorrow
-lede: 'A few days ago, the Devex Impact blog featured, M&E 2.0: Using big data to
+excerpt: 'A few days ago, the Devex Impact blog featured, M&E 2.0: Using big data to
   kill white elephants, by Tim Docking about how development monitoring and evaluation
   practices need to accelerate to keep pace with cutting-edge methods for collecting,
   analyzing, and using data to do good. He wrote:'

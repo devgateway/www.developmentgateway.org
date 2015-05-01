@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1177522504
 old_path: news/new-office-brussels
 title: New Office in Brussels
-lede: The Development Gateway Foundation announced today the opening of its European
+excerpt: The Development Gateway Foundation announced today the opening of its European
   affiliate, Development Gateway International, based in Brussels.  "This new organization
   extends our reach," according to Mark Fleeton, CEO of the foundation as well as
   Development Gateway International. Its staff will work primarily with European donors

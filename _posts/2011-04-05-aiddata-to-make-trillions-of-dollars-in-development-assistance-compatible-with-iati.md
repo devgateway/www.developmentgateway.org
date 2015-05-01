@@ -6,7 +6,7 @@ created: 1302025204
 old_path: news/aiddata-make-trillions-dollars-development-assistance-compatible-iati-standard
 title: AidData to make trillions of dollars in development assistance compatible with
   IATI standard
-lede: By early May, users of the AidData database will be able to run queries on aid
+excerpt: By early May, users of the AidData database will be able to run queries on aid
   activities by donor, sector, and country, as before—but with a new twist. The results
   will be exportable in the new international aid reporting standard recently finalized
   by the International Aid Transparency Initiative, which aims to make aid information

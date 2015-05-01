@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1255023399
 old_path: news/development-gateway-plaid-create-aiddata
 title: Development Gateway, PLAID to Create AidData
-lede: Joint Venture to Build an In-depth Global Repository of Development ActivitiesDevelopment
+excerpt: Joint Venture to Build an In-depth Global Repository of Development ActivitiesDevelopment
   Gateway announces today its partnership with the interdisciplinary research team
   Project-Level Aid (PLAID). The two entities have come together to make detailed
   information on development finance more accessible and to create a comprehensive

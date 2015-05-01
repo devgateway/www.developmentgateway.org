@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1147368904
 old_path: news/world-bank-contributes-2-million-development-gateway-foundation
 title: World Bank Contributes $2 Million to Development Gateway Foundation
-lede: The World Bank has contributed $2 million to the Development Gateway Foundation,
+excerpt: The World Bank has contributed $2 million to the Development Gateway Foundation,
   a non-profit organization that provides Internet-based solutions to strengthen governance
   and improve aid effectiveness in developing countries. The Development Gateway was
   created within the World Bank and became an independent entity in 2001. Its programs

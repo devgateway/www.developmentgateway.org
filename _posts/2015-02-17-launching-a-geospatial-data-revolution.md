@@ -5,7 +5,7 @@ author: Josh Powell
 created: 1424182656
 old_path: news/launching-geospatial-data-revolution
 title: Launching a Geospatial Data Revolution
-lede: In part 1, we took stock of progress made and missing pieces to flesh fully
+excerpt: In part 1, we took stock of progress made and missing pieces to flesh fully
   the data revolution. With that in mind, what are some of the major challenges for
   the development community in launching a Geospatial Data Revolution?1) Matching
   data to Government needs

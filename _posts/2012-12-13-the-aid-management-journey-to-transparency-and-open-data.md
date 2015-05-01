@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1355410800
 old_path: news/aid-management-journey-transparency-and-open-data
 title: The Aid Management Journey to Transparency and Open Data
-lede: The open data and transparency revolution underway in international development
+excerpt: The open data and transparency revolution underway in international development
   is as much about culture change as it is about data, technology, and standards.  I
   am Nancy Choi, Director of Operations, and recently I have been in the midst of
   these changes.

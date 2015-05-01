@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1383654437
 old_path: news/monitoring-and-evaluation-experts-needed
 title: Monitoring and Evaluation Experts Needed
-lede: Development Gateway has a growing client demand for monitoring and evaluation
+excerpt: Development Gateway has a growing client demand for monitoring and evaluation
   (M&amp;E) tools, systems and services.  To meet our clients' needs, we seek qualified
   mid to senior-level M&amp;E specialists for a wide range of upcoming activities,
   including; developing M&amp;E strategies, building M&amp;E systems and tools, training

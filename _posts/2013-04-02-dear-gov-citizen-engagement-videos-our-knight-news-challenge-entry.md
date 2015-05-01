@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1364924546
 old_path: news/dear-gov-citizen-engagement-videos-our-knight-news-challenge-entry
 title: '"Dear Gov" Citizen Engagement Videos: Our Knight News Challenge Entry'
-lede: I am Taryn Davis and I've entered Development Gateway into the Knight News Challenge
+excerpt: I am Taryn Davis and I've entered Development Gateway into the Knight News Challenge
   with my "Dear Gov" idea. We want to enable citizens of Nepal to interact with government
   by introducing them to mapped development projects within their community and develop
   a platform to display citizen feedback and 15 second “Dear Gov” videos layered with

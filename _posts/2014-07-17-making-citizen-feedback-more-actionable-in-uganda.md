@@ -5,7 +5,7 @@ author: Katie Zanecchia
 created: 1405602900
 old_path: news/making-citizen-feedback-more-actionable-uganda
 title: Making Citizen Feedback More Actionable in Uganda
-lede: As Jed Miller recently noted in The Guardian, making data available online doesn’t
+excerpt: As Jed Miller recently noted in The Guardian, making data available online doesn’t
   mean much on its own.  It is a necessary first step in the open data movement, but
   information is valuable only when it can be used.  That means getting the right
   data in front of the right people.

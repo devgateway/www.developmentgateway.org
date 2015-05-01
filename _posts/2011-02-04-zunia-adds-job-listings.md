@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1296841204
 old_path: news/zunia-adds-job-listings
 title: Zunia adds job listings
-lede: Looking for a career in development? Zunia, an interactive platform for knowledge
+excerpt: Looking for a career in development? Zunia, an interactive platform for knowledge
   exchange and networking between development practitioners, now offers development
   job listings. Hundreds of jobs are added every day, in fields ranging from e-government
   to natural resources management. Start your search today!

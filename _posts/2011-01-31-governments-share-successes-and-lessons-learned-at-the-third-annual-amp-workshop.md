@@ -6,7 +6,7 @@ created: 1296495604
 old_path: news/governments-share-successes-and-lessons-learned-third-annual-aid-management-program-knowledge-s
 title: Governments Share Successes and Lessons Learned at the Third Annual Aid Management
   Program Knowledge Sharing Workshop
-lede: From Dec. 14-16, 2010, Development Gateway held the Third Annual Aid Management
+excerpt: From Dec. 14-16, 2010, Development Gateway held the Third Annual Aid Management
   Platform (AMP) Knowledge Sharing Workshop in Nairobi, Kenya. AMP is a web-based
   software that builds capacity for aid information management, enabling countries
   to more easily and accurately gather, record, and report data on foreign aid flows.

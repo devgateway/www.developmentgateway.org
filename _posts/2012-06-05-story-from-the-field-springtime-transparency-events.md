@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1338913459
 old_path: news/story-field-springtime-transparency-events
 title: 'Story from the Field: Springtime Transparency Events'
-lede: 'This Story from the Field comes from Stephen Davenport, Development Gateway’s
+excerpt: 'This Story from the Field comes from Stephen Davenport, Development Gateway’s
   Senior Director for Business Development/Partnerships:'
 ---
 

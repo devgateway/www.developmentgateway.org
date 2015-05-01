@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1392134041
 old_path: news/mapafrica-afdb-geocoding-greater-accountability
 title: 'MapAfrica: AfDB Geocoding for Greater Accountability'
-lede: "Geocoding (turning the location of development activities into coordinates
+excerpt: "Geocoding (turning the location of development activities into coordinates
   that enable accurate placement on a map) has long been high on the agenda for those
   interested in the traceability of funding for development projects.\r\n\r\nWith
   this objective in mind, the African Development Bank (AfDB) is geocoding its entire

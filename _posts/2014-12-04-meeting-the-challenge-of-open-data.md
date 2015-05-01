@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1417706965
 old_path: news/meeting-challenge-open-data
 title: Meeting the Challenge of Open Data
-lede: 'Next week is our Annual Aid Management Program (AMP) Good Practices Workshop
+excerpt: 'Next week is our Annual Aid Management Program (AMP) Good Practices Workshop
   - and this year’s theme is “Meeting the Challenge of Open Data.” However, the “Data
   Revolution” is already underway, and many attending countries have already gone
   public with their Aid Management Platforms - so why this theme, and why now?Here’s

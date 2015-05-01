@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1302802804
 old_path: news/development-gateway-and-esri-partner-make-international-aid-more-transparent
 title: Development Gateway and Esri partner to make international aid more transparent
-lede: PRESS RELEASE
+excerpt: PRESS RELEASE
 ---
 
 PRESS RELEASE

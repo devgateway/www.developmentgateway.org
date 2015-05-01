@@ -6,7 +6,7 @@ created: 1144172104
 old_path: news/dgmarket-online-information-service-extends-coverage-include-us-tenders-more-500-billion-tender
 title: dgMarket Online Information Service Extends Coverage to Include US Tenders;
   More than $500 Billion in Tenders Annually
-lede: The leading independent aggregator of government tender information online,
+excerpt: The leading independent aggregator of government tender information online,
   dgMarket, has expanded coverage to include US Federal Government tender notices.
   The dgMarket service, which is a growing program of the Development Gateway Foundation,
   will now feature more than $500 billion in contracts worldwide on an annual basis.

@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1410535354
 old_path: news/south-south-cooperation-expanding-modality
 title: 'South-South Cooperation: An Expanding Modality'
-lede: In early May, we highlighted the importance of tracking South-South Cooperation
+excerpt: In early May, we highlighted the importance of tracking South-South Cooperation
   (SSC), the exchange of financial and in-kind aid between developing countries. On
   the United Nations Day for South-South Cooperation, we wanted to highlight some
   updates about SSC across the Western Hemisphere.Tracking SSC Spending for Information

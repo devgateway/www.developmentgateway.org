@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1426165799
 old_path: news/iati-and-country-systems-data-evaluation-results
 title: 'IATI and Country Systems: Data Evaluation Results'
-lede: Earlier this year, we announced a new partnership between Development Gateway
+excerpt: Earlier this year, we announced a new partnership between Development Gateway
   and the French Ministry of Foreign Affairs and International Development to integrate
   IATI and Aid Management Platform (AMP) data in Burkina Faso, Chad, Cote d’Ivoire,
   Madagascar, and Senegal. Below is an update on outcomes to-date; our next post will

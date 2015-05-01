@@ -5,7 +5,7 @@ author: Benjamin Arancibia, Hamadoun Cisse, Paige Kirby, & Josh Powell
 created: 1426597796
 old_path: news/iati-and-country-systems-data-evaluation-methodology
 title: 'IATI and Country Systems: Data Evaluation Methodology'
-lede: 'Last week, we shared big-picture challenges and opportunities our team identified
+excerpt: 'Last week, we shared big-picture challenges and opportunities our team identified
   when evaluating IATI data for country-level integration. In this post, we will explain
   in more detail our data comparison and methodology used to analyze IATI and in-country
   data.Step 1: Identifying Core Fields'

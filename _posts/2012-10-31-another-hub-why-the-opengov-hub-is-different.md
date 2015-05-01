@@ -5,7 +5,7 @@ author: Stephen Davenport
 created: 1351686699
 old_path: news/another-hub-why-opengov-hub-different
 title: Another Hub? Why the OpenGov Hub is Different
-lede: "Co-working spaces, or \"Hubs,\" come in all shapes and sizes and typically
+excerpt: "Co-working spaces, or \"Hubs,\" come in all shapes and sizes and typically
   have snazzy themes; incubator, accelerator, meet up, etc. They are also all the
   rage, popping up everywhere from the US to Africa, Asia, and Latin America. Although
   the ambitions and intent behind each hub are noble and good, these initiatives often

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1186508104
 old_path: news/australia-sponsors-dgmarket-online-tenders-vietnam
 title: Australia Sponsors dgMarket for Online Tenders in Vietnam
-lede: The Development Gateway Foundation’s e-procurement information system, dgMarket,
+excerpt: The Development Gateway Foundation’s e-procurement information system, dgMarket,
   was launched at an event held in Hanoi yesterday attended by representatives of
   the Vietnamese government and the business and donor communities. This dgMarket
   implementation was primarily funded by the government of Australia and supported

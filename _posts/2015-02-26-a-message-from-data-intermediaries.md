@@ -5,7 +5,7 @@ author: Bibhusan Bista & Anna van Schie
 created: 1424966601
 old_path: news/message-data-intermediaries
 title: A Message from Data Intermediaries
-lede: This post continues coverage of breakout sessions held at the 7th Annual Aid
+excerpt: This post continues coverage of breakout sessions held at the 7th Annual Aid
   Management program Good Practices Workshop in Kathmandu, Nepal.
 thumbnail: assets/featured-images/8966416028_8203d7e270_z.jpg
 thumbnail-fid: "6184"

@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1412689534
 old_path: news/applying-me-open-data-movement
 title: Applying M&E to the Open Data Movement
-lede: Since its very beginning, Development Gateway has been committed to open data
+excerpt: Since its very beginning, Development Gateway has been committed to open data
   initiatives, and without a doubt great strides have been made in open data acceptance
   and adoption. More and more development organizations, practitioners, and national
   governments have begun publishing all sorts of programmatic and financial information.

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1352466000
 old_path: news/announcing-25-million-aiddata-center-development-policy
 title: Announcing the $25 Million AidData Center for Development Policy
-lede: Development Gateway is pleased to announce that the United States Agency for
+excerpt: Development Gateway is pleased to announce that the United States Agency for
   International Development (USAID) has awarded the College of William and Mary, Development
   Gateway, Brigham Young University, the University of Texas at Austin, and Esri,
   a five-year, $25-million cooperative agreement to increase global aid transparency

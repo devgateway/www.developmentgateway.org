@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1339082543
 old_path: news/new-calendar-ict4d-transparency-and-development-assistance-events-worldwide
 title: New Calendar for ICT4D, Transparency, and Development Assistance Events Worldwide
-lede: There is a new Event Calendar on the Development Gateway website with conferences
+excerpt: There is a new Event Calendar on the Development Gateway website with conferences
   and forums taking place around the world. The calendar includes events that are
   focused on issues such as transparency, governance, aid effectiveness, and ICT4D—the
   topics and themes that constitute the bulk of Development Gateway’s work. We hope

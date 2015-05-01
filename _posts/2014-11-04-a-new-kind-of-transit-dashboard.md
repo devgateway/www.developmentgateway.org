@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1415111198
 old_path: news/new-kind-transit-dashboard
 title: A New Kind of Transit Dashboard
-lede: Logistics – broadly defined as the services and processes needed to move goods
+excerpt: Logistics – broadly defined as the services and processes needed to move goods
   and services from production to consumption – is a cornerstone for economic efficiency
   and expansion. High-quality, interconnected roads and ports can make the transportation
   of goods easier, and boost domestic productivity.

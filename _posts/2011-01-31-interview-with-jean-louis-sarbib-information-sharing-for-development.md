@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1296495304
 old_path: news/interview-jean-louis-sarbib-information-sharing-development
 title: 'Interview with Jean-Louis Sarbib: Information-Sharing for Development'
-lede: In December 2010, development practitioners convened for European Development
+excerpt: In December 2010, development practitioners convened for European Development
   Days (EDD), a forum for discussion on and creation of new development policies and
   practices. Jean-Louis Sarbib, CEO of Development Gateway, was interviewed at the
   event by capacity4dev.eu, an online knowledge-sharing community for development

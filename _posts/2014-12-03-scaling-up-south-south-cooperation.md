@@ -5,7 +5,7 @@ author: Jean-Louis Sarbib
 created: 1417619245
 old_path: news/scaling-south-south-cooperation
 title: Scaling up South-South Cooperation
-lede: As attention shifts to the Sustainable Development Goals, Development Gateway
+excerpt: As attention shifts to the Sustainable Development Goals, Development Gateway
   reaffirms our decades-long commitment to facilitating South-South cooperation and
   urges the United Nations to ensure that post-2015 plans include all voices. Below
   is an outline of remarks given by Development Gateway CEO Jean-Louis Sarbib at the

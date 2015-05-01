@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1414672848
 old_path: news/fostering-south-south-connections-amp-good-practices-workshop
 title: Fostering South-South Connections at the AMP Good Practices Workshop
-lede: We at Development Gateway have had the privilege of working in 25 different
+excerpt: We at Development Gateway have had the privilege of working in 25 different
   countries through our Aid Management Program (AMP). These countries are spread throughout
   so many different regions – West Africa, East Africa, Southeast Asia, Central Asia,
   the Balkans, the Caribbean, and Central America; their experiences vary widely,

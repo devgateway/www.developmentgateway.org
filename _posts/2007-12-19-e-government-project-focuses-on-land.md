@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1198044031
 old_path: news/e-government-project-focuses-land
 title: E-government Project Focuses on Land
-lede: Cremilide Mambo, director of land management of Gaza Province, center, with
+excerpt: Cremilide Mambo, director of land management of Gaza Province, center, with
   Elias Dique, right, project manager of the land management information system, and
   a technician
 ---

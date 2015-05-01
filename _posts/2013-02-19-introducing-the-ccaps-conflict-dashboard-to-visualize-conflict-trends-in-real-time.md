@@ -6,7 +6,7 @@ created: 1361282454
 old_path: news/introducing-ccaps-conflict-dashboard-visualize-conflict-trends-real-time
 title: Introducing the CCAPS Conflict Dashboard to Visualize Conflict Trends in Real
   Time
-lede: The Strauss Center's program on Climate Change and African Political Stability
+excerpt: The Strauss Center's program on Climate Change and African Political Stability
   (CCAPS) analyzes how climate change could impact African and international security.
   Program research explores the drivers of climate insecurity, links between climate
   change and conflict, national responses to shocks and conflict, and the impact of

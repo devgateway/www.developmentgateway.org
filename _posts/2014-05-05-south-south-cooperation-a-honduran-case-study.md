@@ -5,7 +5,7 @@ author: Katie Zanecchia
 created: 1399297712
 old_path: news/south-south-cooperation-honduran-case-study
 title: 'South-South Cooperation: A Honduran Case Study'
-lede: Development Finance open data has quickly become a hot topic for large international
+excerpt: Development Finance open data has quickly become a hot topic for large international
   groups. The International Aid Transparency Initiative (IATI), World Bank, and AidData
   (a partner of Development Gateway’s) are just a few of the many organizations that
   have promoted this increase in open data and aid transparency.

@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1342028571
 old_path: news/one-laptop-child-highlighted-zunia
 title: One Laptop Per Child Highlighted on Zunia
-lede: The latest in a series of original interviews on Zunia.org features a conversation
+excerpt: The latest in a series of original interviews on Zunia.org features a conversation
   with Christoph Derndorfer, editor of the independent blog OLPC News, which provides
   commentary and updates on the One Laptop Per Child (OLPC) initiative.
 thumbnail: assets/featured-images/olpc.jpg

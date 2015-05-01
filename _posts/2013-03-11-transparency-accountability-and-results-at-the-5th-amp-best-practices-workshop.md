@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1363010532
 old_path: news/transparency-accountability-and-results-5th-amp-best-practices-workshop
 title: Transparency, Accountability and Results at the 5th AMP Best Practices Workshop
-lede: "The AMP Best Practices Workshop, Development Gateway’s annual flagship event,
+excerpt: "The AMP Best Practices Workshop, Development Gateway’s annual flagship event,
   took place for the fifth consecutive year in December 2012, in Dakar, Senegal. \r\n\r\nFocusing
   on development related themes such as transparency, accountability and results,
   the event attracts a growing number of participants from countries using the Aid

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1361458854
 old_path: news/development-gateway-extends-amp-support-honduras
 title: Development Gateway Extends AMP Support In Honduras
-lede: "Development Gateway is pleased to announce that we will be extending the implementation
+excerpt: "Development Gateway is pleased to announce that we will be extending the implementation
   of the Aid Management Program with the government of Honduras, thanks to the support
   of UNDP Honduras, the European Union, and the Canadian International Development
   Agency. We will continue the implementation of the AMP (or PGC in Spanish) to support

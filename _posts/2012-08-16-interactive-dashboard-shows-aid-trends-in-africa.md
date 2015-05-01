@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1345149969
 old_path: news/interactive-dashboard-shows-aid-trends-africa
 title: Interactive Dashboard Shows Aid Trends in Africa
-lede: The Strauss Center's Climate Change and African Political Stability (CCAPS)
+excerpt: The Strauss Center's Climate Change and African Political Stability (CCAPS)
   program has released a new aid dashboard that includes an interactive map and graphing
   tools, allowing users to explore trends in aid allocation by donor, sector, and
   demographics across Africa. The dashboard is a collaborative effort that includes

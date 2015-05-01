@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1159292104
 old_path: news/switzerland-commits-145-million-internet-solutions-developing-countries
 title: Switzerland Commits $1.45 Million to Internet Solutions for Developing Countries
-lede: The Swiss Agency for Development and Cooperation will contribute $1.45 million
+excerpt: The Swiss Agency for Development and Cooperation will contribute $1.45 million
   over the next three years in support of the Development Gateway Foundation’s efforts
   to provide Internet solutions for more effective aid and efficient governance in
   developing countries.

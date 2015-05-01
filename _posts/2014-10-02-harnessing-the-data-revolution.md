@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1412258733
 old_path: news/harnessing-data-revolution
 title: Harnessing the data revolution
-lede: What will it take to transform data and technology into improved development
+excerpt: What will it take to transform data and technology into improved development
   outcomes?
 thumbnail: assets/featured-images/dadarev.png
 thumbnail-fid: "6115"

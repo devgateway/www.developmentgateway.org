@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1147973704
 old_path: news/launch-mexican-online-portal-support-national-development
 title: Launch of Mexican Online Portal to Support National Development
-lede: The Mexican Council for Economic and Social Development (COMDES), in cooperation
+excerpt: The Mexican Council for Economic and Social Development (COMDES), in cooperation
   with the Internet Office of the President of Mexico and 30 other organizations,
   today launched a national web portal to promote cooperation, transparency and civil
   society participation in Mexico’s economic development efforts. Called the Mexican

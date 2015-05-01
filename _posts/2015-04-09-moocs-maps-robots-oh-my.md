@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1428577799
 old_path: news/moocs-maps-robots-oh-my
 title: MOOCs, Maps, & Robots, Oh My!
-lede: The World Bank's Citizen Engagement MOOC (Massive Open Online Course) is underway,
+excerpt: The World Bank's Citizen Engagement MOOC (Massive Open Online Course) is underway,
   and with it we’ll hopefully see a few new ideas and projects to further citizen
   engagement from those participating in Track 2 (the Policy and Leadership track).
   If you’re eager to learn more about Citizen Engagement but aren’t ready to plan

@@ -6,7 +6,7 @@ created: 1165426504
 old_path: news/tejari-partners-development-gateway-foundation-create-manshoori-online-government-tender-servic
 title: Tejari Partners with Development Gateway Foundation to Create ‘Manshoori’ Online
   Government Tender Service for Middle East Market
-lede: DUBAI, United Arab Emirates – In concurrence with the Arab Strategy Forum, a
+excerpt: DUBAI, United Arab Emirates – In concurrence with the Arab Strategy Forum, a
   new online government tender information service in Arabic and English will be launched
   through a partnership between Tejari and the Development Gateway Foundation. The
   new ‘Manshoori’ service, based on the state-of-the-art dgMarket tender publishing

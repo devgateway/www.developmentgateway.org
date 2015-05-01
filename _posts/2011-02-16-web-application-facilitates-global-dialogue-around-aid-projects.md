@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1297878304
 old_path: news/web-application-facilitates-global-dialogue-around-aid-projects
 title: Web Application Facilitates Global Dialogue around Aid Projects
-lede: PRESS RELEASE
+excerpt: PRESS RELEASE
 ---
 
 PRESS RELEASE

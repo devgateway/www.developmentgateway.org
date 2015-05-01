@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1412098644
 old_path: news/me-tech-recap
 title: M&E Tech Recap
-lede: Last week, Development Gateway participated in the M&amp;E Tech Conference –
+excerpt: Last week, Development Gateway participated in the M&amp;E Tech Conference –
   moderating two panels and participating in a hands-on session. Below are highlights
   from each:How Can We Leverage Open Data to Enhance Results?DG’s Senior Director
   of Operations and Co-Executive Director of AidData Nancy McGuire Choi spearheaded

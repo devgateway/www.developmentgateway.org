@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1161106504
 old_path: news/development-gateway-foundation-renews-partnership-rwanda
 title: Development Gateway Foundation Renews Partnership with Rwanda
-lede: The government of Rwanda and the Development Gateway Foundation have agreed
+excerpt: The government of Rwanda and the Development Gateway Foundation have agreed
   to extend their cooperative agreement for an additional three years, to consolidate
   and strengthen the position of Rwanda as a regional leader in information and communications
   technology (ICT) for development.

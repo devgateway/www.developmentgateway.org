@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1368030089
 old_path: news/where-does-1-billion-official-development-assistance-go-nepal
 title: Where Does $1 Billion in Official Development Assistance Go in Nepal?
-lede: On April 16, the Nepal Ministry of Finance (MoF) formally launched its second-annual
+excerpt: On April 16, the Nepal Ministry of Finance (MoF) formally launched its second-annual
   Development Cooperation Report (DCR) for fiscal year 2012. The DCR, which aggregates
   and analyzes information from the Nepal Aid Management Platform (AMP), dissects
   and displays for the public how $US 1 billion in development assistance – representing

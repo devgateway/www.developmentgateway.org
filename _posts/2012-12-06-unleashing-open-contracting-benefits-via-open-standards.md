@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1354806000
 old_path: news/unleashing-open-contracting-benefits-open-standards
 title: Unleashing Open Contracting Benefits via Open Standards
-lede: Developing countries lose 10 times more money due to corruption than they receive
+excerpt: Developing countries lose 10 times more money due to corruption than they receive
   in official aid. As contracts from the world’s governments amount to $9.5 trillion
   annually, public procurement is one of the major areas affected by corruption.
 thumbnail: assets/featured-images/open-contracting.jpg

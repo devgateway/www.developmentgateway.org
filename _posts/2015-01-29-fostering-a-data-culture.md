@@ -5,7 +5,7 @@ author: Anna van Schie
 created: 1422512123
 old_path: news/fostering-data-culture
 title: Fostering a “Data Culture”
-lede: This post continues coverage of breakout sessions held at the 7th Annual Aid
+excerpt: This post continues coverage of breakout sessions held at the 7th Annual Aid
   Management program Good Practices Workshop in Kathmandu, Nepal. At the crux of the
   Data Revolution is an increased use of data for government decision making. However,
   this tenet is often coupled with the assumption that a data-driven culture already

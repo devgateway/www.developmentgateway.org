@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1321893978
 old_path: news/introducing-aiddata-20
 title: Introducing AidData 2.0
-lede: Today, AidData launched its new and improved website, featuring more content
+excerpt: Today, AidData launched its new and improved website, featuring more content
   and new data and marking an expansion in the program’s mission and scope. What began
   as a project to build a new kind of development assistance database has evolved
   into a broader initiative that aims to increase the accessibility and relevance

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1369178180
 old_path: news/how-gpe-enabling-dynamic-visualizations-open-education-data
 title: How GPE is Enabling Dynamic Visualizations of Open Education Data
-lede: Development Gateway is very pleased to announce its successful involvement in
+excerpt: Development Gateway is very pleased to announce its successful involvement in
   the Global Partnership for Education’s (GPE) first data visualization venture.
 thumbnail: assets/featured-images/screen_shot_2013-05-21_at_7.13.43_pm.jpg
 thumbnail-fid: "5996"

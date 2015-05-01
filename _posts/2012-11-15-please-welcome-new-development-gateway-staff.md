@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1353003813
 old_path: news/please-welcome-new-development-gateway-staff
 title: Please Welcome New Development Gateway Staff
-lede: We are always looking for new people to add to Development Gateway's deep roster
+excerpt: We are always looking for new people to add to Development Gateway's deep roster
   of talented staff to increase our impact. We're proud to announce that we’ve added
   several key staff to help us expand and manage our diverse programs.
 thumbnail: assets/featured-images/new_staff.jpg

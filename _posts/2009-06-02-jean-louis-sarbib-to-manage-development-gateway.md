@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1243964199
 old_path: news/jean-louis-sarbib-manage-development-gateway
 title: Jean-Louis Sarbib to Manage Development Gateway
-lede: WASHINGTON—Development Gateway announces today that Jean-Louis Sarbib will serve
+excerpt: WASHINGTON—Development Gateway announces today that Jean-Louis Sarbib will serve
   as Chief Executive Officer following the departure of Mark Fleeton earlier this
   year.
 thumbnail: assets/featured-images/jls_sm_01.jpg

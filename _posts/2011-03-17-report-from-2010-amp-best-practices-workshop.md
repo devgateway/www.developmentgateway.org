@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1300383604
 old_path: news/report-2010-amp-best-practices-workshop
 title: Report from 2010 AMP Best Practices Workshop
-lede: In December 2010, Development Gateway hosted the third annual AMP Best Practices
+excerpt: In December 2010, Development Gateway hosted the third annual AMP Best Practices
   Workshop in Nairobi, Kenya. The workshop brings together delegates from governments
   that have implemented or are interested in implementing the Aid Management Program
   to discuss their experiences and lessons learned in managing the program.

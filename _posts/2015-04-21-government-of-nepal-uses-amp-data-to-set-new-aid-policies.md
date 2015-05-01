@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1429615848
 old_path: news/government-nepal-uses-amp-data-set-new-aid-policies
 title: Government of Nepal Uses AMP Data to Set New Aid Policies
-lede: Since 2010, the Government of Nepal has been maintaining an Aid Management Platform
+excerpt: Since 2010, the Government of Nepal has been maintaining an Aid Management Platform
   (AMP), an “effective tool for enhancing transparency and accountability in managing
   foreign aid in Nepal.” Through an annual Development Cooperation Report (DCR), Nepal’s
   Ministry of Finance draws on AMP data to offer government officials, donors and

@@ -5,7 +5,7 @@ author: Wayan Vota
 created: 1359543654
 old_path: news/how-can-we-make-open-data-meaningful-citizens
 title: How Can We Make Open Data Meaningful to Citizens?
-lede: I am Owen Scott and recently I was fortunate enough to have the opportunity
+excerpt: I am Owen Scott and recently I was fortunate enough to have the opportunity
   to attend the Engineers Without Borders Canada (EWB Canada) National Conference
   in Calgary. EWB Canada - no affiliation with EWB USA - is a progressive development
   organization focused on creating transformative change in African markets, public

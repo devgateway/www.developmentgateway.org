@@ -5,7 +5,7 @@ author: Dustin Homer & Rebecca Latourell
 created: 1419949518
 old_path: news/open-contracting-going-granular-increased-transparency-and-accountability
 title: 'Open Contracting: Going Granular for Increased Transparency and Accountability'
-lede: Knowing where aid projects are located is important for making smart allocation
+excerpt: Knowing where aid projects are located is important for making smart allocation
   and evaluation decision - but to know what is actually happening on the ground,
   you can’t stop there.Typically, project implementers are the only ones with knowledge
   of detailed project information. While contracts also offer a wealth of data points

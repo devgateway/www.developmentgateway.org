@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1300815604
 old_path: news/world-water-day-2011-role-international-donors-water-policy
 title: 'World Water Day 2011: The Role of International Donors in Water Policy'
-lede: 'March 22nd was World Water Day, giving the world a chance to reflect upon and
+excerpt: 'March 22nd was World Water Day, giving the world a chance to reflect upon and
   advocate for the sustainable management of freshwater resources. This year’s theme,
   “Water for Cities: Responding to the Urban Challenge,” emphasized the fact that
   rapid urbanization, particularly in the developing world, is generating significant

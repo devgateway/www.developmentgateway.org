@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1429184910
 old_path: news/meet-you-cartagena
 title: Meet You in Cartagena
-lede: Next week, Development Gateway will be attending the Cartagena Data Festival
+excerpt: Next week, Development Gateway will be attending the Cartagena Data Festival
   – an event bringing together development partners, technical implementers, and civil
   society organizations to help solve “critical gaps in coverage, access, and analysis
   of data.”

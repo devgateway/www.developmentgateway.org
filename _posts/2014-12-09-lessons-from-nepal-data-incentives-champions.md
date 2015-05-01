@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1418134283
 old_path: news/lessons-nepal-data-incentives-champions
 title: 'Lessons from Nepal: Data, Incentives, & Champions'
-lede: This is the second post in a three-part series relaying the findings from a
+excerpt: This is the second post in a three-part series relaying the findings from a
   study of government data use in Nepal. Read the first post here.Why should a government
   official care about using data?
 thumbnail: assets/featured-images/nepal.jpg

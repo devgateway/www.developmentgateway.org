@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1413304238
 old_path: news/we-need-revolution
 title: We Need a Revolution!
-lede: The Independent Expert Advisory Group on the “Data revolution for development”
+excerpt: The Independent Expert Advisory Group on the “Data revolution for development”
   is giving you only a few days to share your views on what a “revolution” should
   look like. So here’s your chance to be a revolutionary, channel your inner Beatle
   per the Data Revolution Group, and act quickly because the deadline is October 15th!

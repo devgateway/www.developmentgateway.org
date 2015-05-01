@@ -5,7 +5,7 @@ author: Taryn Davis
 created: 1421935005
 old_path: news/setting-your-data-lutions-2015
 title: Setting your Data-lutions for 2015
-lede: It’s a new year and you probably have your resolutions picked out, and maybe
+excerpt: It’s a new year and you probably have your resolutions picked out, and maybe
   have already given up on one or two of them. Well it’s not too late to add to the
   list (or replace the unsuccessful). We suggest making a few data-lutions this year
   and have found a few good ideas to ponder.

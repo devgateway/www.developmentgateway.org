@@ -5,7 +5,7 @@ author: Andrea Calabrese
 created: 1343313586
 old_path: news/international-open-government-data-conference-2012
 title: International Open Government Data Conference 2012
-lede: From July 10-12, the World Bank hosted the second International Open Government
+excerpt: From July 10-12, the World Bank hosted the second International Open Government
   Data Conference (IOGDC) in Washington D.C.
 ---
 

@@ -6,7 +6,7 @@ created: 1362588518
 old_path: news/citizen-voices-uk-global-conference-citizen-engagement-enhanced-development-impact
 title: 'Citizen Voices UK: A Global Conference on Citizen Engagement for Enhanced
   Development Impact'
-lede: "The World Bank, Development Gateway, and Plan UK invite you to RSVP for Citizen
+excerpt: "The World Bank, Development Gateway, and Plan UK invite you to RSVP for Citizen
   Voices UK: A Global Conference on Citizen Engagement for Enhanced Development Impact.\r\n\r\nCitizen
   Voices UK will focus on citizen engagement and feedback systems that strengthen
   the quality of policy making and the science of service delivery, and where the

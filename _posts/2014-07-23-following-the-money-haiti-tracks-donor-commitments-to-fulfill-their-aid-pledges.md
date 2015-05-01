@@ -5,7 +5,7 @@ author: Paige Kirby
 created: 1406132054
 old_path: news/following-money-haiti-tracks-donor-commitments-fulfill-their-aid-pledges
 title: 'Following the Money: Haiti Tracks Donor Commitments to Fulfill their Aid Pledges'
-lede: In the wake of the devastating 2010 earthquake, the international community
+excerpt: In the wake of the devastating 2010 earthquake, the international community
   pledged billions of dollars to support Haiti’s reconstruction efforts. The Government
   of Haiti has made significant strides over the past few years in innovating better
   methods to ensure this aid is responsive to changing needs and demands on the ground.
