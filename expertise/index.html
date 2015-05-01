@@ -27,7 +27,7 @@ one_pager_data: 'expertise/topics.json'
   <div class="expertise-topics clearfix">
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
     {% for entry in sorted_topics %}
-      <section class="topic topic-{{ entry.id }}" id="{{ entry.id }}" data-onepager="{{ entry.permalink }}">
+      <section class="section-topic topic-{{ entry.id }}" id="{{ entry.id }}" data-onepager="{{ entry.permalink }}">
         <h3 class="title blue">{{ entry.title }}</h3>
         <div id="{{ entry.id }}-content">
           <p><a href="{{ entry.permalink }}">Read more about {{ entry.title }}</a></p>
