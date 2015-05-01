@@ -1,0 +1,107 @@
+
+#---------------#
+# Site settings #
+#---------------#
+
+title: Development Gateway
+email: info@developmentgateway.org
+description: >
+  An interactive portal for information and knowledge sharing on sustainable development and poverty reduction.
+  Includes comprehensive database of development projects and an international procurement marketplace.
+
+# The current year is added befor the copyright text.
+copyright: >
+  Development Gateway and/or its affiliated companies
+
+# Map config for the reach page
+map:
+  tiles: "https://api.tiles.mapbox.com/v4/pschleihauf.lcn2c8c1/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoicHNjaGxlaWhhdWYiLCJhIjoiMWtmWlNOTSJ9._M5g6v6M6LskiUHkhSjOHQ&secure=1"
+  minZoom: 1
+  maxZoom: 5
+
+baseurl: "/" # The folder in which the site is located on the web server.
+url: ""
+
+# Define image presets for the image tag plugin.
+image:
+  presets:
+    avatar_small:
+      width: 144
+      height: 144
+    flag_small:
+      width: 64
+      height: 32
+    thumb_small:
+      width: 240
+      height: 160
+    thumb_large:
+      # 19 * 1em
+      width: 304
+      # 12 * 1em
+      height: 192
+
+collections:
+  homepage_sections:
+    output: false
+  expertise_topics:
+    output: true
+
+# URL for the mailchimp newsletter.
+mailchimp_form_url: __NONE__
+
+# Google Analytics Web Property ID.
+google_web_property_id: __NONE__
+
+#-----------------#
+# Jekyll settings #
+#-----------------#
+
+# Blog listing pagination settings.
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Change the default blog post link.
+permalink: "/:year/:month/:day/:title"
+
+# Exclude files/folders from being processed by Jekyll and copied to the built website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Vagrantfile
+  - Vagrantsettings.yaml
+# NOTE: All the files/folders starting with "_" (underscore) are also excluded.
+
+# Set the default markdown processor.
+markdown: kramdown
+
+# Change the default SASS settings.
+sass:
+  sass_dir: _scss
+
+# Variables that can be printed inside SASS files.
+# @TODO: Implement a way to inject variables into the compliation process.
+sass_variables:
+  gen_total_columns: '12'
+  gen_column_width: '4em'
+  gen_gutter_width: '1em'
+  sidebar_grid_count: '3'
+  content_grid_count: '9'
+
+# Uncomment the following lines to enable lunr.js search.
+#gems:
+#  - 'jekyll-lunr-js-search'
+
+# lunr.js specific settings.
+lunr_search:
+  excludes:
+    - blog/index.html
+    - expertise/topics.json
+    - feed.xml
+    - images
+    - lib
+    - scripts
+  js_dir: scripts
+
+# Uncomment on localhost so that you don't wait forever for the build to finish.
+# limit_posts: 20
