@@ -2,7 +2,7 @@
 - name: African Continent
   id: africa-continent
   year: 2014
-  category: Map Africa
+  category: MapAfrica
   description: "A dynamic online platform that enables citizens, government officials, and donors to track investments from geocoded African Development Bank-funded projects."
   features:
     - Geocoded aid information
@@ -10,7 +10,7 @@
   quote: "MapAfrica allows us to present our investments and results in a simple way, bringing us closer to the people we serve."
   quote-author: Simon Mizrahi, AfDB Director
   url: http://mapafrica.afdb.org/
-  urlText: Visit Map Africa.
+  urlText: Visit MapAfrica.
 
 - name: Burkina Faso
   id: burkina-faso
