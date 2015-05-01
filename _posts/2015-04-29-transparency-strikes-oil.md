@@ -6,7 +6,7 @@ title: Transparency Strikes Oil!
 lede: Transparency saw a win recently when the oil company Statoil disclosed project-level payments it makes to governments it works in. Organizations like Oxfam America and National Resource Governance Institute ...
 thumbnail: assets/featured-images/pumpe_hemmingstedt.jpeg
 thumbnail-alt: ""
-categories: [Aid Management, Open Data]
+categories: []
 ---
 
 Transparency saw a win recently when the oil company Statoil [disclosed project-level payments](http://www.statoil.com/no/InvestorCentre/AnnualReport/AnnualReport2014/Documents/DownloadCentreFiles/01_KeyDownloads/2014%20Payments%20to%20governments.pdf) it makes to governments it works in. Organizations like [Oxfam America](http://politicsofpoverty.oxfamamerica.org/2015/03/why-is-oxfam-applauding-an-oil-company-transparency/) and [National Resource Governance Institute](http://www.resourcegovernance.org/news/press_releases/statoil-disclosures-undermine-us-oil-lobby-arguments) applauded the oil company for leading the way and proving that it can be done.
