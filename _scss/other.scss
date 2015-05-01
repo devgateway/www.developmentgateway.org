@@ -72,9 +72,18 @@ cite {
   }
 }
 
-.section-topic{
-  margin-top:8em;
-  margin-bottom:3em;
+// @TODO: Cleanup!
+.section-topic {
+  margin-top: 8em;
+  margin-bottom: 3em;
+}
+.post-header-inner{
+  .title {
+    font-weight:$font_weight_light;
+  }
+}
+.blog-post-wrapper {
+  padding-bottom: 3em;
 }
 
 .leaflet-top,
