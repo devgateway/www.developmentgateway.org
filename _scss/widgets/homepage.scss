@@ -217,7 +217,7 @@
     color: $default_text;
   }
 
-  .blog-teaser-alternative {
+  .blog-entry--alternative {
     margin: 1em;
 
     a {
@@ -253,7 +253,7 @@
     .blog-title {
       @include l-column-force-height($line_height: 1.3em, $rows: 3);
     }
-    .blog-lede {
+    .blog-excerpt {
       @include l-column-force-height($line_height: 1.5em, $rows: 7, $color: $white);
     }
   }
