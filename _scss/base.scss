@@ -1,8 +1,10 @@
+
 html {
   // Always show page scrollbar to prevent side-movement when hovering over
   // items that are extending their height.
   overflow-y: scroll;
 }
+
 body,
 html {
   background: $white;
@@ -10,6 +12,7 @@ html {
   font-family: $font_stack_default;
   font-weight: $font_weight_light;
 }
+
 .main-content {
   background-color: $white;
 }
@@ -52,6 +55,7 @@ html {
     }
   }
 }
+
 /**
  * Hide elements from all users.
  *
@@ -63,6 +67,7 @@ html {
 .element-hidden {
   display: none;
 }
+
 /**
  * Hide elements visually, but keep them available for screen-readers.
  *
@@ -77,6 +82,7 @@ html {
   overflow: hidden;
   position: absolute !important;
 }
+
 /**
  * The .element-focusable class extends the .element-invisible class to allow
  * the element to be focusable when navigated to via the keyboard.
@@ -85,6 +91,7 @@ html {
 .element-invisible.element-focusable:focus {
   @include display-invisible-element();
 }
+
 /**
  * Style the accessibility "Skip to main content" link.
  */
@@ -95,7 +102,7 @@ html {
   position: absolute;
   text-align: center;
   width: $block_width;
-  z-index: 10;
+  z-index: 15;
   a {
     background: $blue_light;
     display: block;
@@ -103,6 +110,7 @@ html {
     text-decoration: none;
   }
 }
+
 // headings
 h1,
 h2,
@@ -112,18 +120,22 @@ h3 {
     @include transition(color,500ms);
   }
 }
+
 h2 {
-    color: $grey_dark;
-    font-size: $largest;
+  color: $grey_dark;
+  font-size: $largest;
 }
+
 h3 {
   font-size: $larger;
   color: $black;
 }
 
+// @TODO: REMOVE!!!
 .blue{
  color: $blue_deep;
 }
+
 .grey{
  color: $grey_light;
 }
