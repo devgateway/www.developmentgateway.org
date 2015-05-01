@@ -2,28 +2,28 @@
 - type: Annual Reports
   items:
   - name: 2012-2014 Report
-    file: dg_uploads/pdfs/dg_2014_annual_report_eng.pdf
+    file: assets/webfm/pdfs/dg_2014_annual_report_eng.pdf
   - name: 2011 Report
-    file: dg_uploads/pdfs/dg_2011_annual_report_eng.pdf
+    file: assets/webfm/pdfs/dg_2011_annual_report_eng.pdf
   - name: 2010 Report
-    file: dg_uploads/pdfs/dg_annual_report-2010eng.pdf
+    file: assets/webfm/pdfs/dg_annual_report-2010eng.pdf
 
 
 - type: Combined Financial Statements
   items:
   - name: Years 2013-2012
-    file: dg_uploads/pdfs/combined_financial_statements_for_the_years_ended_june_30_2013_and_2012.pdf
+    file: assets/webfm/pdfs/combined_financial_statements_for_the_years_ended_june_30_2013_and_2012.pdf
   - name: Years 2012-2011
-    file: dg_uploads/pdfs/2012_audited_financials.pdf
+    file: assets/webfm/pdfs/2012_audited_financials.pdf
   - name: Years 2011-2010
-    file: dg_uploads/pdfs/combined_financial_statements_for_the_years_ended_june_30_2011_and_2010.pdf
+    file: assets/webfm/pdfs/combined_financial_statements_for_the_years_ended_june_30_2011_and_2010.pdf
 
 
 - type: Form 990s
   items:
   - name: Year 2013
-    file: dg_uploads/pdfs/form990-2013.pdf
+    file: assets/webfm/pdfs/form990-2013.pdf
   - name: Year 2012
-    file: dg_uploads/pdfs/2012-990.pdf
+    file: assets/webfm/pdfs/2012-990.pdf
   - name: Year 2011
-    file: dg_uploads/pdfs/form990-2011.pdf
+    file: assets/webfm/pdfs/form990-2011.pdf
