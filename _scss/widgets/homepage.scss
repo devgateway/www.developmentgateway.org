@@ -1,4 +1,6 @@
 
+// @TODO: Add some structure to this randomness.
+
 .homepage-wrapper {
   background-color: $black;
   color: $white;
@@ -27,8 +29,6 @@
 // Style for the "empowering.html" homepage section.
 .section-empowering {
   .empowering-subsection {
-    margin-top: 15em;
-
     .column {
       text-align: center;
     }
@@ -66,6 +66,10 @@
     padding-top: 20em;
 
     .empowering-subsection {
+      // @TODO: REMOVE! This is temporary.!
+      margin-top: 15em;
+      margin-bottom: 10em !important;
+
       .info {
         border-right: 1px solid $highlight_text;
         padding: 0.5em 2em 0;
@@ -97,8 +101,7 @@
     }
   }
 
-  // @TODO: REMOVE! This is temporary.!
-  margin-bottom: 10em !important;
+  // @TODO: REMOVE! This is temporary!
   .countries-subsection {
     display: none;
   }
@@ -145,9 +148,6 @@
           margin: 0.5em 0;
         }
       }
-      .column-0 {
-        border-right: 1px solid $white;
-      }
     }
   }
 }
@@ -157,6 +157,7 @@
   .title {
     > em {
       color: $highlight_text;
+      display: block;
       font-style: normal;
     }
   }
@@ -165,38 +166,31 @@
     font-size: 1.5em;
   }
 
-  .topic-title {
+  .topic {
     @include box-sizing();
     border: 1px solid white;
-    padding: 1em;
+    font-size: 1em;
     text-align: center;
     vertical-align: middle;
+  }
 
-    // @TODO: Remove when the default style has been reverted to default values?
-    font-size: 1.4em;
-    .topic-link {
-      @include link-color($white, $highlight_text);
-      display: block;
+  // @TODO: Replace with SVG icons.
+  .topic-link {
+    @include link-color($white, $highlight_text);
+    display: table;
+    width: 100%;
+  }
+  .topic-col {
+    display: table-cell;
+    padding: 0.5em;
+    vertical-align: middle;
+    &.icon {
+      width: 3em;
     }
-  }
-
-  .topic-link:before {
-    background-repeat: no-repeat;
-    background-position: center center;
-    content: ' ';
-    display: block;
-    float: left;
-    height: 3em;
-    width: 3em;
-  }
-  .topic-information-management:before {
-    background-image: url($base_url + "images/other/icon-information-management.png");
-  }
-  .topic-data-uptake:before {
-    background-image: url($base_url + "images/other/icon-data-uptake.png");
-  }
-  .topic-openness-engagement:before {
-    background-image: url($base_url + "images/other/icon-openness-engagement.png");
+    &.title {
+      // @TODO: Remove when the default style has been reverted to default values?
+      font-size: 1.4em;
+    }
   }
 
   @include media-query-min($bp_medium) {
@@ -204,7 +198,6 @@
       font-size: 1.7em;
 
       > em {
-        display: block;
         font-size: 2em;
       }
     }
@@ -266,6 +259,23 @@
   }
 }
 
+@include media-query-min($bp_small) {
+  .description-subsection {
+    .column {
+      @include l-column-cell(6);
+      vertical-align: middle;
+    }
+    .column-0 {
+      text-align: right;
+    }
+    .section-partners & {
+      .column-0 {
+        border-right: 1px solid $white;
+      }
+    }
+  }
+}
+
 @include media-query-min($bp_medium) {
   .empowering-subsection {
     display: table;
@@ -282,24 +292,13 @@
     }
   }
 
-  .description-subsection {
-    .column {
-      @include l-column-cell(6);
-      vertical-align: middle;
-    }
-    .column-0 {
-      text-align: right;
-    }
-  }
+  .topics-subsection {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1em;
 
-  @include media-query-min($bp_medium) {
-    .topics-subsection {
-      display: table;
-      border-collapse: separate;
-      border-spacing: 1em;
-    }
-    .topic-title {
-      @include l-column-cell(3);
+    .topic {
+      @include l-column-cell(4);
     }
   }
 }

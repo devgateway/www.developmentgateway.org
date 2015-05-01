@@ -14,9 +14,15 @@ weight: 2
   <div class="topics-subsection">
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
     {% for entry in sorted_topics %}
-    <h2 class="topic-title">
+    <h2 class="topic">
+      {% assign icon_url = entry.id | prepend: 'images/other/icon-' | append: '.png' %}
       <a class="topic-link topic-{{ entry.id }}" href="{{ entry.id | prepend: 'expertise/#' | prepend: site.baseurl }}">
-        {{ entry.title }}
+        <span class="topic-col icon">
+          <img src="{{ icon_url | prepend: site.baseurl }}" alt="{{ entry.title }}"/>
+        </span>
+        <span class="topic-col title">
+          {{ entry.title }}
+        </span>
       </a>
     </h2>
     {% endfor %}
