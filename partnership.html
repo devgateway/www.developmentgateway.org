@@ -9,17 +9,17 @@ page_navigation:
 permalink: /partnership/
 weight: 7
 ---
-<h2>Partners</h2>
+
 <section id="partners" class="page-section">
-  <div class="page-section">
+  <h2>Partners</h2>
+
   <h3 class="blue">Governments</h3>
   <ul class="columns-list columns-list--third">
     {% for partner in site.data.partners.governments %}
     <li class="entry">{{ partner.name }}</li>
     {% endfor %}
   </ul>
-</section>
-<section id="partners" class="page-section">
+
   <h3 class="blue">Organizations</h3>
   <ul class="columns-list columns-list--third">
     {% for partner in site.data.partners.organizations %}
