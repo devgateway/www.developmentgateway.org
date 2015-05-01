@@ -26,7 +26,7 @@ weight: 4
 <div class="page-layout-element">
   <h3>Innovation stories released by Development Gateway</h3>
   <div class="columns-3 clearfix">
-    {% for post in site.posts | limit: 8 %}
+    {% for post in site.posts | limit: 3 %}
     <div class="blog-entry-wrapper column clearfix">
       <article class="blog-entry">
         <div class="blog-image-wrapper">
