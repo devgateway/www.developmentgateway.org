@@ -15,12 +15,12 @@
     }
     // Spacing for background images on large devices.
     @include media-query-min($bp_medium) {
-      padding: 15em 0;
-      &.section-empowering {
-        padding: 20em 0 0;
+      padding: 12em 0;
+      &.section-partners {
+        padding: 14em 0;
       }
       &.section-latest-stories {
-        padding: 10em 0;
+        padding: 8em 0;
       }
     }
   }
@@ -63,12 +63,16 @@
   }
 
   @include media-query-min($bp_medium) {
-    padding-top: 20em;
-
     .empowering-subsection {
       // @TODO: REMOVE! This is temporary.!
-      margin-top: 15em;
       margin-bottom: 10em !important;
+      margin-top: 10em !important;
+
+      // Create a semi-transparent box around the text.
+      background-color: #111111;
+      background-color: rgba(#111111, 0.6);
+      padding-bottom: 2em;
+      padding-top: 2em;
 
       .info {
         border-right: 1px solid $highlight_text;
@@ -305,34 +309,26 @@
 
 // Background images for homepage sections on large devices.
 @include media-query-min($bp_medium) {
-  $gradient: linear-gradient(
-      rgba(0, 0, 0, 0) 95%,
-      rgba(0, 0, 0, 1) 99%);
   .section-empowering {
     $background_image: $base_url + 'images/home/frame1.jpg';
-    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+    border-bottom: 1px solid $white;
+    @include l-background-image($background_image);
   }
 
-  $gradient: linear-gradient(
-      rgba(0, 0, 0, 1) 1%,
-      rgba(0, 0, 0, 0) 5%,
-      rgba(0, 0, 0, 0) 95%,
-      rgba(0, 0, 0, 1) 99%);
   .section-expertise {
     $background_image: $base_url + 'images/home/frame2.jpg';
-    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+    border-bottom: 1px solid $white;
+    @include l-background-image($background_image);
   }
 
   .section-partners {
     $background_image: $base_url + 'images/home/frame3.jpg';
-    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+    border-bottom: 1px solid $white;
+    @include l-background-image($background_image);
   }
 
-  $gradient: linear-gradient(
-      rgba(0, 0, 0, 1) 1%,
-      rgba(0, 0, 0, 0) 5%);
   .section-latest-stories {
     $background_image: $base_url + 'images/home/frame4.jpg';
-    @include l-background-image($background_image, rgba(0, 0, 0, 0.6), $gradient);
+    @include l-background-image($background_image);
   }
 }
