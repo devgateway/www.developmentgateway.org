@@ -19,7 +19,7 @@ map:
   maxZoom: 5
 
 baseurl: "/" # The folder in which the site is located on the web server.
-url: ""
+url: "http://dgthree-local.dev" # Without a trailing slash!
 
 # Define image presets for the image tag plugin.
 image:
@@ -87,9 +87,11 @@ sass_variables:
   sidebar_grid_count: '3'
   content_grid_count: '9'
 
-# Uncomment the following lines to enable lunr.js search.
-#gems:
-#  - 'jekyll-lunr-js-search'
+# Uncomment the `jekyll-lunr-js-search` line to enable lunr.js search.
+# The site `url` needs to be setup for jekyll-sitemap to work properly.
+gems:
+  - jekyll-sitemap
+#  - jekyll-lunr-js-search
 
 # lunr.js specific settings.
 lunr_search:
