@@ -8,9 +8,16 @@
   @include media-query-min($bp_medium) {
     min-height: 3.5em;
 
+    .link {
+      // Enable transition effects for the sticky page navigation.
+      transition-property: padding-top, padding-bottom;
+      transition-duration: 300ms;
+    }
+
     .page-navigation {
       background-color: $white;
       line-height: 1.5em;
+
       &.is-fixed {
         // Keeps the page-navigation-wrapper height constant.
         border-top: 1px solid $grey_lightest;
