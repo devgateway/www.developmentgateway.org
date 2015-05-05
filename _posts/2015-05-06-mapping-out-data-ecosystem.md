@@ -1,10 +1,7 @@
 ---
 layout: post
 author: Taryn Davis
-title: Post-Cartagena: Mapping out the Data Ecosystem
-excerpt:
-thumbnail: assets/featured-images/homepage-screenshot.jpg
-thumbnail-alt: "data_ecosystem"
+title: "Post-Cartagena: Mapping out the Data Ecosystem"
 categories: [Open Data]
 ---
 
@@ -20,7 +17,9 @@ In order to create a healthy data ecosystem, we first have to understand who our
  
 I decided to take a stab at mapping out what these relationships might be, and the different influencing factors on each of them. While this is not holistic – and very much dependent on each country’s situation – it does give a good starting place.
 
-(iframe)
+<div class="media-resizable-wrapper aspect-1-1">
+  <iframe class="media-resizable-element" src="http://network-visuals.com/embed?type=share&id=285"></iframe>
+</div>
 (Click on the bubbles to see influencing factors in these relationships.)
 
 As we start to look at these relationships, there are a couple things that stand out. One is the need to strengthen government National Statistical Offices (NSOs). AidData’s recent [Marketplace of Ideas for Policy Change report](http://aiddata.org/blog/new-marketplace-of-ideas-for-policy-change-report-shows-how-external-sources-of-analysis-and-advice) found that assessments were more effective in influencing policymakers if they used data from the host government. If government tends to use their own data for policy, then it’s imperative that NSOs have sufficient support to fulfill the data needs of the government, and make their data available to public use. This also begs the question of why governments don’t value other sources of data as much: is this a perception issue, trust issue, legally mandated, or something else? This question is key as it limits the data that can be used to influence government policy makers. While citizen data, CSO data, and development partner data could provide valuable insights, it won’t have the impact desired if minimized by government officials.
@@ -32,4 +31,3 @@ Finally, let’s consider the lawmakers. This group has the ability to set the s
 It will take the cohesion of all these members to get where we want to be, but already we see gaps in who participates in these strategic conversations. In Cartagena, for example. we saw little participation from the government data users. While perhaps hard to identify who exactly should be at the table, these members should not be left out; government officials have the ability to make powerful changes within their countries, and should be using data to make better-informed decisions.
  
 While this map will look different in every context, what big links, influencing factors, or key players are we missing? We hope this can be the start of a longer participatory process of mapping out the full data ecosystem within regions and countries, in order to identify and strengthen relationships that can make the data revolution more than just a buzzword.
-
