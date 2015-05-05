@@ -1,0 +1,35 @@
+---
+layout: post
+author: Taryn Davis
+title: Post-Cartagena: Mapping out the Data Ecosystem
+excerpt:
+thumbnail: assets/featured-images/homepage-screenshot.jpg
+thumbnail-alt: "data_ecosystem"
+categories: [Open Data]
+---
+
+One of my favorite quotables from the [Cartagena Data Festival](http://www.cartagenadatafest2015.org/) came from Ricardo Fuentes-Nieva of Oxfam who said that maybe we need a data “reformation” instead of “revolution” – alluding to the Protestant Reformation, when the Bible was translated into the vernacular of the people. In a data context, this means taking stuffy, hard-to-comprehend information, and putting it into a format that everyday people (not just PhDs and data fanboys) can understand.
+
+We heard time and time again the [increasing urgency](http://www.ids.ac.uk/opinion/making-sense-of-data-goes-beyond-counting-numbers) for [more data literacy](http://datarevolution.paris21.org/sites/default/files/60-second%20guide.pdf). While the definition of data literacy has been debated, data literacy includes creating more data producers, strengthening their ability to create quality data, and enabling policymakers to be better data users. In addition, data literacy also means making sure development data users – governments, CSOs, journalists, and citizens – can read charts and graphs, ask the right questions, and avoid making the wrong assumptions. For example, examining data that shows a specific region has low access to safe water might cause you to target funding to that area. However, it’s also important to look at population data: this information will allow you to first target areas where there are more people with less access, impacting more lives.  
+
+After the official festival was over, attendees had the opportunity to participate in a useful exercise where we gathered in groups to try and identify what ideal ‘ecosystem’ a data revolution would create, and what actions need to happen to get there. While this initial discussion was limited, it was the start of an important discussion that will need to be held at a global, regional, local level.
+
+There are a lot of elements that go into creating the ideal data ecosystem. If I had to give a definition of a healthy data ecosystem, it would be one where government, civil society (and development partners in many cases), the private sector, and citizens work cohesively to produce important data in a timely matter that becomes publicly available. All of these players would have a working level of data literacy in order to use the available information to effect positive change, and policymakers (within private, public, and foreign organizations) would use data to make effective decisions for which the public could hold them accountable. 
+
+In order to create a healthy data ecosystem, we first have to understand who our members are, as well as their individual relationships to one another – whether they have positive working relationships that support a cohesive data environment, or if they undercut each other (intentionally or otherwise). Only with this understanding can we strengthen weak relationship to help the whole ecosystem flourish.
+ 
+I decided to take a stab at mapping out what these relationships might be, and the different influencing factors on each of them. While this is not holistic – and very much dependent on each country’s situation – it does give a good starting place.
+
+(iframe)
+(Click on the bubbles to see influencing factors in these relationships.)
+
+As we start to look at these relationships, there are a couple things that stand out. One is the need to strengthen government National Statistical Offices (NSOs). AidData’s recent [Marketplace of Ideas for Policy Change report](http://aiddata.org/blog/new-marketplace-of-ideas-for-policy-change-report-shows-how-external-sources-of-analysis-and-advice) found that assessments were more effective in influencing policymakers if they used data from the host government. If government tends to use their own data for policy, then it’s imperative that NSOs have sufficient support to fulfill the data needs of the government, and make their data available to public use. This also begs the question of why governments don’t value other sources of data as much: is this a perception issue, trust issue, legally mandated, or something else? This question is key as it limits the data that can be used to influence government policy makers. While citizen data, CSO data, and development partner data could provide valuable insights, it won’t have the impact desired if minimized by government officials.
+
+In the diagram, we also see that the private sector is for the most part, cloistered off. With the highest level of resources, and ability to produce valuable tools and strengthen the economy, the private sector is also the least likely to make their data public. In addition to making their data open, are there other ways that creating closer relationships between the private sector and government or other stakeholders could benefit society as a whole? While there are several private sector companies who are already engaged in this type of support – as seen by their involvement at the Cartagena Data Festival – there are many ways this resource can be better utilized.
+
+Finally, let’s consider the lawmakers. This group has the ability to set the stage for a healthy data environment. It could also curtail this effort, limiting the ability to produce and use data effectively. A few of the issues I heard repeated throughout the Festival were the tensions between NSOs and more non-traditional sources of data – as well as between lawmakers and those who use non-traditional data sources. We need to understand what adds to this tension and what influences the [creation of policies](http://www.thecitizen.co.tz/News/national/-Unofficial--data-could-land-you-behind-bars/-/1840392/2667134/-/item/0/-/ke6k5z/-/index.html) that hurt the data ecosystem in order to nurse it back to health.
+
+It will take the cohesion of all these members to get where we want to be, but already we see gaps in who participates in these strategic conversations. In Cartagena, for example. we saw little participation from the government data users. While perhaps hard to identify who exactly should be at the table, these members should not be left out; government officials have the ability to make powerful changes within their countries, and should be using data to make better-informed decisions.
+ 
+While this map will look different in every context, what big links, influencing factors, or key players are we missing? We hope this can be the start of a longer participatory process of mapping out the full data ecosystem within regions and countries, in order to identify and strengthen relationships that can make the data revolution more than just a buzzword.
+
