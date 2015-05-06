@@ -2,6 +2,8 @@
 layout: post
 author: Taryn Davis
 title: "Post-Cartagena: Mapping out the Data Ecosystem"
+thumbnail: assets/featured-images/cartagena-visualisation.png
+thumbnail-alt: Data Visualisation
 categories: [Open Data]
 ---
 
@@ -18,9 +20,9 @@ In order to create a healthy data ecosystem, we first have to understand who our
 I decided to take a stab at mapping out what these relationships might be, and the different influencing factors on each of them. While this is not holistic – and very much dependent on each country’s situation – it does give a good starting place.
 
 <div class="media-resizable-wrapper aspect-1-1">
-  <iframe class="media-resizable-element" src="http://network-visuals.com/embed?type=share&id=285"></iframe>
+  <iframe class="media-resizable-element" src="http://network-visuals.com/embed?type=share&id=290"></iframe>
 </div>
-(Click on the bubbles to see influencing factors in these relationships.)
+(Click on the bubbles to see influencing factors in these relationships. Or [click here](http://network-visuals.com/embed?type=share&id=290) to open the visualisation.)
 
 As we start to look at these relationships, there are a couple things that stand out. One is the need to strengthen government National Statistical Offices (NSOs). AidData’s recent [Marketplace of Ideas for Policy Change report](http://aiddata.org/blog/new-marketplace-of-ideas-for-policy-change-report-shows-how-external-sources-of-analysis-and-advice) found that assessments were more effective in influencing policymakers if they used data from the host government. If government tends to use their own data for policy, then it’s imperative that NSOs have sufficient support to fulfill the data needs of the government, and make their data available to public use. This also begs the question of why governments don’t value other sources of data as much: is this a perception issue, trust issue, legally mandated, or something else? This question is key as it limits the data that can be used to influence government policy makers. While citizen data, CSO data, and development partner data could provide valuable insights, it won’t have the impact desired if minimized by government officials.
 
