@@ -1,14 +1,15 @@
+
 - name: Development Gateway Deputy Director of IT
-  file: dg-deputy-it-2015.pdf
+  file: /pdfs/careers/dg-deputy-it-2015.pdf
 
 - name: IT Consultant – Drupal Developer
-  file: dg-drupal-developer-2015.pdf
+  file: /pdfs/careers/dg-drupal-developer-2015.pdf
 
 - name: IT Consultant – Java Developer
-  file: dg-java-developer-2015.pdf
+  file: /pdfs/careers/dg-java-developer-2015.pdf
 
 - name: IT Consultant – UI Developer
-  file: dg-ui-developer-2015.pdf
+  file: /pdfs/careers/dg-ui-developer-2015.pdf
 
 - name: Data Analyst
-  file: dg-data-analyst-2015.pdf
+  file: /pdfs/careers/dg-data-analyst-2015.pdf

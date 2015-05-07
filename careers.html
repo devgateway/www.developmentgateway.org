@@ -32,7 +32,7 @@ permalink: /careers/
   <ul class="columns-list columns-list--half">
     {% for career in site.data.careers %}
     <li class="entry">
-      <a href="{{ pdfs/careers/ | append: career.file | prepend: site.baseurl }}" target="_blank">
+      <a href="{{ career.file | prepend: site.url }}" target="_blank">
         {{ career.name }}
       </a>
     </li>
