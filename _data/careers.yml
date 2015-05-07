@@ -1,6 +1,6 @@
 
-- name: Development Gateway Deputy Director of IT
-  file: /pdfs/careers/dg-deputy-it-2015.pdf
+- name: Data Analyst
+  file: /pdfs/careers/dg-data-analyst-2015.pdf
 
 - name: IT Consultant – Drupal Developer
   file: /pdfs/careers/dg-drupal-developer-2015.pdf
@@ -11,5 +11,3 @@
 - name: IT Consultant – UI Developer
   file: /pdfs/careers/dg-ui-developer-2015.pdf
 
-- name: Data Analyst
-  file: /pdfs/careers/dg-data-analyst-2015.pdf
