@@ -25,13 +25,13 @@
 #   image_url: http://static.example.com/images
 #
 # Syntax:
-# {% figure_img [class name(s)] integer [include-caption] %}
+# {% inlineimage [class name(s)] integer [include-caption] %}
 #
 # Sample (typical use):
-# {% figure_img left 1 include-caption %}
+# {% inlineimage post-image--left 1 include-caption %}
 #
 # Output:
-# <figure class="left">
+# <figure class="post-image--left">
 #   <img src="http://images.example.com/solar-farm.jpg" alt="Landscape view of solar farm">
 #   <figcaption>
 #     <p>A photo from my trip to <a href="http://example.com">the solar farm</a>.</p>
@@ -48,7 +48,7 @@ module Jekyll
       @index = '1' #defaults to the first image
       @caption = nil #not required
 
-      @image_url = 'image_url' # the name key for your image domain in _config.yml
+      @image_url = 'url' # the name key for your image domain in _config.yml
 
       #creating regular expression that grabs the index $2 at minimum, but optionally class and caption
       if markup =~ /(\S.*\s+)?(\d)+\s?(include-caption)?/i

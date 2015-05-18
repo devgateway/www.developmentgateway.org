@@ -6,28 +6,32 @@
  */
 
 // Floats an image to the left or right of the text.
-// Usage: add {:.post-image.left} (or right) before the image.
+// Markdown Usage: add {:.post-image--left} (or right) before the image.
 .post-image {
-  display: table-cell;
-  max-width: 20em;
-  text-align: center;
-
-  &.left {
+  // .post-image--left
+  &--left {
     float: left;
     margin-bottom: 1em;
     margin-right: 1em;
   }
-  &.right {
+  // .post-image--right
+  &--right {
     float: right;
     margin-bottom: 1em;
     margin-left: 1em;
   }
 
-  @include media-query-max($bp_medium) {
-    float: none;
-  }
-  @include media-query-min($bp_medium) {
-    width: 20em;
+  &--left,
+  &--right {
+    max-width: 20em;
+    text-align: center;
+
+    @include media-query-max($bp_medium) {
+      float: none;
+    }
+    @include media-query-min($bp_medium) {
+      width: 20em;
+    }
   }
 }
 
