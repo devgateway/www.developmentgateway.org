@@ -2,7 +2,7 @@
 layout: post
 author: Taryn Davis
 title: "Parasites and Looting, AKA Corruption"
-thumbnail: 
+thumbnail: assets/featured-images/parasites-looting.jpg
 thumbnail-alt: UNECA Reports Launch
 ---
 While in a [previous post](/2015/04/29/transparency-strikes-oil/) we applauded one oil company for taking a huge leap in transparency, it’s a small (albeit very important) drop in a large bucket of issues around natural resources in developing countries. Oxfam hasn’t forgotten that there is still a fight in the US to make oil payments open. They’ve requested all to back Section 1504 of the Dodd-Frank Act by [adding their name to a letter](https://secure2.oxfamamerica.org/page/s/fight-corruption-push-for-transparency) to the Chair of the Securities and Exchange Commission.
