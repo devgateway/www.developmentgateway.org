@@ -2,7 +2,7 @@
 layout: post
 author: Benjamin Arancibia
 title: "Unlocking Old Problems with New Tools"
-thumbnail: 
+thumbnail: assets/featured-images/unlocking-old-problems.png
 thumbnail-alt: World Bank
 ---
 
