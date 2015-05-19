@@ -9,7 +9,7 @@ While in a [previous post](/2015/04/29/transparency-strikes-oil/) we applauded o
 
 It shouldn’t come as a surprise that oil and natural resources are wrapped up in corruption and hidden deals. A [sharp op-ed](http://www.nytimes.com/2015/03/26/opinion/nicholas-kristof-an-unsettling-complicity.html) in the *NY Times* compared the corrupt official to the literal parasites that are embedded in poor countries. Both are pervasive, damaging and the poor are the most affected by both.  
 
-The issue is so vast that whole books are written about it, such as recently released [*The Looting Machine*](http://www.amazon.com/The-Looting-Machine-Oligarchs-Corporations/dp/1610394399) by Tom Burgis. But as a {*NY Times* book reviewer mentioned](http://www.nytimes.com/2015/03/22/books/review/the-looting-machine-by-tom-burgis.html), little in this book talks about what is to be done about it.
+The issue is so vast that whole books are written about it, such as recently released [*The Looting Machine*](http://www.amazon.com/The-Looting-Machine-Oligarchs-Corporations/dp/1610394399) by Tom Burgis. But as a [*NY Times* book reviewer mentioned](http://www.nytimes.com/2015/03/22/books/review/the-looting-machine-by-tom-burgis.html), little in this book talks about what is to be done about it.
 
 In addition to initiatives such as publishing payments, there are other ways to protect and improve the ways countries use their natural resources. One example is a [recent training](https://www.devex.com/news/tanzania-boosts-ppp-capacity-85798) of Tanzanian government officials on how to make public-private partnerships that will hopefully enable government to make partnerships that are beneficial to country development.
 
