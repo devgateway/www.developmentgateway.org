@@ -2,7 +2,7 @@
 layout: post
 author: Denise Butcher
 title: Why Does DG Use Scrum?
-thumbnail: 
+thumbnail: assets/featured-images/scrum-communication.jpg
 thumbnail-alt: "scrum communication"
 categories: [Innovation]
 ---
