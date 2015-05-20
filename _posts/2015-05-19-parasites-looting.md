@@ -23,4 +23,4 @@ What the article touched on lightly, is what I think actually defines a revoluti
 
 So we can’t just target statistics departments, but we must target the leaders and the decisions makers to start using the data for their decisions. It will take citizens to demand data for proof of why they made those decisions, and it will take evaluative units, and media to verify that the data is accurate. It will take a revolution.
 
-This piece was originally posted on the [First Tranche](http://aiddata.org/blog/this-week-parasites-and-looting-aka-corruption). Image Source: [@peterspeyer](https://twitter.com/PeterSpeyer/status/581718120613691392).
+*This piece was originally posted on the [First Tranche](http://aiddata.org/blog/this-week-parasites-and-looting-aka-corruption). Image Source: [@peterspeyer](https://twitter.com/PeterSpeyer/status/581718120613691392).*
