@@ -20,7 +20,7 @@ The issues include a [poverty of data](http://blogs.ft.com/beyond-brics/2015/04/
 
 While getting the data, and strengthening country statistics office to collect the necessary data, the next step is what I see is the more difficult one. Getting planners and decisions makers to use the available data properly to guide them as they target, plan, navigate and improve development, both at the INGO and NGO level and at the government level.
 
-A recent article about the d[ifficulties around getting good data](https://www.devex.com/news/when-good-data-is-hard-to-get-85876) makes the concession that there is no guarantee that better information will change the minds of governments or organizations. There are so many different forces at play, politics, finances, convenience, awareness, and many others. The data revolution can’t just be about gathering more data, but about how do we make data an important part of the decision making process for all involved.
+A recent article about the [difficulties around getting good data](https://www.devex.com/news/when-good-data-is-hard-to-get-85876) makes the concession that there is no guarantee that better information will change the minds of governments or organizations. There are so many different forces at play, politics, finances, convenience, awareness, and many others. The data revolution can’t just be about gathering more data, but about how do we make data an important part of the decision making process for all involved.
 
 I’ll be at the Festival’s Innovation Fair representing Development Gateway, and hope you’ll stop by to discuss how we can move towards making this a more successful data revolution.
 
