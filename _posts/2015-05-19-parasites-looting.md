@@ -2,6 +2,7 @@
 layout: post
 author: Taryn Davis
 title: "Parasites and Looting, AKA Corruption"
+excerpt: "While in a previous post we applauded one oil company for taking a huge leap in transparency, it’s a small (albeit very important) drop in a large bucket of issues around natural resources in developing countries..."
 thumbnail: assets/featured-images/parasites-looting.jpg
 thumbnail-alt: UNECA Reports Launch
 ---

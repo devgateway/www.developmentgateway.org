@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Josh Powell
-title: 'IATI and Country Systems: DG Working Paper'
+title: "IATI and Country Systems: DG Working Paper"
+excerpt: "This blog post introduces a new DG working paper on the use of IATI data in country Aid Information Managements Systems (AIMS). The working paper aims to help inform discussions at the IATI TAG and Steering Committee Meetings, to be held in Ottawa from May 30-June 2..."
 thumbnail: assets/featured-images/iati-incremental-funding.png
 thumbnail-alt: 'IATI incremental funding'
 images:
