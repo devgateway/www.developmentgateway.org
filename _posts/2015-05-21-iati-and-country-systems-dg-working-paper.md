@@ -2,19 +2,23 @@
 layout: post
 author: Josh Powell
 title: 'IATI and Country Systems: DG Working Paper'
-thumbnail:
-thumbnail-alt: ""
+thumbnail: assets/featured-images/iati-incremental-funding.png
+thumbnail-alt: 'IATI incremental funding'
+images:
+  - url: assets/featured-images/iati-incremental-funding.png
+    alt: 'IATI incremental funding'
+    thumbnail: true
 ---
 
-*This blog post introduces a new DG working paper on the use of IATI data in country Aid Information Managements Systems (AIMS). The working paper aims to help inform discussions at the IATI TAG and Steering Committee Meetings, to be held in Ottawa from May 30-June 2.*
+*This blog post introduces a new DG [working paper]({{ site.url }}/assets/uploads/IATI_CountrySystems_DataReviewFindings_Public.pdf) on the use of IATI data in country Aid Information Managements Systems (AIMS). The working paper aims to help inform discussions at the IATI TAG and Steering Committee Meetings, to be held in Ottawa from May 30-June 2.*
 
 Since its launch following the 2008 High Level Forum in Accra, the International Aid Transparency Initiative (IATI) has followed a strong growth trajectory. As IATI continues to mature, with data from more than 300 individual publishers – including [many of the largest funders](https://sites.google.com/site/useofiatidataincountrysystems/home) for individual partner countries – the IATI community's attention has increasingly focused on [how these data can be *used*](/2015/03/31/governments-as-open-data-users-the-future-of-iati/), particularly by partner country governments in their Aid Information Management Systems (AIMS). To help facilitate uptake in country systems, detailed analyses of the usefulness of IATI data from a government perspective are needed to inform future evolution of the IATI standard and to derive the full benefits of the initiative in terms of information timeliness, data quality, and lower transaction costs. To fill this gap, DG is halfway through a [year-long program](/2015/01/27/ensuring-data-works-where-it-counts-iati-and-country-systems/) – supported by the French Ministry of Foreign Affairs and International Development – to create sustainable integrations of IATI data in 5 Aid Management Program (AMP) countries (Burkina Faso, Chad, Cote d’Ivoire, Madagascar, and Senegal). 
 
 During the past several months, we have performed a rigorous analysis of IATI data quality, [resulting in the selection of 5 IATI publishers](/2015/03/12/iati-and-country-systems-data-evaluation-results/) to be imported into country systems. **Typically, this import resulted in additions of hundreds of millions of dollars of additional aid flow data, which were previously “blind spots” for partner country governments.** The chart below illustrates how IATI data integration for 5 selected publishers expands the coverage of Burkina Faso’s AMP by over US$600,000 during the period from 2012-2014. This expanded coverage clearly illustrates the opportunity for IATI to make a significant contribution to resource management and development coordination, while maintaining strong domestic ownership of country systems. Additional benefits for government AIMS users could in the form of time saved, especially as data quality improve and additional development partners (DPs) can have their reporting moved from manual to automated (IATI) processes.
 
-![]()
+{% inlineimage post-center 1 %}
 
-However, for this potential to be realized, several enhancements to both the IATI standard and existing IATI data quality must be made. Many of these enhancements are discussed in this working paper, with further suggestions to be made in a second paper following the in-country implementation phase of this program. 
+However, for this potential to be realized, several enhancements to both the IATI standard and existing IATI data quality must be made. Many of these enhancements are discussed in this [working paper]({{ site.url }}/assets/uploads/IATI_CountrySystems_DataReviewFindings_Public.pdf), with further suggestions to be made in a second paper following the in-country implementation phase of this program. 
 
 The [methodology](/2015/03/17/iati-and-country-systems-data-evaluation-methodology/) used in analyzing data for “appropriate fit” in country systems included the following steps:
 
