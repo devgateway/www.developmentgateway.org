@@ -2,6 +2,7 @@
 layout: post
 author: Benjamin Arancibia
 title: "Unlocking Old Problems with New Tools"
+excerpt: "Based on data from the World Bank, found here, there are an estimated 60 more million men than women on this planet. This difference is the highest ever recorded and is driven by preference for sons in India and China. Case closed, no need to do further analysis right? Well not so fast..."
 thumbnail: assets/featured-images/unlocking-old-problems.png
 thumbnail-alt: 'gender imbalance graph'
 images:
