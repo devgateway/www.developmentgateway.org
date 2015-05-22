@@ -5,8 +5,9 @@
 _site/
 Vagrant*
 
-# Ignore jekyll configuration file.
+# Ignore environment specific files.
 _config.yml
+robots.txt
 
 # For now ignore all blog post assets.
 assets/

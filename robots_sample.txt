@@ -1,0 +1,9 @@
+
+# No robots should visit this site further.
+#
+# User-agent: *
+# Disallow: /
+# When uncommenting the above lines everything below should removed.
+
+User-agent: *
+Disallow: /lib/
