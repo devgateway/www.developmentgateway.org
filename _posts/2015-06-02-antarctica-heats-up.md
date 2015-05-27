@@ -2,7 +2,7 @@
 layout: post
 author: Taryn Davis
 title: "Antarctica Heats Up, While Tanzania Freezes Data Publication"
-thumbnail: assets/featured-images/floating-ice.jpgsc
+thumbnail: assets/featured-images/floating-ice.jpg
 thumbnail-alt: 'Floating Ice'
 ---
 
