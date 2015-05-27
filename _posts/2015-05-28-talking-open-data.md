@@ -2,7 +2,7 @@
 layout: post
 author: Paige Kirby
 title: "Talking Open Data and Fiscal Transparency at IODC 2015"
-thumbnail: 
+thumbnail: assets/featured-images/opendata-logo.jpg
 thumbnail-alt: IODC 2015
 ---
 Over the next couple of days, we’re looking forward to discussing open data successes, challenges, and impact to-date at the [International Open Data Conference](http://opendatacon.org/). Hosted by the Government of Canada, Canada’s International Development Research Centre, and the World Bank, hundreds of individuals from around the world will gather in Ottawa to exchange ideas and work together to enable the Data Revolution.
