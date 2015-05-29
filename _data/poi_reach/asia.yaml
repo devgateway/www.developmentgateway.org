@@ -1,4 +1,17 @@
 
+- name: Asian Region
+  id: asian-region
+  year: 2014
+  category: Asian Development Bank Geocoding and GIS Visualization
+  description: "Through the AidData Partnership, this work includes capturing the Asian Development Bank’s (ADB) portfolio - comprising 700 projects and 11,000 locations - and installing a geocoding toolkit integrated with ADB's existing systems. A scalable, public-facing geomapping platform is under development."
+  features:
+    - Geocoded aid information
+    - Tracking development finance for better results
+  quote: 
+  quote-author: 
+  url:
+  urlText:
+  
 - name: Kyrgyz Republic
   id: kyrgyz
   year: 2008
