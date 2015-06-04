@@ -241,9 +241,9 @@
 
   // @TODO: Remove once image processing has been fixed.
   .blog-image-wrapper {
-    & > img {
-      min-height: 12em;
-    }
+    display: table-cell;
+    height: 12em;
+    vertical-align: middle;
   }
 
   @include media-query-max($bp_medium) {

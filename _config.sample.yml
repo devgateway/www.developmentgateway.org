@@ -33,6 +33,11 @@ image:
     thumb_small:
       width: 240
       height: 160
+    thumb_home:
+      # 17 * 1em
+      width: 272
+      # 12 * 1em
+      height: 192
     thumb_large:
       # 19 * 1em
       width: 304
