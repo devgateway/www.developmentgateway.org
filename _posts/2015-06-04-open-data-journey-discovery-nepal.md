@@ -2,8 +2,8 @@
 layout: post
 author: AidData
 title: "Open Data: A Journey of Discovery in Nepal"
-thumbnail: 
-thumbnail-alt: Open Data Video
+thumbnail: assets/featured-images/opendata-nepal-journey.jpg
+thumbnail-alt: 'Open Data Nepal Journey'
 categories: [Open Data]
 ---
 
@@ -11,7 +11,7 @@ Open data has the potential to change lives.
 
 Data can be used as a tool to enable governments, donors and other actors to allocate financial resources more effectively to improve development outcomes and end poverty. It can empower citizens to advocate for change, help ensure their needs are reflected in public policy, and drive quality and provision of public services. And it contributes to transparency and accountability of resource flows. Everyone is able to see what is being spent where and on what.
 
-<div class="media-resizable-wrapper aspect-1-1">
+<div class="media-resizable-wrapper">
   <iframe class="media-resizable-element" src="https://player.vimeo.com/video/129117891"></iframe>
 </div>
 
