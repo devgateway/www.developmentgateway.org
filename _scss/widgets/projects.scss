@@ -48,12 +48,12 @@
   }
 
   &:before {
-    background-image: url($base_url + "images/site/quotes-open.svg");
+    background-image: url('/images/site/quotes-open.svg');
     left: -1em;
     top: -1.5em;
   }
   &:after {
-    background-image: url($base_url + "images/site/quotes-close.svg");
+    background-image: url('/images/site/quotes-close.svg');
     right: -1em;
     bottom: -1.5em;
   }

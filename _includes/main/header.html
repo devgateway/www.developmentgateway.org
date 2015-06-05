@@ -6,20 +6,20 @@
     <div class="header-logo-section">
       <h1 class="site-name">
         <a href="/" title="Visit the main page" rel="home">
-          <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
-          <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ 'images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
+          <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
+          <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
         </a>
       </h1>
 
       <ul class="header-actions">
         <li class="item">
-          <a id="toggle-search" class="link btn-search" href="{{ 'search' | prepend: site.baseurl }}" title="search">
+          <a id="toggle-search" class="link btn-search" href="{{ '/search' | prepend: site.baseurl }}" title="search">
             <span class="fa fa-search"></span>
             <span class="element-invisible">Search</span>
           </a>
         </li>
         <li class="item">
-          <a class="link btn-social" href="{{ 'connect' | prepend: site.baseurl }}">
+          <a class="link btn-social" href="{{ '/connect' | prepend: site.baseurl }}">
             <span class="fa fa-comment-o"></span>
           </a>
         </li>

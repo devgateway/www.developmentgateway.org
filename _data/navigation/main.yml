@@ -2,22 +2,22 @@
 # Otherwise the active link will not be displayed.
 
 - title: About
-  url: about
+  url: /about
 
 - title: Expertise
-  url: expertise
+  url: /expertise
 
 - title: Reach
-  url: reach
+  url: /reach
 
 - title: Innovation
-  url: innovation
+  url: /innovation
 
 - title: Partnership
-  url: partnership
+  url: /partnership
 
 - title: Blog
-  url: blog
+  url: /blog
 
 - title: Connect
-  url: connect
+  url: /connect

@@ -1,13 +1,13 @@
 # URLs should not include the domain, nor the preciding or trailing `/`.
 
 - title: About
-  url: about
+  url: /about
 
 - title: Careers
-  url: careers
+  url: /careers
 
 - title: Contact Us
-  url: connect/#contact
+  url: /connect/#contact
 
 - title: Privacy & Terms
-  url: privacy-and-terms
+  url: /privacy-and-terms

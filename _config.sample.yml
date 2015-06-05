@@ -3,7 +3,7 @@
 # Then use this command to build the project.
 # $ jekyll build --config _config.yml,_config.local.yml
 
-baseurl: "/" # The folder in which the site is located on the web server.
+baseurl: "" # The folder in which the site is located on the web server.
 url: "http://dgthree-local.dev" # Without a trailing slash!
 
 # URL for the mailchimp newsletter.
