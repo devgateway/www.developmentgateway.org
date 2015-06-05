@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1514
-author: Benjamin Arancibia, Hamadoun Cisse, Paige Kirby, & Josh Powell
+author: Benjamin Arancibia, Hamadoun Cisse, Paige Kirby & Josh Powell
 created: 1426165799
 old_path: news/iati-and-country-systems-data-evaluation-results
 title: 'IATI and Country Systems: Data Evaluation Results'
@@ -15,7 +15,7 @@ thumbnail-fid: "6204"
 thumbnail-alt: ""
 ---
 
-*Earlier this year, [we announced a new partnership ](/news/ensuring-data-work-where-it-counts-iati-and-country-systems)between Development Gateway and the F[rench Ministry of Foreign Affairs and International Development](http://www.diplomatie.gouv.fr/en/) to integrate IATI and Aid Management Platform (AMP) data in Burkina Faso, Chad, Cote d’Ivoire, Madagascar, and Senegal. Below is an update on outcomes to-date; our next post will describe in-depth the data methodology for this process.*
+*Earlier this year, [we announced a new partnership](/news/ensuring-data-work-where-it-counts-iati-and-country-systems) between Development Gateway and the F[rench Ministry of Foreign Affairs and International Development](http://www.diplomatie.gouv.fr/en/) to integrate IATI and Aid Management Platform (AMP) data in Burkina Faso, Chad, Cote d’Ivoire, Madagascar, and Senegal. Below is an update on outcomes to-date; our next post will describe in-depth the data methodology for this process.*
 
 Over the past several weeks, the DG team has been working closely with government and IATI counterparts to evaluate the feasibility and desirability of integrating IATI datasets into country-level systems — determining how and when IATI data would value to AMP information in terms of data quality and desirability (read: sizable financial flows).
 
