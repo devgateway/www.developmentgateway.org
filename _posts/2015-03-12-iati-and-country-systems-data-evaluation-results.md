@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1514
-author: Paige Kirby
+author: Benjamin Arancibia, Hamadoun Cisse, Paige Kirby, & Josh Powell
 created: 1426165799
 old_path: news/iati-and-country-systems-data-evaluation-results
 title: 'IATI and Country Systems: Data Evaluation Results'
