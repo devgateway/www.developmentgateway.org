@@ -6,7 +6,10 @@
 baseurl: "" # The folder in which the site is located on the web server.
 url: "http://dgthree-local.dev" # Without a trailing slash!
 
-# URL for the mailchimp newsletter.
+# URL for the "Follow Us" contact link.
+contact: /connect
+
+# URL for the newsletter subscribe form.
 mailchimp_form_url: __NONE__
 
 # Google Analytics Web Property ID.
