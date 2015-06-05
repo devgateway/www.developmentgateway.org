@@ -20,7 +20,7 @@
   // Initialize lunr.js search.
   var initLunrSearch = function() {
     jQuery('.search-query:not(.lunr-processed)', '#{{ search_form_id }}').lunrSearch({
-      indexUrl: DG.baseUrl + 'scripts/index.json',
+      indexUrl: DG.baseUrl + '/scripts/index.json',
       results: '#{{ search_form_id }}--results-wrapper',
       entries: '.{{ search_form_id }}--entries',
       template: '#{{ search_form_id }}--results-template'
@@ -29,6 +29,6 @@
 
   /*{% if search_form_id == 'main-search-form' %}*/
   // Initialize lunr.js search once the requirements were loaded.
-  DG.loadScript(DG.baseUrl + 'scripts/search.min.js', initLunrSearch);
+  DG.loadScript(DG.baseUrl + '/scripts/search.min.js', initLunrSearch);
   /*{% endif %}*/
 </script>
