@@ -310,25 +310,25 @@
 // Background images for homepage sections on large devices.
 @include media-query-min($bp_medium) {
   .section-empowering {
-    $background_image: $base_url + 'images/home/frame1.jpg';
+    $background_image: '/images/home/frame1.jpg';
     border-bottom: 1px solid $white;
     @include l-background-image($background_image);
   }
 
   .section-expertise {
-    $background_image: $base_url + 'images/home/frame2.jpg';
+    $background_image: '/images/home/frame2.jpg';
     border-bottom: 1px solid $white;
     @include l-background-image($background_image);
   }
 
   .section-partners {
-    $background_image: $base_url + 'images/home/frame3.jpg';
+    $background_image: '/images/home/frame3.jpg';
     border-bottom: 1px solid $white;
     @include l-background-image($background_image);
   }
 
   .section-latest-stories {
-    $background_image: $base_url + 'images/home/frame4.jpg';
+    $background_image: '/images/home/frame4.jpg';
     @include l-background-image($background_image);
   }
 }

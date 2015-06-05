@@ -11,7 +11,7 @@
   <ul class="categories">
     {% for category in site.categories %}
     <li class="category">
-      {% assign category_url = category[0] | slugify | prepend: 'categories/' %}
+      {% assign category_url = category[0] | slugify | prepend: '/categories/' %}
       <a href="{{ category_url | prepend: site.baseurl}}">
         {{ category[0] }}
       </a>
@@ -28,7 +28,7 @@
   <ul class="tags clearfix">
     {% for tag in site.tags %}
     <li class="tag">
-      {% assign tag_url = tag[0] | slugify | prepend: 'tags/' %}
+      {% assign tag_url = tag[0] | slugify | prepend: '/tags/' %}
       <a class="tag-link" href="{{ tag_url | prepend: site.baseurl}}">
         {{ tag[0] }}
       </a>

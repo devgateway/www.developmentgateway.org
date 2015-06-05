@@ -3,11 +3,9 @@
 {% raw %}
   {{#entries}}
     <article class="search-result">
-      <a href="{{ url }}">
-        <h1 class="title">
-          {{ title }}
-        </h1>
-      </a>
+      <h3 class="title">
+        <a href="{{ url }}">{{ title }}</a>
+      </h3>
     </article>
   {{/entries}}
 {% endraw %}

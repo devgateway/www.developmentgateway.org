@@ -55,7 +55,7 @@
     drop_down_thingy.classList.toggle('is-visible');
 
     // Initialize lunr.js search once the requirements were loaded.
-    DG.loadScript(DG.baseUrl + 'scripts/search.min.js', initLunrSearch);
+    DG.loadScript(DG.baseUrl + '/scripts/search.min.js', initLunrSearch);
   };
 
   // Register enter and exit functions for laptop and desktop screens.

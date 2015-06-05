@@ -1,6 +1,6 @@
 
 {% stripwhitespace %}
-<ul class="follow-links {{ include.class }}">
+<ul class="list-follow-links {{ include.class }}">
   <li class="item">
     <a class="link" href="https://twitter.com/dgateway" target="_blank">
       <span class="fa fa-twitter"></span>
@@ -14,7 +14,7 @@
   </li>
 
   <li class="item">
-    <a class="link" href="{{ 'feed.xml' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+    <a class="link" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
       <span class="fa fa-rss"></span>
     </a>
   </li>

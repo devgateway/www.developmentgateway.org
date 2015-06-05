@@ -6,8 +6,9 @@ _site/
 Vagrant*
 
 # Ignore environment specific files.
-_config.yml
+_config.local.yml
+Gemfile.lock
 robots.txt
 
 # For now ignore all blog post assets.
-assets/
+_source/assets

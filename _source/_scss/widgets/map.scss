@@ -32,7 +32,7 @@
       background-color: transparentize(lighten($black, 20%), 0.5);
       &:before {
         border-radius: 2em;
-        content: "";
+        content: '';
         display: block;
         position: absolute;
         top: 0.3em;
@@ -52,7 +52,7 @@
     a.leaflet-control-zoom-out:after {
       $thickness: 0.15em;
       $width: 0.5em;
-      content: "";
+      content: '';
       display: block;
       position: absolute;
       top: 50%;
@@ -79,7 +79,7 @@
   background-color: transparentize($highlight_text, 0.8);
   &:before,
   &:after {
-    content: "";
+    content: '';
     display: block;
     position: absolute;
     top: 50%;
