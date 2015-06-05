@@ -11,4 +11,4 @@ Gemfile.lock
 robots.txt
 
 # For now ignore all blog post assets.
-assets
+_source/assets
