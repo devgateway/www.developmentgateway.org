@@ -18,7 +18,7 @@ map:
   minZoom: 1
   maxZoom: 5
 
-baseurl: "/" # The folder in which the site is located on the web server.
+baseurl: "" # The folder in which the site is located on the web server.
 url: "" # Without a trailing slash!
 
 # Define image presets for the image tag plugin.
