@@ -81,33 +81,26 @@
 
     display: inline-block;
     margin: 0;
+    text-align: center;
+    // Make all icons the same size.
     line-height: 2.5em;
-  }
+    min-width: 2.5em;
 
-  .btn-search {
     background-color: $blue_vibrant;
-    color: $white;
     &:hover {
       background-color: lighten($blue_vibrant, 10%);
     }
+
+    color: $white;
+    > svg {
+      fill: $white;
+    }
   }
 
-  .btn-social {
-    color: $white;
+  .link-comment {
     background-color: $green_deep;
     &:hover {
       background-color: lighten($green_deep, 10%);
     }
-  }
-
-  // @TODO: Remove font-incons.
-  .fa {
-    text-align: center;
-
-    // Make all icons the same width.
-    min-width: 2.5em;
-  }
-  .fa-comment-o {
-    vertical-align: 6%; // @HACK: Temporary vertical alignment.
   }
 }

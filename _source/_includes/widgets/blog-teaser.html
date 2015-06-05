@@ -6,10 +6,12 @@
 
   <div class="post-meta">
     <span class="post-date">
-      <span class="fa fa-calendar"></span>{{ post.date | date: '%B %d, %Y' }}
+      {% icon larger {{ 'calendar.svg' }} class="small-icon" %}
+      {{ post.date | date: '%B %d, %Y' }}
     </span>
     <span class="post-author">
-      <span class="fa fa-user"></span>{{ post.author }}
+      {% icon larger {{ 'user.svg' }} class="small-icon" %}
+      {{ post.author }}
     </span>
     <span class="post-categories">{{ post.categories | category_links }}</span>
   </div>
