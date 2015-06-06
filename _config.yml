@@ -44,6 +44,18 @@ image:
       # 12 * 1em
       height: 192
 
+# Define settings and presets for the icon tag plugin.
+icon:
+  source: images/icons
+  presets:
+    normal:
+      width: 1em
+      height: 1em
+    larger:
+      width: 1.125em
+      height: 1.125em
+
+# Define the available jekyll collections.
 collections:
   homepage_sections:
     output: false
