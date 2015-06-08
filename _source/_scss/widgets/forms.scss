@@ -23,17 +23,18 @@
   border-radius: 0.2em;
   color: $white;
   height: 3em;
-  padding: 0 1em;
+  padding: 0 0.875em;
 
   background: $blue_vibrant;
+  border: 1px solid $blue_vibrant;
   &:hover {
     background: lighten($blue_vibrant, 10%);
   }
 
   // Spacing around the icon.
-  // @TODO: Remove font-icons.
-  .fa {
-    margin-right: 0.65em;
+  > svg {
+    fill: $white;
+    margin-right: 0.5em;
   }
 }
 

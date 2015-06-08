@@ -16,18 +16,17 @@
     padding-bottom: 1em;
   }
 
-  .post-meta{
-    margin-bottom: $gen_gutter_width/2;
+  .post-meta {
+    margin-bottom: 0.5em;
   }
 
   .blog-date,
   .blog-author {
-    margin-right: $gen_gutter_width;
+    margin-right: 0.5em;
   }
-  .fa.fa-calendar,
-  .fa.fa-user {
-    color: $blue_vibrant;
-    margin-right: $gen_gutter_width/2;
+  svg {
+    fill: $blue_vibrant;
+    margin-right: 0.25em;
   }
 
   .post-thumbnail {

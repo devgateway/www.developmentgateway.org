@@ -13,14 +13,15 @@
 
       <ul class="header-actions">
         <li class="item">
-          <a id="toggle-search" class="link btn-search" href="{{ '/search' | prepend: site.baseurl }}" title="search">
-            <span class="fa fa-search"></span>
+          <a id="toggle-search" class="link link-search" href="{{ '/search' | prepend: site.baseurl }}" title="search">
+            {% icon larger {{ 'search.svg' }} class="action-icon action-search" %}
             <span class="element-invisible">Search</span>
           </a>
         </li>
         <li class="item">
-          <a class="link btn-social" href="{{ '/connect' | prepend: site.baseurl }}">
-            <span class="fa fa-comment-o"></span>
+          <a class="link link-comment" href="{{ '/connect' | prepend: site.baseurl }}">
+            {% icon larger {{ 'comment.svg' }} class="action-icon action-comment" %}
+            <span class="element-invisible">Comment</span>
           </a>
         </li>
       </ul>

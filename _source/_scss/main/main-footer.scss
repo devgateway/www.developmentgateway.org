@@ -112,7 +112,6 @@
   }
 }
 
-// @TODO: Remove font-icons.
 .list-follow-links {
   list-style: none;
   display: inline-block;
@@ -135,29 +134,28 @@
   }
 
   .link {
-    @include transition(all);
+    @include transition(border-color);
+    @include transition(background-color);
 
     display: inline-block;
     font-size: 2em;
-    line-height: 1.5em;
-    padding: 0 0.25em;
+    line-height: 1em;
+    padding: 0.25em;
     text-align: center;
 
     border: 1px solid darken($blue_vibrant, 30%);
     border-radius: 0.2em;
     color: $blue_vibrant;
 
+    > svg {
+      fill: $blue_vibrant;
+      vertical-align: bottom;
+    }
+
     &:hover {
       border-color: $blue_deep;
       background-color:$blue_deep;
     }
-  }
-
-  .fa {
-    min-width: 1em;
-  }
-  .fa-envelope {
-    vertical-align: 6%; // @HACK: Temporary vertical alignment.
   }
 
   @include media-query-max($bp_small) {
