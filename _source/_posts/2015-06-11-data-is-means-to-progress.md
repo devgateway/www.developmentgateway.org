@@ -2,7 +2,7 @@
 layout: post
 author: Taryn Davis
 title: "Data is a Means to Progress, Not an End"
-thumbnail: 
+thumbnail: assets/featured-images/screenshot-cartagena-cartoon.png
 thumbnail-alt: 'Cartagena Cartoon'
 ---
 
