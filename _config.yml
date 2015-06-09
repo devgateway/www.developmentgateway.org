@@ -30,6 +30,7 @@ image:
     flag_small:
       width: 64
       height: 32
+      resize: scale
     thumb_small:
       width: 240
       height: 160
