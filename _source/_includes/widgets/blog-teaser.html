@@ -18,7 +18,7 @@
 
   {% if post.thumbnail %}
   <div class="group-side">
-    {% image thumb_small {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" class="post-thumbnail" %}
+    {% image thumb-small {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" class="post-thumbnail" %}
   </div>
   {% endif %}
 

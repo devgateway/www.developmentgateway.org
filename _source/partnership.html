@@ -33,19 +33,19 @@ weight: 7
   {% multicols coalitions | render-as-html %}
     {% assign partner=site.data.partners.coalitions.wm %}
     <a href="{{ partner.url }}" target="_blank">
-      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+      {% image thumb-large|fit {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
     <p class="description">{{ partner.description }}</p>
   <--colbreak-->
     {% assign partner=site.data.partners.coalitions.ogh %}
     <a href="{{ partner.url }}" target="_blank">
-      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+      {% image thumb-large|fit {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
     <p class="description">{{ partner.description }}</p>
   <--colbreak-->
     {% assign partner=site.data.partners.coalitions.fbl %}
     <a href="{{ partner.url }}" target="_blank">
-      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+      {% image thumb-large|fit {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
     <p class="description">{{ partner.description }}</p>
   {% endmulticols %}
@@ -57,14 +57,14 @@ weight: 7
   {% multicols consortia | render-as-html %}
     {% assign partner=site.data.partners.consortia.iati %}
     <a href="{{ partner.url }}" target="_blank">
-      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+      {% image thumb-large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
   <--colbreak-->
     <p class="description">{{ partner.description }}</p>
   <--colbreak-->
     {% assign partner=site.data.partners.consortia.openaid %}
     <a href="{{ partner.url }}" target="_blank">
-      {% image thumb_large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+      {% image thumb-large {{ partner.logo | prepend: 'images/partners/' | prepend: site.baseurl }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
   <--colbreak-->
     <p class="description">{{ partner.description }}</p>

@@ -79,7 +79,7 @@ module Jekyll
       icon_in_sprite = sprite_document.css('#' + @info[:id]).first
       if icon_in_sprite.nil?
         image_source_path = File.join(site_context.source, @info[:src])
-        puts "Adding \"#{@info[:id]}\" to sprite: \"#{@info[:sprite_path]}\""
+        puts "Adding \"#{@info[:id]}\" to sprite: #{@info[:sprite_path]}"
 
         sprite_add_icon(sprite_document, image_source_path)
       end

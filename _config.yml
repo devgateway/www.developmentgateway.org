@@ -24,21 +24,23 @@ url: "" # Without a trailing slash!
 # Define image presets for the image tag plugin.
 image:
   presets:
-    avatar_small:
+    avatar-small:
       width: 144
       height: 144
-    flag_small:
+    flag-small:
       width: 64
       height: 32
-    thumb_small:
+      resize: scale
+    thumb-small:
       width: 240
       height: 160
-    thumb_home:
+    thumb-home:
       # 17 * 1em
       width: 272
       # 12 * 1em
       height: 192
-    thumb_large:
+      resize: fit
+    thumb-large:
       # 19 * 1em
       width: 304
       # 12 * 1em
