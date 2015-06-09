@@ -145,62 +145,67 @@ module Jekyll
     end
 
     def generate_image(site_context)
-      image = MiniMagick::Image.open(@info[:src_path])
-
       ext = File.extname(@info[:src])
+      @info[:orig_ext] = ext
       basename = File.basename(@info[:src], ext)
 
-      # Determine the original image dimensions.
-      orig_width = image[:width].to_f
-      orig_height = image[:height].to_f
-      orig_ratio = orig_width/orig_height
-
-      # Determine the dimensions for the generated image.
-      gen_width = if @info[:width]
-        @info[:width].to_f
-      elsif @info[:height]
-        orig_ratio * @info[:height].to_f
-      else
-        orig_width
-      end
-      gen_height = if @info[:height]
-        @info[:height].to_f
-      elsif @info[:width]
-        @info[:width].to_f / orig_ratio
-      else
-        orig_height
-      end
-      gen_ratio = gen_width/gen_height
-
-      # Don't allow upscaling. If the image is smaller than the requested dimensions, recalculate.
-      if ext != '.svg'
-        if orig_width < gen_width || orig_height < gen_height
-          undersize = true
-          gen_width = if orig_ratio < gen_ratio then orig_width else orig_height * gen_ratio end
-          gen_height = if orig_ratio > gen_ratio then orig_height else orig_width / gen_ratio end
-        end
-      end
-
-      # Convert all SVGs to PNGs.
+      # Change generated image extension.
       if ext == '.svg'
-        # Change the generated image format.
-        image.format 'png'
-
-        # Change generated image extension.
         ext = '.png'
-
-        # Flatten layers and fill with transparent pixels.
-        # @see: http://www.imagemagick.org/Usage/layers/#coalesce
-        #image.layers "coalesce"
       end
 
       gen_name = "#{basename}#{ext}"
-      gen_rel_path = File.join(@info[:dst_folder], gen_name)
-      gen_full_path = File.join(site_context.dest, @info[:dst_folder], gen_name)
+      gen_rel_path = Pathname.new(File.join(@info[:dst_folder], gen_name)).cleanpath.to_s
+      gen_full_path = Pathname.new(File.join(site_context.dest, @info[:dst_folder], gen_name)).cleanpath.to_s
 
       # Generate resized files
-      unless File.exists?(gen_full_path)
-        warn 'Warning:'.yellow + " #{@info[:src]} is smaller than the requested output file. It will be resized without upscaling." if undersize
+      if File.exists?(gen_full_path)
+        image = MiniMagick::Image.open(gen_full_path)
+
+        # Updated the image tag dimensions.
+        @html_attr[:height] = image[:height].to_i
+        @html_attr[:width] = image[:width].to_i
+      else
+        image = MiniMagick::Image.open(@info[:src_path])
+
+        # Convert all SVGs to PNGs.
+        if @info[:orig_ext] == '.svg'
+          # Change the generated image format.
+          image.format 'png'
+        end
+
+        # Determine the original image dimensions.
+        orig_width = image[:width].to_i
+        orig_height = image[:height].to_i
+        orig_ratio = orig_width / orig_height
+
+        # Determine the dimensions for the generated image.
+        gen_width = if @info[:width]
+                      @info[:width].to_i
+                    elsif @info[:height]
+                      orig_ratio * @info[:height].to_i
+                    else
+                      orig_width
+                    end
+        gen_height = if @info[:height]
+                       @info[:height].to_i
+                     elsif @info[:width]
+                       @info[:width].to_i / orig_ratio
+                     else
+                       orig_height
+                     end
+        gen_ratio = gen_width / gen_height
+
+        # Don't allow upscaling. If the image is smaller than the requested dimensions, recalculate.
+        if ext != '.svg'
+          if orig_width < gen_width || orig_height < gen_height
+            undersize = true
+            gen_width = if orig_ratio < gen_ratio then orig_width else orig_height * gen_ratio end
+            gen_height = if orig_ratio > gen_ratio then orig_height else orig_width / gen_ratio end
+          end
+
+          warn 'Warning:'.yellow + " #{@info[:src]} is smaller than the requested output file. It will be resized without upscaling." if undersize
+        end
 
         #  If the destination directory doesn't exist, create it
         FileUtils.mkdir_p(File.dirname(gen_full_path)) unless File.exist?(File.dirname(gen_full_path))
@@ -233,16 +238,15 @@ module Jekyll
           end
         end
 
-        image.write File.join(site_context.dest, @info[:dst_folder], gen_name)
-
-        # Updated the image dimensions.
+        # Updated the image tag dimensions.
         @html_attr[:height] = image[:height].to_i
         @html_attr[:width] = image[:width].to_i
+
+        image.write gen_full_path
       end
 
       # Determine file path, relative to site root.
-
-      @info[:dst] = Pathname.new(File.join(@info[:dst_folder], gen_name)).cleanpath.to_s
+      @info[:dst] = gen_rel_path
     end
   end
 end
