@@ -4,7 +4,7 @@
 <article class="blog-entry--alternative">
   {% if post.thumbnail %}
   <div class="blog-image-wrapper">
-    {% image thumb_home|fit {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" %}
+    {% image thumb-home {{ post.thumbnail | prepend: site.baseurl }} alt="{{ post.thumbnail-alt }}" %}
   </div>
   {% endif %}
 
