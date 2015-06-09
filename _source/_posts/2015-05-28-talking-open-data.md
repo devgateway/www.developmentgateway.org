@@ -2,6 +2,7 @@
 layout: post
 author: Paige Kirby
 title: "Talking Open Data and Fiscal Transparency at IODC 2015"
+excerpt: "Over the next couple of days, we’re looking forward to discussing open data successes, challenges, and impact to-date at the International Open Data Conference..."
 thumbnail: assets/featured-images/opendata-logo.jpg
 thumbnail-alt: IODC 2015
 ---

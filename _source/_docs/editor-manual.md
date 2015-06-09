@@ -21,12 +21,12 @@ TODO!
 
 To link to and existing post you can use this markup
 ```
-[Development Gateway Helps Spur Development]({% post_url 2005-04-19-development-gateway-helps-spur-development %})
+[Development Gateway Helps Spur Development]({{ site.url }}{% post_url 2005-04-19-development-gateway-helps-spur-development %})
 ```
 
 Where `Development Gateway Helps Spur Development` is the text displayed to the user, and `2005-04-19-development-gateway-helps-spur-development` is the name of the post file without the `.md` extension. This liquid tag will output:
 
-> [Development Gateway Helps Spur Development]({% post_url 2005-04-19-development-gateway-helps-spur-development %}).
+> [Development Gateway Helps Spur Development]({{ site.url }}{% post_url 2005-04-19-development-gateway-helps-spur-development %}).
 
 ## Blog Tags
 

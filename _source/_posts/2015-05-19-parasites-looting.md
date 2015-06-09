@@ -6,7 +6,7 @@ excerpt: "While in a previous post we applauded one oil company for taking a hug
 thumbnail: assets/featured-images/parasites-looting.jpg
 thumbnail-alt: UNECA Reports Launch
 ---
-While in a [previous post](/2015/04/29/transparency-strikes-oil/) we applauded one oil company for taking a huge leap in transparency, it’s a small (albeit very important) drop in a large bucket of issues around natural resources in developing countries. Oxfam hasn’t forgotten that there is still a fight in the US to make oil payments open. They’ve requested all to back Section 1504 of the Dodd-Frank Act by [adding their name to a letter](https://secure2.oxfamamerica.org/page/s/fight-corruption-push-for-transparency) to the Chair of the Securities and Exchange Commission.
+While in a [previous post]({{ site.url }}{% post_url 2015-04-29-transparency-strikes-oil %}) we applauded one oil company for taking a huge leap in transparency, it’s a small (albeit very important) drop in a large bucket of issues around natural resources in developing countries. Oxfam hasn’t forgotten that there is still a fight in the US to make oil payments open. They’ve requested all to back Section 1504 of the Dodd-Frank Act by [adding their name to a letter](https://secure2.oxfamamerica.org/page/s/fight-corruption-push-for-transparency) to the Chair of the Securities and Exchange Commission.
 
 It shouldn’t come as a surprise that oil and natural resources are wrapped up in corruption and hidden deals. A [sharp op-ed](http://www.nytimes.com/2015/03/26/opinion/nicholas-kristof-an-unsettling-complicity.html) in the *NY Times* compared the corrupt official to the literal parasites that are embedded in poor countries. Both are pervasive, damaging and the poor are the most affected by both.  
 
