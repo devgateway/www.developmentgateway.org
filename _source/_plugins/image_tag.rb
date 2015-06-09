@@ -31,7 +31,7 @@ module Jekyll
       # Render any liquid variables in tag arguments and unescape template code
       render_markup = Liquid::Template.parse(@markup).render(context).gsub(/\\\{\\\{|\\\{\\%/, '\{\{' => '{{', '\{\%' => '{%')
 
-      @tag_data = /^(?:(?<preset>[^\s.:\/\|]+)(?:\|(?<resize>(?:fill|fit)))?\s+)?(?<image_src>[^\s]+\.(jpe?g|png|svg))\s*(?<html_attr>[\s\S]+)?$/.match(render_markup)
+      @tag_data = /^(?:(?<preset>[^\s.:\/\|]+)(?:\|(?<resize>(?:fill|fit)))?\s+)?(?<image_src>[^\s]+\.(jpe?g|gif|png|svg))\s*(?<html_attr>[\s\S]+)?$/.match(render_markup)
       raise "ImageTag can't read this tag. Try {% image [preset or WxH] path/to/img.jpg [attr=\"value\"] %}." unless @tag_data
 
       # Gather settings.
