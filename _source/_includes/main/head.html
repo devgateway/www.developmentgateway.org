@@ -1,14 +1,24 @@
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width initial-scale=1"/>
+  <meta name="viewport" content="width=device-width initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% if page.meta_description %}
+  <meta name="description" content="{{ page.meta_description }}">
+  {% else %}
+    {% if site.description and page.url == '/index.html' %}
+    <meta name="description" content="{{ site.description }}">
+    {% endif %}
+  {% endif %}
+  {% if page.categories %}
+  <meta name="keywords" content="{{ page.categories | join: ', ' | escape }}">
+  {% else %}
+    {% if site.keywords and page.url == '/index.html' %}
+    <meta name="keywords" content="{{ site.keywords | join: ', ' | escape }}">
+    {% endif %}
+  {% endif %}
 
-  {% comment %}
-  <!-- NOTE: If the site.baseurl changes, you will need to manually update manifest.json and browserconfig.xml -->
-  {% endcomment %}
   <link rel="apple-touch-icon" sizes="57x57" href="{{ '/images/favicons/apple-icon-57x57.png' | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ '/images/favicons/apple-icon-60x60.png' | prepend: site.baseurl }}">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ '/images/favicons/apple-icon-72x72.png' | prepend: site.baseurl }}">
@@ -41,7 +51,7 @@
   <script src="{{ '/scripts/scroll.js' | prepend: site.baseurl }}" defer="defer"></script>
 
   {% if page.include_map %}
-    <link rel="stylesheet" href="{{ '/lib/leaflet/leaflet.css' | prepend: site.baseurl }}" />
+    <link rel="stylesheet" href="{{ '/lib/leaflet/leaflet.css' | prepend: site.baseurl }}">
     <script src="{{ '/lib/leaflet/leaflet.js' | prepend: site.baseurl }}" defer="defer"></script>
     <script src="{{ '/scripts/reach-map.js' | prepend: site.baseurl }}" defer="defer"></script>
   {% endif %}
