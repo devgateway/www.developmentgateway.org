@@ -9,7 +9,8 @@ weight: 8
 <div class="blog-page-wrapper page-layout-element clearfix">
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
-    <section class="page-section">
+    <section role="main" class="page-section">
+      <h2 class="element-invisible">Blog posts listing</h2>
       {% for blog_post in paginator.posts %}
         {% include widgets/blog-teaser.html post=blog_post %}
       {% endfor %}

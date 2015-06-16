@@ -6,6 +6,7 @@ layout: page
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
     <section role="main" class="page-section">
+      <h2 class="element-invisible">{{ page.tag }} blog posts listing</h2>
       {% for blog_post in site.tags[page.tag] %}
         {% include widgets/blog-teaser.html post=blog_post %}
       {% endfor %}
