@@ -122,6 +122,10 @@ module Jekyll
         )
       end
 
+      if not @html_attr.has_key? 'alt' and @html_attr.has_key? 'title'
+        @html_attr['alt'] = @html_attr['title']
+      end
+
       if preset && preset['attr']
         @html_attr = preset['attr'].merge(@html_attr)
       end

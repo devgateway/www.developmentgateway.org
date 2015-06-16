@@ -36,7 +36,7 @@ TODO!
     ```
     One can now use a custom tag that also resizes the image to a set of predefined presets:
     ```
-    {% image thumb-large {{ 'images/posts/2005/img1.png' }} title="Just a simple image" role="img" %}
+    {% image thumb-large {{ 'images/posts/2005/img1.png' }} title="Just a simple image"  alt="Just a simple image" role="img" %}
     ```
     For a list of image presents check: https://github.com/devgateway/www.developmentgateway.org/blob/develop/_config.yml
 
