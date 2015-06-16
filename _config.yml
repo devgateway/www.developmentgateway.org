@@ -40,7 +40,6 @@ image:
       width: 272
       # 12 * 1em
       height: 192
-      resize: fit
     thumb-large:
       # 19 * 1em
       width: 304
