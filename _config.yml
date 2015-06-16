@@ -15,7 +15,7 @@ copyright: >
 
 # Map config for the reach page
 map:
-  tiles: "https://api.tiles.mapbox.com/v4/pschleihauf.lcn2c8c1/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoicHNjaGxlaWhhdWYiLCJhIjoiMWtmWlNOTSJ9._M5g6v6M6LskiUHkhSjOHQ&secure=1"
+  tiles: ~
   minZoom: 1
   maxZoom: 5
 
