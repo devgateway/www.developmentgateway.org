@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="page-wrapper">
+<article role="main"  class="page-wrapper">
 
   {% include page-header.html %}
 
@@ -16,10 +16,10 @@ layout: default
     {% include widgets/map.html %}
   {% endif %}
 
-  <article class="page-content">
+  <div class="page-content">
     <div class="page-content-inner page-layout-element">
       {{ content }}
     </div>
-  </article>
+  </div>
 
-</div>
+</article>

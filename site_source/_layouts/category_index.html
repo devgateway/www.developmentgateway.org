@@ -5,7 +5,7 @@ layout: page
 <div class="blog-page-wrapper page-layout-element clearfix">
 
   <div class="blog-main-column-wrapper blog-listing-wrapper">
-    <section class="page-section">
+    <section role="main" class="page-section">
       {% for blog_post in site.categories[page.category] %}
         {% include widgets/blog-teaser.html post=blog_post %}
       {% endfor %}
