@@ -192,6 +192,8 @@ module Jekyll
       html_attr[:role] = 'presentation'
       html_attr[:width] = @info[:width] if @info[:width]
       html_attr[:height] = @info[:height] if @info[:height]
+      html_attr['xmlns'] = 'http://www.w3.org/2000/svg'
+      html_attr['xmlns:xlink'] = 'http://www.w3.org/1999/xlink'
 
       # Append/override tags defined inside the icon tag.
       if @tag_data[:html_attr]
