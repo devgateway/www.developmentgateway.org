@@ -17,21 +17,20 @@
     {% assign regions = 'africa,asia,europe,americas' | split: ',' %}
     {% for region in regions %}{% for project in site.data.poi_reach[region] %}
       {% if project.lat and project.lon %}
-        <!-- maybe create a liquid template filter to generate data- props -->
         <li
           class="reach-map-data"
-          data-name="{{ project.name }}"
-          data-id="{{ project.id }}"
-          data-lat="{{ project.lat }}"
-          data-lon="{{ project.lon }}"
-          data-year="{{ project.year }}"
-          data-category="{{ project.category }}"
-          data-description="{{ project.description }}"
-          data-quote="{{ project.quote }}"
-          data-quoteAuthor="{{ project.quoteAuthor }}"
-          data-url="{{ project.url }}"
-          data-region="{{ project.region }}">
-          <a href="#{{ project.id }}">{{ project.name }}</a>
+          data-name="{{ project.name | escape }}"
+          data-id="{{ project.id | escape }}"
+          data-lat="{{ project.lat | escape }}"
+          data-lon="{{ project.lon | escape }}"
+          data-year="{{ project.year | escape }}"
+          data-category="{{ project.category | escape }}"
+          data-description="{{ project.description | escape }}"
+          data-quote="{{ project.quote | escape }}"
+          data-quoteAuthor="{{ project.quoteAuthor | escape }}"
+          data-url="{{ project.url | escape }}"
+          data-region="{{ project.region | escape }}">
+          <a href="#{{ project.id | escape }}">{{ project.name }}</a>
         </li>
       {% endif %}
     {% endfor %}{% endfor %}
