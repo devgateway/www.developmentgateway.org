@@ -75,8 +75,8 @@ google_web_property_id: __NONE__
 #-----------------#
 
 # Change jekyll build source and destination.
-source: _source
-destination: _site
+source: site_source
+destination: public_html
 
 # Blog listing pagination settings.
 paginate: 10
