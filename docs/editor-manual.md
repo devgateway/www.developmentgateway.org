@@ -11,14 +11,10 @@ In order to add a new item to the main menu you need to create a Markdown file.
 
 ### Front Matter
 
-TODO!
-
 For more information see the Jekyll [Front Matter Documentation](http://jekyllrb.com/docs/frontmatter)
 page or create an issue.
 
 ## Content Info
-
-TODO!
 
 1.  To link to and existing post you can use this markup
     ```
@@ -39,6 +35,8 @@ TODO!
     {% image thumb-large {{ 'images/posts/2005/img1.png' }} title="Just a simple image"  alt="Just a simple image" role="img" %}
     ```
     For a list of image presents check: https://github.com/devgateway/www.developmentgateway.org/blob/develop/_config.yml
+
+3.  As per HTML5 standard, all images should have an 'alt' attribute that needs to follow [these guidelines](http://www.w3.org/html/wg/drafts/html/master/semantics.html#alt).
 
 
 ## Blog Tags
