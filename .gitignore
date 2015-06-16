@@ -9,6 +9,7 @@ Vagrant*
 _config.local.yml
 Gemfile.lock
 robots.txt
+public_html
 
 # For now ignore all blog post assets.
-_source/assets
+site_source/assets
