@@ -8,7 +8,6 @@ title: DG at the Open Data for Development Camp
 excerpt: ""
 ---
 
-<table align="right" border="0" style="width:272px;height:210px;"><tbody><tr><td align="center" valign="middle"> </td><td align="center" valign="middle">![](/assets/imagecache/featured_image_sidebar/featured-images/open-for-change.jpg)</td></tr><tr><td align="center" valign="bottom"> </td><td align="center" valign="bottom"></td></tr></tbody></table>
 
 *This Story from the Field comes from Anna Lauridsen of Development Gateway International. She tells us about her participation in the Open Data for Development Camp held in Amsterdam in May:*
 

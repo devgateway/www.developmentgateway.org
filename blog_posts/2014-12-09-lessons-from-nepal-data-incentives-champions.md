@@ -31,4 +31,4 @@ For example, one potential champion – a senior official in an influential sect
 
 If senior government officials were to speak more openly about the importance of data analysis, praise staff who create innovative products, and encourage government planners to request and incorporate more data-driven evidence into their processes, general incentives for using and analysing data should begin to increase.
 
-**[Download the full study.](/assets/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf)**
+**[Download the full study.](/assets/post-resources/understanding_government_data_use_in_nepal_final.pdf)**

@@ -8,7 +8,6 @@ title: Foundation Center and Development Gateway  Announce Strategic Partnership
 excerpt: PRESS RELEASE
 ---
 
-<table align="center" border="0" style="width:100%;"><tbody><tr><td>![](/assets/inline-images/fc_logo.gif)</td><td>![](/assets/webfm/amp-demo/dg-logo-with-tagline.png)</td></tr></tbody></table>
 
 **PRESS RELEASE**
 

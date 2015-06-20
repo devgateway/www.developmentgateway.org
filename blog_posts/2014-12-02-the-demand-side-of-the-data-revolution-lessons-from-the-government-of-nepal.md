@@ -25,7 +25,7 @@ At the same time, we want to make sure that the Revolution is truly revolutionar
 *How do governments actually use development data to inform decisions?*
 *How might this data be used more effectively?*
 
-With these questions in mind, Development Gateway, in partnership with DFID Nepal, [conducted a detailed study of government data use in Nepal](/assets/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf). Drawing on the perspectives of 60+ government officials, donor staff, CSO operatives, and academics, we tried to paint a picture of the government data “ecosystem” in Nepal. This post is the first in a three-part series that will relay the most important findings from this study. We aim to provide useful insight for both Government of Nepal (GoN) and the development data community at large.
+With these questions in mind, Development Gateway, in partnership with DFID Nepal, [conducted a detailed study of government data use in Nepal](/assets/post-resources/understanding_government_data_use_in_nepal_final.pdf). Drawing on the perspectives of 60+ government officials, donor staff, CSO operatives, and academics, we tried to paint a picture of the government data “ecosystem” in Nepal. This post is the first in a three-part series that will relay the most important findings from this study. We aim to provide useful insight for both Government of Nepal (GoN) and the development data community at large.
 
 Part 1: Data Users Inside the Government
 
@@ -53,6 +53,6 @@ We suggest that the local staff who lead the district development committees, as
 
 Data production does not equal data use. And good results-based planning and budgeting only happen when people know how to work with data. As a community of “data revolutionaries,” we need to make sure that our focus on data is coupled with analytical support for the right people.
 
-**[Download the full study here.](/assets/webfm/pdfs/understanding_government_data_use_in_nepal_final.pdf)**
+**[Download the full study here.](/assets/post-resources/understanding_government_data_use_in_nepal_final.pdf)**
 
 * View posts [2](/news/lessons-nepal-data-incentives-champions) and [3](/news/lessons-nepal-getting-government-data-everyone-else).*
