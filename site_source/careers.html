@@ -20,6 +20,7 @@ published: true
   </ul>
 </section>
 
+
 <section class="page-section">
   <h2>Small, Yet International</h2>
 
@@ -28,13 +29,14 @@ published: true
   <p>All positions are posted on this website. You can also visit the <a href="http://jobs.zunia.org" target="_blank">Jobs page on Zunia</a> to find opportunities with other international development organizations.</p>
 </section>
 
+
 <section class="page-section">
   <h2>We Are Hiring</h2>
 
   <ul class="columns-list columns-list--half">
     {% for career in site.data.careers %}
     <li class="entry">
-      <a href="{{ career.file | prepend: site.url }}" target="_blank">
+      <a href="{{ career.file | prepend: '/assets/careers/' | prepend: site.url }}" target="_blank">
         {{ career.name }}
       </a>
     </li>

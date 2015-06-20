@@ -78,7 +78,7 @@ published: true
     <ul>
       {% for item in group.items %}
       <li>
-        <a href="{{ item.file | prepend: '/assets/financials/' | prepend: site.baseurl }}" target="_blank">
+        <a href="{{ item.file | prepend: '/assets/financials/' | prepend: site.url }}" target="_blank">
           {{ item.name }}
         </a>
       </li>

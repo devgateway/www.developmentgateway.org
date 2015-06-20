@@ -1,13 +1,15 @@
 
+# Files need to be uploaded into the `/assets/careers` directory.
+
 - name: Monitoring & Evaluation Specialist
-  file: /pdfs/careers/dg-me-specialist-2015.pdf
+  file: dg-me-specialist-2015.pdf
 
 - name: IT Consultant – Drupal Developer
-  file: /pdfs/careers/dg-drupal-developer-2015.pdf
+  file: dg-drupal-developer-2015.pdf
 
 - name: IT Consultant – Java Developer
-  file: /pdfs/careers/dg-java-developer-2015.pdf
+  file: dg-java-developer-2015.pdf
 
 - name: IT Consultant – UI Developer
-  file: /pdfs/careers/dg-ui-developer-2015.pdf
+  file: dg-ui-developer-2015.pdf
 
