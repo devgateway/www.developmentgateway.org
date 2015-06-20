@@ -142,6 +142,7 @@ prose:
     - site_source/_includes
     - site_source/_layouts
     - site_source/_plugins
+    - site_source/_posts
     - site_source/_scss
     - site_source/lib
     - site_source/scripts
