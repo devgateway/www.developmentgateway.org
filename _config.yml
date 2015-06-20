@@ -129,7 +129,7 @@ lunr_search:
 
 # prose.io specific settings.
 prose:
-  media: site_source/assets
+  media: assets/post-images
   ignore:
     - .editorconfig
     - .gitignore
