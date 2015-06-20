@@ -11,7 +11,7 @@ excerpt: Since 2010, the Government of Nepal has been maintaining an Aid Managem
   Ministry of Finance draws on AMP data to offer government officials, donors and
   the public an overall view of aid trends in country, as well as a series of recommendations
   for better targeting future development assistance.
-thumbnail: assets/featured-images/screen_shot_2015-04-20_at_11.14.22_pm.png
+thumbnail: assets/post-thumbnails/screen_shot_2015-04-20_at_11.14.22_pm.png
 thumbnail-fid: "6220"
 thumbnail-alt: ""
 categories: [Aid Management]

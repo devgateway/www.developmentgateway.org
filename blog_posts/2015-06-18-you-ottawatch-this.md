@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "You 'Ottawatch' This"
 excerpt: As typical when there is a stage and a listening audience, we saw the launch of some new tools and reports in alignment with the Open Data Conference that took place in Ottawa in May...
-thumbnail: assets/featured-images/iodc15-panel.jpg
+thumbnail: assets/post-thumbnails/iodc15-panel.jpg
 thumbnail-alt: 'IODC15 Panel'
 ---
 

@@ -13,7 +13,7 @@ excerpt: The Developing Capacities for Effective Aid Management and Coordination
   in Nepal and funded by UNDP, DFID and DANIDA. Key Government partners include the
   Ministries of Education, Health and Local Development and the National Planning
   Commission.
-thumbnail: assets/featured-images/amp_meeting-nepal.jpg
+thumbnail: assets/post-thumbnails/amp_meeting-nepal.jpg
 thumbnail-fid: "5923"
 thumbnail-alt: ""
 ---

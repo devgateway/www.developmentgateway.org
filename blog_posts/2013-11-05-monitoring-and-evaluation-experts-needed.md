@@ -10,7 +10,7 @@ excerpt: Development Gateway has a growing client demand for monitoring and eval
   mid to senior-level M&amp;E specialists for a wide range of upcoming activities,
   including; developing M&amp;E strategies, building M&amp;E systems and tools, training
   on M&amp;E best practices, and directly implementing M&amp;E assignments.
-thumbnail: assets/featured-images/132257b2-1289-41ef-9db4-fd5a6c45b234-m.jpg
+thumbnail: assets/post-thumbnails/132257b2-1289-41ef-9db4-fd5a6c45b234-m.jpg
 thumbnail-fid: "6013"
 thumbnail-alt: ""
 ---

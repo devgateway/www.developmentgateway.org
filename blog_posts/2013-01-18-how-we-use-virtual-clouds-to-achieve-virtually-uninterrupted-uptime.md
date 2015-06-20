@@ -10,7 +10,7 @@ excerpt: Computer hardware would be useless without data and programs to process
   reading user input or loading programs. This is performed by the operating system,
   e.g. Windows, Linux or Mac OS. So when we speak of a computer, we mean the combination
   of hardware, operating system to bring it to life, and software to solve our tasks.
-thumbnail: assets/featured-images/cloud-hi-res.png
+thumbnail: assets/post-thumbnails/cloud-hi-res.png
 thumbnail-fid: "5944"
 thumbnail-alt: ""
 ---

@@ -10,7 +10,7 @@ excerpt: "Co-working spaces, or \"Hubs,\" come in all shapes and sizes and typic
   rage, popping up everywhere from the US to Africa, Asia, and Latin America. Although
   the ambitions and intent behind each hub are noble and good, these initiatives often
   struggle both operationally and financially.\r\n\r\nWhy is the OpenGov Hub different?"
-thumbnail: assets/featured-images/502fef3a84ae7fae2e64e13e.jpg
+thumbnail: assets/post-thumbnails/502fef3a84ae7fae2e64e13e.jpg
 thumbnail-fid: "5925"
 thumbnail-alt: ""
 ---

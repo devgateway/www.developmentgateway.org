@@ -11,7 +11,7 @@ excerpt: By early May, users of the AidData database will be able to run queries
   will be exportable in the new international aid reporting standard recently finalized
   by the International Aid Transparency Initiative, which aims to make aid information
   more open and accessible.
-thumbnail: assets/featured-images/iati-logo.png
+thumbnail: assets/post-thumbnails/iati-logo.png
 thumbnail-fid: "4313"
 thumbnail-alt: ""
 ---

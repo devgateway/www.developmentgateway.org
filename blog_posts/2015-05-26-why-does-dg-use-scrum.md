@@ -3,7 +3,7 @@ layout: post
 author: Denise Butcher
 title: Why Does DG Use Scrum?
 excerpt: "Have you ever wondered how the software you use gets built? We at Development Gateway use the “Scrum” approach to develop our software. Scrum is a group of software development methods that wrap around existing engineering practices..."
-thumbnail: assets/featured-images/scrum-communication.jpg
+thumbnail: assets/post-thumbnails/scrum-communication.jpg
 thumbnail-alt: "scrum communication"
 categories: [Innovation]
 ---

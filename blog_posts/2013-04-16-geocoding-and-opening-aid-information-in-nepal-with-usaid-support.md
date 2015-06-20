@@ -10,7 +10,7 @@ excerpt: The Government of Nepal (GoN) recently hosted a team of AidData and Dev
   Policy program with USAID. Alena Stern, Dustin Homer, Josh Powell, and Dina Abdel-Fattah
   took our work to a broader audience of government officials, donors, and concerned
   citizens.
-thumbnail: assets/featured-images/nepal1.png
+thumbnail: assets/post-thumbnails/nepal1.png
 thumbnail-fid: "5983"
 thumbnail-alt: ""
 ---

@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Post-Cartagena: Mapping out the Data Ecosystem"
 excerpt: "One of my favorite quotables from the Cartagena Data Festival came from Ricardo Fuentes-Nieva of Oxfam who said that maybe we need a data “reformation” instead of “revolution” – alluding to the Protestant Reformation, when the Bible was translated into the vernacular of the people..."
-thumbnail: assets/featured-images/cartagena-visualisation.png
+thumbnail: assets/post-thumbnails/cartagena-visualisation.png
 thumbnail-alt: Data Visualisation
 categories: [Open Data]
 ---

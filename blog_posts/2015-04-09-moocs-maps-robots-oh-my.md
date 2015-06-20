@@ -11,7 +11,7 @@ excerpt: The World Bank's Citizen Engagement MOOC (Massive Open Online Course) i
   If you’re eager to learn more about Citizen Engagement but aren’t ready to plan
   a project, then Track 1 is for you with its focus on understanding and evaluating
   current citizen engagement initiatives.
-thumbnail: assets/featured-images/robocop.jpeg
+thumbnail: assets/post-thumbnails/robocop.jpg
 thumbnail-fid: "6215"
 thumbnail-alt: ""
 ---

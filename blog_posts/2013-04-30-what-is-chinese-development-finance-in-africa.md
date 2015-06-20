@@ -7,7 +7,7 @@ old_path: news/what-chinese-development-finance-africa
 title: What is Chinese Development Finance in Africa?
 excerpt: Development Gateway is proud to announce AidData's launch of a new interactive
   database that tracks Chinese development finance flows to Africa from 2000 to 2011.
-thumbnail: assets/featured-images/china-en-africa_0.jpg
+thumbnail: assets/post-thumbnails/china-en-africa_0.jpg
 thumbnail-fid: "5991"
 thumbnail-alt: ""
 ---

@@ -6,7 +6,7 @@ created: 1317758731
 old_path: news/tackling-development-challenges-data-visualization
 title: Tackling Development Challenges with Data Visualization
 excerpt: ""
-thumbnail: assets/featured-images/techatstate_panel.jpg
+thumbnail: assets/post-thumbnails/techatstate_panel.jpg
 thumbnail-fid: "5407"
 thumbnail-alt: ""
 ---

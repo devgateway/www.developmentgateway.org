@@ -10,7 +10,7 @@ excerpt: Seven years ago, Development Gateway designed and piloted the Aid Manag
   and Economic Development (MOFED). Today, AMP is embedded in Ethiopia’s aid effectiveness
   action plan and MOFED has declared AMP the official government system for capturing
   and reporting on aid activities.
-thumbnail: assets/featured-images/ethiopia-flag.jpg
+thumbnail: assets/post-thumbnails/ethiopia-flag.jpg
 thumbnail-fid: "5936"
 thumbnail-alt: ""
 ---

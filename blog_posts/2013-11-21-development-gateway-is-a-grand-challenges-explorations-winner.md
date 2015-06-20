@@ -7,7 +7,7 @@ old_path: news/development-gateway-grand-challenges-explorations-winner
 title: Development Gateway is a Grand Challenges Explorations Winner
 excerpt: Development Gateway is proud to announce that it is a Grand Challenges Explorations
   winner, an initiative funded by the Bill &amp; Melinda Gates Foundation.
-thumbnail: assets/featured-images/melindagates3.jpg
+thumbnail: assets/post-thumbnails/melindagates3.jpg
 thumbnail-fid: "6015"
 thumbnail-alt: ""
 ---

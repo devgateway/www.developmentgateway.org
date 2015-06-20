@@ -8,7 +8,7 @@ title: 4 Ways to Bring Sexy Back to the US Government's Open Data Strategy
 excerpt: The US Office of Management and Budget (OMB) recently released its Guidance
   on Collection of U.S. Foreign Assistance Data prompting well-deserved praise from
   the Center for Global Development in Hooray for Unsexy OMB Data Guidance.
-thumbnail: assets/featured-images/omb_0.jpg
+thumbnail: assets/post-thumbnails/omb_0.jpg
 thumbnail-fid: "5934"
 thumbnail-alt: ""
 ---

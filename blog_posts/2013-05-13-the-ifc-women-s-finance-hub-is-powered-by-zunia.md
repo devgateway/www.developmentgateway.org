@@ -7,7 +7,7 @@ old_path: news/ifc-women-s-finance-hub-powered-zunia
 title: The IFC Women’s Finance Hub is Powered by Zunia
 excerpt: Development Gateway is proud to announce that the Women’s Finance Hub is powered
   by our Zunia Knowledge Sharing Platform.
-thumbnail: assets/featured-images/women-hub.jpg
+thumbnail: assets/post-thumbnails/women-hub.jpg
 thumbnail-fid: "5994"
 thumbnail-alt: ""
 ---

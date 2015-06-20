@@ -7,7 +7,7 @@ old_path: news/geocoding-hits-ground
 title: Geocoding Hits the Ground
 excerpt: 'This Story from the Field comes from Joshua Powell, a Business Development
   Associate with Development Gateway focusing on AidData and geocoding work:'
-thumbnail: assets/featured-images/malawi_fromfield.jpg
+thumbnail: assets/post-thumbnails/malawi_fromfield.jpg
 thumbnail-fid: "5741"
 thumbnail-alt: ""
 ---

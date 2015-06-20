@@ -9,7 +9,7 @@ excerpt: The Climate Change and African Political Stability (CCAPS) program laun
   Version 2.0 of the CCAPS mapping tool this week, adding the full Social Conflict
   in Africa Database, and updating the Armed Conflict Location and Event Dataset (ACLED)
   with events through 2012.
-thumbnail: assets/featured-images/social_conflict_map_0.jpg
+thumbnail: assets/post-thumbnails/social_conflict_map_0.jpg
 thumbnail-fid: "5890"
 thumbnail-alt: ""
 ---

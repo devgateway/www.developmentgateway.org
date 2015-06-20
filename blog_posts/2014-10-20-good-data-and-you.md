@@ -8,7 +8,7 @@ title: “Good” Data and You
 excerpt: After the 2014 Annual Meetings of the IMF and World Bank, below are some key
   questions and takeaways on how open data, development finance, and diverse stakeholders
   mix:Why do we need to publish data?
-thumbnail: assets/featured-images/img_0829.jpg
+thumbnail: assets/post-thumbnails/img_0829.jpg
 thumbnail-fid: "6122"
 thumbnail-alt: ""
 ---

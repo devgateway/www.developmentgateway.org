@@ -7,7 +7,7 @@ old_path: news/new-development-gateway
 title: A New Development Gateway
 excerpt: 'Development Gateway is proud to announce the publication of its 2012-2014 Annual
   Report!As the letter from Board Chair Mary O''Kane illustrates:'
-thumbnail: assets/featured-images/screen_shot_2015-03-20_at_3.29.39_pm.png
+thumbnail: assets/post-thumbnails/screen_shot_2015-03-20_at_3.29.39_pm.png
 thumbnail-fid: "6211"
 thumbnail-alt: ""
 ---

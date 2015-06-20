@@ -10,7 +10,7 @@ excerpt: This post continues coverage of breakout sessions held at the 7th Annua
   Data Revolution is an increased use of data for government decision making. However,
   this tenet is often coupled with the assumption that a data-driven culture already
   exists.The Importance of Access
-thumbnail: assets/featured-images/15856010910_1e1b7816a8_z.jpg
+thumbnail: assets/post-thumbnails/15856010910_1e1b7816a8_z.jpg
 thumbnail-fid: "6166"
 thumbnail-alt: ""
 ---

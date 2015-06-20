@@ -10,7 +10,7 @@ excerpt: On 25 September, the city of Cape Town explicitly recognized the import
   Open Data Policy. The policy lays out a plan to make data centrally accessible through
   the development of an open data portal – with the goal of increasing transparency
   and empowering citizens to hold the government accountable.
-thumbnail: assets/featured-images/cape-town-open-data.jpg
+thumbnail: assets/post-thumbnails/cape-town-open-data.jpg
 thumbnail-fid: "6125"
 thumbnail-alt: ""
 ---

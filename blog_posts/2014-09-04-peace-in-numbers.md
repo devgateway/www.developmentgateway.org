@@ -12,7 +12,7 @@ excerpt: For years, Big Data – enormous amounts of information from a variety 
   multilateral programming.But what if we could use Big Data to not only influence
   national programming and international procedures; what if we harness Big Data to
   secure physical and material peace and security for all?
-thumbnail: assets/featured-images/5097507_orig.jpg
+thumbnail: assets/post-thumbnails/5097507_orig.jpg
 thumbnail-fid: "6077"
 thumbnail-alt: ""
 ---

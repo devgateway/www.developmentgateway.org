@@ -9,7 +9,7 @@ excerpt: The eight Millennium Development Goals are targeted for completion in 2
   and the Sustainable Development Goals (SDGs) will be the world’s new targets. These
   SDGs necessitate a “Data Revolution,” and every organization needs to start laying
   the groundwork now for a successful future.
-thumbnail: assets/featured-images/6621199759_d80f5d7ba5_o.png
+thumbnail: assets/post-thumbnails/6621199759_d80f5d7ba5_o.png
 thumbnail-fid: "6205"
 thumbnail-alt: ""
 ---

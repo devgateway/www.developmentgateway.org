@@ -9,7 +9,7 @@ excerpt: "We are proud to announce that the Nepal Aid Management Program (AMP) h
   received another kudos.\r\n\r\nAccording to a \"Pilot Study on Improving Aid Transparency,\"
   prepared by NGO Federation of Nepal, the Aid Management Program may be \"the best\"
   way to improve the availability of aid information to NGOs in Nepal:"
-thumbnail: assets/featured-images/amp_meeting-nepal_0.jpg
+thumbnail: assets/post-thumbnails/amp_meeting-nepal_0.jpg
 thumbnail-fid: "5941"
 thumbnail-alt: ""
 ---

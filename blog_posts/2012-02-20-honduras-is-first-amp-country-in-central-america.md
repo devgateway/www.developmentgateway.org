@@ -11,7 +11,7 @@ excerpt: Honduras recently became the first country in Central America and the s
   eleven people from the government’s Secretaría Técnica de Planificación y Cooperación
   Externa (SEPLAN) have been certified to use the system and four people have become
   certified administrators.
-thumbnail: assets/featured-images/amp-honduras1.jpg
+thumbnail: assets/post-thumbnails/amp-honduras1.jpg
 thumbnail-fid: "5746"
 thumbnail-alt: ""
 ---

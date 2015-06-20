@@ -9,7 +9,7 @@ excerpt: As Jed Miller recently noted in The Guardian, making data available onl
   mean much on its own.  It is a necessary first step in the open data movement, but
   information is valuable only when it can be used.  That means getting the right
   data in front of the right people.
-thumbnail: assets/featured-images/devtrac_0.jpg
+thumbnail: assets/post-thumbnails/devtrac_0.jpg
 thumbnail-fid: "6056"
 thumbnail-alt: ""
 ---

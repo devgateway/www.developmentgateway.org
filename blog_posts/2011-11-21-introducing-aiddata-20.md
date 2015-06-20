@@ -10,7 +10,7 @@ excerpt: Today, AidData launched its new and improved website, featuring more co
   as a project to build a new kind of development assistance database has evolved
   into a broader initiative that aims to increase the accessibility and relevance
   of development finance information for a wide range of stakeholders.
-thumbnail: assets/featured-images/untitled-1.jpg
+thumbnail: assets/post-thumbnails/untitled-1.jpg
 thumbnail-fid: "5485"
 thumbnail-alt: ""
 ---

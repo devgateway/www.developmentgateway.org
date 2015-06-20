@@ -9,7 +9,7 @@ excerpt: This is a modified version of a post originally published on Open Nepal
   authored by Anjesh Tuladhar.No one would disagree with the fact that proactive disclosure
   of public contracts by public agencies improves service delivery, curbs corruption,
   and helps monitoring. Laura Bacon says open contracting could be a game changer.
-thumbnail: assets/featured-images/nepal1_0.png
+thumbnail: assets/post-thumbnails/nepal1_0.png
 thumbnail-fid: "6109"
 thumbnail-alt: ""
 ---

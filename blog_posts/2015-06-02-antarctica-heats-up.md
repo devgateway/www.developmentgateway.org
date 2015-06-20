@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Antarctica Heats Up, While Tanzania Freezes Data Publication"
 excerpt: "Many people took to social media when word got out that it was warmer in Antarctica, at a whopping 63 degrees Fahrenheit, a record temperature for them and a record for number of people who wish they were in Antarctica."
-thumbnail: assets/featured-images/floating-ice.jpg
+thumbnail: assets/post-thumbnails/floating-ice.jpg
 thumbnail-alt: 'Floating Ice'
 ---
 

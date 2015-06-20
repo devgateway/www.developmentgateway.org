@@ -11,7 +11,7 @@ excerpt: I am Owen Scott and recently I was fortunate enough to have the opportu
   organization focused on creating transformative change in African markets, public
   sectors, and civil society through supporting a continuously evolving portfolio
   of innovative ideas and ventures.
-thumbnail: assets/featured-images/mapping-results.jpg
+thumbnail: assets/post-thumbnails/mapping-results.jpg
 thumbnail-fid: "5946"
 thumbnail-alt: ""
 ---

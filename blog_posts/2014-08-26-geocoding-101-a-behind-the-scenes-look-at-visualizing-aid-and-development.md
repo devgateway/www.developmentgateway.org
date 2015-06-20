@@ -11,7 +11,7 @@ excerpt: I often get asked how AidData takes vast stores of development finance 
   Aid Transparency Initiative (IATI) registry. Now anyone can easily download the
   data from our IATI publisher page or aiddata.org to understand who is funding what
   and where.
-thumbnail: assets/featured-images/onlinegeocodingtoolkit.png
+thumbnail: assets/post-thumbnails/onlinegeocodingtoolkit.png
 thumbnail-fid: "6081"
 thumbnail-alt: ""
 ---

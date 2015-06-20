@@ -9,7 +9,7 @@ excerpt: Development Gateway is delighted to welcome Chad to the global Aid Mana
   Program family. Chad marks our 24th AMP country, our 16th African partner government,
   and another of our 20+ UNDP-supported AMP programs. We are looking forward to a
   productive partnership in the years to come.
-thumbnail: assets/featured-images/500px-flag_of_chad.png
+thumbnail: assets/post-thumbnails/500px-flag_of_chad.png
 thumbnail-fid: "6049"
 thumbnail-alt: ""
 ---

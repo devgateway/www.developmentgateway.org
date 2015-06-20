@@ -3,7 +3,7 @@ layout: post
 author: AidData
 title: "Open Data: A Journey of Discovery in Nepal"
 excerpt: "Open data has the potential to change lives. Data can be used as a tool to enable governments, donors and other actors to allocate financial resources more effectively to improve development outcomes and end poverty..."
-thumbnail: assets/featured-images/opendata-nepal-journey.jpg
+thumbnail: assets/post-thumbnails/opendata-nepal-journey.jpg
 thumbnail-alt: 'Open Data Nepal Journey'
 categories: [Open Data]
 ---

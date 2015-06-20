@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Data is a Means to Progress, Not an End"
 excerpt: "Many might question why so many are pushing for a data revolution when there are so many other issues and disparities in the world. But that is exactly why it is so important. Data is knowledge, and we all know, knowledge is power."
-thumbnail: assets/featured-images/screenshot-cartagena-cartoon.png
+thumbnail: assets/post-thumbnails/screenshot-cartagena-cartoon.png
 thumbnail-alt: 'Cartagena Cartoon'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: Jean-Louis Sarbib
 title: "Fostering a Data Ecosystem"
 excerpt: "This post is excerpted from Development Gateway’s quarterly newsletter."
-thumbnail: assets/featured-images/june-2015-newsletter.png
+thumbnail: assets/post-thumbnails/june-2015-newsletter.png
 thumbnail-alt: 'June 2015 Newsletter'
 ---
 *This post is excerpted from Development Gateway’s quarterly newsletter. [Click here to receive DG's newsletter directly to your email.](http://eepurl.com/UEJ6j)*

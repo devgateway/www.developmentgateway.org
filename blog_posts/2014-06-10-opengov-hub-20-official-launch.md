@@ -9,7 +9,7 @@ excerpt: We're beyond excited to announce that, last night, we officially launch
   new (and we're proud to say, improved!) OpenGov Hub. We've all been trickling in
   and getting settled over the last two months, but we're finally ready to (re)take
   the open government space by storm.
-thumbnail: assets/featured-images/photo.jpg
+thumbnail: assets/post-thumbnails/photo.jpg
 thumbnail-fid: "6054"
 thumbnail-alt: ""
 ---

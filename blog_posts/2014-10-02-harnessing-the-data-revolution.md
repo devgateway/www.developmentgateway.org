@@ -7,7 +7,7 @@ old_path: news/harnessing-data-revolution
 title: Harnessing the data revolution
 excerpt: What will it take to transform data and technology into improved development
   outcomes?
-thumbnail: assets/featured-images/dadarev.png
+thumbnail: assets/post-thumbnails/dadarev.png
 thumbnail-fid: "6115"
 thumbnail-alt: ""
 ---

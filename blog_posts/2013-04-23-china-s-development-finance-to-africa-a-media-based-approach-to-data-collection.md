@@ -11,7 +11,7 @@ excerpt: How big is China’s aid to Africa? Does it complement or undermine the
   AidData has compiled a database of thousands of media reports on Chinese-backed
   projects in Africa from 2000-2011. The database includes information on 1,673 projects
   in 51 African countries, and $75 billion in commitments of official finance.
-thumbnail: assets/featured-images/china-en-africa.jpg
+thumbnail: assets/post-thumbnails/china-en-africa.jpg
 thumbnail-fid: "5990"
 thumbnail-alt: ""
 ---

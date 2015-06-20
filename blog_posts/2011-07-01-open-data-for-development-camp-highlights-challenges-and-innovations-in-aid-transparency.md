@@ -11,7 +11,7 @@ excerpt: The Open Data for Development Camp (ODDC), hosted by Open for Change in
   in institutionalizing open data practices. Participants generally agreed that open
   development data should be a core component of a paradigm shift towards increased
   transparency, accountability, and public participation in development practice.
-thumbnail: assets/featured-images/open-for-change.jpg
+thumbnail: assets/post-thumbnails/open-for-change.jpg
 thumbnail-fid: "3296"
 thumbnail-alt: ""
 ---

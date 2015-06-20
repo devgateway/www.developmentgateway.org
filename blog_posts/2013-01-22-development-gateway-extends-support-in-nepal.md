@@ -9,7 +9,7 @@ excerpt: Since 2010, Development Gateway has cooperated with the Government of N
   on a high-functioning Aid Management Platform. The Nepal AMP is headquartered in
   the Ministry of Finance but its information is shared widely with the National Planning
   Commission, all of Nepal’s line ministries, and the Nepalese media.
-thumbnail: assets/featured-images/nepal-goverment5.jpg
+thumbnail: assets/post-thumbnails/nepal-goverment5.jpg
 thumbnail-fid: "5943"
 thumbnail-alt: ""
 ---

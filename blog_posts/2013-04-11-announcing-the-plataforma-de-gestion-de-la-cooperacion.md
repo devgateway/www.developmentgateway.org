@@ -11,7 +11,7 @@ excerpt: "Today the Government of Honduras is launching their Aid Management Pla
   with the information through public reports, documents, maps, and graphics. This
   marks the first time the Government of Honduras has made information like this publicly
   available online."
-thumbnail: assets/featured-images/seplan-video.jpg
+thumbnail: assets/post-thumbnails/seplan-video.jpg
 thumbnail-fid: "5982"
 thumbnail-alt: ""
 ---

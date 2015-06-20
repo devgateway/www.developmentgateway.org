@@ -10,7 +10,7 @@ excerpt: The Ministry of Planning and Investment of the Lao PDR released last we
   year's FAIR is unique because it is the first FAIR report published by the Ministry
   to be comprised of Official Development Assistance (ODA) data entirely from the
   Aid Management Platform (AMP).
-thumbnail: assets/featured-images/lao-fair.jpg
+thumbnail: assets/post-thumbnails/lao-fair.jpg
 thumbnail-fid: "5977"
 thumbnail-alt: ""
 ---

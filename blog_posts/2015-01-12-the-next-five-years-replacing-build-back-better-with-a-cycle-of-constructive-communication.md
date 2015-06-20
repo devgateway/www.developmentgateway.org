@@ -11,7 +11,7 @@ excerpt: Today marks the fifth anniversary of the devastating 2010 earthquake in
   agencies, and citizens are still walking down the road of reconstruction. As individuals
   involved in this effort, today of all days we should stop to ask:“What is my role
   in this recovery process, and how well am I performing in that capacity?”
-thumbnail: assets/featured-images/4776467337_04e80584fe_z.jpg
+thumbnail: assets/post-thumbnails/4776467337_04e80584fe_z.jpg
 thumbnail-fid: "6163"
 thumbnail-alt: ""
 ---
