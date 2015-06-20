@@ -24,7 +24,7 @@ AidData’s pilot project in Uganda is exploring these issues in order to answer
 
 Development data has become more available in recent years, but much of that data remains siloed. This is unfortunate because the results of integrating this data with other existing information could be illuminating. [DevTrac](http://www.devtrac.ug/) is one example of an exciting open data initiative. Led by a consortium of government agencies and development partners including [UNICEF Uganda](http://www.unicef.org/uganda/), DevTrac collects and visualizes site-specific data on national services like schools and healthcare centers. The information comes directly from local community members who conduct site visits and upload the statistics they collect.
 
-![](/assets/inline-images/devtrac_0.jpg)
+![](/assets/post-images/devtrac_0.jpg)
 
 *DevTrac Uganda [website](http://www.devtrac.ug/): Real-time reporting on public services in Uganda*
 
@@ -40,7 +40,7 @@ To supplement this data cross-walking exercise, AidData Summer Fellows are also 
 
 Such questions have particular relevance at the district level in Uganda, where Community Development Officers use information about specific needs in their districts to advocate for where resources are allocated and which issues are prioritized. Different types of data could yield new insights, such as text messages from [UNICEF’s uReport](http://ureport.ug/) illuminating areas of greater need.
 
-![](/assets/inline-images/ureport.jpg)
+![](/assets/post-images/ureport.jpg)
 
 *uReport [website](http://ureport.ug/): SMS-based system for voicing thoguhts about issues across Uganda*
 

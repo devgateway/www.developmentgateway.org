@@ -9,7 +9,7 @@ excerpt: Staff from the Ministry of Finance and Economic Development show visito
   Ghana how to use the aid management platform.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/ethiopia_amp2_01.jpg)</td></tr><tr><td align="center" valign="bottom">Staff from the Ministry of Finance and Economic Development show visitors from Ghana how to use the aid management platform.</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/ethiopia_amp2_01.jpg)</td></tr><tr><td align="center" valign="bottom">Staff from the Ministry of Finance and Economic Development show visitors from Ghana how to use the aid management platform.</td></tr></tbody></table>
 
 **Ethiopia**
 

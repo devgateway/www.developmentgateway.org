@@ -25,7 +25,7 @@ In the past year, several major developments have transformed aid management and
 
 > The workshop was very informative and motivated us to be not only technicians, but also to play a vital role in policy making.
 
-![](/assets/inline-images/dakar-workshop-group.jpg)
+![](/assets/post-images/dakar-workshop-group.jpg)
 
 Looking ahead, the work on integrating IATI feeds into the AMP system will soon move forward in the Democratic Republic of Congo (DRC).  An upcoming IATI mission will begin to test automatic feeds to the Plateforme pour la Gestion de l’Aide et des Investissements (PGAI), as AMP is known locally.
 
@@ -33,9 +33,9 @@ Currently 50% of the national budget in the DRC comes from aid flows which are m
 
 At the workshop, participants had a chance to learn more about the new features in AMP 2.0, the latest release of the system, which is now operational in the DRC, Honduras, Madagascar, Nepal, and Togo.
 
-![](/assets/inline-images/graph.jpg)
+![](/assets/post-images/graph.jpg)
 
-![](/assets/inline-images/amplify.jpg)
+![](/assets/post-images/amplify.jpg)
 
 In addition to a sleeker, more intuitive interface, AMP 2.0 has a sophisticated mapping module built in partnership with Esri, which allows users to geocode projects, add physical structures such as dams or bridges, and view clusters of donors/projects.
 

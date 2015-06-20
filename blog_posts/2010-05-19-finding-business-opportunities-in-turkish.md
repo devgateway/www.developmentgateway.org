@@ -8,7 +8,7 @@ title: Finding Business Opportunities… in Turkish
 excerpt: Turkey
 ---
 
-<table align="right" border="0" style="width:269px;height:202px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/turkishman_02.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>
+<table align="right" border="0" style="width:269px;height:202px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/turkishman_02.jpg)</td></tr><tr><td align="center" valign="bottom"></td></tr></tbody></table>
 
 **Turkey**
 

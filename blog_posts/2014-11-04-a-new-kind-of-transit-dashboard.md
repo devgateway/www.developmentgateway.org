@@ -18,7 +18,7 @@ Logistics – broadly defined as the services and processes needed to move goods
 
 Logistics remains one of the strategic challenges to improve competitiveness for Latin America and the Caribbean ([as identified by the OECD](http://www.latameconomy.org/fileadmin/uploads/laeo/PDF/EN%20Pocket%20Edition%20LEO2014.pdf)). To develop optimization solutions, a key step is to ensure decision-makers have access to open, complete, timely, and understandable data.
 
- ![](/assets/inline-images/logistics2.jpg)
+![](/assets/post-images/logistics2.jpg)
 
 Development Gateway is proud to have worked with the Inter-American Development Bank on a new [Logistics Data Portal](http://logisticsportal.iadb.org/) for Latin America and the Caribbean. This portal aggregates news, projects, and articles published by the IADB on transportation and infrastructure information from countries across the region. The site also features a [robust dashboard](http://logisticsportal.iadb.org/data/) displaying a variety of information, such as scope of rail, auto, and maritime transport, as well as energy costs, government investment, and national purchasing power parity. Published onto maps, dispersion graphs, and tables – and downloadable in machine readable formats (XLS and PDF) – this data will provide a more complete picture of transit data across the region.
 

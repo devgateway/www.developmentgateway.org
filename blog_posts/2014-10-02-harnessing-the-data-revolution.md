@@ -30,7 +30,7 @@ Over the past few years, advances in data collection like geocoding – pinpoint
 
 “[Geocoding] makes the distribution of aid visible by using maps and it can help decision-makers and other development stakeholders to support areas of the country where there is less official development assistance,” according to one official from the Ministry of Finance in Tanzania.
 
-![](/assets/inline-images/dadarev.png)
+![](/assets/post-images/dadarev.png)
 
 Layering spatial data on the locations of aid projects within a country with information on local socio-economic indicators enables scholars, planners and citizens to ask the questions that are most important to them, such as “Why is climate change funding allocated to Province X, when Province Y is the more vulnerable one?” and “Why are the largest donors supporting health clinics in the communities where health outcomes are already better?”
 
@@ -44,7 +44,7 @@ First, data at the project- and activity-level must be publicly accessible in a 
 
 Second, donors and governments must systematically tag projects and activities with geographic information and make these data public. At AidData, we work with governments around the world to generate geospatial data and convert it into insights. In Nepal, for instance, the Ministry of Finance had implemented the Aid Management Platform in partnership with Development Gateway to track aid projects reported by over 40 donors, but recognized that more granular information was needed to better target domestic and external resources.
 
-![](/assets/inline-images/dadarev_0.png)
+![](/assets/post-images/dadarev_0.png)
 
 In collaboration with USAID’s Higher Education Solutions Network and Nepal Mission, AidData and Ministry staff collected location information on over 21,000 project sites, representing $6 billion in donor commitments. The Ministry pledged to make and keep the data open to enable broad access by a host of users. Madhu Kumar Marasini, International Economic Cooperation and Coordination Division Chief and Joint Finance Secretary, remarked that “this openness will not only strengthen accountability in foreign aid mobilization, but also provide additional opportunities to make aid more effective”.
 

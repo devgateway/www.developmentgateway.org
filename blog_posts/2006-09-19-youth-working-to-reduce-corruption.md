@@ -9,7 +9,7 @@ excerpt: '"This course must be obligatory for public functionaries," according t
   Santana, a participant from Fusagasuga, outside Bogota.'
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/ocasa.jpg)</td></tr><tr><td align="center" valign="bottom">"This course must be obligatory for public functionaries," according to Jovany Santana, a participant from Fusagasuga, outside Bogota.</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/ocasa.jpg)</td></tr><tr><td align="center" valign="bottom">"This course must be obligatory for public functionaries," according to Jovany Santana, a participant from Fusagasuga, outside Bogota.</td></tr></tbody></table>
 
 **Colombia**
 

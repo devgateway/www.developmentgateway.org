@@ -19,7 +19,7 @@ At the [High Level Forum for Aid Effectiveness in Busan (2011)](http://www.oecd.
 
 In response to these challenges, Development Gateway partnered with the European Commission to create a scalable software tool, EU-DEVFIN. This software is now deployed across ten countries: Bulgaria, Croatia, Czech Republic, Hungary, Latvia, Lithuania, Malta, Poland, Romania, and Slovenia. Based in Ministries of Foreign Affairs, the platform allows officials to easily track and report ODA, and can generate on-demand reports and data visualizations.
 
-![](/assets/inline-images/devfin1.png)
+![](/assets/post-images/devfin1.png)
 
 Other key features of this platform include its release under an open-source license - [currently available on Github](https://github.com/devgateway/eudevfin) - and the construction of an IATI-compatible import/export mechanism.
 

@@ -9,7 +9,7 @@ excerpt: Thanks to Development Gateway Senegal and other organizations, Fallou D
   is better able to meet his business needs.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/senegalsucsto.jpg)</td></tr><tr><td align="center" valign="bottom">Thanks to Development Gateway Senegal and other organizations, Fallou Diagne is better able to meet his business needs.</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/senegalsucsto.jpg)</td></tr><tr><td align="center" valign="bottom">Thanks to Development Gateway Senegal and other organizations, Fallou Diagne is better able to meet his business needs.</td></tr></tbody></table>
 
 **Senegal**
 

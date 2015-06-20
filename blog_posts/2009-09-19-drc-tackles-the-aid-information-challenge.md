@@ -9,7 +9,7 @@ excerpt: Staff members of the Ministry of Finance for the Democratic Republic of
   Congo training to use the Aid Management Platform.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/drcstory2009b.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Staff members of the Ministry of Finance for the Democratic Republic of the Congo training to use the Aid Management Platform. By building a strong rapport with users in the ministries, Development Gateway increases the likelihood of program sustainability.</td></tr></tbody></table>
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/drcstory2009b.jpg)</td></tr><tr><td align="center" valign="bottom">    </td><td align="center" valign="bottom">Staff members of the Ministry of Finance for the Democratic Republic of the Congo training to use the Aid Management Platform. By building a strong rapport with users in the ministries, Development Gateway increases the likelihood of program sustainability.</td></tr></tbody></table>
 
 **Democratic Republic of Congo**
 

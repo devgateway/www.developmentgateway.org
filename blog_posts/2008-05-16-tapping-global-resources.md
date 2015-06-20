@@ -9,7 +9,7 @@ excerpt: dgCommunities brings the latest information on key development topics t
   around the world, helping members to be more effective in their work. Ms.
 ---
 
-<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/inline-images/sustory2.jpg)</td></tr><tr><td align="center" valign="bottom">dgCommunities brings the latest information on key development topics to desktops around the world, helping members to be more effective in their work. Ms. Salazar uses it to access the latest information and best practices on gender issues.
+<table align="right" border="0" style="width:229px;height:312px;"><tbody><tr><td align="center" valign="middle">![](/assets/post-images/sustory2.jpg)</td></tr><tr><td align="center" valign="bottom">dgCommunities brings the latest information on key development topics to desktops around the world, helping members to be more effective in their work. Ms. Salazar uses it to access the latest information and best practices on gender issues.
 (Photo credit: Karl Grobl)</td></tr></tbody></table>
 
 **Peru**

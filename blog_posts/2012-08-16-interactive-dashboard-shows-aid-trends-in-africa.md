@@ -23,12 +23,12 @@ Among other information, the dashboard features the first-ever dataset tracking 
 
 The new dataset opens the door for detailed comparative analysis of climate change adaptation programs and their effectiveness in targeting specific climate risks within a country. Through a collaboration between CCAPS, AidData, and the Government of Malawi, the data were also geocoded, allowing analysts to assess the aid allocation visually as well.
 
-![](/assets/inline-images/int-dash2.jpg)
+![](/assets/post-images/int-dash2.jpg)
 
 In addition, the aid dashboard includes African Development Bank projects continent-wide geocoded by AidData, and World Bank projects continent-wide geocoded through the World Bank-AidData Mapping for Results initiative.
 
 "The CCAPS aid dashboard allows analysts to explore aid spending as big picture trends or local project information," said CCAPS program manager Ashley Moran. "Our aim is to provide these new data in a way that is as useful as possible to policymakers and researchers needing to ask very focused questions about aid investments and impacts."
 
-![](/assets/inline-images/int-dash3.jpg)
+![](/assets/post-images/int-dash3.jpg)
 
 CCAPS researchers "climate coded" over 700 projects in Malawi and found that climate aid, narrowly defined, makes up just 1-2% of aid to Malawi. Norway, the World Bank, USAID, and the European Union are among the donors most involved in adaptation aid in Malawi. Japan and Ireland have several adaptation-related projects, yet their financial contributions are much smaller. The CCAPS research team plans to expand the climate-coding effort continent-wide for several large donors over the next year. The data will be updated on the CCAPS aid dashboard as they become available.

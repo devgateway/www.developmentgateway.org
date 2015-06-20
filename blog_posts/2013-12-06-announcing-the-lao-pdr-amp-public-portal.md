@@ -22,7 +22,7 @@ The AMP was fully implemented in Laos in 2011 by the Ministry of Planning and In
 
 The Public Portal is a user-friendly extension of the AMP system. Users can search project level information by a host of characteristics including: development partner, region, district, Laos Sector Working Group, MDG, or by keyword search. They can view AMP data in annual, quarterly, and monthly report formats as well as access official semi-annual and annual reports on Foreign Aid assistance published by the Government. Furthermore, the public portal contains several geo-coded maps that display implementation points of a subset of aid projects stored in the AMP. This is an effective visual tool for the Government and citizens of the Lao PDR, and the wider development community, to ensure a more efficient use of resources through better targeting of aid and a reduction in duplication efforts..
 
-![](/assets/inline-images/laos.jpg)
+![](/assets/post-images/laos.jpg)
 
 The launch of the AMP Public Portal is a strong testament to the Government’s commitment to the aid effectiveness and transparency agenda espoused at the Paris Declaration in 2005 and subsequent high-level forums on aid transparency in 2008 and 2011. It represents the first time ODA information has been made publicly available in Laos. It will only benefit the Government and larger development stakeholder community to concentrate its efforts to graduate Laos from the list of Least Developed Countries by 2020.
 
