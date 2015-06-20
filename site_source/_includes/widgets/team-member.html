@@ -1,7 +1,7 @@
 
 <div class="team-member {{ include.class }} clearfix">
   <div class="photo group-side">
-    {% image avatar-small {{ include.member.avatar | prepend: 'images/team/' | prepend: site.baseurl }} title="avatar" %}
+    {% image avatar-small {{ include.member.avatar | prepend: '/assets/team-photos/' }} title="avatar" %}
   </div>
   <div class="info group-main">
     <div class="name">{{ include.member.name }}</div>
