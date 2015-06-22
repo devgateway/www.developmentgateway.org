@@ -5,6 +5,15 @@ title: "Approaching Granularity: Connecting Open Aid and Open Contracting in Tim
 excerpt: "As we move toward the Data Revolution, the role of data granularity and “joined-up” data is key to informing decision-making in development program allocations."
 thumbnail: assets/post-thumbnails/open-contracting-timor-leste.png
 thumbnail-alt: Open Contracting in Timor-Leste
+images:
+  - url: assets/post-images/timor-leste-eprocurement-database.png
+    alt: "Timor-Leste’s eProcurement database"
+    caption: "An example spreadsheet collected from Timor-Leste’s eProcurement database, with a procurement associated with the ADB’s Road Network Upgrading Project highlighted."
+    thumbnail: true
+  - url: assets/post-images/rnup-awarded-contracts.png
+    alt: "RNUP awarded contracts"
+    caption: "Complete list of contracts awarded that are related to the Road Network Upgrading Project (RNUP)."
+    thumbnail: true
 categories: [Open Data]
 ---
 
@@ -14,13 +23,11 @@ How does Open Aid link with Open Contracting? Once a project starts, an implemen
 
 To see a real-world example of such a link, I searched through both Timor-Leste’s [eProcurement Portal](http://eprocurement.gov.tl/public/indexeprtl;jsessionid=44516B0321AA5902F385E5AF4FFE6830) and its [Aid Transparency Portal](https://www.aidtransparency.gov.tl/), examining a project sponsored by the Asian Development Bank (ADB) entitled the [Road Network Upgrading Project](http://adb.org/projects/details?proj_id=46260-001&page=overview). The project seeks to upgrade over 70 km of roads across the country and create feasibility studies for the possible upgrading of 100 km of other roads in the future.  
 
-{% inlineimage post-center 1 %}
-(An example spreadsheet collected from Timor-Leste’s eProcurement database, with a procurement associated with the ADB’s Road Network Upgrading Project highlighted.)
+{% inlineimage post-center 1 include-caption %}
 
 Within the eProcurement portal, seven contracts exist related to the project, with different bidders awarded different contracts in the process. For instance, in the component of the project which focuses on building a road between Natarbora and Laclubar, the government’s National Procurement Commission awarded China Nuclear Industry 22nd Construction Company $1.5 million for its construction. 
 
-{% inlineimage post-center 2 %}
-(Complete list of contracts awarded that are related to the Road Network Upgrading Project (RNUP).)
+{% inlineimage post-center 2 include-caption %}
 
 Below is a time-series map showing the progress of the ADB’s road project created by geo-locating each contract associated with the project in the subdistricts where the road will be upgraded. Because the contracts do not show the flow of money across specific subdistricts, each contract’s cost is split equally between the affected subdistricts. 
 
