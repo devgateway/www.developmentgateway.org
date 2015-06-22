@@ -29,7 +29,7 @@ To assess the interaction of climate vulnerability and international aid, users 
 
 **Where is development aid targeting areas with climate security risks?**
 
-![](/assets/post-images/2.jpg)
+![](/assets/post-images/climate-change.jpg)
 
 “Being able to see in a map all the donor-funded activities in Malawi has transformed the way we think about development and positively helped our own planning effort,” said Hon. Ken Lipenga, Minister of Finance and Development Planning in Malawi.
 
