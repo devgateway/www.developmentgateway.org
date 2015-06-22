@@ -11,9 +11,8 @@ excerpt: "This month, dgMarket reached a new milestone – we now have over half
   is an online marketplace for government tenders, providing access to tender notices,
   bidding documents, and other procurement information.  It also provides open information
   on some 1.6 million contract awards, in support of the Open Contracting movement."
-thumbnail: assets/post-thumbnails/screen_shot_2012-12-13_at_11.57.59_am.jpg
-thumbnail-fid: "5938"
-thumbnail-alt: ""
+thumbnail: assets/post-thumbnails/dgmarket-clients-worldwide.png
+thumbnail-alt: "dgMarket clients worldwide"
 ---
 
 This month, [dgMarket](http://www.dgmarket.com/) reached a new milestone – we now have over half a million users who can track almost $1 trillion in government procurements annually!

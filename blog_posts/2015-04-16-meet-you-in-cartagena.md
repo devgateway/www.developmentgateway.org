@@ -9,9 +9,8 @@ excerpt: Next week, Development Gateway will be attending the Cartagena Data Fes
   – an event bringing together development partners, technical implementers, and civil
   society organizations to help solve “critical gaps in coverage, access, and analysis
   of data.”
-thumbnail: assets/post-thumbnails/screen_shot_2015-04-15_at_3.49.08_pm.png
-thumbnail-fid: "6218"
-thumbnail-alt: ""
+thumbnail: assets/post-thumbnails/logo-cartagena-data-festival.jpg
+thumbnail-alt: "Cartagena Data Festival Logo"
 categories: [Innovation]
 ---
 
