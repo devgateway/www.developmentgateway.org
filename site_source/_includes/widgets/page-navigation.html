@@ -5,7 +5,7 @@
     {% if entry.id != null %}
       {% assign entry_url=entry.id | prepend: '#' %}
     {% elsif entry.url != null %}
-      {% assign entry_url=entry.url | prepend: site.baseurl %}
+      {% assign entry_url=entry.url | prepend: '/' %}
     {% else %}
       {% continue %}
     {% endif %}
