@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "It's All About Relationships"
 excerpt: Last week, Owen Barder took to the blogosphere to talk about what really effects change within countries, and the complexity of country systems...
-thumbnail:
+thumbnail: assets/post-thumbnails/anima-test.jpg
 thumbnail-alt: 'Amina Test'
 ---
 
