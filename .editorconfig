@@ -27,3 +27,7 @@ trim_trailing_whitespace = false
 [*.patch]
 insert_final_newline = false
 trim_trailing_whitespace = false
+
+[Makefile]
+indent_size = 4
+indent_style = tab
