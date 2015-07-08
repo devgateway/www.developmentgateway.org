@@ -255,10 +255,10 @@
   @include media-query-min($bp_medium) {
     // Make all blog posts the same height.
     .blog-title {
-      @include l-column-force-height($line_height: 1.3em, $rows: 3);
+      line-height: 1.3em;
     }
-    .blog-excerpt {
-      @include l-column-force-height($line_height: 1.5em, $rows: 7, $color: $white);
+    .blog-info {
+      @include l-column-force-height($line_height: 1.5em, $rows: 12, $color: $white);
     }
   }
 }
