@@ -3,9 +3,10 @@ layout: post
 author: Taryn Davis
 title: "What Makes Big Data Good Data?"
 excerpt: No one would argue that we shouldn’t make better use of the data that we have, and it’s generally agreed that visualizations can help make data more easily understood...
-thumbnail: 
+thumbnail: assets/post-thumbnails/data_collaboration.jpg
 thumbnail-alt: 'Data Collaboration'
 ---
+
 
 No one would argue that we shouldn’t make better use of the data that we have, and it’s generally agreed that visualizations can help make data more easily understood. However, [Linda Raftree points out](http://lindaraftree.com/2015/06/05/13-tips-on-data-dashboards-for-decision-making/) that some dashboards more effectively display data than others. Raftree explains why some dashboards fail, while others are used for making more strategic decisions.
 
