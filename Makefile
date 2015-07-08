@@ -1,6 +1,7 @@
 
 build:
-	time jekyll build --config _config.yml,_config.local.yml
+	@echo "Building the website..."
+	@jekyll build --config _config.yml,_config.local.yml && echo "BUILD SUCCESSFUL!"
 
 clean:
 	@echo "Cleaning generated assets."
