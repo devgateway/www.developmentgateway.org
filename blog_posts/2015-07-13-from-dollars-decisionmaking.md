@@ -3,7 +3,7 @@ layout: post
 author: Dustin Homer & Paige Kirby
 title: "From Dollars to Decisionmaking at FFD3"
 excerpt: This week, delegates from around the world are meeting in Addis Ababa, Ethiopia, for the third Financing for Development conference. One key outcome for this conference...
-thumbnail: 
+thumbnail: assets/post-thumbnails/addisababa.jpg
 thumbnail-alt: 'Addis Ababa'
 ---
 
