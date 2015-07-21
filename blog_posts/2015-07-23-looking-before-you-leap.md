@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Looking Back Before You Leap"
 excerpt: Last week was the Financing for Development conference where global funding was discussed to make the Sustainable Development Goals (SDGs) a reality...
-thumbnail: FFD3
+thumbnail: assets/post-thumbnails/logo-ffd3.png
 thumbnail-alt: 'Data Collaboration'
 ---
 Last week was the [Financing for Development](http://www.un.org/esa/ffd/ffd3/) conference where global funding was discussed to make the Sustainable Development Goals (SDGs) a reality. Key IFIs are pre-gaming by [announcing plans](http://www.imf.org/external/np/sec/pr/2015/pr15329.htm) to extend more than $400 billion in financing over the next three years to meet the needs of the SDGs.
