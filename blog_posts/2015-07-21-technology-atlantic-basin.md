@@ -2,7 +2,7 @@
 layout: post
 author: Dina Abdel-Fattah
 title: "Technology in the Atlantic Basin"
-excerpt: As the world prepares for the ratification of post-2015 Sustainable Development Goals (SDGs), countries and regions will confront both opportunities and challenges: opportunities for positive change and challenges in implementing new policies and procedures...
+excerpt: "As the world prepares for the ratification of post-2015 Sustainable Development Goals (SDGs), countries and regions will confront both opportunities and challenges: opportunities for positive change and challenges in implementing new policies and procedures..."
 thumbnail: 
 thumbnail-alt: 'Atlantic Basin'
 ---
