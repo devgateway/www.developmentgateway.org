@@ -138,6 +138,7 @@ prose:
     - _config.sample.yml
     - _config.yml
     - Gemfile
+    - Makefile
     - site_source/_data
     - site_source/_html
     - site_source/_includes
