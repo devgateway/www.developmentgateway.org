@@ -10,7 +10,7 @@ endif
 
 build:
 	@echo "Building the website from ${workspace_path}..."
-	@echo rvm in ${workspace_path} do jekyll build --config _config.yml,_config.local.yml && echo "Jekyll build has finished!"
+	@rvm in ${workspace_path} do jekyll build --config _config.yml,_config.local.yml && echo "Jekyll build has finished!"
 
 clean:
 	@echo "Cleaning generated assets."
