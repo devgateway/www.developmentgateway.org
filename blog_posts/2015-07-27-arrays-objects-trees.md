@@ -2,7 +2,7 @@
 layout: post
 author: Daniel Chapman
 title: "Arrays, Objects, and Trees: A Look at JSON-formatted Contracting Data"
-excerpt: "As we move toward the Data Revolution, the role of data granularity and “joined-up” data is key to informing decision-making in development program allocations."
+excerpt: "AThe Open Impact Day conference hosted in Washington, D.C. this past month highlighted examples of open data in improving trust between citizens and their governments..."
 thumbnail: assets/post-thumbnails/OCDSjson.jpeg
 thumbnail-alt: OCDS JSON
 images:
