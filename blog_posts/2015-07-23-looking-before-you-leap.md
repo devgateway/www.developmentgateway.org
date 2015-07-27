@@ -6,6 +6,8 @@ excerpt: Last week was the Financing for Development conference where global fun
 thumbnail: assets/post-thumbnails/logo-ffd3.png
 thumbnail-alt: 'Data Collaboration'
 ---
+
+
 Last week was the [Financing for Development](http://www.un.org/esa/ffd/ffd3/) conference where global funding was discussed to make the Sustainable Development Goals (SDGs) a reality. Key IFIs are pre-gaming by [announcing plans](http://www.imf.org/external/np/sec/pr/2015/pr15329.htm) to extend more than $400 billion in financing over the next three years to meet the needs of the SDGs.
 
 Owen Barder [breaks down what the meeting](http://www.theguardian.com/global-development-professionals-network/2015/jul/10/addis-ababa-ffd3-financing-for-development) is all about and emphasizes that this shouldn’t just be a passing of the aid collection basket, but focus on the context of the setting that would hinder the SDGs from succeeding. Many are pushing to make sure key issues don’t get overlooked during such a pivotal moment, such as making sure [government and finance transparency](http://www.trust.org/item/20150710091633-wlh5z/) becomes integrated into the implementation of the SDGs. (BTW if you missed the live chat on *The Guardian* about aid transparency, here are [16 key takeaways](http://www.theguardian.com/global-development-professionals-network/2015/jul/07/aid-transparency-its-better-to-self-report-on-your-own-failures-than-have-others-do-it-for-you) from the session.)
