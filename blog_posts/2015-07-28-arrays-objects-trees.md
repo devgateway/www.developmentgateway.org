@@ -2,27 +2,29 @@
 layout: post
 author: Daniel Chapman
 title: "Arrays, Objects, and Trees: A Look at JSON-formatted Contracting Data"
-excerpt: "AThe Open Impact Day conference hosted in Washington, D.C. this past month highlighted examples of open data in improving trust between citizens and their governments..."
-thumbnail: assets/post-thumbnails/OCDSjson.jpeg
+excerpt: "The Open Impact Day conference hosted in Washington, D.C. this past month highlighted examples of open data in improving trust between citizens and their governments..."
+thumbnail: assets/post-thumbnails/OCDSjson.jpg
 thumbnail-alt: OCDS JSON
 images:
-  - url: assets/post-images/OCDSjson.jpeg
+  - url: assets/post-thumbnails/OCDSjson.jpg
     alt: "OCDS JSON"
     thumbnail: true
-  - url: assets/post-images/OCDScsv.jpeg
+  - url: assets/post-images/OCDScsv.png
     alt: "OCDS CSV"
     thumbnail: true
-  - url: assets/post-images/suppliers-contract-sector.jpeg
+  - url: assets/post-images/suppliers-contract-sector.jpg
     alt: "Suppliers per contract by sector"
     thumbnail: true
-  - url: assets/post-images/bids-contract-sector.jpeg
+  - url: assets/post-images/bids-contract-sector.jpg
     alt: "Bids per contract by sector"
     thumbnail: true
-  - url: assets/post-images/suppliers-contract-construction.jpeg
+  - url: assets/post-images/suppliers-contract-construction.jpg
     alt: "Suppliers per contract in construction"
     thumbnail: true
-categories: [Open Data][Innovation]
+categories: [Open Data, Innovation]
 ---
+
+
 The Open Impact Day conference hosted in Washington, D.C. this past month highlighted examples of open data in improving trust between citizens and their governments. In Ukraine, a recently launched website named Prozorro gives users an unprecedented look into the government’s procurement process. The technical processes at work within websites like Prozorro, however, may still confuse some open data users. This post seeks to elaborate on this technical background by showing an example of how users can employ statistical software to analyze contracting data.
 
 Databases following the Open Contracting Data Standard (OCDS) store their data in a format called JavaScript Object Notation (JSON). JSON, unlike other formats such as comma separated values (CSV) that use a tabular mode of displaying data, displays data in a “tree” format, nesting different objects and arrays inside each other. For example, this JSON excerpt:
