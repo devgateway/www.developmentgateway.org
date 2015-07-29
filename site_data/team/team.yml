@@ -45,6 +45,13 @@
       Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
 
 
+- name: "Dustin Homer"
+  position: "Director of Engagement and Partnerships"
+  avatar: dustin.png
+  bio: |
+      Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
+
+
 - name: "Josh Powell"
   position: "Director of Innovation"
   avatar: josh.png
@@ -87,13 +94,6 @@
   avatar: ionut.png
   bio: |
       Ionut supports AidData, and has worked implementing the mobile version of the UN Teamworks Application and dgMarket, an open procurement system tracking more than $1 trillion worth of procurement notices. He holds a M.Sc. degree in computer science and also was a teaching assistant for 'Mobile Software Development' course.
-
-
-- name: "Dustin Homer"
-  position: "Director of Engagement and Partnerships"
-  avatar: dustin.png
-  bio: |
-      Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
 
 
 - name: "Thad Kerosky"
