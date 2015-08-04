@@ -13,6 +13,7 @@ excerpt: WASHINGTON—The Development Gateway and ODAdata, two leading providers
   of both organizations, based on field operations in more than 12 countries.
 ---
 
+
 WASHINGTON—The Development Gateway and ODAdata, two leading providers of aid information management systems, announced today that they have joined forces to provide effective, user-friendly, and results-driven applications to advance aid management and donor coordination efforts. This partnership leverages the expertise of both organizations, based on field operations in more than 12 countries.
 
 The new alliance will help unite and harmonize the efforts of member states of the European Union and others to advance aid effectiveness. Aid information management systems have been widely recognized as essential tools for improving government and donor accountability, streamlining aid management practices, advancing donor coordination, and ensuring more effective alignment of donor activities with country strategies. Both the Aid Management Platform and ODAdata are key applications in this arena.
