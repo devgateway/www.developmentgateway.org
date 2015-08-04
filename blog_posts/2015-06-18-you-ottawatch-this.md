@@ -7,6 +7,7 @@ thumbnail: assets/post-thumbnails/iodc15-panel.jpg
 thumbnail-alt: 'IODC15 Panel'
 ---
 
+
 As typical when there is a stage and a listening audience, we saw the launch of some new tools and reports in alignment with the Open Data Conference that took place in Ottawa in May. Included is the [OGP Explorer](http://www.opengovpartnership.org/explorer/all-data.html), which is an [interactive tool](http://www.opengovpartnership.org/blog/paul-maassen/2015/05/28/introducing-ogp-explorer) that allows you to compare the countries that have signed on to the OGP, and if they are ahead, late, or not even trying to achieve their commitments.
 
 That week also so the release of the African Development Bank’s [Africa Gender Equality Index](http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/African_Gender_Equality_Index_2015-EN.pdf) which ranks countries on three different dimensions: Women as producers (economic equality), women and human development (access to health and education resources), and women as active citizens and leaders (equality in the law and representation in government). The top five African countries overall are South Africa, Rwanda, Namibia, Mauritius, and Malawi. Read the report to see how the top countries are making strides to strengthen gender equality.
