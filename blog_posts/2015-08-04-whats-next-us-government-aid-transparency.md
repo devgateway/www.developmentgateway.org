@@ -3,7 +3,7 @@ layout: post
 author: Josh Powell
 title: "What’s next for U.S. Government aid transparency?"
 excerpt: Earlier this month, Publish What You Fund’s U.S. Aid Transparency Review showed strong improvements from the U.S. Government (USG)....
-thumbnail: assets/post-thumbnails/usgdata.jpeg
+thumbnail: assets/post-thumbnails/usgdata.jpg
 thumbnail-alt: 'USG Data'
 images:
   - url: assets/post-thumbnails/usgdata.jpg
@@ -28,7 +28,7 @@ As Laia put it, “bluntly: the current quality of USAID’s data makes it large
 
 4) Up-to-date data are perhaps the most critical element for partner country use. A quick glance at [D-Portal](http://www.d-portal.org/ctrack.html?country=SN&tongue=eng#view=donors&year=2014) for Senegal shows that, **as of July 19, only $1,433,169 in disbursements have been reported in 2015 – compare this with $115,912,834 in 2014, and World Bank reporting of $21,791,450 thus far in 2015.** Furthermore, no budget data for 2015 or 2016 are available (compare this with Canada, which reports projected budgets for 2015 and 2016). We cannot continue to expect IATI users to make today’s decisions with last year’s data.
 
-{% inlineimage post-center 3 %}
+{% inlineimage post-center 1 %}
 
 Without improvements to the quality of the data reported by USG (and nearly all other IATI publishers), it will make little difference what quantity of data is ultimately published. As our colleagues within USG look forward, let’s focus less on transparency, and more on *effective* transparency; less on publishing more information, in favor of publishing *more useful* information; less on meeting commitments, but more on *meeting challenges* to using open data to improve outcomes.
 
