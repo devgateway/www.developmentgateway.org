@@ -7,6 +7,7 @@ thumbnail: assets/post-thumbnails/worldtopocloseup.jpg
 thumbnail-alt: 'Atlantic Topography'
 ---
 
+
 The world as we know it is getting smaller; globalization has interconnected regions and reconfigured international relationships. The world is facing similar concerns around environmental stability and resilience, as well as similar opportunities for increased collaboration. By further establishing geographical partnerships across nations and even oceans, a joint approach can address local, regional, and global issues. The Atlantic Basin serves as a prime example of how four regions — Africa, Europe, North America, and South America — can share lessons learned and work toward common goals.
 
 Why the Atlantic Basin? The region has dense historical and colonial linkages, which has led to linguistic and cultural convergence on [both sides of the Atlantic](http://atlanticsentinel.com/2015/05/the-return-of-the-atlantic/). FRIDE Director Giovanni Grevi delves into the details of this convergence — particularly from an economic perspective — and finds that “[partnerships have been proliferating among many countries in the region and a jigsaw of regional cooperative frameworks is emerging](http://www.eurasiareview.com/24052015-the-atlantic-basin-an-eclectic-but-converging-region-analysis/).”
