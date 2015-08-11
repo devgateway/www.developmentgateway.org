@@ -9,7 +9,7 @@ images:
   - url: assets/post-images/congressquote.jpg
     alt: "Congress Quote"
     thumbnail: true
-  - url: assets/post-thumbnails/gatesquote.png
+  - url: assets/post-thumbnails/gatesquote.jpg
     alt: "Gates Quote"
     thumbnail: true
   - url: assets/post-images/usaidquote.jpg
