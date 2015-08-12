@@ -11,8 +11,8 @@ excerpt: We at Development Gateway have had the privilege of working in 25 diffe
   the Balkans, the Caribbean, and Central America; their experiences vary widely,
   yet they often encounter similar difficulties and share many of the same goals and
   aspirations.
-thumbnail: assets/post-thumbnails/amp_workshop2014_blog.jpg
-thumbnail-fid: "6129"
+thumbnail: assets/post-thumbnails/amp_workshop2014_blog_1_0.jpg
+thumbnail-fid: "6156"
 thumbnail-alt: ""
 ---
 
