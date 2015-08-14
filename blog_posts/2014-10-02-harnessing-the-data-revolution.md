@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1472
-author: Paige Kirby
+author: Nancy McGuire Choi
 created: 1412258733
 old_path: news/harnessing-data-revolution
 title: Harnessing the data revolution
