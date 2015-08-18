@@ -219,7 +219,7 @@ module Jekyll
 
         # Scale and crop.
         image.combine_options do |i|
-          i.filter "cubic"
+          i.filter "Sinc"
           i.background 'white'
           i.flatten
 
