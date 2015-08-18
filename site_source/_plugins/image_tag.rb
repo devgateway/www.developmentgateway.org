@@ -219,7 +219,7 @@ module Jekyll
 
         # Scale and crop.
         image.combine_options do |i|
-          i.layers 'Optimize'
+          i.filter "cubic"
           i.background 'white'
           i.flatten
 
