@@ -3,8 +3,8 @@ layout: post
 author: Ousseynou Ngom
 title: "Geo-Enabling Development Assistance in Niger"
 excerpt: The Government of Niger’s Ministry of Planning, Spatial Planning and Community Development (MPATDC) has decided, with support from Development Gateway and funding from the...
-thumbnail: assets/post-thumbnails/dg-mark.png
-thumbnail-alt: Development Gateway Mark
+thumbnail: assets/post-thumbnails/flag_of_niger.png
+thumbnail-alt: 'Niger Flag'
 ---
 
 **Geo-Enabling Development Assistance in Niger**
