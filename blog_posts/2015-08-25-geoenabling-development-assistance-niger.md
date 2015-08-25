@@ -2,7 +2,7 @@
 layout: post
 author: Ousseynou Ngom
 title: "Geo-Enabling Development Assistance in Niger"
-excerpt: As the formal adoption of the Sustainable Development Goals approaches, we already know what the SDGs will be – now it’s time to talk seriously about...
+excerpt: The Government of Niger’s Ministry of Planning, Spatial Planning and Community Development (MPATDC) has decided, with support from Development Gateway and funding from the...
 thumbnail: assets/post-thumbnails/dg-mark.png
 thumbnail-alt: Development Gateway Mark
 ---
