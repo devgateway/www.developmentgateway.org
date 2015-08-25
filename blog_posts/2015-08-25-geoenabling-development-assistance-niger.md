@@ -3,8 +3,8 @@ layout: post
 author: Ousseynou Ngom
 title: "Geo-Enabling Development Assistance in Niger"
 excerpt: As the formal adoption of the Sustainable Development Goals approaches, we already know what the SDGs will be – now it’s time to talk seriously about...
-thumbnail: assets/post-thumbnails/Niger.jpg
-thumbnail-alt: 'Niger Flag'
+thumbnail: assets/post-thumbnails/dg-mark.png
+thumbnail-alt: Development Gateway Mark
 ---
 
 **Geo-Enabling Development Assistance in Niger**
