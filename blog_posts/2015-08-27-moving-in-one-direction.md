@@ -1,0 +1,20 @@
+---
+layout: post
+author: Daniel Chapman & Andrew Chrismer
+title: "Moving in One Direction: Technology and Transatlantic Development"
+excerpt: "'People first, technology second.' These words summarize 'Space to Innovate,' a recent event co-hosted by the German Marshall Fund and Development Gateway..."
+thumbnail: assets/post-thumbnails/atlantic-basin.jpg
+thumbnail-alt: 'Atlantic Basin'
+---
+
+“People first, technology second.” These words summarize “Space to Innovate,” a recent event co-hosted by the German Marshall Fund and Development Gateway. Discussants Nancy Choi of Development Gateway, Lovisa Williams of the State Department, and Aaron Sherinian of the United Nations Foundation agreed that technology should amplify marginalized voices and change the nature of government-citizen interaction.  
+
+Technology provides the potential for faster and more responsive communication, ultimately supporting the development of emerging economies and helping people stay connected to the global economy. The way we communicate around the world has changed in the past two decades. In 2000, only 1 out of 25 people in developing countries had Internet access. Today, that number has grown to [1 out of 3 people](http://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2015.pdf). Thus, technology can aid in connecting development workers, giving entrepreneurs access to global supply chains, and helping minorities and marginalized populations stay informed. 
+
+A wide variety of successful tech-related initiatives already exist in emerging countries, allowing aid and provisions to communities be delivered more efficiently. For example, the growing use of [data visualizations](http://hdrdata.tumblr.com/) and maps by development organizations has made vital information much easier to spread to the masses. [Open Schools Kenya](www.openschoolskenya.org) is an online tool that allows users to look up information on over 300 schools in the Kibera region of Nairobi. Platforms such as the U.S. Department of State’s [International Exchange Alumni](https://alumni.state.gov/) for students of government-sponsored exchange programs allows users to exchange ideas and bid for grants to implement those ideas. The [Global Development Lab](https://www.usaid.gov/GlobalDevLab), established in 2014 by USAID, seeks to expand the role of technology in providing innovative solutions to challenges within development. 
+
+Technology will undoubtedly continue to play a vital role in shaping the future of emerging countries. In its recent release of the [Sustainable Development Goals (SDGs)](https://sustainabledevelopment.un.org/content/documents/7891TRANSFORMING OUR WORLD.pdf), the United Nations includes building capacity for information and communications technology (ICT) into its overall goals.  In particular, certain SDGs call for greater data on issues related to gender mainstreaming (5.b), supporting domestic technology development, research, and innovation (9.b), and providing universal and affordable access to the Internet in least developed countries by 2020 (9.c). 
+
+To realize these SDGs, there is still a great deal of work to be done in order to alleviate barriers in communication. Whether that means creating something as high-tech as a new mobile app or as low-tech as a map, creating inclusive environments are vital in our hyper-connected world. We must open up the conversation and include all stakeholders in development: technology must serve the people’s interest, not the other way around. 
+
+*This is the third in a collaborative blog series between Development Gateway and the [Young Transatlantic Network of the German Marshall Fund of the United States](/http://www.gmfus.org/transatlantic-leadership-initiatives/next-generation-leaders-young-transatlantic-network). [Read the first](/2015/06/16/opening-up-atlantic/) and [second posts](/2015/07/21/technology-atlantic-basin/), and [more about the event](/2015/07/15/register-today-space-to-innovate/). Image credit: [NOAA/NCEI](http://www.ngdc.noaa.gov/mgg/image/globalimages.html)*
