@@ -1,7 +1,7 @@
 ---
 layout: post
 nid: 1483
-author: Paige Kirby
+author: Mihai Postelnicu & Paige Kirby
 created: 1415723110
 old_path: news/helping-new-eu-member-states-fulfill-busan-commitments
 title: Helping New EU Member States Fulfill Busan Commitments
