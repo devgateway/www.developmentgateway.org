@@ -5,6 +5,7 @@ title: "What Will It Take To Improve the Quality and Utility of Development Resu
 excerpt: "The international aid community is serious about measuring its impact. Multilateral and bilateral agencies in particular spend a great deal of effort and money gathering..."
 thumbnail: assets/post-thumbnails/dg-mark.png
 thumbnail-alt: Development Gateway Mark
+categories: [Results Data]
 ---
 
 
