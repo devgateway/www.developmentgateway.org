@@ -8,7 +8,7 @@ thumbnail-alt: "Results Data"
 categories: [Results Data]
 ---
 
-he Sustainable Development Goals are all-but-adopted, the Data Revolution is in full swing, and most people are coming to terms with a final list of 200+ SDG indicators. Significant statistical investments – hopefully on the near horizon – will let us measure our collective progress toward these important targets. 
+The Sustainable Development Goals are all-but-adopted, the Data Revolution is in full swing, and most people are coming to terms with a final list of 200+ SDG indicators. Significant statistical investments – hopefully on the near horizon – will let us measure our collective progress toward these important targets. 
 
 But it’s critical to remember that the data used to measure SDG success are not (for the most part) that data that will be used to achieve said success. Each project, each implementer, each agency, and each region will collect data about development activities, outputs, outcomes and impacts. At some point, this data will be captured or collected by NSOs and used to populate SDG progress reports. But in the meantime, this mountain of results data must be used by decision-makers – government officials, donor staffers, implementing partners – to allocate scarce resources toward short-term, local development objectives. So while international measurement efforts are extremely important, it’s really the quality, utility and availability of local data that matters the most. 
 
