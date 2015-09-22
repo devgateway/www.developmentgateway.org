@@ -5,6 +5,7 @@ title: 'The Indicators Behind The Indicators'
 excerpt: "The Sustainable Development Goals are all-but-adopted, the Data Revolution is in full swing..."
 thumbnail: assets/post-thumbnails/RDIPart1.jpg
 thumbnail-alt: "Results Data"
+categories: [Results Data]
 ---
 
 he Sustainable Development Goals are all-but-adopted, the Data Revolution is in full swing, and most people are coming to terms with a final list of 200+ SDG indicators. Significant statistical investments – hopefully on the near horizon – will let us measure our collective progress toward these important targets. 
