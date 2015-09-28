@@ -16,10 +16,8 @@ Specifically, the Partnership envisions a world in which timely, accurate, and h
 
 The Partnership seeks to amplify existing efforts around the post-2015 Data Revolution by securing new investments in data, promoting trusted data principles, and connecting data to action. Specifically, the Partnership seeks to further the following outcomes over the coming months:
 - The initiation and strengthening of inclusive domestic initiatives that improve the capacities to generate, share, and use statistics and data for sustainable development
-- The organization of global, mullti-stakeholder collaborative to fill information gaps and produce dynamic visualizations
+- The organization of global, multi-stakeholder collaborative to fill information gaps and produce dynamic visualizations
 - The development and promotion of international norms and guidelines to harness the Data Revolution 
 - The convening of thematic, regional, and global for a to foster commitments, collaboration, and innovation
 
 As an international nonprofit dedicated to turning data into accessible and useful information, DG looks forward to working closely with other GPSDD members in the pursuit of “a world in which the right data is available to the right people at the right time in the right ways to help make the right decisions in support of sustainable development.”
-
-
