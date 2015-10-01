@@ -17,7 +17,7 @@ To this end, the government, through the [National Agency of Statistics and Demo
 
 Discussion centered on the role of open data in achieving high economic impact. For instance, the Canadian Government, the main partner of in this initiative, registered a gain in producitivty in the amount of USD 600 million in the management of natural resources thanks to open geospatial data.
 
-To ensure open geospatial data fullfils its full potential, it is essential to establish a dialogue between different stakeholders. High impact policy decisions requires access to reliable information and high quality tools to analyse the geocoded data. The establishment of an interministerial agreement to improve the quality of information is all the more essential.
+To ensure open geospatial data fulfills its full potential, it is essential to establish a dialogue between different stakeholders. High impact policy decisions requires access to reliable information and high quality tools to analyse the geocoded data. The establishment of an interministerial agreement to improve the quality of information is all the more essential.
 
 Another key recommendation emmanating from the workshop was to include the principle of [Open Data](https://www.youtube.com/watch?v=aHxv_2BMJfw) in performance contracts of public institutions, and to reserve a line in the national budget for the opening and distribution of data already available. This will promote the institutionalization of the practice of free open data aimed at serving Senegalese citizens.
 
