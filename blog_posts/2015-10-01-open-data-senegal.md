@@ -21,7 +21,7 @@ To ensure open geospatial data fulfills its full potential, it is essential to e
 
 Another key recommendation emmanating from the workshop was to include the principle of [Open Data](https://www.youtube.com/watch?v=aHxv_2BMJfw) in performance contracts of public institutions, and to reserve a line in the national budget for the opening and distribution of data already available. This will promote the institutionalization of the practice of free open data aimed at serving Senegalese citizens.
 
-Despite a decline of six places in the world rankings according to the *[Global Open Data Index](http://index.okfn.org/place/)* – an index that classifies sixty countries according to the level and quality of open data published by governments and their accessibility to civil society, the media, and citizens – Senegal is currently third in Africa after Nigeria, South Africa, Tunisia and Burkina Faso. 
+Despite a decline of six places in the world rankings according to the *[Global Open Data Index](http://index.okfn.org/place/)* – an index that classifies sixty countries according to the level and quality of open data published by governments and their accessibility to civil society, the media, and citizens – Senegal is currently third in Africa after South Africa and Burkina Faso. 
 
 We look forward to continue working with our government colleagues in continuing to prioritize open data in Senegal.
 
