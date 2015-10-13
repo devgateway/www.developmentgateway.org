@@ -10,7 +10,10 @@
 
 - name: Alexandru Artimon
   country: Romania
-
+  
+- name: Brian Baldwin
+  country: United States of America
+  
 - name: Marina Baralo
   country: Argentina
 
@@ -151,6 +154,9 @@
 
 - name: Ernesto Soliani
   country: Argentina
+
+- name: Susan Stout
+  country: United States of America
 
 - name: Llanco Talamantes
   country: United States of America
