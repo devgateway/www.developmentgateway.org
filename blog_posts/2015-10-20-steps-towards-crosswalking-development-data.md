@@ -6,10 +6,9 @@ excerpt: In today’s development sphere, donors and local governments gather in
 thumbnail: assets/post-thumbnails/data-raw.jpg
 thumbnail-alt: 'Raw Data'
 images:
-  - url: assets/post-thumbnails/crosswalk.jpg
+  - url: assets/post-images/crosswalk.jpg
     alt: "Crosswalk Process"
     caption: "The crosswalking process."
-    thumbnail: true
 ---
 
 In today’s development sphere, donors and local governments gather increasingly large amounts of data. Open data initiatives have made more of this data accessible than ever before, but accessibility doesn’t necessarily translate to comparability or usability. 
