@@ -1,3 +1,4 @@
+# Logos are loaded from the "/assets/partner-logos/" directory.
 
 iati:
   name: IATI
@@ -10,3 +11,9 @@ openaid:
   description: OAP collects and opens data to engage stakeholders in evidence-based discussions, improving aid transparency and effectiveness. Development Gateway is a founding partner.
   logo: openaid-logo.png
   url: http://www.openaidmap.org/
+
+gpsdd:
+  name: Global Partnership for Sustainable Development Data
+  description: GPSDD supports data-driven decision-making by catalyzing more open, new, and usable data to help end extreme poverty, combat climate change, and ensure a healthy life for all. Development Gateway is a Champion.
+  logo: gpsdd-logo.png
+  url: http://www.data4sdgs.org/
