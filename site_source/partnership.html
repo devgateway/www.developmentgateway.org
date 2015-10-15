@@ -3,7 +3,7 @@ layout: page
 title: Partnership
 title_summary: "co-creating lasting solutions"
 meta_description: "Governments, organizations, and individuals united for a more prosperous and sustainable future."
-page_navigation: 
+page_navigation:
   - id: partners
     title: Partners
   - id: coalitions
@@ -61,21 +61,37 @@ published: true
 <section id="consortia" class="page-section">
   <h2>Consortia</h2>
 
+  {% comment %}
+    @HACK: We can't have multicols tags inside a loop.
+    @TODO: Use custom templates and render them inside a loop.
+  {% endcomment %}
   {% multicols consortia | render-as-html %}
-    {% assign partner=site.data.partners.consortia.iati %}
-    <a href="{{ partner.url }}" target="_blank">
-      {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-    </a>
+  {% assign partner=site.data.partners.consortia.iati %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
   <--colbreak-->
-    <p class="description">{{ partner.description }}</p>
+  <p class="description">{{ partner.description }}</p>
   <--colbreak-->
-    {% assign partner=site.data.partners.consortia.openaid %}
-    <a href="{{ partner.url }}" target="_blank">
-      {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
-    </a>
+  {% assign partner=site.data.partners.consortia.openaid %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
   <--colbreak-->
-    <p class="description">{{ partner.description }}</p>
+  <p class="description">{{ partner.description }}</p>
   {% endmulticols %}
+
+  {% multicols consortia | render-as-html %}
+  {% assign partner=site.data.partners.consortia.gpsdd %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <--colbreak-->
+  <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+  <--colbreak-->
+  {% endmulticols %}
+
 </section>
 
 <section class="page-section">
