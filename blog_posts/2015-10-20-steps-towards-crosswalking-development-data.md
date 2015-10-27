@@ -9,6 +9,7 @@ images:
   - url: assets/post-images/crosswalk.jpg
     alt: "Crosswalk Process"
     caption: "The crosswalking process."
+categories: [Results Data]
 ---
 
 In today’s development sphere, donors and local governments gather increasingly large amounts of data. Open data initiatives have made more of this data accessible than ever before, but accessibility doesn’t necessarily translate to comparability or usability. 
