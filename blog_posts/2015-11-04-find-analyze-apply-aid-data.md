@@ -3,18 +3,18 @@ layout: post
 author: Dustin Homer, Paige Kirby, Josh Powell
 title: "How to Find, Analyze, and Apply Aid Data"
 excerpt: "The global community, as represented at the Open Government Partnership (OGP) Summit and beyond, has made strides in producing a variety of open data, including open aid data...."
-thumbnail: assets/post-thumbnails/Data1.jpg
+thumbnail: assets/post-images/Data1.jpg
 thumbnail-alt: AMP and IATI
 images:
-  - url: assets/post-thumbnails/Data1.jpg
+  - url: assets/post-images/Data1.jpg
     alt: "AMP and IATI"
-    caption: Figure 1: Examples of data about African Development Bank (AfDB) activities in Malawi from Malawi’s AMP (top) and the IATI Datastore (bottom).
-  - url: assets/post-images/Data2.png
+    caption: "Figure 1: Examples of data about African Development Bank (AfDB) activities in Malawi from Malawi’s AMP (top) and the IATI Datastore (bottom)."
+  - url: assets/post-images/Data2.jpg
     alt: "Field Completeness"
-    caption: Figure 2: Analysis of key field completeness.
+    caption: "Figure 2: Analysis of key field completeness."
   - url: assets/post-images/Data3.jpg
     alt: "Comparison by funder"
-    caption: Figure 3: Comparison of AMP and IATI data for selected funders.
+    caption: "Figure 3: Comparison of AMP and IATI data for selected funders."
 categories: [Open Data, Aid Management]
 ---
 
@@ -25,7 +25,7 @@ Opening up aid data requires both political and technical support. The [Open Aid
 
 So how can we leverage these portals for better analysis and decision making? One of the first steps is understanding how these resources can complement, enrich, and sometimes correct each other.
 
-Let’s take the example of government-validated data from [Malawi’s Aid Management Platform](http://malawiaid.finance.gov.mw/portal/) (AMP), and donor-reported data from the [IATI datastore](http://datastore.iatistandard.org/docs/). Both are included in this [Excel download], if you’d like to follow along (note: some data processing, including currency standardization and XML to Excel conversion, has already been performed on the datasets). 
+Let’s take the example of government-validated data from [Malawi’s Aid Management Platform](http://malawiaid.finance.gov.mw/portal/) (AMP), and donor-reported data from the [IATI datastore](http://datastore.iatistandard.org/docs/). Both are included in this [Excel download]({{ site.url }}/assets/post-resources/AMP_and_IATI_data_OGP.xlsx), if you’d like to follow along (note: some data processing, including currency standardization and XML to Excel conversion, has already been performed on the datasets). 
 
 {% inlineimage post-center 1 %}
 
@@ -42,3 +42,4 @@ In the case of Malawi, not all funding data match well between the IATI and AMP 
 This AMP-IATI exercise aimed to simply scratch the surface of how we as the open data community can interact with aid data. However, better understanding the resources available – as well as the benefits, pitfalls, and nuances of each – can help us improve the way in which open aid data is collected, compared, and ultimately used to make development finance more efficient and effective.
 
 *This post is based on Development Gateway’s OGP Summit 2015 workshop session on “How to Find, Analyze, and Apply Aid Data”.*
+
