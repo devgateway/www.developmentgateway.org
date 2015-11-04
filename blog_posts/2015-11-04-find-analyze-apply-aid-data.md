@@ -27,15 +27,15 @@ So how can we leverage these portals for better analysis and decision making? On
 
 Let’s take the example of government-validated data from [Malawi’s Aid Management Platform](http://malawiaid.finance.gov.mw/portal/) (AMP), and donor-reported data from the [IATI datastore](http://datastore.iatistandard.org/docs/). Both are included in this [Excel download]({{ site.url }}/assets/post-resources/AMP_and_IATI_data_OGP.xlsx), if you’d like to follow along (note: some data processing, including currency standardization and XML to Excel conversion, has already been performed on the datasets). 
 
-{% inlineimage post-center 1 %}
+{% inlineimage post-center 1 include-caption %}
 
 As you can see, AMP (total commitments and disbursements by year) and IATI (transactions) data here are represented a bit differently -- this pre-processing was done to save time, as our data exercise focuses on comparing annual figures by funder.  
 
-{% inlineimage post-center 2 %}
+{% inlineimage post-center 2 include-caption %}
 
 Over DG’s years of partnership with country government aid data users, we have identified several common key fields critical for ministries of finance and planning. The good news is, for the sub-set of IATI publishers included in this dataset, almost all of those key fields are populated -- meaning that IATI data gaps don’t necessarily preclude its inclusion for a more complete picture of aid flows in country, where more funding is available through IATI than AMP.
 
-{% inlineimage post-center 3 %}
+{% inlineimage post-center 3 include-caption %}
 
 In the case of Malawi, not all funding data match well between the IATI and AMP sets; in fact, when we run a comparison between commitment and disbursement numbers, we can find significant differences in reported figures. Some of these discrepancies relate to the timeliness issues highlighted before; other times, differences can be traced to how headquarters may classify funds (i.e., by including overhead or administrative expenses) versus how country offices report funds (i.e., actual amount disbursed in country); based on DG experience, completeness of AMP reporting also tends to correlate with whether or not the donor has official representation in-country. This means that, on the basis of the figures above, IATI data would be a boon to government and development partner users to provide more information about activities by, for example, Canada and UNICEF.
 
