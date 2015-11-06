@@ -20,3 +20,5 @@ Since 2005, the program has been implemented in 25 countries around the world, a
 
 To learn more AMP, [visit our program page](/expertise/amp/); learn more about where AMP has been implemented worldwide, [visit our Reach page](/reach/). 
 
+*The Aid Management Program video was produced by [District Design Group](http://districtdesigngroup.com/).*
+
