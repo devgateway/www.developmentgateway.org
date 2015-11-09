@@ -13,7 +13,7 @@ This is a great reminder for the global development community as the Data Revolu
 
 It’s tempting to think of data as this dispassionate, mechanical thing to be collected and released. The reality is that behind the data are people – people being counted (or not counted!), people with their own experiences, cultures, biases, and wishes – choosing whether, when and how to convert data into something useful and useable. 
 
-For me, this Revolution is about data as a catalyst for change and not just a means to measure it; building government (especially National Statistics Office) capacity to achieve national objectives; disrupting the relationship between citizens and government; and getting smarter about the tricky [human-centered](/2015/09/18/designing-human-centered-data-revolution/) elements of data use, demand, and uptake.
+For me, this Revolution is about data as a catalyst for change and not just a means to measure it; building government (especially National Statistics Office) capacity to achieve national objectives; disrupting the relationship between citizens and government; and getting smarter about the tricky [human-centered]({{ site.url }}{% post_url 2015-09-18-designing-human-centered-data-revolution %}) elements of data use, demand, and uptake.
 
 **Are *values* and *attitudes* the X factor that might help get us there?** 
 
