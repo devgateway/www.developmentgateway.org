@@ -5,6 +5,7 @@ title: "Open Data in Senegal"
 excerpt: The Senegalese Government showcased its commitment towards establishing an Open Data policy by hosting a workshop with the theme...
 thumbnail: assets/post-thumbnails/flag_of_senegal.png
 thumbnail-alt: 'Senegal Flag'
+categories: [Open Data]
 ---
 
 **Open Data in Senegal**
