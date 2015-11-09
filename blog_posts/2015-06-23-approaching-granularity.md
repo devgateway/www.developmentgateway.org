@@ -14,7 +14,7 @@ images:
     alt: "RNUP awarded contracts"
     caption: "Complete list of contracts awarded that are related to the Road Network Upgrading Project (RNUP)."
     thumbnail: true
-categories: [Open Data]
+categories: [Open Data, Aid Management]
 ---
 
 As we move toward the Data Revolution, the role of data granularity and “joined-up” data is key to informing decision-making in development program allocations. By making development assistance information more specific and detailed, citizens can better monitor how well that money is being spent in all parts of a country. However, even granular, project-level information on aid does not always provide insight into what occurs within an individual project over time and space. [Open Contracting](http://www.open-contracting.org/), which refers to transparency within public contracting data, creates opportunities for even greater granularity within the project implementation process. 
