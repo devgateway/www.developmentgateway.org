@@ -9,6 +9,7 @@ images:
   - url: assets/post-thumbnails/iati-incremental-funding.png
     alt: 'IATI incremental funding'
     thumbnail: true
+categories: [Aid Management]
 ---
 
 *This blog post introduces a new DG [working paper](/assets/post-resources/IATI_CountrySystems_DataReviewFindings_Public.pdf) on the use of IATI data in country Aid Information Management Systems (AIMS). The working paper aims to help inform discussions at the IATI TAG and Steering Committee Meetings, to be held in Ottawa from May 30-June 2.*
