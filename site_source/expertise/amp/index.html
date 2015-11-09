@@ -1,0 +1,70 @@
+---
+layout: page
+title: Aid Management Program
+meta_description: “A suite of software, training, and policy support for aid management and aid effectiveness.”
+page_navigation:
+  - { url: expertise, title: Back to expertise }
+published: true
+---
+
+
+<section class="page-section">
+
+  <p>The Aid Management Program helps governments and development partners gather, access, and monitor information on development activities, with the goal of increasing aid effectiveness. It includes a robust software application – the Aid Management Platform (AMP) – as well as training and policy support for sustainable program management. </p>
+
+  <figure class="post-center">
+    <div class="media-resizable-wrapper">
+      <iframe class="media-resizable-element" src="https://player.vimeo.com/video/144919702"></iframe>
+    </div>
+    <figcaption>
+      <p><a href="https://vimeo.com/144919702">What is the Aid Management Program</a> from <a href="https://vimeo.com/developmentgateway">Development Gateway</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </figcaption>
+  </figure>
+
+  <blockquote>
+    <p>
+      …AMP marks yet another milestone in the open development agenda.
+    </p>
+    <cite>Government of Malawi Representative</cite>
+  </blockquote>
+
+  <p class="post-center page-banner">
+    <img src="{{ site.url }}/images/other/amp-stats.png" alt="AMP Information">
+  </p>
+
+  <p>Development Gateway works with government institutions to customize and implement the Aid Management Program over a multi-year period, using a programmatic approach to ensure government ownership and long-term sustainability.</p>
+
+  <h2 class="blue">Component I: Technology</h2>
+
+  <p>The Aid Management Platform is a software solution allowing users to manage activities through the planning, implementation, and evaluation stages. Through online workspaces, data entry and reporting modules, and interactive dashboards and maps, decision makers can allocate resources where most needed.</p>
+
+  <p>Features include: GIS mapping, South-South Cooperation tracking, IATI import tool, open API, Financial Management System integration.</p>
+
+  <h2 class="blue">Component II: Training</h2>
+
+  <p>To ensure lasting impact, technology should be adopted as part of a larger effort to bring partners together and put sustainable management processes in place. For this reason, the program’s implementation includes hands-on training for government and development partners, data management plans, ongoing technical support, and an annual Good Practices Workshop.</p>
+
+  <h2 class="blue">Component III: Policy Support</h2>
+
+  <p>We encourage government partners to open up aid information to the public through accessible AMP public portals. By making this information more transparent, governments increase credibility, can leverage public scrutiny to hold development partners accountable, and come closer to closing the feedback loop by facilitating public debate and discourse.</p>
+
+  <blockquote>
+    <p>
+      …we are now more effective and more efficient because the information necessary is just one click away.
+    </p>
+    <cite>Government of Kosovo Representative</cite>
+  </blockquote>
+
+  <p>Development Gateway created the Aid Management Program in collaboration with the OECD, World Bank, UNDP, and Governments of Ethiopia and India. Anchored in the principles of the global aid effectiveness agenda, the program contributes to aid coordination and harmonization – helping governments and their donor partners manage for results.</p>
+</section>
+
+<section class="page-section">
+  <h3>Aid Management stories released by Development Gateway</h3>
+  <div class="columns-3 clearfix">
+    {% for blog_post in site.categories['results data'] | limit: 3 %}
+    <div class="blog-entry-wrapper column clearfix">
+      {% include widgets/blog-teaser-alternative.html post=blog_post %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
