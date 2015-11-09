@@ -18,7 +18,6 @@ Development Gateway’s Aid Management Program provides software tools and insti
 
 Since 2005, the program has been implemented in 25 countries around the world, and tracks over US $650 billion in aid finance. Not only has it made government and development partner jobs easier – in many cases, civil society organizations and citizens can access and interact with more transparent and higher-quality aid data through Aid Management Platform (AMP) public portal dashboards, reports, and GIS maps. 
 
-To learn more AMP, [visit our program page](/expertise/amp/); learn more about where AMP has been implemented worldwide, [visit our Reach page](/reach/). 
+To learn more AMP, [visit our program page]({{ site.url }}/expertise/amp/); learn more about where AMP has been implemented worldwide, [visit our Reach page]({{ site.url }}/reach/). 
 
 *The Aid Management Program video was produced by [District Design Group](http://districtdesigngroup.com/).*
-
