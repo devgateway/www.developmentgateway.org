@@ -1,4 +1,4 @@
---
+---
 layout: post
 author: Josh Powell & Paige Kirby
 title: "Open Contracting in Vietnam"
