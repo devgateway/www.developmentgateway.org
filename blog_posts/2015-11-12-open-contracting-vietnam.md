@@ -3,7 +3,7 @@ layout: post
 author: Josh Powell & Paige Kirby
 title: "Open Contracting in Vietnam"
 excerpt: "Development Gateway is proud to announce a new program with the Government of Vietnam, supported by the World Bank Open Contracting team to help increase the transparency..."
-thumbnail: assets/post-images/Flag_of_Vietnam.jpg
+thumbnail: assets/post-images/flag_of_vietnam.jpg
 thumbnail-alt: Vietnam Flag
 categories: [Open Data]
 ---
