@@ -74,3 +74,17 @@
   urlText: Visit Timor-Leste's Aid Management Portal.
   lat: -8.7947508
   lon: 126.1369154
+
+- name: Vietnam
+  id: vietnam
+  year: 2015
+  category: Open Contracting
+  description: "Supporting the government’s interest in implementing open contracting principles and improving its monitoring and evaluation (M&E) of the procurement process."
+  features:
+    - Procurement transparency
+  quote: 
+  quote-author: 
+  url: 
+  urlText: 
+  lat: 14.058324
+  lon: 108.277199
