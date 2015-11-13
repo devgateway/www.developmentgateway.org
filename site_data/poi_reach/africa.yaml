@@ -147,6 +147,21 @@
   lat: -18.6696821
   lon: 35.5273356
 
+- name: Niger
+  id: niger
+  year: 2009
+  category: Aid Management Program
+  description: Niger's Plateforme de Gestion de l’Aide now includes AMP's robust GIS module to geolocate all development projects in-country.
+  features:
+    - Local ownership
+    - Geocoding for better decision making
+  quote:
+  quote-author:
+  url:
+  urlText:
+  lat: 17.607789
+  lon: 8.081666
+  
 - name: Somalia
   id: somalia
   year: 2014
