@@ -20,6 +20,8 @@ So why is GIS such a good fit for the field of development? Several reasons, rea
 
 For example, tale this geospatial analysis conducted by the AidData Center for Development Policy. The initial goal of this evaluation was to identify whether education funding was actually going to areas in the country of Nepal with the highest demonstrated need. To conduct this analysis, AidData researchers first loaded data about illiteracy rates (see map on left), then combined this information with funding data. Places where illiteracy was high but funding low, or where illiteracy was low but funding high are identified in the map on the right, illustrating “aid mismatches”.
 
+{% inlineimage post-center 1 include-caption %}
+
 Analysis like this can allow government officials and development partners to adjust funding to meet demonstrated need and maximize aid effectiveness. 
 
 Where we often see the greatest knowledge gains is with GIS tools that tap into an organization’s existing information management systems. This means they build on data that has already been collected, significantly reducing costs and keeping organizations from having to overhaul existing reporting or M&E systems. It also means they don’t need a cabal of PhDs on staff to use GIS in decision-making processes. With the right systems in place, this data-to-visualization process can be straightforward and pain-free for techies and non-techies alike – making analytics more accessible, and data-driven decision making more realistic.
