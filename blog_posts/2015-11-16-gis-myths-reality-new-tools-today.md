@@ -26,6 +26,4 @@ Analysis like this can allow government officials and development partners to ad
 
 Where we often see the greatest knowledge gains is with GIS tools that tap into an organization’s existing information management systems. This means they build on data that has already been collected, significantly reducing costs and keeping organizations from having to overhaul existing reporting or M&E systems. It also means they don’t need a cabal of PhDs on staff to use GIS in decision-making processes. With the right systems in place, this data-to-visualization process can be straightforward and pain-free for techies and non-techies alike – making analytics more accessible, and data-driven decision making more realistic.
 
-**This blog is taken from Martha Staid’s presentation at Catholic Relief Services’ 7th Annual ICT4D 2015 Conference in Chicago.**
-
-**Stay tuned for a second post about user-friendly GIS tools in the leadup to [GIS Day](http://www.gisday.com/). Image Credit: [AidData](http://aiddata.org/) Consortium.**
+*This blog is taken from Martha Staid’s presentation at Catholic Relief Services’ 7th Annual ICT4D 2015 Conference in Chicago. Stay tuned for a second post about user-friendly GIS tools in the leadup to [GIS Day](http://www.gisday.com/). Image Credit: [AidData](http://aiddata.org/) Consortium.*
