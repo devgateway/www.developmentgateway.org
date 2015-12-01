@@ -14,4 +14,4 @@ The EITI is a global coalition of governments, companies, and civil society work
 
 Access to open data increases awareness about how countries’ natural resources are used, how extractives revenues are spent, and how land is transacted and managed – which promotes accountability, good governance, public debate, and helps combat corruption. The EDP will allow users from around the world understand how governments manage natural resources, access open data, and follow the natural resource value chain.
 
-Development Gateway looks forward to working with the EITI team on the flagship EDP, which will debut to the public in 2016.
+Development Gateway looks forward to working with the EITI team on the flagship EDP, which will debut to the public in 2016. This work is funded by the World Bank EITI Multi-Donor Trust Fund and the EITI Secretariat. 
