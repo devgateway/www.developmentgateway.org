@@ -3,7 +3,7 @@ layout: post
 author: Danny Walker
 title: "Crosswalk data relationships for analysis"
 excerpt: In our last post we discussed the crosswalk portion of the Results Data Initiative, a project with the goal to make results data more useful and relatable across...
-thumbnail: assets/post-thumbnails/chain5.jpg
+thumbnail: assets/post-images/chain5.jpg
 thumbnail-alt: 'Raw Data'
 images:
   - url: assets/post-images/chain1.jpg
