@@ -1,11 +1,11 @@
 
-- name: "Mary O'Kane, Ph.D"
+- name: "Adrianus Melkert"
   position: "Chair of the Board"
-  avatar: okane.png
+  avatar: melkert.png
   bio: |
-      Professor O’Kane became chair of Development Gateway in 2009. She is the New South Wales Chief Scientist and Engineer; the Executive Chairman of Mary O’Kane & Associates Pty Ltd, a company that advises governments, universities, and the private sector on innovation, research, education, and development; and a former president of the University of Adelaide.
-
-
+      Mr. Ad Melkert is a former cabinet minister of Social Affairs and Employment of The Netherlands, and has been credited for leading a successful turnaround of national unemployment to job creation. He has also served as Executive Director at the Board of the World Bank Group; Associate Administrator of the UN Development Programme; and UN Special Representative of the Secretary-General for Iraq. Mr. Melkert is currently a senior independent adviser to private corporations, governments ,and civil society; as well as a facilitator/speaker on governance, development, energy, and employment policy matters across the globe.
+  
+  
 - name: "Motoo Kusakabe"
   position: "Vice Chair"
   avatar: motoo.png
@@ -41,11 +41,11 @@
       Director of Colnodo, the Colombia Country Gateway host.
 
 
-- name: "Adrianus Melkert"
+- name: "Mary O'Kane, Ph.D"
   position: "Board member"
-  avatar: melkert.png
+  avatar: okane.png
   bio: |
-      Senior Fellow at the Results for Development Institute; independent senior adviser on CSR, international public affairs, and employment strategies.
+      New South Wales Chief Scientist and Engineer; Executive Chairman of Mary O’Kane & Associates Pty Ltd; former Chair of the Board of DG; and former president of the University of Adelaide.
 
 
 - name: "Matthew Williams"
