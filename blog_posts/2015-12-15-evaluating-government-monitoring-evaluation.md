@@ -22,7 +22,7 @@ categories: [Results Data]
 
 Since 2005, when major donors endorsed the [Paris Declaration on Aid Effectiveness](https://www.oecd.org/dac/effectiveness/34428351.pdf), governments and aid organizations have prioritized improving the quality of aid so as to increase its development impact. A major part of the agenda on aid effectiveness is increasing country (i.e., aid recipient) capacities for monitoring and evaluation (M&E) of activities, outputs, and outcomes financed by aid. 
 
-{% inlineimage post-center 2 %}
+{% inlineimage post-center 1 %}
 
 Earlier this year, the [Evans School Policy Analysis and Research](http://evans.uw.edu/centers-projects/epar/evans-school-policy-analysis-research-group) (EPAR) Group at the University of Washington prepared a [report](http://evans.uw.edu/centers-projects/epar/research/epar-brief-no-299-evaluating-country-me-systems) reviewing developing country governments’ approaches to results monitoring and evaluation, to evaluate the level of development of national M&E systems.
 
