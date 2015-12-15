@@ -11,11 +11,12 @@ images:
   - url: assets/post-images/mesystems.jpg
     alt: "M&E Systems Graph"
     caption: "*Figure 1:  National M&E Systems for Aid in 23 Developing Countries*"
-- url: assets/post-images/mechart.jpg
+  - url: assets/post-images/mechart.jpg
     alt: "M&E chart"
     caption: "*Figure 2:  Flow of Information and Resources in National M&E Systems*"
 categories: [Results Data]
 ---
+
 *“Aid effectiveness is more than a moral imperative; it is a task of great economic urgency. But we still have a long way to go.”* 
 *- OECD Secretary-General Ángel Gurría at the 2011 [High Level Global Development Forum on Aid Effectiveness](https://www.oecd.org/dac/effectiveness/fourthhighlevelforumonaideffectiveness.htm)* 
 
