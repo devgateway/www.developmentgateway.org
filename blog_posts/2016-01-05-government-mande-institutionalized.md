@@ -3,7 +3,7 @@ layout: post
 author: EPAR
 title: "Are Government M&E Systems Effectively Institutionalized and Coordinated?"
 excerpt: "The development community is increasingly interested in institutionalizing monitoring and evaluation (M&E) in..."
-thumbnail: assets/post-images/chartthumb.jpg
+thumbnail: assets/post-thumbnails/chartthumb.jpg
 thumbnail-alt: M&E chart
 images:
   - url: assets/post-images/coordchart.jpg
