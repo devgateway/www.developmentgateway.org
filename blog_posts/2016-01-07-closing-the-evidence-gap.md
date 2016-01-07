@@ -17,7 +17,7 @@ Broadly speaking, this work has been successful; the [Aid Management Platform]({
  
 However, how is this information being **used** to allocate, monitor, and evaluate development assistance?
  
-To date, some early adopters – including the Government of Nepal and USAID/Peru – have begun to use geocoded aid information for institutional reporting and decision-making processes. However, as of yet there is little systematic evidence available to understand whether, when, how, and why government, civil society, and development partner decision-makers are using this data across.
+To date, some early adopters – including the Government of Nepal and USAID/Peru – have begun to use geocoded aid information for institutional reporting and decision-making processes. However, as of yet there is little systematic evidence available to understand whether, when, how, and why government, civil society, and development partner decision-makers are using this data.
  
 We aim to help close this evidence gap.
  
