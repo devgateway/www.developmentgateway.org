@@ -25,5 +25,3 @@ Over the coming months, the AidData consortium will be conducting three country-
  
 Stay tuned as we begin this next phase of promoting a geospatial revolution for development.
  
- 
-*Image credit: [AidData](https://www.flickr.com/photos/aiddata/10018784545/in/album-72157640473555273/)
