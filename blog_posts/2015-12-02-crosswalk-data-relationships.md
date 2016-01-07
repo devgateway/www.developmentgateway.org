@@ -46,7 +46,7 @@ However, while condition data is becoming more [ubiquitous and accessible](https
 
 Once we have these output indicators, we run two classification algorithms. The first clusters outputs into different activity themes. For example, WHO may have conducted 1,000 HIV/AIDS awareness trainings as part of a project while USAID held workshops for 450 health professionals on effective HIV/AIDS treatment procedures. Both of these activities will be grouped as “training”-type outputs.
 
-The second round of classification uses the language in project documentation itself to determine proposed objectives. In our limited sample of health and agricultural projects, we’ve compiled a list of objective keywords from the stated priorities of the donors in our sample. For example, as part of USAID’s global health initiatives it has the goal of “[ending preventable child and maternal deaths])https://www.usaid.gov/what-we-do/global-health)”. By searching through project documentation for keywords such as “maternal deaths,” we can classify projects and programs based on their prioritized objectives.
+The second round of classification uses the language in project documentation itself to determine proposed objectives. In our limited sample of health and agricultural projects, we’ve compiled a list of objective keywords from the stated priorities of the donors in our sample. For example, as part of USAID’s global health initiatives it has the goal of “[ending preventable child and maternal deaths](https://www.usaid.gov/what-we-do/global-health)”. By searching through project documentation for keywords such as “maternal deaths,” we can classify projects and programs based on their prioritized objectives.
 
 {% inlineimage post-center 4 include-caption %}
 
