@@ -2,7 +2,7 @@
 layout: post
 author: Martha Staid
 title: "GIS: Myths, Reality, and the New Tools of Today"
-excerpt: "here are a lot of misconceptions about using geographical information systems (GIS) in development: that it’s a niche tool, or one that requires a large budget..."
+excerpt: "There are a lot of misconceptions about using geographical information systems (GIS) in development: that it’s a niche tool, or one that requires a large budget..."
 thumbnail: assets/post-images/nepalmap.jpg
 thumbnail-alt: Nepal Map
 images:
