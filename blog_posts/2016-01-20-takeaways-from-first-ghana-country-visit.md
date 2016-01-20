@@ -38,7 +38,7 @@ In the agricultural sector, the need for clearer, more explicit links between re
 
 Another constraint impeding use is lack of staff with analytic and visualization capabilities to help users at local levels better employ routine information to i) optimize limited resources, ii) advocate for greater allocations from local parliamentary, government, and traditional authorities, and iii) manage performance across a range of facilities and service goals.  
 
-**Going Forward.** 
+**Going Forward** 
 
 The RDI team, both at DG and at Research Trust Limited, is now tapping into the experiences of 120+ local-level government and NGO managers to further understand and expand on these initial observations. Our first visit provided a useful “big picture” look at how government and donors collect, share, and use results data at the central level. Our next steps will focus on learning more about how local governments, NGOs, and other development actors are collecting, sharing, and using results data.
  
