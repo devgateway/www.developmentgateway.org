@@ -9,7 +9,7 @@ excerpt: The Independent Expert Advisory Group on the “Data revolution for dev
   is giving you only a few days to share your views on what a “revolution” should
   look like. So here’s your chance to be a revolutionary, channel your inner Beatle
   per the Data Revolution Group, and act quickly because the deadline is October 15th!
-thumbnail: assets/post-thumbnails/launch2.jpg
+thumbnail: assets/post-images/launch2.jpg
 thumbnail-fid: "6121"
 thumbnail-alt: ""
 ---

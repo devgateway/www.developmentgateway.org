@@ -3,10 +3,10 @@ layout: post
 author: Josh Powell
 title: "What’s next for U.S. Government aid transparency?"
 excerpt: Earlier this month, Publish What You Fund’s U.S. Aid Transparency Review showed strong improvements from the U.S. Government (USG)....
-thumbnail: assets/post-thumbnails/usgdata.jpg
+thumbnail: assets/post-images/usgdata.jpg
 thumbnail-alt: 'USG Data'
 images:
-  - url: assets/post-thumbnails/usgdata.jpg
+  - url: assets/post-images/usgdata.jpg
     alt: "USG Data"
     thumbnail: true
 ---

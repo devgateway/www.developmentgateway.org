@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "What Makes Big Data Good Data?"
 excerpt: No one would argue that we shouldn’t make better use of the data that we have, and it’s generally agreed that visualizations can help make data more easily understood...
-thumbnail: assets/post-thumbnails/data_collaboration.jpg
+thumbnail: assets/post-images/data_collaboration.jpg
 thumbnail-alt: 'Data Collaboration'
 ---
 

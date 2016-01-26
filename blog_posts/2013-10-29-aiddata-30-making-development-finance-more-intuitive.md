@@ -9,7 +9,7 @@ excerpt: Development Gateway is proud to announce that AidData, a research and i
   lab that seeks to improve development outcomes by making development finance data
   more accessible and actionable, released the 3.0 version of its http://aiddata.org
   portal today during Global Transparency Week.
-thumbnail: assets/post-thumbnails/adata_save2.png
+thumbnail: assets/post-images/adata_save2.png
 thumbnail-fid: "6011"
 thumbnail-alt: ""
 ---

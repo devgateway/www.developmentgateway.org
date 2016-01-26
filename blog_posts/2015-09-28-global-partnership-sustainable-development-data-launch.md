@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: 'Global Partnership for Sustainable Development Data Launch'
 excerpt: "Development Gateway is proud to be a champion of the Global Partnership for Sustainable Development Data..."
-thumbnail: assets/post-thumbnails/GPSDD.jpg
+thumbnail: assets/post-images/GPSDD.jpg
 thumbnail-alt: "GPSDD logo"
 categories: [Innovation]
 ---

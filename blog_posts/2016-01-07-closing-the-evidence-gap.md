@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "Closing the Evidence Gap"
 excerpt: Every day, governments, development partners, and civil society leaders make a multitude of decisions about how to allocate, monitor, and evaluate development assistance....
-thumbnail: assets/post-thumbnails/interview.jpg
+thumbnail: assets/post-images/interview.jpg
 thumbnail-alt: 'quote'
 ---
 

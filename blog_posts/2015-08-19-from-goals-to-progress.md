@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "From Goal to Progress: Making the Most of Data"
 excerpt: As the formal adoption of the Sustainable Development Goals approaches, we already know what the SDGs will be – now it’s time to talk seriously about...
-thumbnail: assets/post-thumbnails/SDGlogo.jpg
+thumbnail: assets/post-images/SDGlogo.jpg
 thumbnail-alt: 'SDG logo'
 ---
 

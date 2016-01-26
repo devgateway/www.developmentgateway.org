@@ -10,7 +10,7 @@ excerpt: The Aid Management Program was first introduced in Tanzania in 2007. Wo
   and government officers and development partners trained to effectively use system.
   The platform now hosts over 1800 projects and holds historical aid records from
   2001 to date.
-thumbnail: assets/post-thumbnails/tanzania.png
+thumbnail: assets/post-images/tanzania.png
 thumbnail-fid: "5942"
 thumbnail-alt: ""
 ---

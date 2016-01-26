@@ -3,7 +3,7 @@ layout: post
 author: Dustin Homer
 title: 'The Indicators Behind The Indicators'
 excerpt: "The Sustainable Development Goals are all-but-adopted, the Data Revolution is in full swing..."
-thumbnail: assets/post-thumbnails/RDIPart1.jpg
+thumbnail: assets/post-images/RDIPart1.jpg
 thumbnail-alt: "Results Data"
 categories: [Results Data]
 ---

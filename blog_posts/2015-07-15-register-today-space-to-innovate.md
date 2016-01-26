@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "Register today for 'Space to Innovate'"
 excerpt: Next week, join Development Gateway and the Young Transatlantic Network of the GMF for an evening with entrepreneurs and thought-leaders ...
-thumbnail: assets/post-thumbnails/worldtopocloseup.jpg
+thumbnail: assets/post-images/worldtopocloseup.jpg
 thumbnail-alt: 'Atlantic Topography'
 ---
 

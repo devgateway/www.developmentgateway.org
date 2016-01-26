@@ -3,7 +3,7 @@ layout: post
 author: Josh Powell
 title: 'Designing a Human-Centered Data Revolution'
 excerpt: "At the heart of the Sustainable Development Goals is the need to ensure that nobody is left behind..."
-thumbnail: assets/post-thumbnails/humandesign.jpg
+thumbnail: assets/post-images/humandesign.jpg
 thumbnail-alt: "human design"
 ---
 

@@ -9,7 +9,7 @@ excerpt: Since its very beginning, Development Gateway has been committed to ope
   initiatives, and without a doubt great strides have been made in open data acceptance
   and adoption. More and more development organizations, practitioners, and national
   governments have begun publishing all sorts of programmatic and financial information.
-thumbnail: assets/post-thumbnails/data.png
+thumbnail: assets/post-images/data.png
 thumbnail-fid: "6119"
 thumbnail-alt: ""
 ---

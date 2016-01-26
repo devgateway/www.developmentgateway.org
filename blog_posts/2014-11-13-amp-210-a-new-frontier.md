@@ -12,7 +12,7 @@ excerpt: 'As a technical-minded social enterprise, much of Development Gatewayâ€
   practice-sharing â€“ is one such example. After nearly a decade of software iteration,
   technical training, and fostering South-South Cooperation through annual workshops,
   AMP has reached a new milestone: Software Version 2.10.'
-thumbnail: assets/post-thumbnails/picture2.png
+thumbnail: assets/post-images/picture2.png
 thumbnail-fid: "6143"
 thumbnail-alt: ""
 ---

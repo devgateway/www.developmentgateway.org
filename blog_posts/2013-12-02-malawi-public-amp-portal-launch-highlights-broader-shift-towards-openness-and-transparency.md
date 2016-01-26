@@ -10,7 +10,7 @@ excerpt: Recently, the Government of Malawi launched a new public portal on fore
   spending. The portal allows citizens, civil society members, development partners,
   government employees, and other stakeholders to see detailed information on aid-funded
   projects.
-thumbnail: assets/post-thumbnails/malawi2.jpg
+thumbnail: assets/post-images/malawi2.jpg
 thumbnail-fid: "6018"
 thumbnail-alt: ""
 ---

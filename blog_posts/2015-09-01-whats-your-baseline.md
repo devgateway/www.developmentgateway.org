@@ -3,7 +3,7 @@ layout: post
 author: Zach Christensen
 title: "The SDGs – What’s Your Baseline?"
 excerpt: Some prominent critics have argued that the Sustainable Development Goals (SDGs) aren’t measurable. This is a problem, they say, because for goals to be meaningful, you need...
-thumbnail: assets/post-thumbnails/statistics.jpg
+thumbnail: assets/post-images/statistics.jpg
 thumbnail-alt: 'Statistics'
 ---
 

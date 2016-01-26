@@ -12,7 +12,7 @@ excerpt: Dans le souci d’améliorer la gestion de l’aide et la transparence 
   Ministère de la Planification, du Développement et des Affaires Territoriales (MPDAT)  du
   Togo,  dans son intervention, a mis l’accent sur les réalisations effectuées avec
   la PGA depuis la mise en place du système en 2011.
-thumbnail: assets/post-thumbnails/togo.jpg
+thumbnail: assets/post-images/togo.jpg
 thumbnail-fid: "5989"
 thumbnail-alt: ""
 ---

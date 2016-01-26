@@ -10,7 +10,7 @@ excerpt: 'Last week, the Ugandan Government made public its Development Assistan
   This system is a technical part of the country''s Aid Management Program (AMP).Overseen
   by the Ugandan Ministry of Finance Planning and Economic Development, Secretary
   Keith Muhahanizi reaffirmed on Friday that the system:'
-thumbnail: assets/post-thumbnails/uganda_amp.png
+thumbnail: assets/post-images/uganda_amp.png
 thumbnail-fid: "6146"
 thumbnail-alt: ""
 ---

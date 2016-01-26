@@ -9,7 +9,7 @@ excerpt: 'Last week, we shared big-picture challenges and opportunities our team
   when evaluating IATI data for country-level integration. In this post, we will explain
   in more detail our data comparison and methodology used to analyze IATI and in-country
   data.Step 1: Identifying Core Fields'
-thumbnail: assets/post-thumbnails/screen_shot_2015-03-12_at_10.17.12_am.png
+thumbnail: assets/post-images/screen_shot_2015-03-12_at_10.17.12_am.png
 thumbnail-fid: "6209"
 thumbnail-alt: ""
 ---

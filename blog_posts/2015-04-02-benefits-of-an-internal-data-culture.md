@@ -10,7 +10,7 @@ excerpt: 'The United States made a big move when it announced DJ Patil as the Fi
   Obama announced the decision via video call before Patil spoke to the audience about
   "Data Science: Where Are We Going". The video can be found here and it is definitely
   worth watching the 13 minutes as he explains the impacts of data in government.'
-thumbnail: assets/post-thumbnails/14560889147_5fefb8beb2_m.jpg
+thumbnail: assets/post-images/14560889147_5fefb8beb2_m.jpg
 thumbnail-fid: "6206"
 thumbnail-alt: ""
 ---

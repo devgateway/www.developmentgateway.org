@@ -10,7 +10,7 @@ excerpt: In December 2014, Development Gateway hosted the 7th Annual Aid Managem
   from over ten countries for discussions, knowledge sharing, and hands-on sessions.
   Over the next several weeks, we will be releasing posts covering some of these breakout
   sessions. Be sure to review our Blog and Twitter (#AMPWS2014) for previous posts.
-thumbnail: assets/post-thumbnails/15855846238_4ce5d2948a_z.jpg
+thumbnail: assets/post-images/15855846238_4ce5d2948a_z.jpg
 thumbnail-fid: "6164"
 thumbnail-alt: ""
 ---

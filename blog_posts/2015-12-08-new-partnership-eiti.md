@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "New Partnership with EITI Secretariat"
 excerpt: "Development Gateway is proud to announce a new partnership with the EITI Secretariat to create a flagship EITI Data Portal...."
-thumbnail: assets/post-thumbnails/dg-mark.png
+thumbnail: assets/post-images/dg-mark.png
 thumbnail-alt: Development Gateway Mark
 categories: [Open Data]
 ---

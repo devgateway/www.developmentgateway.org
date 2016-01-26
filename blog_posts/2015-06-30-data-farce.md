@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "You Will Never Believe What Data Farce People Fall For!"
 excerpt: Literacy rates are commonly tracked across the globe. A foreseeable indicator to be tracked in the future as we head further and further into a data driven world will be data literacy rates....
-thumbnail: assets/post-thumbnails/data-farce.png
+thumbnail: assets/post-images/data-farce.png
 thumbnail-alt: 'Data Farce'
 ---
 

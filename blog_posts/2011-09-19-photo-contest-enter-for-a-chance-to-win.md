@@ -11,7 +11,7 @@ excerpt: 'Show us your image of development in action, and you could win a $500 
   developing countries working to build a better world.WHAT: We are looking for images
   of empowerment and people finding solutions. The photographs should be related to
   one of the following:'
-thumbnail: assets/post-thumbnails/photocontest-lens.jpg
+thumbnail: assets/post-images/photocontest-lens.jpg
 thumbnail-fid: "3095"
 thumbnail-alt: ""
 ---

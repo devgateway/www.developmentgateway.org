@@ -9,7 +9,7 @@ title: 'Monday, Oct. 3: Join a Discussion of the World Bank’s Governance and A
 excerpt: On Monday, Oct. 3 (10 AM EST), Development Gateway will host a discussion with
   the author of a new report by the World Bank’s Independent Evaluation Group (IEG)
   on the World Bank’s governance and anti-corruption strategy.
-thumbnail: assets/post-thumbnails/gac_event_0.png
+thumbnail: assets/post-images/gac_event_0.png
 thumbnail-fid: "5404"
 thumbnail-alt: ""
 ---

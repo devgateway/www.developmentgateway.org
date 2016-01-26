@@ -6,7 +6,7 @@ created: 1411581566
 old_path: news/challenges-data4impact
 title: 'The Challenges of #Data4Impact'
 excerpt: We often assume that more Open Data is better – but is it?
-thumbnail: assets/post-thumbnails/10418994686_3b9828b9bf.jpg
+thumbnail: assets/post-images/10418994686_3b9828b9bf.jpg
 thumbnail-fid: "6112"
 thumbnail-alt: ""
 ---

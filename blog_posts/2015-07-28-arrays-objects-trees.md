@@ -3,10 +3,10 @@ layout: post
 author: Daniel Chapman
 title: "Arrays, Objects, and Trees: A Look at JSON-formatted Contracting Data"
 excerpt: "The Open Impact Day conference hosted in Washington, D.C. this past month highlighted examples of open data in improving trust between citizens and their governments..."
-thumbnail: assets/post-thumbnails/OCDSjson.jpg
+thumbnail: assets/post-images/OCDSjson.jpg
 thumbnail-alt: OCDS JSON
 images:
-  - url: assets/post-thumbnails/OCDSjson.jpg
+  - url: assets/post-images/OCDSjson.jpg
     alt: "OCDS JSON"
     thumbnail: true
   - url: assets/post-images/OCDScsv.png

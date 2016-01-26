@@ -3,7 +3,7 @@ layout: post
 author: Chris Underwood
 title: "Openness in Fragile Environments: The art of the possible"
 excerpt: "How do you adapt open government approaches to countries that are prone to violence, emerging from conflict..."
-thumbnail: assets/post-thumbnails/fragileevent.jpg
+thumbnail: assets/post-images/fragileevent.jpg
 thumbnail-alt: 'fragileevent'
 ---
 

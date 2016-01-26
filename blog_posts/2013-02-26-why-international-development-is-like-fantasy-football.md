@@ -9,7 +9,7 @@ excerpt: I am Stephen Davenport and this year I took a stab at fantasy football,
   is like other fantasy sports (FIFA Soccer, Baseball, etc.), where you select individual
   players using statistics and form virtual teams that compete each week against other
   virtual teams in a pseudo league. It's for sports fanatics.
-thumbnail: assets/post-thumbnails/fantasy-football.jpg
+thumbnail: assets/post-images/fantasy-football.jpg
 thumbnail-fid: "5960"
 thumbnail-alt: ""
 ---

@@ -3,7 +3,7 @@ layout: post
 author: Danielle Piatkiewicz, Dina Abdel-Fattah, & Paige Kirby
 title: "Opening up the Atlantic: A Transnational Approach to Sustainable Development?"
 excerpt: The world as we know it is getting smaller; globalization has interconnected regions and reconfigured international relationships. The world is facing similar concerns around environmental stability and resilience, as well as similar opportunities for increased collaboration.
-thumbnail: assets/post-thumbnails/worldtopocloseup.jpg
+thumbnail: assets/post-images/worldtopocloseup.jpg
 thumbnail-alt: 'Atlantic Topography'
 ---
 

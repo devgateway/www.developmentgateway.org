@@ -11,7 +11,7 @@ excerpt: One of the biggest challenges facing a complex entity like the United N
   and standardizing data from dozens of offices managing thousands of activities to
   improve the efficiency, effectiveness, coherence and relevance of UN development
   assistance.
-thumbnail: assets/post-thumbnails/5280585822_ed883a633a_z.jpg
+thumbnail: assets/post-images/5280585822_ed883a633a_z.jpg
 thumbnail-fid: "6120"
 thumbnail-alt: ""
 ---

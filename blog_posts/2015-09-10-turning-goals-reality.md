@@ -3,7 +3,7 @@ layout: post
 author: Jean-Louis Sarbib
 title: "Turning Goals into Reality"
 excerpt: "This post is excerpted from Development Gateway’s quarterly newsletter."
-thumbnail: assets/post-thumbnails/sept-2015-newsletter.jpg
+thumbnail: assets/post-images/sept-2015-newsletter.jpg
 thumbnail-alt: 'September 2015 Newsletter'
 ---
 *This post is excerpted from Development Gateway’s quarterly newsletter. [Click here to receive DG's newsletter directly to your email.](http://eepurl.com/UEJ6j)*

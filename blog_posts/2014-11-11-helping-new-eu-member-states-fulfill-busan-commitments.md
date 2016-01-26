@@ -8,7 +8,7 @@ title: Helping New EU Member States Fulfill Busan Commitments
 excerpt: Development Gateway is pleased to announce the launch of EU-DEVFIN, a platform
   that enhances official development assistance (ODA) reporting capacity for new European
   Union (EU) member states.
-thumbnail: assets/post-thumbnails/devfin.jpg
+thumbnail: assets/post-images/devfin.jpg
 thumbnail-fid: "6139"
 thumbnail-alt: ""
 ---

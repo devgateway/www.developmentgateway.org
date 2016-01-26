@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "Meet you at #OGP15"
 excerpt: This week, DG is participating in the Open Government Partnership’s 2015 Global Summit in Mexico City....
-thumbnail: assets/post-thumbnails/ogp15.jpg
+thumbnail: assets/post-images/ogp15.jpg
 thumbnail-alt: 'OGP info'
 ---
 

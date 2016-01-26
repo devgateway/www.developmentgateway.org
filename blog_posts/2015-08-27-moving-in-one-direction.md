@@ -3,7 +3,7 @@ layout: post
 author: Daniel Chapman & Andrew Chrismer
 title: "Moving in One Direction: Technology and Transatlantic Development"
 excerpt: "'People first, technology second.' These words summarize 'Space to Innovate,' a recent event co-hosted by the German Marshall Fund and Development Gateway..."
-thumbnail: assets/post-thumbnails/atlantic-basin.jpg
+thumbnail: assets/post-images/atlantic-basin.jpg
 thumbnail-alt: 'Atlantic Basin'
 ---
 

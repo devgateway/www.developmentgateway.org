@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: "What is the Aid Management Program?"
 excerpt: "In many countries around the world, overseas development assistance (foreign aid) serves as a significant funding source for public programs. However, governments..."
-thumbnail: assets/post-thumbnails/ampvideo.jpg
+thumbnail: assets/post-images/ampvideo.jpg
 thumbnail-alt: 'AMP Video opening'
 categories: [Aid Management]
 ---

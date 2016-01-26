@@ -7,7 +7,7 @@ old_path: news/one-small-step-development
 title: One Small Step for Development
 excerpt: The voices that yell “aid is broken” are varied, and while you may or may not
   agree with that full statement, there is definitely room for improvement.
-thumbnail: assets/post-thumbnails/open-data-v3-cover_0.png
+thumbnail: assets/post-images/open-data-v3-cover_0.png
 thumbnail-fid: "6135"
 thumbnail-alt: ""
 ---

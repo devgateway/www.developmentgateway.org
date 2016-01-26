@@ -10,7 +10,7 @@ excerpt: Earlier this year, we announced a new partnership between Development G
   IATI and Aid Management Platform (AMP) data in Burkina Faso, Chad, Cote d’Ivoire,
   Madagascar, and Senegal. Below is an update on outcomes to-date; our next post will
   describe in-depth the data methodology for this process.
-thumbnail: assets/post-thumbnails/screen_shot_2015-03-13_at_1.14.44_pm.png
+thumbnail: assets/post-images/screen_shot_2015-03-13_at_1.14.44_pm.png
 thumbnail-fid: "6204"
 thumbnail-alt: ""
 ---

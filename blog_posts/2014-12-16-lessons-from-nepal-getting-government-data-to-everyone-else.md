@@ -7,7 +7,7 @@ old_path: news/lessons-nepal-getting-government-data-everyone-else
 title: 'Lessons from Nepal: Getting government data to everyone else'
 excerpt: This is the third (and final) post in a three-part series relaying the findings
   from a study of government data use in Nepal. Read the first post and second post.
-thumbnail: assets/post-thumbnails/nepal_data.png
+thumbnail: assets/post-images/nepal_data.png
 thumbnail-fid: "6159"
 thumbnail-alt: ""
 ---

@@ -8,7 +8,7 @@ title: Please Welcome New Development Gateway Staff
 excerpt: We are always looking for new people to add to Development Gateway's deep roster
   of talented staff to increase our impact. We're proud to announce that we’ve added
   several key staff to help us expand and manage our diverse programs.
-thumbnail: assets/post-thumbnails/new_staff.jpg
+thumbnail: assets/post-images/new_staff.jpg
 thumbnail-fid: "5929"
 thumbnail-alt: ""
 ---

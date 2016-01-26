@@ -9,7 +9,7 @@ excerpt: In December 2010, Development Gateway hosted the third annual AMP Best 
   Workshop in Nairobi, Kenya. The workshop brings together delegates from governments
   that have implemented or are interested in implementing the Aid Management Program
   to discuss their experiences and lessons learned in managing the program.
-thumbnail: assets/post-thumbnails/2010ampworkshop.jpg
+thumbnail: assets/post-images/2010ampworkshop.jpg
 thumbnail-fid: "4316"
 thumbnail-alt: ""
 ---

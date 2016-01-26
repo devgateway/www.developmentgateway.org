@@ -9,7 +9,7 @@ excerpt: The United Nations IEAG report on mobilizing the Data Revolution for de
   opens with this truism:"Without high-quality data providing the right information
   on the right things at the right time; designing, monitoring and evaluating effective
   policies becomes almost impossible."
-thumbnail: assets/post-thumbnails/screen-shot-2014-11-05-at-11.50.43-pm-820x1024.png
+thumbnail: assets/post-images/screen-shot-2014-11-05-at-11.50.43-pm-820x1024.png
 thumbnail-fid: "6147"
 thumbnail-alt: ""
 ---

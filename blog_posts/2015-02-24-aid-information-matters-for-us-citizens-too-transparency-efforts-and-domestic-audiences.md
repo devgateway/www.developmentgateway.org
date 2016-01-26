@@ -11,7 +11,7 @@ excerpt: This January, a newly elected U.S. Congress took the stage, bringing up
   Global Leadership Coalition’s Liz Schayer has argued that there is a consensus from
   both sides of the aisle that aid accountability and transparency will continue to
   be an emphasis moving forward.
-thumbnail: assets/post-thumbnails/screen_shot_2015-01-06_at_8.00.30_am.png
+thumbnail: assets/post-images/screen_shot_2015-01-06_at_8.00.30_am.png
 thumbnail-fid: "6183"
 thumbnail-alt: ""
 ---

@@ -10,7 +10,7 @@ excerpt: Development Gateway is pleased to announce that the United States Agenc
   Gateway, Brigham Young University, the University of Texas at Austin, and Esri,
   a five-year, $25-million cooperative agreement to increase global aid transparency
   through the AidData Center for Development Policy.
-thumbnail: assets/post-thumbnails/crop-aiddata.jpg
+thumbnail: assets/post-images/crop-aiddata.jpg
 thumbnail-fid: "5928"
 thumbnail-alt: ""
 ---

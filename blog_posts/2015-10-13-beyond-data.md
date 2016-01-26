@@ -3,7 +3,7 @@ layout: post
 author: Nancy McGuire Choi
 title: "Beyond Data: Leadership, Values, and the Data Revolution"
 excerpt: Much has been made recently of the return on character – that core leadership values, like integrity, responsibility, forgiveness, and compassion, have a...
-thumbnail: assets/post-thumbnails/data-group.jpg
+thumbnail: assets/post-images/data-group.jpg
 thumbnail-alt: 'Data Group'
 ---
 

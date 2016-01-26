@@ -8,7 +8,7 @@ title: Unleashing Open Contracting Benefits via Open Standards
 excerpt: Developing countries lose 10 times more money due to corruption than they receive
   in official aid. As contracts from the world’s governments amount to $9.5 trillion
   annually, public procurement is one of the major areas affected by corruption.
-thumbnail: assets/post-thumbnails/open-contracting.jpg
+thumbnail: assets/post-images/open-contracting.jpg
 thumbnail-fid: "5935"
 thumbnail-alt: ""
 ---

@@ -3,7 +3,7 @@ layout: post
 author: Paige Kirby
 title: New DG website, now looking for feedback
 excerpt: The Development Gateway team is pleased to roll out a new, redesigned website! Incorporating revitalized DG branding, streamlined messaging, and optimization for low-bandwidth environments...
-thumbnail: assets/post-thumbnails/homepage-screenshot.jpg
+thumbnail: assets/post-images/homepage-screenshot.jpg
 thumbnail-alt: "homepage"
 categories: [Innovation]
 ---

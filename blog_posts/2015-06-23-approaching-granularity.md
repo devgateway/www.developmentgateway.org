@@ -3,7 +3,7 @@ layout: post
 author: Daniel Chapman
 title: "Approaching Granularity: Connecting Open Aid and Open Contracting in Timor-Leste"
 excerpt: "As we move toward the Data Revolution, the role of data granularity and “joined-up” data is key to informing decision-making in development program allocations."
-thumbnail: assets/post-thumbnails/open-contracting-timor-leste.png
+thumbnail: assets/post-images/open-contracting-timor-leste.png
 thumbnail-alt: Open Contracting in Timor-Leste
 images:
   - url: assets/post-images/timor-leste-eprocurement-database.png

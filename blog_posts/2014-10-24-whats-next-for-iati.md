@@ -8,7 +8,7 @@ title: What's next for IATI
 excerpt: On World Development Information Day, DG reports on the future of the International
   Aid Transparency Initiative, a global campaign that encourages donors and governments
   to make aid information open and accessible.
-thumbnail: assets/post-thumbnails/6419794587_8f03286f61_o.jpg
+thumbnail: assets/post-images/6419794587_8f03286f61_o.jpg
 thumbnail-fid: "6126"
 thumbnail-alt: ""
 ---

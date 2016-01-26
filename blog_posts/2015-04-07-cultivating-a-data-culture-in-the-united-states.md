@@ -8,7 +8,7 @@ title: Cultivating a "Data Culture" in the United States
 excerpt: A few weeks ago, the AidData Partnership co-hosted a consultation event at the
   OpenGov Hub with Department of State's Office of US Foreign Assistance Resources,
   the Modernizing Foreign Assistance Network (MFAN) and USAID Global Development Lab.
-thumbnail: assets/post-thumbnails/b-s-ixowkaidd2z.jpg
+thumbnail: assets/post-images/b-s-ixowkaidd2z.jpg
 thumbnail-fid: "6214"
 thumbnail-alt: ""
 ---

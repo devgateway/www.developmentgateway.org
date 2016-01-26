@@ -10,7 +10,7 @@ excerpt: Working toward a self-sustainable Aid Management Program is among the h
   longevity when the government has the skills it needs, the resources it requires,
   and commitment from decision-makers. However, empowering a partner country to manage
   a program and maintain technology doesn’t happen overnight.
-thumbnail: assets/post-thumbnails/1969185955_8add08fc7d_z.jpg
+thumbnail: assets/post-images/1969185955_8add08fc7d_z.jpg
 thumbnail-fid: "6176"
 thumbnail-alt: ""
 ---

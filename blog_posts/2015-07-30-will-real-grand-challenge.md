@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Will the Real Grand Challenge Please Stand Up?"
 excerpt: There have been many “grand challenges” for development made, and fewer met. Ken Banks challenges development institutions themselves in his post...
-thumbnail: assets/post-thumbnails/grandchallenge.jpeg
+thumbnail: assets/post-images/grandchallenge.jpeg
 thumbnail-alt: 'Grand Challenge'
 ---
 

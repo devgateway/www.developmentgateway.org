@@ -10,7 +10,7 @@ excerpt: A recent ODI paper focused on what ‘localizing’ might be applied in
   context. It’s an important phrase we’re all familiar with, but sometimes is left
   behind when we start talking about things like scalability. It also means involving
   local communities in feedback loops from the start.
-thumbnail: assets/post-thumbnails/resilienceframeworkdiagram.png
+thumbnail: assets/post-images/resilienceframeworkdiagram.png
 thumbnail-fid: "6180"
 thumbnail-alt: ""
 ---

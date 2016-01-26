@@ -3,7 +3,7 @@ layout: post
 author: Josh Powell
 title: 'Data Sharing: Access, Language, and Context All Matter'
 excerpt: "Investments in data – and open data – have grown during the 15 years of the MDG era..."
-thumbnail: assets/post-thumbnails/5558849930_f561043cb9_z.jpg
+thumbnail: assets/post-images/5558849930_f561043cb9_z.jpg
 thumbnail-alt: ""
 ---
 

@@ -3,7 +3,7 @@ layout: post
 author: Danny Walker
 title: "Steps towards crosswalking development data"
 excerpt: In today’s development sphere, donors and local governments gather increasingly large amounts of data. Open data initiatives...
-thumbnail: assets/post-thumbnails/data-raw.jpg
+thumbnail: assets/post-images/data-raw.jpg
 thumbnail-alt: 'Raw Data'
 images:
   - url: assets/post-images/crosswalk.jpg

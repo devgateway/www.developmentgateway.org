@@ -10,7 +10,7 @@ excerpt: I'm Ionut Dobre and the evolution of browsers into powerful platforms i
   developers to write richer and more complex applications. The downside to this is
   of course that as the code becomes more complicated, problems like code maintenance
   or resolving new bugs begin to appear.
-thumbnail: assets/post-thumbnails/image02.png
+thumbnail: assets/post-images/image02.png
 thumbnail-fid: "5976"
 thumbnail-alt: ""
 ---

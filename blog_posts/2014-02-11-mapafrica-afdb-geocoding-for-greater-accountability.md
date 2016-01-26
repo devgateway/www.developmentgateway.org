@@ -13,7 +13,7 @@ excerpt: "Geocoding (turning the location of development activities into coordin
   This will also help the institution better integrate its actions with other national
   open data and geospatial initiatives, principally the Open Aid Partnership, USAID,
   and AidData."
-thumbnail: assets/post-thumbnails/afdbmap.jpg
+thumbnail: assets/post-images/afdbmap.jpg
 thumbnail-fid: "6026"
 thumbnail-alt: ""
 ---

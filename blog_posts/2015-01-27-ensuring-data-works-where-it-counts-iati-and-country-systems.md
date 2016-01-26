@@ -8,7 +8,7 @@ title: 'Ensuring Data Works Where it Counts: IATI and Country Systems'
 excerpt: 'Recently, we discussed the International Aid Transparency Initiative’s data
   publication and quality “tipping point”: per the IATI Secretariat, seven of the
   top ten development partners (DPs) in most countries are publishing IATI data.'
-thumbnail: assets/post-thumbnails/5558849930_f561043cb9_z.jpg
+thumbnail: assets/post-images/5558849930_f561043cb9_z.jpg
 thumbnail-fid: "6167"
 thumbnail-alt: ""
 ---

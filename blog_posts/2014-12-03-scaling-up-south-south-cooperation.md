@@ -11,7 +11,7 @@ excerpt: As attention shifts to the Sustainable Development Goals, Development G
   is an outline of remarks given by Development Gateway CEO Jean-Louis Sarbib at the
   United Nations Office for South-South Cooperation’s Global South-South Development
   Expo in Washington, DC.
-thumbnail: assets/post-thumbnails/2014-11-21_09.39.54.jpg
+thumbnail: assets/post-images/2014-11-21_09.39.54.jpg
 thumbnail-fid: "6153"
 thumbnail-alt: ""
 ---

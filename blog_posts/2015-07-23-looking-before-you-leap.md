@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Looking Back Before You Leap"
 excerpt: Last week was the Financing for Development conference where global funding was discussed to make the Sustainable Development Goals (SDGs) a reality...
-thumbnail: assets/post-thumbnails/logo-ffd3.png
+thumbnail: assets/post-images/logo-ffd3.png
 thumbnail-alt: 'Data Collaboration'
 ---
 

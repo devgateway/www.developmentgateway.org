@@ -11,7 +11,7 @@ excerpt: "Development Gateway is pleased to announce that we will be extending t
   Agency. We will continue the implementation of the AMP (or PGC in Spanish) to support
   the government’s commitment to increase the efficiency of aid and to make aid information
   more transparent.\r\n\r\nDG will build on the last year of work with Honduras to:"
-thumbnail: assets/post-thumbnails/honduras_flag.png
+thumbnail: assets/post-images/honduras_flag.png
 thumbnail-fid: "5958"
 thumbnail-alt: ""
 ---

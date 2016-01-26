@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Will there be a Resource War?"
 excerpt: A few weeks ago, a new report commissioned by members of the G7 was released. The report identifies seven...
-thumbnail: assets/post-thumbnails/resource.jpg
+thumbnail: assets/post-images/resource.jpg
 thumbnail-alt: 'Resource'
 ---
 

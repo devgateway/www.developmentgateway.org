@@ -3,13 +3,13 @@ layout: post
 author: Brad Parks, Nancy McGuire Choi, Mike Tierney
 title: "Achieving a 'New Normal': Mapping the Future of the AidData and U.S. Global Development Lab Partnership"
 excerpt: When we originally drafted our proposal...
-thumbnail: assets/post-thumbnails/gatesquote.jpg
+thumbnail: assets/post-images/gatesquote.jpg
 thumbnail-alt: 'Gates Quote'
 images:
   - url: assets/post-images/congressquote.jpg
     alt: "Congress Quote"
     thumbnail: true
-  - url: assets/post-thumbnails/gatesquote.jpg
+  - url: assets/post-images/gatesquote.jpg
     alt: "Gates Quote"
     thumbnail: true
   - url: assets/post-images/usaidquote.jpg

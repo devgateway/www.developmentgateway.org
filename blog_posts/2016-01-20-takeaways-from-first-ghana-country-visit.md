@@ -3,7 +3,7 @@ layout: post
 author: Susan Stout
 title: "RDI: Takeaways from First Ghana Country Visit"
 excerpt: Every day, governments, development partners, and civil society leaders make a multitude of decisions about how to allocate, monitor, and evaluate development assistance....
-thumbnail: assets/post-thumbnails/ghana1.jpg
+thumbnail: assets/post-images/ghana1.jpg
 thumbnail-alt: 'Ghana1'
 categories: [Results Data]
 ---

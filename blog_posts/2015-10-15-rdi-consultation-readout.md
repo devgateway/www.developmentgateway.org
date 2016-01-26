@@ -3,7 +3,7 @@ layout: post
 author: Vinisha Bhatia
 title: 'RDI Consultation Readout'
 excerpt: "On September 23, Development Gateway hosted a consultation meeting for the Results Data Initiative (RDI)...."
-thumbnail: assets/post-thumbnails/results2.jpeg
+thumbnail: assets/post-images/results2.jpeg
 thumbnail-alt: "Results Data 2"
 categories: [Results Data]
 ---

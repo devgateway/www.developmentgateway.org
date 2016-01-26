@@ -11,7 +11,7 @@ excerpt: Last week, Development Gateway participated in the M&amp;E Tech Confere
   of Operations and Co-Executive Director of AidData Nancy McGuire Choi spearheaded
   a discussion with Kat Townsend (USAID), Chantale Wong (Independent), Rob Baker (Ushahidi),
   and Susan Stout (Georgetown).
-thumbnail: assets/post-thumbnails/metech_top.png
+thumbnail: assets/post-images/metech_top.png
 thumbnail-fid: "6113"
 thumbnail-alt: ""
 ---

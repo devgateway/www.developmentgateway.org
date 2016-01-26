@@ -6,7 +6,7 @@ created: 1330966800
 old_path: news/mapping-tool-analyzes-how-climate-change-conflict-and-aid-intersect
 title: Mapping Tool Analyzes How Climate Change, Conflict, and Aid Intersect
 excerpt: PRESS RELEASE
-thumbnail: assets/post-thumbnails/featured1.jpg
+thumbnail: assets/post-images/featured1.jpg
 thumbnail-fid: "5758"
 thumbnail-alt: ""
 ---

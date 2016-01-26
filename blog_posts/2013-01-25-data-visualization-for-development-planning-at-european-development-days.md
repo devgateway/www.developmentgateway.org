@@ -11,7 +11,7 @@ excerpt: The 7th edition of the European Development Days (EDDs) took place in B
   serves as a veritable melting pot of development advocates, decision-makers and
   practitioners, bringing together some 6,000 people and 1,500 organisations annually
   to learn from each other’s best practices, discuss and network.
-thumbnail: assets/post-thumbnails/edds.jpg
+thumbnail: assets/post-images/edds.jpg
 thumbnail-fid: "5945"
 thumbnail-alt: ""
 ---

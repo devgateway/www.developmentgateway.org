@@ -7,7 +7,7 @@ old_path: news/join-us-esri-international-user-conference
 title: Join us at the Esri International User Conference
 excerpt: Development Gateway will participate again this year in the Esri International
   User Conference, to be held from July 23-27, 2012 in San Diego, CA.
-thumbnail: assets/post-thumbnails/esri-conf.jpg
+thumbnail: assets/post-images/esri-conf.jpg
 thumbnail-fid: "5900"
 thumbnail-alt: ""
 ---

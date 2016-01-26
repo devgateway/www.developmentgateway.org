@@ -3,7 +3,7 @@ layout: post
 author: Sarah Orton
 title: "A Call for Action, Not Opening"
 excerpt: The weeks following the International Open Data Conference 2015 in Ottawa have been different than I expected...
-thumbnail: assets/post-thumbnails/opendata-logo.jpg
+thumbnail: assets/post-images/opendata-logo.jpg
 thumbnail-alt: 'IODC 2015'
 ---
 

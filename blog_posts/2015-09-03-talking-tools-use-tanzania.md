@@ -3,10 +3,10 @@ layout: post
 author: "Paige Kirby & Mark Irura"
 title: "Talking Tools for Use in Tanzania"
 excerpt: "Over the next couple of days, we’re looking forward to discussing open data tools with attendees of the Africa Open Data Conference in Dar..."
-thumbnail: assets/post-thumbnails/educationtz.jpg
+thumbnail: assets/post-images/educationtz.jpg
 thumbnail-alt: "Education in TZ"
 images:
-  - url: assets/post-thumbnails/educationtz.jpg
+  - url: assets/post-images/educationtz.jpg
     alt: "Education in TZ"
     caption: "Tanzania's Sectoral Service Performance Dashboard for Education, featuring maps, charts, and a user feedback mechanism."
     thumbnail: true

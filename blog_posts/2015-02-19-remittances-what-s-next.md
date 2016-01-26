@@ -10,7 +10,7 @@ excerpt: Why do remittances matter?ODA has modestly increased over the past few 
   assistance – in 2013, by more than 300%. Remittances are sent by individuals, not
   governments, and often travel through money transfer companies such as Western Union
   and MoneyGram.
-thumbnail: assets/post-thumbnails/screen_shot_2015-02-19_at_9.22.08_am.png
+thumbnail: assets/post-images/screen_shot_2015-02-19_at_9.22.08_am.png
 thumbnail-fid: "6182"
 thumbnail-alt: ""
 ---

@@ -3,7 +3,7 @@ layout: post
 author: Taryn Davis
 title: "Working Within Complex Systems"
 excerpt: Reboot recently released a report expounding on 'How the Governance Data Community can Understand Users and Influence Government Decisions.' The report contains...
-thumbnail: assets/post-thumbnails/usgdata.jpg
+thumbnail: assets/post-images/usgdata.jpg
 thumbnail-alt: 'USG Data'
 ---
 

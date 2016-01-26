@@ -6,7 +6,7 @@ created: 1322799742
 old_path: news/dispatch-busan
 title: Dispatch from Busan
 excerpt: ""
-thumbnail: assets/post-thumbnails/image001_0.jpg
+thumbnail: assets/post-images/image001_0.jpg
 thumbnail-fid: "5502"
 thumbnail-alt: ""
 ---

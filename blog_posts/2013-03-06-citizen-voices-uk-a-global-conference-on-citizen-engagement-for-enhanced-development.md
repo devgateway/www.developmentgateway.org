@@ -11,7 +11,7 @@ excerpt: "The World Bank, Development Gateway, and Plan UK invite you to RSVP fo
   Voices UK will focus on citizen engagement and feedback systems that strengthen
   the quality of policy making and the science of service delivery, and where the
   impact on the poor is most direct."
-thumbnail: assets/post-thumbnails/citizensvoicesuk_0.jpg
+thumbnail: assets/post-images/citizensvoicesuk_0.jpg
 thumbnail-fid: "5967"
 thumbnail-alt: ""
 ---

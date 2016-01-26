@@ -11,7 +11,7 @@ excerpt: The Strauss Center's program on Climate Change and African Political St
   Program research explores the drivers of climate insecurity, links between climate
   change and conflict, national responses to shocks and conflict, and the impact of
   adaptation aid responses.
-thumbnail: assets/post-thumbnails/ccaps.jpg
+thumbnail: assets/post-images/ccaps.jpg
 thumbnail-fid: "5959"
 thumbnail-alt: ""
 ---
