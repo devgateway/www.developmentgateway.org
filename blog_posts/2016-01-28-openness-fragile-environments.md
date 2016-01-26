@@ -5,6 +5,7 @@ title: "Openness in Fragile Environments: The art of the possible"
 excerpt: "How do you adapt open government approaches to countries that are prone to violence, emerging from conflict..."
 thumbnail: assets/post-images/fragileevent.jpg
 thumbnail-alt: 'fragileevent'
+published: false
 ---
 
 How do you adapt open government approaches to countries that are prone to violence, emerging from conflict and characterised by endemic corruption and the oppression of minorities? That was the question which around 20 people grappled with at a [workshop](https://www.eventbrite.com/e/openness-in-fragile-environments-workshop-tickets-20065208579) at the OpenGov Hub in Washington this week, and it threw up some interesting conclusions. 
