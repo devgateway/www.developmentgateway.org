@@ -3,7 +3,7 @@ layout: post
 author: EPAR
 title: "Are Results Data from Government M&E Systems Effectively Collected, Analyzed, and Used?"
 excerpt: "Monitoring & evaluation (M&E) systems are designed to serve at least two purposes..."
-thumbnail: assets/post-thumbnails/usethumb.jpg
+thumbnail: assets/post-images/usethumb.jpg
 thumbnail-alt: M&E chart
 images:
   - url: assets/post-images/monitor.jpg
