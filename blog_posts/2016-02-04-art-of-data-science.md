@@ -14,16 +14,13 @@ The audience enjoyed morning presentations on applying the principles of big dat
 Throughout the day, attendees had the chance to share their thoughts and engage with the subject matter expert presenters about the present and future of data science. Key takeaways from this dialogue included:
 
 - All organizations, no matter how well developed their data science teams, face logistical and bureaucratic challenges to obtaining data at disaggregated levels. They also struggle to recruit individuals with the technical and statistical knowledge to both analyze these data and apply an understanding of how to reach non-technical audiences in order to visualize and describe these data effectively. As such, forming support networks, investing in internal team building, and fostering partnerships with stakeholders is key to successfully managing data science efforts.
-
 - In spite of these logistical complications, the body of micro- and macro-level data is vast, and continues to grow rapidly as the public, private, and nonprofit sectors have grown to appreciate the value of robust data collection. Furthermore, there is an increasing repository of organizations and resources that can locate and analyze data rapidly and cost effectively.
-
 - In order to employ data science to its full extent, organizations must actively promote capacity development and stimulate curiosity. As one attendee quipped, “We must not hire data scientists; we must build them.”
 
 The collaboration of all presenters and attendees was an important step in creating an open dialogue on the benefits and the future of data science in the field of international development.  DG truly values the contribution of all participants, and will tap into these lessons learned as we continue integrating data science methods into our projects.  he development community is coming to recognize the returns to data science investments;we look forward to witnessing the diverse ways data analytics will be incorporated into project operations to ensure quality, cost-efficient outcomes across sectors.
  
 More information on the conference can be found here:
+
 - [Conference agenda](https://www.eventbrite.com/e/building-data-science-capability-in-your-organization-tickets-19685746598)
-
 - [Conference photos](https://www.flickr.com/photos/developmentgateway/albums/72157661923557054)
-
 - [Conference presentations](https://drive.google.com/drive/u/0/folders/0BxMM3HvOzPf_b0tVci1GZWR1N3M)
