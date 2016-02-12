@@ -66,12 +66,13 @@ published: true
 </section>
 
 <section class="page-section">
-  <h3>Results Data stories released by Development Gateway</h3>
+  <h3>Most Recent Results Data stories released by Development Gateway</h3>
   <div class="columns-3 clearfix">
     {% for blog_post in site.categories['results data'] | limit: 3 %}
     <div class="blog-entry-wrapper column clearfix">
       {% include widgets/blog-teaser-alternative.html post=blog_post %}
     </div>
     {% endfor %}
+  <p><a href="/categories/results-data/">See more posts</a></p>
   </div>
 </section>
