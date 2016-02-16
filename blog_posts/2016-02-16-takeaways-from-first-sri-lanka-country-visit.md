@@ -23,4 +23,4 @@ Members of the [Results Data Initiative]({{ site.url }}/expertise/results/) (RDI
 Judging by our initial observations, the results data environment in Sri Lanka represents the challenges we are seeing elsewhere. The results data environment in Sri Lanka has added a number of “big picture” questions moving forward for the RDI team: How does decentralization of governments affect results management and data collection/use? How can decentralisation  lead to results data use? What are the linkages to finance and budgeting? What is the role of donors in encouraging good results management?
 
   
-*Image Credit: [David Davies](https://www.flickr.com/photos/davies/3288235207/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+*Image Credit: [David Davies](https://www.flickr.com/photos/davies/3288235207/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
