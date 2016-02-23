@@ -1,4 +1,4 @@
---
+---
 layout: post
 author: Danny Walker
 title: "What do aid donors really accomplish? A story of HIV trainings in Ghana"
