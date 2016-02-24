@@ -9,6 +9,8 @@
 
 - name: Ethiopia
 
+- name: Ghana
+
 - name: Guinea-Bissau
 
 - name: Haiti
@@ -37,9 +39,13 @@
 
 - name: Niger
 
+- name: Philippines
+
 - name: Senegal
 
 - name: South Sudan
+
+- name: Sri Lanka
 
 - name: Tanzania
 
@@ -50,3 +56,5 @@
 - name: Togo
 
 - name: Uganda
+
+- name: Vietnam
