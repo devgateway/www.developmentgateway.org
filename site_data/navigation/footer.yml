@@ -3,11 +3,8 @@
 - title: About
   url: /about
 
-- title: Careers
-  url: /careers
-
 - title: Contact Us
-  url: /connect/#contact
+  url: /connect/
 
 - title: Privacy & Terms
   url: /privacy-and-terms
