@@ -5,6 +5,7 @@ title: "Closing the Evidence Gap"
 excerpt: Every day, governments, development partners, and civil society leaders make a multitude of decisions about how to allocate, monitor, and evaluate development assistance....
 thumbnail: assets/post-images/interview.jpg
 thumbnail-alt: 'quote'
+categories: [Aid Management]
 ---
 
 *This post complements the First Tranche [year-end](http://aiddata.org/blog/aiddata-and-usaids-global-development-lab-a-look-back-at-year-three) [posts](http://aiddata.org/blog/aiddata-and-usaids-global-development-lab-what-to-look-for-in-y4) about what to look forward to in year four of the AidData HESN award, delving deeper into the questions of country-level data use.*
