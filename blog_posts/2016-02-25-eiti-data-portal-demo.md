@@ -20,7 +20,7 @@ categories: [Innovation]
 
 This week at the Extractive Industries Transparency Initiative (EITI) Global Conference in Lima, Peru, DG was proud to unveil a prototype of the new Extractive Data Portal. 
 
-The portal seeks to embody the EITI Principles - that real transparency is not just about disclosing information, but rather ensure that information is understandable, usable, and actionable. 
+The portal seeks to embody the EITI Principles - that real transparency is not just about disclosing information, but rather ensuring that information is understandable, usable, and actionable. 
  
 Featuring country pages for each EITI member country, the portal highlights the results of each country’s EITI process, including bringing country-level data to life through time series analysis, dynamic visualizations, and interactive maps. 
 
