@@ -3,8 +3,8 @@ layout: post
 author: Taryn Davis
 title: "Call for Participation: Initiative for Open Ag Funding"
 excerpt: Development Gateway is proud to be a part of the new Initiative for Open Ag Funding, which seeks to establish...
-thumbnail: assets/post-images/openag.jpg
-thumbnail-alt: 'Ag Sl'
+thumbnail: assets/post-images/ag-af.jpg
+thumbnail-alt: 'Agriculture'
 categories: [Innovation]
 ---
 
