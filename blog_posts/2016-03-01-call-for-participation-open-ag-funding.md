@@ -5,7 +5,7 @@ title: "Call for Participation: Initiative for Open Ag Funding"
 excerpt: Development Gateway is proud to be a part of the new Initiative for Open Ag Funding, which seeks to establish...
 thumbnail: assets/post-images/ag-af.jpg
 thumbnail-alt: 'Agriculture'
-categories: [Innovation]
+categories: [Innovation, Open Data]
 ---
 
 Development Gateway is proud to be a part of the new [Initiative for Open Ag Funding](https://www.interaction.org/project/open-ag-funding/overview), which seeks to establish a standard for reporting on agriculture and food security investments. 
