@@ -12,7 +12,7 @@ Development Gateway is proud to be a part of the new [Initiative for Open Ag Fun
 
 This initiative – a partnership between [InterAction](https://www.interaction.org), [Publish What You Fund](http://www.publishwhatyoufund.org/), [International Food Policy Research Institute](http://www.ifpri.org/), and the [Foundation Center](http://foundationcenter.org/), funded by the Bill & Melinda Gates Foundation – aims to improve the availability of timely, accurate, and complete information to ensure those working in the agricultural sector have access to information they need to properly allocate resources. Become involved in the [Initiative for Open Ag Funding Community of Practice](https://www.interaction.org/project/open-ag-funding/get-involved).
 
-[If you create, collect, use, or need information on agriculture data, we hope you'll participate in this project by taking a quick survey by **March 4th**.](http://opendataservices.limequery.org/index.php/survey/index/sid/188291) We will be gathering information about what data already exists, what's missing, and what data is most important to practitioners.
+[If you create, collect, use, or need information on agriculture data, we hope you'll participate in this project by taking a quick survey by **March 14th**.](http://opendataservices.limequery.org/index.php/survey/index/sid/188291) We will be gathering information about what data already exists, what's missing, and what data is most important to practitioners.
 
 We will update on this project as we go, so stay tuned as we continue exploring how to fill in the gaps on food security and agriculture investments.
 
