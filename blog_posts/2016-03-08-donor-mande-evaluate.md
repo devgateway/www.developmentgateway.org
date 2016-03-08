@@ -11,10 +11,10 @@ images:
     caption: "*[EPAR reviews the relative effectiveness of aid disbursed by bilateral and multilateral donors in a separate report.](http://evans.uw.edu/sites/default/files/public/EPAR_UW_294_Multilateral vs Bilateral Aid_3.30.15.pdf)*"
   - url: assets/post-images/oecd1.jpg
     alt: "OECD Graph 1"
-    caption: "*Figure 1: Proportion of Total Bilateral ODA from Selected OECD DAC Member Countries, 2013. Source: [OECD (2014) Statistics on Resource Flows to Developing Countries](http://www.oecd.org/dac/stats/statisticsonresourceflowstodevelopingcountries.htm)*"
+    caption: "*Figure 1: Proportion of Total Bilateral ODA from Selected OECD DAC Member Countries, 2013. [Source.](http://www.oecd.org/dac/stats/statisticsonresourceflowstodevelopingcountries.htm)*"
   - url: assets/post-images/oecd2.jpg
     alt: "OECD Graph 2"
-    caption: "*Figure 2: Proportion of Total Multilateral Aid from Selected Multilateral Organizations, 2013. Source: [OECD (2014) Statistics on Resource Flows to Developing Countries](http://www.oecd.org/dac/stats/statisticsonresourceflowstodevelopingcountries.htm)*"
+    caption: "*Figure 2: Proportion of Total Multilateral Aid from Selected Multilateral Organizations, 2013. [Source.](http://www.oecd.org/dac/stats/statisticsonresourceflowstodevelopingcountries.htm)*"
  - url: assets/post-images/heirarchy.jpg
     alt: "Heirarchy of PM"
     caption: "*Figure 3: Hierarchy of Performance Measurement*"
