@@ -15,7 +15,7 @@ images:
   - url: assets/post-images/oecd2.jpg
     alt: "OECD Graph 2"
     caption: "*Figure 2: Proportion of Total Multilateral Aid from Selected Multilateral Organizations, 2013. [Source.](http://www.oecd.org/dac/stats/statisticsonresourceflowstodevelopingcountries.htm)*"
- - url: assets/post-images/heirarchy.jpg
+  - url: assets/post-images/heirarchy.jpg
     alt: "Heirarchy of PM"
     caption: "*Figure 3: Hierarchy of Performance Measurement*"
 categories: [Results Data]
