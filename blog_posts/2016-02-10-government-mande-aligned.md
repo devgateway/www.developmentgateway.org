@@ -6,7 +6,7 @@ excerpt: "Alignment and harmonization are specified in the 2005 Paris Declaratio
 thumbnail: assets/post-images/alignthumb.jpg
 thumbnail-alt: M&E align
 images:
-  - url: assets/post-images/align.jpg
+  - url: assets/post-images/Align.jpg
     alt: "Alignment"
     caption: "*Figure 1: Alignment of donor and country M&E systems*"
 categories: [Results Data]
