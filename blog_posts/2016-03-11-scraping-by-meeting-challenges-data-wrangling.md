@@ -3,7 +3,7 @@ layout: post
 author: Katherine Wikrent
 title: "Scraping By: Meeting the Challenges of Data Wrangling"
 excerpt: "A key component of DG’s Results Data Initiative (RDI) is finding innovative ways to compare results data across donors..."
-thumbnail: assets/post-images/UNDPunstructure.jpg
+thumbnail: assets/post-images/UNDPstructure.jpg
 thumbnail-alt: 'Structured Data'
 images:
   - url: assets/post-images/OpenAlts.jpg
