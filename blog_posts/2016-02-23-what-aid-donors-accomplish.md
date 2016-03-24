@@ -8,7 +8,7 @@ thumbnail-alt: 'HIV Donors'
 images:
   - url: assets/post-images/HIV1.jpg
     alt: "HIV 1"
-    caption: "*Figure 1: Who is working in HIV/AIDS?*"
+    caption: "*Figure 1: Who is working on HIV/AIDS in Ghana?*"
   - url: assets/post-images/HIV2.jpg
     alt: "HIV 2"
     caption: "*Figure 2: Health project lists (excerpt).*"
