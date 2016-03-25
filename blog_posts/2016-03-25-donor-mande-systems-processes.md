@@ -11,7 +11,7 @@ images:
     caption: "*Figure 1: Hierarchy of Results Measurement*"
   - url: assets/post-images/frequencyde.jpg
     alt: "Frequency Donor Eval"
-    caption: "*Figure 2: Frequency of Donor-Level Evaluations"
+    caption: "*Figure 2: Frequency of Donor-Level Evaluations*"
 categories: [Results Data]
 ---
 
