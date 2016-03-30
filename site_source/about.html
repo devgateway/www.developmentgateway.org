@@ -4,8 +4,8 @@ title: About
 title_summary: solutions that empower
 meta_description: An organization that delivers information solutions and tools to the people on the front lines of international development work.
 page_navigation: 
-  - id: about
-    title: About
+  - id: partnerships
+    title: Partnerships
   - id: "board-of-directors"
     title: Board of Directors
   - id: team
@@ -17,15 +17,94 @@ weight: 0
 published: true
 ---
 
+{% multicols pageintro half %}
 
-<section id="about"  class="page-section">
-  <h3 class="blue">Solutions that empower</h3>
-  <p>Development Gateway is a non-profit organization that delivers information solutions to the people on the front lines of international development work. Whether they are government policy makers deciding how to invest scarce resources, aid workers building schools and clinics, or citizens who want to have a voice in the development process, Development Gateway offers tools and advisory services that empower them to be more effective. We work behind the scenes to enable others to make a difference.</p>
-  <h3 class="blue">Our mission</h3>
-  <p>Development Gateway empowers practitioners, governments, and citizens with the knowledge they need to improve lives. We co-create information solutions and cultivate skills to turn information into lasting results.</p>
-  <h3 class="blue">What we do</h3>
-  <p>Our world is changing faster than ever. Tackling the world’s toughest development challenges, today, requires innovation, collaboration, and iteration. Development Gateway builds on nearly two decades of technical expertise to develop tools, processes, and custom analyses to help  partners better target their development interventions, achieve results, and give voice to citizens.</p>
-  <p>We’re committed to a positive, and lasting, social impact. As a nimble and growing social enterprise, each project is intrinsically tied to our mission and organically conceived to enhance the common good.</p>
+  <img src="/images/other/innovation-graphic.png" alt="innovation points" role="banner">
+
+<--colbreak-->
+
+  <h2 class="grey intro-title">An international nonprofit delivering technology and information solutions for international development.</h2>
+{% endmulticols %}
+
+<section class="page-section">
+  <h3 class="blue">Our mission is to empower practitioners, governments, and citizens with the knowledge they need to improve lives. We co-create information solutions and cultivate skills to turn information into lasting results.</h3>
+
+  <p>The world is changing faster than ever. Tackling the world’s toughest development challenges, requires innovation, collaboration, and iteration. Development Gateway builds on nearly two decades of technical expertise to develop tools, processes, and custom analyses to help  partners better target their development interventions, achieve results, and give voice to citizens.</p>
+
+</section>
+
+<section id="partnership"  class="page-section">
+  <h2>Partnerships</h2>
+  <div class="name">Governments</div>
+  <ul class="columns-list columns-list--third">
+    {% for partner in site.data.partners.governments %}
+    <li class="entry">{{ partner.name }}</li>
+    {% endfor %}
+  </ul>
+
+  <div class="name">Organizations</div>
+  <ul class="columns-list columns-list--third">
+    {% for partner in site.data.partners.organizations %}
+    <li class="entry">{{ partner.name }}</li>
+    {% endfor %}
+  </ul>
+
+  <div class="name">Coalitions</div>
+  {% multicols coalitions | render-as-html %}
+    {% assign partner=site.data.partners.coalitions.wm %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb-large|fit {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.coalitions.ogh %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb-large|fit {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.coalitions.fbl %}
+    <a href="{{ partner.url }}" target="_blank">
+      {% image thumb-large|fit {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+    </a>
+    <p class="description">{{ partner.description }}</p>
+  {% endmulticols %}
+  
+  <div class="name">Consortia</div>
+
+  {% comment %}
+    @HACK: We can't have multicols tags inside a loop.
+    @TODO: Use custom templates and render them inside a loop.
+  {% endcomment %}
+  {% multicols consortia | render-as-html %}
+  {% assign partner=site.data.partners.consortia.iati %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <--colbreak-->
+  <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+  {% assign partner=site.data.partners.consortia.openaid %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <--colbreak-->
+  <p class="description">{{ partner.description }}</p>
+  {% endmulticols %}
+
+  {% multicols consortia | render-as-html %}
+  {% assign partner=site.data.partners.consortia.gpsdd %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <--colbreak-->
+  <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+  <--colbreak-->
+  {% endmulticols %}
+  
+   <div class="name"><a href=“/connect/#contact”>Become a Partner Today</a></div>
+
 </section>
 
 
