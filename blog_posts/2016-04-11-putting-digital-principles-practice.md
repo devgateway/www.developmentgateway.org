@@ -2,7 +2,7 @@
 layout: post
 author: Paige Kirby
 title: "Putting Digital Principles into Practice"
-excerpt: At what point does more data make us less effective?
+excerpt: In tech for dev, how can we balance the need for profound understanding and innovation on a budget? To help tackle...
 thumbnail: assets/post-images/digitalprinciples.jpg
 thumbnail-alt: 'Digital Principles'
 categories: [Innovation]
