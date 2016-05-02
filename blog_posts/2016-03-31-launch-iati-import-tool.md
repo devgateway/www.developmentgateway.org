@@ -79,5 +79,5 @@ Once the source files are processed and filtered, and their projects, fields, an
 
 **Get Involved**
 
-The IATI Import Tool is licensed under an [Apache 2.0 open-source license](http://www.apache.org/licenses/LICENSE-2.0), now comes as a standard part of the Aid Management Platform, and is compatible with other AIMS. If you are interested in using or extending the tool you can get it on our [GitHub repository](https://github.com/devgateway/iatiimport). Please also check the [wiki](https://github.com/devgateway/iatiimport/wiki) for additional documentation on how to integrate the tool with a target system, and [let us know about your experiences](jpowell@developmentgateway.org)!
+The IATI Import Tool is licensed under an [Apache 2.0 open-source license](http://www.apache.org/licenses/LICENSE-2.0), now comes as a standard part of the Aid Management Platform, and is compatible with other AIMS. If you are interested in using or extending the tool you can get it on our [GitHub repository](https://github.com/devgateway/iatiimport). Please also check the [wiki](https://github.com/devgateway/iatiimport/wiki) for additional documentation on how to integrate the tool with a target system, and [let us know about your experiences](mailto:jpowell@developmentgateway.org)!
 
