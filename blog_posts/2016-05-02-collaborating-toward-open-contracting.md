@@ -2,7 +2,7 @@
 layout: post
 author: Josh Powell
 title: "Collaborating Toward Open Contracting"
-excerpt: In tech for dev, how can we balance the need for profound understanding and innovation on a budget? To help tackle...
+excerpt: Last week, Tom Steinberg caused a buzz in the open data community with his strong commentary on...
 thumbnail: assets/post-images/handshake.jpg
 thumbnail-alt: 'handshake'
 categories: [Innovation, Open Data]
@@ -42,4 +42,4 @@ Procurement reforms are currently present in [47 OGP National Action Plans](http
 
 At DG, we – like most – are early in our programming on procurement transparency, and are trying to apply lessons learned from a decade of helping governments [collect and open aid information]({{ site.url }}/expertise/amp/). Through ongoing support to the government of [Vietnam]({{ site.url }}/2015/11/12/open-contracting-vietnam/) and studies of the governments of [Nepal]({{ site.url }}/assets/post-resources/understanding_government_data_use_in_nepal_final.pdf) and the Philippines, we are actively learning the challenges governments face when operationalizing their decision to open. Over the next few weeks, we will have a series of posts on our experience in Vietnam, discussing processes, incentives, technical tools, and implementation of the OCDS – we look forward to sharing and learning together. 
 
-*Image: [dhendrix73](https://www.flickr.com/photos/dhendrix/6644037141/) [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+*Image: [dhendrix73](https://www.flickr.com/photos/dhendrix/6644037141/) [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)*
