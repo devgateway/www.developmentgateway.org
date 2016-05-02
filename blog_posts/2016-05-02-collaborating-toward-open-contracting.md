@@ -14,7 +14,7 @@ Last week, Tom Steinberg caused a buzz in the open data community with his stron
 
 In response, John Wunderlich’s [counterpoint response](http://sunlightfoundation.com/blog/2016/04/27/the-false-choice-between-criticism-and-collaboration/) on the Sunlight Foundation blog argues (emphasis mine):  
 
-  *“In the face of slowly winning a cultural fight, and as ‘contracts should require the creation of open data’ is broadly adopted as common sense, the **bigger barrier will likely be technical**. This is part of why we’re so glad people like Waldo Jaquith, founder of U.S. Open Data and adviser to Sunlight, are chipping away at this very problem on **a software level**. They’re anticipating public officials’ and data managers’ needs and designing systems that bake in openness from the beginning.”*
+  *“In the face of slowly winning a cultural fight, and as ‘contracts should require the creation of open data’ is broadly adopted as common sense, the* **bigger barrier will likely be technical**. *This is part of why we’re so glad people like Waldo Jaquith, founder of U.S. Open Data and adviser to Sunlight, are chipping away at this very problem on* **a software level**. *They’re anticipating public officials’ and data managers’ needs and designing systems that bake in openness from the beginning.”*
 
 In my experience – largely in the context of collaborating with developing country governments – these statements are both partially correct, and partially problematic. Taking them in the order presented:
 
