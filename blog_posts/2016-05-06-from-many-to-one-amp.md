@@ -2,9 +2,9 @@
 layout: post
 author: Julian de Anquin
 title: "From Many to One: AMP’s new Reports API"
-excerpt: Last week, Tom Steinberg caused a buzz in the open data community with his strong commentary on...
-thumbnail: assets/post-images/handshake.jpg
-thumbnail-alt: 'handshake'
+excerpt: AMP has a highly complex technical structure to calculate...
+thumbnail: assets/post-images/GISlayer.jpg
+thumbnail-alt: 'GIS Layer'
 images:
   - url: assets/post-images/gisconsume.jpg
     alt: "GIS consume"
