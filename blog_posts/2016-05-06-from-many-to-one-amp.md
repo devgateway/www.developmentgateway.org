@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julian de Anquin
-title: "From Many to One: AMP’s new Reports API"
+title: "From Many to One: AMP’s New Reports API"
 excerpt: AMP has a highly complex technical structure to calculate...
 thumbnail: assets/post-images/GISlayer.jpg
 thumbnail-alt: 'GIS Layer'
