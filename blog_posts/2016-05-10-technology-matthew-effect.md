@@ -16,4 +16,4 @@ My colleague Paige Kirby recently traveled to Timor-Leste as part of a team that
 
 “If you build it, [they all] will come” may have worked for [Mr. Costner](https://en.wikiquote.org/wiki/Field_of_Dreams), but it should not be the driving force behind tech4dev solutions. We need to actively work to define the “they” as those who may be forgotten, or those who may typically have difficulty accessing data, particularly dashboards, maps, etc. By doing this, we can actively hedge against the Matthew Effect in data tools and tech4dev to allow for demand (and use!) to meet the supply (of technology, data, and tools) by designing for low and lowest-capacity users. 
 
-*Image Credit: [Enviu](https://www.flickr.com/photos/enviu/18893239665/in/album-72157654272379789/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+*Image Credit: [Enviu](https://www.flickr.com/photos/enviu/18893239665/in/album-72157654272379789/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)*
