@@ -10,7 +10,6 @@
 /.settings
 /.vagrant
 /_site/
-Vagrant*
 
 # Ignore environment specific files.
 _config.local.yml

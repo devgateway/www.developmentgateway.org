@@ -1,0 +1,86 @@
+# This is a sample settings file. Copy it into your project root.
+
+########################################
+# Project specific settings.
+
+# VM specific infromation:
+#  - vm_hostonlyip should be unique among your virtual machines.
+#  - the VM hostname is created using vm_shortname and vm_environment.
+vm_hostonlyip: 10.10.10.165
+vm_shortname: dgthree
+vm_environment: local
+
+# Vhosts and shared folders:
+#  - template is the name of the template used to create the vhost.
+#  - source points to a folder on the host OS, it can be a relative path.
+#  - docroot points to a folder in the gues where source is mounted.
+vhosts:
+  - domain: dgthree-local.dev
+    aliases:
+      - www.dgthree-local.dev
+    template: jekyll
+    source: ./
+    docroot: /var/www/dgthree-local
+    jekyll_destination: _site
+
+########################################
+# Vagrant settings.
+
+# Default VM box.
+box:
+  name: sl6201502
+  url: http://user.developmentgateway.org/~wschneider/scientific-6-201502.box
+  download_checksum: a73dfd9f73161c32acc0c57f91071e77
+  download_checksum_type: md5
+
+########################################
+# Puppet settings.
+
+# Enable puppet development "mode".
+puppet_development: 0
+
+# Default options for the "puppet apply"
+# NOTE: "--parser future" is required!
+puppet_options:
+  --parser future
+  --verbose
+  --debug
+
+# Development options for the "puppet apply"
+# NOTE: "--parser future" is required!
+puppet_options_dev:
+  --parser future
+  --verbose
+  --debug
+
+####################
+# Puppet settings for non-development mode:
+puppet_module_name: SchnWalter/happydev
+puppet_module_version: 0.2.8
+
+# HACK-ishly remove existing modules and then reinstall.
+puppet_force_reinstall: 0
+
+puppet_manifest_file_contents: |
+  node default {
+    # Dump facts to /tmp/facts.yaml
+    # include ::happydev::fairy_dust::debug_helper
+
+    include ::happydev::rhel
+    include ::happydev::fairy_dust::orange_blossom
+    include ::happydev::fairy_dust::vanilla_cream
+
+    include ::happydev::jekyll
+  }
+
+
+####################
+# Puppet settings for development mode:
+
+# Relative or absolute path pointing to the local development happy-deployer files.
+# NOTE: Do NOT add a trailing slash (/).
+happy_deployer_path: ../happy-deployer
+
+# Alternative (development) manifest file, located in the puppet/manifests folder inside happy-deployer:
+# Replaces puppet_manifest_file_contents only when in puppet development "mode".
+puppet_alternative_manifest_file: dev-dg.pp
