@@ -1,8 +1,15 @@
 
-# Ignore development specific files
-.sass-cache/
-.vagrant/
-_site/
+# Ignore development specific files and folders.
+.DS_Store
+.idea
+*.sublime*
+*--ignore.*
+/.buildpath
+/.project
+/.sass-cache/
+/.settings
+/.vagrant
+/_site/
 Vagrant*
 
 # Ignore environment specific files.
