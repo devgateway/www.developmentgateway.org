@@ -2,8 +2,8 @@
 layout: post
 author: Dina Abdel-Fattah
 title: "Role of Tech at WHS and Beyond"
-excerpt: Development Gateway is proud to announce a new paid parental leave program. New moms and dads...
-thumbnail: assets/post-images/WHS.jpeg
+excerpt: Today and tomorrow represent a milestone for the international community. The first ever convening of world leaders...
+thumbnail: assets/post-images/WHS.jpg
 thumbnail-alt: 'WHS'
 categories: [Open Data]
 ---
