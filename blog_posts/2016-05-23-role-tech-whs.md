@@ -22,4 +22,4 @@ The following are but a few of the recommendations we discuss during our event a
 
 The challenges in the humanitarian space are clear and with conflicts like Syria and the recovery from natural disasters like the 2015 Nepal Earthquake ongoing, Development Gateway is working to find solutions to meet critical needs. Regardless of whether the World Humanitarian Summit provides the overarching framework for humanitarian change, we are committed to working with our country partners and colleagues in the international community to make these solutions actionable and impactable in the world humanitarian space.
 
-*Image credit: [World Humanitarian Summit](https://www.flickr.com/photos/worldhumanitariansummit/27158955776/in/dateposted/) [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+*Image credit: [World Humanitarian Summit](https://www.flickr.com/photos/worldhumanitariansummit/27158955776/in/dateposted/) [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)*
