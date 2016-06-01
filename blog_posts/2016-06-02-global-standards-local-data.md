@@ -28,8 +28,9 @@ In the end, we pulled data from seven different tables to populate the database 
 
 In some cases, fields that were important for Vietnam’s government use cases are not currently represented in OCDS. For these fields, the team engaged directly with the Open Contracting Partnership’s [help-desk](http://standard.open-contracting.org/latest/en/support/) (a free resource for countries and organizations who are working to adopt OCDS) to discuss whether:
 
-a) The field is useful for many countries and should be considered for inclusion in the standard, or
-b) The field is specific to Vietnam and should simply be registered as an extension to OCDS for this dataset
+- The field is useful for many countries and should be considered for inclusion in the standard, or
+
+- The field is specific to Vietnam and should simply be registered as an extension to OCDS for this dataset
 
 Based on this consultation, several new fields have been proposed for inclusion in the next upgrade to the standard (here’s one [example](https://github.com/open-contracting/standard/issues/317)). You will notice that there is a particularly active community, with each open “ticket” typically receiving feedback from multiple stakeholders - this helps to result in a sharper, more useful standard.
 
@@ -48,6 +49,7 @@ Based upon a collaborative process with the OCP Help Desk, we have since made se
 After creating OCDS JSON once, the next step is to enable frequent data updates. To do this, we have been working on an automated integration with the eGP system, which will result in daily updates of Vietnam’s OCDS data. However, doing live updates to the data also requires handling updates to individual records (e.g. as a bid plan is opened to tender or a tender is awarded). Doing this requires version control through handling of OCDS “releases” – which essentially function as linked “snapshots” of the same procurement activity at different periods in time. This presents its own set of challenges in meeting the needs of:
 
 1) maintaining releases for all records, while 
+
 2) maintaining a database that is lightweight and efficient in running queries for the dashboards. 
 
 When adding 200,000+ new records per year and multiple releases per record requires an elegant architecture, which we will discuss in more detail in our next post. We are also building in our own validator to be run as part of the import process, ensuring that we retain OCDS compliance with each new wave of data.
