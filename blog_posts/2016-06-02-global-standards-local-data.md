@@ -2,7 +2,7 @@
 layout: post
 author: Josh Powell
 title: "Global Standards, Local Data: OCDS in Vietnam"
-excerpt:As countries line up commitments to publish data in the Open Contracting Data Standard (OCDS), an exciting and challenging...
+excerpt: As countries line up commitments to publish data in the Open Contracting Data Standard (OCDS), an exciting and challenging...
 thumbnail: assets/post-images/world.jpg
 thumbnail-alt: 'World Data'
 images:
