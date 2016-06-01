@@ -3,7 +3,7 @@ layout: post
 author: Josh Powell
 title: "Global Standards, Local Data: OCDS in Vietnam"
 excerpt:As countries line up commitments to publish data in the Open Contracting Data Standard (OCDS), an exciting and challenging...
-thumbnail: assets/post-images/5280585822_ed883a633a_z.jpg
+thumbnail: assets/post-images/world.jpg
 thumbnail-alt: 'World Data'
 images:
   - url: assets/post-images/OC.jpg
@@ -38,6 +38,8 @@ Based on this consultation, several new fields have been proposed for inclusion 
 Once we had our initial field mappings in place, we worked in two streams. First, we shared that mapping with the OCDS Help Desk for peer review/feedback. Second, we began the technical process of converting the tabular data from the government’s eGP system into OCDS JSON. To convert the data, we created a custom import process into the dashboard application being built for the government, which uses OCDS as its core data structure (more on this in our next post). 
 
 Based upon a collaborative process with the OCP Help Desk, we have since made several updates and modifications, resulting in data that more uniformly and completely adhere to the standard. We used the free OCDS validation tool to gauge our progress.
+
+{% inlineimage post-center 1 include-caption %}
 
 **Step 4: Going Live – Handling Data Updates**
 
