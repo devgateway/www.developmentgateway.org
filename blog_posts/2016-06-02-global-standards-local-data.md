@@ -6,7 +6,7 @@ excerpt:As countries line up commitments to publish data in the Open Contracting
 thumbnail: assets/post-images/5280585822_ed883a633a_z.jpg
 thumbnail-alt: 'World Data'
 images:
-  - url: assets/post-images/OC-success.jpg
+  - url: assets/post-images/OC.jpg
     alt: "OC Success"
     caption: "*What success looks like*"
 categories: [Innovation, Open Data]
