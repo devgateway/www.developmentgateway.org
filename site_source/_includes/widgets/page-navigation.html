@@ -4,6 +4,8 @@
   {% for entry in include.entries %}
     {% if entry.id != null %}
       {% assign entry_url=entry.id | prepend: '#' %}
+    {% elsif entry.url contains '://' %}
+      {% assign entry_url=entry.url %}
     {% elsif entry.url != null %}
       {% assign entry_url=entry.url | prepend: '/' %}
     {% else %}
