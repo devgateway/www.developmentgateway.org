@@ -58,7 +58,7 @@ When adding 200,000+ new records per year and multiple releases per record requi
 
 Of course, the goal of standards are not system interoperability or standardization alone. Ultimately, **data standards should facilitate the use of data by as many stakeholders as possible**. While many “inner circle” OC stakeholders are techie, the majority of users who we hope will benefit from these data are [lowly humans like me]({{ site.url }}/2015/09/15/data-sharing-access-language-context/). So, we are building tools to allow users to interact with the information through charts/graphs, filter through data to answer specific questions, and download through a robust CSV/XLS export functionality (using the [OCDS flattened standard](http://standard.open-contracting.org/latest/en/implementation/serialization/)) to enable true data accessibility.
 
-*Up next: Under the Hood – Building an Open Source OC Platform.*
+*DG’s work in Vietnam is supported by the World Bank, through a combination of financial support and technical expertise. Up next: Under the Hood – Building an Open Source OC Platform.*
 
 *Image Credit: [Michael Coghlan](https://www.flickr.com/photos/mikecogh/5280585822) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
 
