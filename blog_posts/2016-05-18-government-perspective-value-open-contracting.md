@@ -44,4 +44,4 @@ The [accessibility and language]({{ site.url }}/2015/09/15/data-sharing-access-l
 
 While ensuring the usefulness of data is critical in planning for sustainability, a focus on building local technical and functional capacity for long-term maintenance is equally important. Working with a local partner, DG and PPA are ensuring that the same local developers who maintain eGP are familiar with the code, and that the data updating process for the M&E system is automated with no manual effort required from PPA staff. This, combined with the use of an open source solution, will ultimately result in low cost, locally-owned, and easy-to-maintain open data *and* M&E platform.
 
-Up next: Road Testing OCDS: Bridging the gap from country systems to global standards.
+*DG’s work in Vietnam is supported by the World Bank, through a combination of financial support and technical expertise. Up next: Road Testing OCDS.*
