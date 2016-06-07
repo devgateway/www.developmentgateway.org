@@ -52,6 +52,15 @@
     }
   }
 
+  // HACK: Quick fix for the RDI link.
+  .item-alternative {
+    background-color: $blue_vibrant;
+    float: right;
+    .link {
+      color: $white;
+    }
+  }
+
   .link {
     color: $grey_light;
     font-weight: normal;

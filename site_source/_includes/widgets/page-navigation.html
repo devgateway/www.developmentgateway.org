@@ -12,8 +12,13 @@
       {% continue %}
     {% endif %}
 
-    <li class="item">
-      <a href="{{ entry_url }}" class="link" title="Jump to {{ entry.title }}">
+    {% assign entry_target='' %}
+    {% if entry.target != null %}
+      {% assign entry_target=entry.target | prepend: 'target="' | append: '"' %}
+    {% endif %}
+
+    <li class="item item-{{ entry.style | slugify }}">
+      <a href="{{ entry_url }}" class="link" title="Jump to {{ entry.title }}" {{ entry_target }}>
         {{ entry.title }}
       </a>
     </li>
