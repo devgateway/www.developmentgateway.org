@@ -23,7 +23,7 @@ Currently in beta, the portal applies a standardized methodology (blog post fort
 
 In particular, the RDI Data Visualization Portal seeks to respond to three big-picture questions: 
 
-**[1. How can output data be aggregated and compared across organizations?](rdi.developmentgateway.org)**
+**[1. How can output data be aggregated and compared across organizations?](http://rdi.developmentgateway.org)**
 
 {% inlineimage post-center 1 %}
 
@@ -31,7 +31,7 @@ The portal’s first chart shows our “crosswalk” methodology in action. By c
 
 Importantly, this chart **only shows publicly-accessible data** – but it lays the groundwork for a potentially powerful database of aggregated results, provided that development partners dedicate themselves to consistently publishing results information.
 
-**[2. Where does outcome data come from?](rdi.developmentgateway.org)**
+**[2. Where does outcome data come from?](http://rdi.developmentgateway.org)**
 
 {% inlineimage post-center 2 %}
 
@@ -39,7 +39,7 @@ Every development organization curates its own list of priority outcome indicato
 
 Initially, our goal was to “crosswalk” indicators from different agencies. However, further research on results data suggests it would be more productive to identify underlying data sources, since coordinating efforts to improve the collection of indicator data – by increasing the frequency or geographic detail of Demographic and Health Surveys, for example – may be more efficient in the long run than coordinating indicators themselves. 
 
-**[3. How can organizations report (monitoring) results more effectively?](rdi.developmentgateway.org)**
+**[3. How can organizations report (monitoring) results more effectively?](http://rdi.developmentgateway.org)**
 
 {% inlineimage post-center 3 %}
 
