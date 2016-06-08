@@ -17,7 +17,7 @@ categories: [Results Data, Innovation]
 
 Over the past year, our Results Data Initiative (RDI) has explored in depth two important links in the development data “results chain”: **outputs** (what development organizations implement, track, and monitor) and **outcomes** (the conditions of a community or area of influence). While development organizations and governments gather reams of output and outcome information, it’s been nearly impossible to compare this data across organizations – until now.
 
-**[Today, we’re introducing the RDI Data Visualization Portal, showing insights from combined outcome and output data from 16 development agencies.](rdi.developmentgateway.org)** 
+**[Today, we’re introducing the RDI Data Visualization Portal, showing insights from combined outcome and output data from 16 development agencies.](http://rdi.developmentgateway.org)** 
 
 Currently in beta, the portal applies a standardized methodology (blog post forthcoming) for aggregating results information – with the goal of facilitating learning for better allocation decisions and program effectiveness. For example: when UNICEF plans to distribute textbooks to children in eastern Tanzania, it should be able to easily access data on what other donors have achieved, to avoid pitfalls and iterate on what works.   
 
