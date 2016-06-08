@@ -27,7 +27,7 @@ In particular, the RDI Data Visualization Portal seeks to respond to three big-p
 
 {% inlineimage post-center 1 %}
 
-The portal’s first chart shows our “crosswalk” methodology in action. By clustering output data in this way, we have a preview of who is accomplishing what health and agriculture sectors, across Tanzania, Ghana, and Sri Lanka. 
+The portal’s first chart shows our “crosswalk” methodology in action. By clustering output data in this way, we have a preview of who is accomplishing what in health and agriculture sectors, across Tanzania, Ghana, and Sri Lanka. 
 
 Importantly, this chart **only shows publicly-accessible data** – but it lays the groundwork for a potentially powerful database of aggregated results, provided that development partners dedicate themselves to consistently publishing results information.
 
