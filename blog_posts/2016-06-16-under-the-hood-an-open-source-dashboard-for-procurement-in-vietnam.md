@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Mihai Postelnicu"
-title: "RSVP Today: What's Next for Results Data"
+title: "Under the Hood: An Open Source Dashboard for Procurement in Vietnam"
 excerpt: The development community spends over $2 billion each year collecting data on...
 thumbnail: assets/post-images/PPA-Screenshot.png
 thumbnail-alt: "Screenshot of Public Procurement Agency"
