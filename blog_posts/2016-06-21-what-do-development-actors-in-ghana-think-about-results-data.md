@@ -13,6 +13,7 @@ We are proud to debut our [Results Data Initiative: Findings from Ghana]({{ site
 This report is tailored for government and development partners in Ghana. But the findings are also important for international M&E practitioners and for the wider data-for-development community. We offer insights into how local actors think about results and what it will take to make data more meaningful for them. In particular, we hope that those concerned with SDG indicators will take note of what we’ve learned.
 
 We base our findings on interviews with 150+ local government, donor, and NGO officials in the health and agriculture sectors. Some key findings include:
+
 - Local workers face critical trade-offs between data collection and service delivery. We must keep these costs in mind when considering data collection activities-- and we should cut indicators where possible. Support for front-line staff must accompany new data initiatives.
 - Most local respondents viewed data interpretation as a responsibility of more senior officials at the regional or national levels. Incentives for using results data are absent, as analysis is not required, nor is it explicitly recognized or rewarded.
 - The perceived value of a results indicator depends on the resources available to do something as a result of that data. We need to continue to find ways to make budgets follow results.
