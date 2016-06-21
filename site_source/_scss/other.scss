@@ -106,7 +106,11 @@ cite {
 .report-cover {
   float: left;
   margin-right: 2em;
+  opacity: 1;
   width: 5em;
+  &:hover {
+    opacity: 0.85;
+  }
 }
 .report-description {
   color: $grey_dark;
