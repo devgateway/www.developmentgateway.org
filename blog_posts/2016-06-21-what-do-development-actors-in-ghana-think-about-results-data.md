@@ -3,8 +3,8 @@ layout: post
 author: "Dustin Homer & Paige Kirby"
 title: "What do development actors in Ghana think about results data? Launching the first RDI country report"
 excerpt: "We are proud to debut our Results Data Initiative: Findings from Ghana summary report..."
-thumbnail: assets/post-images/dg-mark.png
-thumbnail-alt: ""
+thumbnail: assets/post-images/RDI-Ghana.png
+thumbnail-alt: "Results Data Initiative: Findings from Ghana"
 categories: [Results Data]
 ---
 
