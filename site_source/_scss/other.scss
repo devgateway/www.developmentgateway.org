@@ -101,3 +101,36 @@ cite {
     margin-bottom: 0.5em;
   }
 }
+
+// similar style to .group-side
+.report-cover {
+  float: left;
+  margin-right: 2em;
+  width: 5em;
+}
+.report-description {
+  color: $grey_dark;
+  display: table-cell;
+  font-size: $small;
+  line-height: 120%;
+}
+
+.banner-link {
+  background: $grey_lightest;
+  border: 1px dashed $grey_light;
+  color: $default_text;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  a {
+    color: $blue_deep;
+    font-weight: 700;
+    &:hover {
+      color: $black;
+    }
+  }
+  > svg {
+    fill: $default_text;
+    vertical-align: middle;
+  }
+}
