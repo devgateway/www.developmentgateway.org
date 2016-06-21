@@ -129,8 +129,7 @@ cite {
       color: $black;
     }
   }
-  > svg {
-    fill: $default_text;
-    vertical-align: middle;
+  img {
+    width: 1.4em;
   }
 }

@@ -1,5 +1,8 @@
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
-<rect x="107" y="69.4" width="39" height="74"/>
-<rect x="60.7" y="14.6" width="39" height="128.8"/>
-<rect x="16.3" y="57.7" width="39" height="85.7"/>
+<style type="text/css">
+	.st0{fill:#6D6D6D;}
+</style>
+<rect x="107" y="69.4" class="st0" width="39" height="74"/>
+<rect x="60.7" y="14.6" class="st0" width="39" height="128.8"/>
+<rect x="16.3" y="57.7" class="st0" width="39" height="85.7"/>
 </svg>
