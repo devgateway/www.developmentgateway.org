@@ -3,10 +3,10 @@ layout: post
 author: "Josh Powell"
 title: "Use of IATI in Country Systems: Final Report"
 excerpt: "This post debuts the final report from DG's program on the Use of IATI in Country Systems..."
-thumbnail: assets/post-images/iati-tool.jpeg
+thumbnail: assets/post-images/iati-tool.jpg
 thumbnail-alt: "IATI-Tool"
 images:
-  - url: assets/post-images/IATI-disbursements.jpeg
+  - url: assets/post-images/IATI-disbursements.jpg
     alt: "IATI disbursements"
 categories: [Open Data]
 ---
