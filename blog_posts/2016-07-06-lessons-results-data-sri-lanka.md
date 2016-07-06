@@ -15,7 +15,9 @@ Combined with the other outputs of the [Results Data Initiative]({{ site.url }}/
 We base our findings on interviews with 150+ local government, donor, and NGO officials in the health and agriculture sectors. We describe the results data “landscape,” highlight successes and failures, and outline a way forward for improving the quality and use of results data. Key findings include:
 
 - Data analysis is limited to trend and time analysis at district and provincial levels, as the overall lack of understanding and accountability for results **places perceived responsibility for data analysis at the national level**. Widespread demand for results-oriented data is naturally lacking as a result. But positive deviants do exist – offering powerful examples of how a focus on results and good data can catalyze positive change. 
+ 
 - For most local actors, “results data” is actually just output data at best – largely activity-based, with little or no reporting of outcomes to reflect changes in health, status, income, or employment. Several forward-thinking respondents called for disaggregated outcome data to inform and improve their work. 
+
 - Across the board, respondents reported that spreadsheets are still the primary – if limited – data management tool. Both agriculture and health sectors are ready for more robust, web-based, real-time data management systems. But these systems must be designed to meet the analytical needs of local actors, and not merely report to national-level systems.  
 
 You may [access the full report here]({{ site.url }}/assets/post-resources/RDI-SriLanka.pdf), which includes recommendations, and more detail about our findings. To discuss this report further, [join us for a learning event in DC (or join us online) on July 13](https://www.eventbrite.com/e/whats-next-for-results-data-tickets-26042543950). Feedback in any form will be very welcome as we continue to refine our learning. 
