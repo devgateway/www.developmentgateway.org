@@ -1,9 +1,9 @@
 ---
 layout: post
 author: "Sarah Orton & Dustin Homer"
-title: "Lessosn about Results Data from Sri Lanka"
+title: "Lessons about Results Data from Sri Lanka"
 excerpt: "We are proud to debut our Results Data Initiative: Findings from Sri Lanka report...."
-thumbnail: assets/post-images/RDI-SL.png
+thumbnail: assets/post-images/RDI-SL.jpeg
 thumbnail-alt: "Results Data Initiative: Findings from Sri Lanka"
 categories: [Results Data]
 ---
