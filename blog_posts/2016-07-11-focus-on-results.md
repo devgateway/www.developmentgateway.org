@@ -5,6 +5,7 @@ title: "A Focus on Results"
 excerpt: "This post is excerpted from Development Gateway’s newsletter."
 thumbnail: assets/post-images/june-2016-newsletter.jpg
 thumbnail-alt: 'June 2016 Newsletter'
+categories: [Results Data]
 ---
 *This post is excerpted from Development Gateway’s June newsletter. [Click here to receive DG's newsletter directly to your email.](http://eepurl.com/UEJ6j)*
 
