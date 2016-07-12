@@ -104,19 +104,22 @@ cite {
 
 // similar style to .group-side
 .report-cover {
-  float: left;
-  margin-right: 1.6em;
+  display: block;
   opacity: 1;
-  width: 8em;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
   &:hover {
     opacity: 0.85;
   }
 }
 .report-description {
   color: $grey_dark;
-  display: table-cell;
-  font-size: $small;
+  display: inline-block;
+  font-size: $large;
   line-height: 120%;
+  margin-bottom: 1.5em;
+  text-align: center;
 }
 
 .banner-link {
