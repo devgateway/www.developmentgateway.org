@@ -16,13 +16,13 @@ As Minister Ngozi Okonjo-Iweala highlighted, the biggest challenge Development G
 
 We hope the following key takeaways prove helpful in shaping how we all approach the results data ecosystem:
 
--We should recognize and evaluate the **purpose and cost of indicators** we collect with three key questions in mind: data for whom, data for what, [at what cost]({{ site.url }}/2016/03/03/results-indicators-costs-benefits/).
+- We should recognize and evaluate the **purpose and cost of indicators** we collect with three key questions in mind: data for whom, data for what, [at what cost]({{ site.url }}/2016/03/03/results-indicators-costs-benefits/).
 
--There is a demonstrated demand for **better tools and trainings** to equip local-level data users with the skills to analyze and apply results data in their work.
+- There is a demonstrated demand for **better tools and trainings** to equip local-level data users with the skills to analyze and apply results data in their work.
 
--**Incentives** – awards, recognition, advancement, and others – are an under-utilized method of increasing data use. Senior officials can encourage ownership over data quality and uptake by providing feedback on the value and utility of data to those who collect this information.
+- **Incentives** – awards, recognition, advancement, and others – are an under-utilized method of increasing data use. Senior officials can encourage ownership over data quality and uptake by providing feedback on the value and utility of data to those who collect this information.
 
--Development partners can make [concrete improvements]({{ site.url }}/2016/06/08/unlocking-development-results-data/) to internal results reporting templates to make this data more **accessible and useful**.
+- Development partners can make [concrete improvements]({{ site.url }}/2016/06/08/unlocking-development-results-data/) to internal results reporting templates to make this data more **accessible and useful**.
 
 Participation during the opening presentation and thematic breakout sessions (health service delivery, agriculture indicators collection, improving the accessibility of results data, and the political economy of data use) was extremely valuable as we continue to focus our attention on the needs of data users at all levels.
 
