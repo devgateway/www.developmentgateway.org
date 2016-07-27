@@ -8,7 +8,7 @@ thumbnail-alt: 'EITI website'
 images:
   - url: assets/post-images/EITI-import.jpg
     alt: "import process"
-    caption: "Diagram of the Automatic Summary Data Import Process"
+    caption: "*Diagram of the Automatic Summary Data Import Process*"
 categories: [Open Data, Innovation]
 ---
 
