@@ -1,5 +1,5 @@
 
-# Editor Manual
+# Editor's Manual
 
  Project directory structure and a short description of what the directories contain:
 * `assets` - various images and documents for the body of pages and blogs, e.g.:
