@@ -12,7 +12,7 @@ Development Gateway is pleased to announce that [our innovative data toolkit]({{
 
 It was a pleasure to sit down with the BBC to talk about how the toolkit aims to address some of the most pressing challenges facing developing cities. From collecting data to inform decisions, to using data to understand the holistic needs of a city, the toolkit aims to create a step-by-step approach for city managers to make data more sensible and more useful for city management and planning.
 
-Listen to learn about our work and how it addresses these challenges and more. **[The feature can be accessed here, starting at minute 20.](http://www.bbc.co.uk/programmes/p03zq4cb)**
+**[Listen to learn about our work and how it addresses these challenges and more. The feature can be accessed here, starting at minute 20.](http://www.bbc.co.uk/programmes/p03zq4cb)**
 
 About our partners:
 
