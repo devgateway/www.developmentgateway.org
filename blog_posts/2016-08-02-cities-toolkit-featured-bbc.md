@@ -20,3 +20,5 @@ About our partners:
 
 *[Cities Alliance](http://citiesalliance.org/) is the global partnership for reducing poverty and promoting the role of cities in sustainable development. Partnerships are critical to achieving the 2030 Agenda for Sustainable Development. At Cities Alliance, we bring together organisations with different perspectives and expertise on city issues around common goals: well-run, productive cities that provide opportunities for all residents. Our members include multilateral organisations, national governments, local government associations, international nongovernmental organisations, private sector, foundations and academia. The United Nations Office for Project Services (UNOPS) hosts the Cities Alliance Secretariat, which is based in Brussels.*
 
+*Image: [Kent MacElwee](https://www.flickr.com/photos/kmacelwee/13774378603/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
+
