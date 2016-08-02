@@ -9,7 +9,7 @@
 
 # Load some project specific settings form YAML files.
 require 'yaml'
-project_settings = YAML.load_file('Vagrantsettings.yaml')
+project_settings = YAML.load_file('Vagrantsettings.yml')
 # project_settings['vm_hostname'] = project_settings['vm_shortname'] + '_' + project_settings['vm_environment']
 # abort(project_settings.inspect) # print variables and exit
 

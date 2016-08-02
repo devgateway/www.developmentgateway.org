@@ -91,7 +91,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - Vagrantfile
-  - Vagrantsettings.yaml
+  - Vagrantsettings.yml
+  - Vagrantsettings.local.yml
 # NOTE: All the files/folders starting with "_" (underscore) are also excluded.
 
 # Set the default markdown processor.

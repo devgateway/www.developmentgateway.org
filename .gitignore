@@ -10,10 +10,11 @@
 /.settings
 /.vagrant
 /_site/
+/Vagrantsettings.local.yml
+
 
 # Ignore environment specific files.
 _config.local.yml
 Gemfile.lock
 robots.txt
 public_html
-
