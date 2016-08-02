@@ -32,7 +32,7 @@
 
 
 - name: "Abdoulaye Diatta"
-  position: Controller
+  position: "Director of Finance"
   avatar: abdoulaye.png
   bio: |
     Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish. Abdoulaye holds an MBA from the University of Maryland.
@@ -104,7 +104,7 @@
 
 
 - name: "Paige Kirby"
-  position: "Engagement and Partnerships Associate"
+  position: "Senior Engagement and Partnerships Associate"
   avatar: paige.png
   bio: |
       Paige manages external communications and supports government and organizational partnerships at Development Gateway. She holds a Bachelor of Science in Foreign Service from Georgetown University.
@@ -132,7 +132,7 @@
 
 
 - name: "Stepan Semenukha"
-  position: Analyst
+  position: "Senior IT Analyst"
   avatar: stepan.png
   bio: |
       Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
