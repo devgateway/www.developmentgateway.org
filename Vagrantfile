@@ -151,7 +151,7 @@ Vagrant.configure(2) do |config|
     # Remove installed puppet modules.
     if (project_settings['puppet_development'] == 0)
       config.vm.provision "shell",
-        path: 'https://raw.githubusercontent.com/devgateway/happy-deployer/v' + project_settings['puppet_module_version'] + '/shell/remove-modules.sh'
+        path: 'https://raw.githubusercontent.com/devgateway/happy-deployer/' + project_settings['puppet_module_version'] + '/shell/remove-modules.sh'
     elsif (project_settings['puppet_development'] == 1)
       config.vm.provision "shell",
         path: project_settings['happy_deployer_path'] + '/shell/remove-modules.sh'
@@ -161,7 +161,7 @@ Vagrant.configure(2) do |config|
   # Prepare the box using a shell script.
   if (project_settings['puppet_development'] == 0)
     config.vm.provision "shell",
-      path: 'https://raw.githubusercontent.com/devgateway/happy-deployer/v' + project_settings['puppet_module_version'] + '/shell/setup-hiera.sh'
+      path: 'https://raw.githubusercontent.com/devgateway/happy-deployer/' + project_settings['puppet_module_version'] + '/shell/setup-hiera.sh'
   elsif (project_settings['puppet_development'] == 1)
     config.vm.provision "shell",
       path: project_settings['happy_deployer_path'] + '/shell/setup-hiera.sh'
