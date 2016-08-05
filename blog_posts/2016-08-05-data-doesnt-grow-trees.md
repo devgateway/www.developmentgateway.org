@@ -2,7 +2,7 @@
 layout: post
 author: Taryn Davis and Danny Walker
 title: "Data Doesn't Grow on Trees"
-excerpt: "he planning and design of any development project is an extensive, intricate, and often laborious process. Thus..."
+excerpt: "The planning and design of any development project is an extensive, intricate, and often laborious process. Thus..."
 thumbnail: assets/post-images/Haque.jpg
 thumbnail-alt: field
 categories: [Open Data]
