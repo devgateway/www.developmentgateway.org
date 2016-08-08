@@ -22,6 +22,7 @@
 
       Before joining Development Gateway, Catalin worked with Capgemini. He holds a master’s degree in engineering from the Institut National des Sciences Appliquées in Lyon, France.
 
+
 - name: "Nancy McGuire Choi"
   position: "Senior Director of Operations"
   avatar: nancy.png
@@ -36,20 +37,6 @@
   avatar: abdoulaye.png
   bio: |
     Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish. Abdoulaye holds an MBA from the University of Maryland.
-
-
-- name: "Fernando Ferreyra"
-  position: "Deputy Director of Information Technology"
-  avatar: fernando.png
-  bio: |
-      Fernando has over ten years of experience leading technical teams and developing software solutions with emphasis on user interface and user experience design in a variety of platforms. He has served as technical lead for projects with UNDP, IADB, European Commission, EITI Secretariat, and national governments worldwide. 
-
-
-- name: "Vanessa Goas"
-  position: "Deputy Director of Operations"
-  avatar: vanessa.png
-  bio: |
-      Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
 
 
 - name: "Dustin Homer"
@@ -68,6 +55,20 @@
       Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina. Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
 
 
+- name: "Fernando Ferreyra"
+  position: "Deputy Director of Information Technology"
+  avatar: fernando.png
+  bio: |
+      Fernando has over ten years of experience leading technical teams and developing software solutions with emphasis on user interface and user experience design in a variety of platforms. He has served as technical lead for projects with UNDP, IADB, European Commission, EITI Secretariat, and national governments worldwide. 
+
+
+- name: "Vanessa Goas"
+  position: "Deputy Director of Operations"
+  avatar: vanessa.png
+  bio: |
+      Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
+
+
 - name: "Dina Abdel-Fattah"
   position: "Senior Associate"
   avatar: dina.png
@@ -75,6 +76,13 @@
       Dina has an extensive academic and professional background in international development, with a focus on post-conflict, humanitarian, and disaster-related affairs. She also has demonstrated expertise and experience in web-based development platforms, the usage of GIS, and Internet-based technologies. At DG, Dina is responsible for managing, implementing, and coordinating several projects, particularly those which incorporate geospatial tools for information management and those which revolve around DG’s humanitarian and disaster-related work. Before joining DG, Dina was a Project Manager at the DESERTEC Foundation in Germany. Dina holds a Master’s of Science in International Development Studies from the University of Amsterdam and a Bachelor of Arts from the College of William & Mary.
 
 
+- name: "Kathryn Alexander"
+  position: "Associate"
+  avatar: kathryn.png
+  bio:  |
+      Kathryn supports both project management and business development efforts at DG. Previously she worked in Tanzania as a Peace Corps Volunteer, teaching math and science at a rural secondary school before partnering with the World Food Programme to monitor the implementation of its food security programs. Kathryn holds a Master of Public Affairs and International Development from Princeton University and a BS in Mechanical Engineering from the University of Texas at Austin. 
+
+  
 - name: "Vinisha Bhatia"
   position: "Monitoring and Evaluation Specialist"
   avatar: vinisha.png
@@ -145,6 +153,14 @@
       Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
 
       She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
+
+
+- name: "Beshad Talayminaei"
+  position: "Systems Administrator
+"
+  avatar: beshad.png
+  bio: |
+      Beshad is responsible for supporting and managing DG’s IT systems. These include managing a private cloud of virtual machines, configuring and managing web servers, and designing deployment and configuration management protocols. Beshad has worked with DG as an intern since the Summer of 2015 and joined the team full-time in the Summer of 2016. Beshad has recently received his Bachelor’s degree in Computer Science from University of Maryland, College Park.
 
 
 - name: "Danny Walker"
