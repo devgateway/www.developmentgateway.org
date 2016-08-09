@@ -23,7 +23,7 @@ For example, let’s say I work at the [Global Fund](http://www.theglobalfund.or
 
 While the above seems like a fairly straightforward collection-to-use case, the sheer volume of indicator data turns a single indicator use chain into a tangled ecosystem. In our RDI work alone (limited to three countries, two sectors, and 17 development partners), we identified **750 different agency-level outcome indicators!**
 
-{% inlineimage post-center 1 include-caption %}
+{% inlineimage post-center 2 include-caption %}
 
 Why does that number matter? [Like we’ve argued before]({{ site.url }}/2016/03/03/results-indicators-costs-benefits/), immense amounts of data collection often has a human cost – particularly on time and finances better spent delivering services to those in need. But even from a strictly data-driven perspective, what stands out most is **how duplicative many of these indicators are**. It’s not that we, as a development community, are collecting 750 different data points; in many cases, we’re asking the same questions in ever-so-slightly different ways, begging the question of efficiency in data collection and maintenance.
 
