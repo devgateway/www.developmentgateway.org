@@ -35,3 +35,4 @@
 * http://jekyllrb.com/docs/posts/ - some info about blog posts.
 * http://codebeautify.org/yaml-validator - for validating the frontmatter content.
 * http://kramdown.gettalong.org/syntax.html - for syntax information inside `.md` files.
+* http://markitdown.medusis.com/ - online rich text to markdown converter
