@@ -12,7 +12,7 @@ published: true
 
 We are pleased to debut our [_Results Data
 Initiative: Findings from Tanzania_](http://www.developmentgateway.org/assets/post-resources/RDI-Tanzania.pdf) summary report, the third of
-three country reports from our [](http://www.developmentgateway.org/expertise/results/)[Results Data Initiative (RDI).](http://www.developmentgateway.org/expertise/results/) The report
+three country reports from our [Results Data Initiative (RDI).](http://www.developmentgateway.org/expertise/results/) The report
 explores the ways that local government and other development actors in
 Tanzania collect, share and use results data to inform their work in health and
 agriculture.
