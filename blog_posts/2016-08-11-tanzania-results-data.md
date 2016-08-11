@@ -39,7 +39,7 @@ and meaningful data use (at every level). But as we outline in our report,
 there are practical ways to influence these incentives.
 
 - **Results and Resource Allocation.** The perceived value of a results indicator depends on
-the resources available to do something as a result of that data, [similar to our findings in Ghana]({ post_url 2016-06-21-what-do-development-actors-in-ghana-think-about-results-data %}). The reality
+the resources available to do something as a result of that data, [similar to our findings in Ghana]({% post_url 2016-06-21-what-do-development-actors-in-ghana-think-about-results-data %}). The reality
 observed on the ground was not about how to allocate resources based on
 evidence, but how to better spend the limited funds within the given
 constraints. There are few incentives for local development actors to consider
@@ -60,5 +60,5 @@ or [social
 media](https://twitter.com/dgateway); we are eager for your feedback and for a critical discussion
 of ways forward.
 
-Please also see our corresponding [Sri Lanka]({ post_url 2016-07-06-lessons-results-data-sri-lanka %}) and [Ghana]({ post_url 2016-06-21-what-do-development-actors-in-ghana-think-about-results-data %}) reports for more insight on this topic.
+Please also see our corresponding [Sri Lanka]({% post_url 2016-07-06-lessons-results-data-sri-lanka %}) and [Ghana]({% post_url 2016-06-21-what-do-development-actors-in-ghana-think-about-results-data %}) reports for more insight on this topic.
  
