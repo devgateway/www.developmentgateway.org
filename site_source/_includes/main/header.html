@@ -6,8 +6,8 @@
     <div class="header-logo-section">
       {% if page.url == 'index.html' %}<h1 class="site-name">{% else %}<div class="site-name">{% endif %}
         <a href="/" title="Visit the main page" rel="home">
-          <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" /><!--<![endif]-->
-          <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" /><![endif]-->
+          <!--[if (gte IE 9)|!(IE)]><!--><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.svg' | prepend: site.baseurl }}" alt="{{ site.title }}" width="160" height="64" /><!--<![endif]-->
+          <!--[if lt IE 9 ]><img class="site-logo" role="presentation" src="{{ '/images/site/dg-logo-white.png' | prepend: site.baseurl }}" alt="{{ site.title }}" width="160" height="64" /><![endif]-->
         </a>
       {% if page.url != 'index.html' %}</div>{% else %}</h1>{% endif %}
 
