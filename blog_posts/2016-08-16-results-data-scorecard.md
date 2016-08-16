@@ -22,6 +22,8 @@ And that’s where the scorecard comes in. Our Scorecard – accessible at the b
 
 {% inlineimage post-center include-caption %}
 
+_Figure 1: World Bank's Scorecard_
+
 The scores are based on a subset (not a complete sample) of results data sources from each DP. All sub-scores and the composite score are rated on a scale of 0-4, with 4 being the highest possible score; we’ll delve into the specifics of what each category means and the criteria (submetrics) that figure into the calculation in our next post. The goal of this Scorecard is not to name and shame DPs.  Rather, we aim to illuminate ways in which existing M&E data, systems, and tools can be improved, to help DPs reach the goals they set for themselves.  
 
 To begin these conversations, we are using the results of our analysis to craft tailored recommendations on a DP-by-DP basis.  Below is just a brief preview of a few recommendations we have included in our donor-specific Scorecard reports. We will present and discuss these in more depth in later posts.
