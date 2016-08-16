@@ -6,6 +6,10 @@ excerpt: >-
   A key component of the Results Data Initiative (RDI) was the development of the Results Data Scorecard...
 thumbnail: assets/post-images/21827766845_e4a223ae85_m.jpg
 thumbnail-alt: 
+images:
+  - url: assets/post-images/scorecard.png
+    alt: "World Bank's Scorecard"
+    caption: "*Figure 1: World Bank's Scorecard*"
 categories: [Results Data, Innovation]
 published: true
 ---
@@ -16,9 +20,7 @@ So how accessible and useful are development partners’ results data? Not very:
 
 And that’s where the scorecard comes in. Our Scorecard – accessible at the bottom of the [RDI data visualization page](http://rdi.developmentgateway.org/#/?_k=31hd1z) – assesses the quality of DP monitoring systems across five categories, and generates a composite score per organization. 
 
-_Figure 1: World Bank’s Scorecard_
-
-![alt text](www.developmentgateway.org/assets/post-images/scorecard.png "World Bank's Scorecard") 
+{% inlineimage post-center include-caption %}
 
 The scores are based on a subset (not a complete sample) of results data sources from each DP. All sub-scores and the composite score are rated on a scale of 0-4, with 4 being the highest possible score; we’ll delve into the specifics of what each category means and the criteria (submetrics) that figure into the calculation in our next post. The goal of this Scorecard is not to name and shame DPs.  Rather, we aim to illuminate ways in which existing M&E data, systems, and tools can be improved, to help DPs reach the goals they set for themselves.  
 
