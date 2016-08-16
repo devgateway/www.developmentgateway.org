@@ -29,7 +29,8 @@ The scores are based on a subset (not a complete sample) of results data sources
 
 To begin these conversations, we are using the results of our analysis to craft tailored recommendations on a DP-by-DP basis.  Below is just a brief preview of a few recommendations we have included in our donor-specific Scorecard reports. We will present and discuss these in more depth in later posts.
 
-{% inlineimage post-center 2 include-caption %}
+_Table 1: Sample Scorecard Recommendations_
+{% inlineimage post-center 2 %}
 
 While we continue our conversations with donors about our findings from the Scorecard exercise, readers can look forward to four upcoming posts that will provide deeper insight into our methodology, metrics, findings, and recommendations.  We hope that series of posts will encourage development stakeholders to consider how revamping M&E and data systems can lead to cost savings, improved outcomes, and heightened accountability and transparency – stay tuned!
 
