@@ -20,7 +20,7 @@ So how accessible and useful are development partners’ results data? Not very:
 
 And that’s where the scorecard comes in. Our Scorecard – accessible at the bottom of the [RDI data visualization page](http://rdi.developmentgateway.org/#/?_k=31hd1z) – assesses the quality of DP monitoring systems across five categories, and generates a composite score per organization. 
 
-{% inlineimage post-center include-caption %}
+{% inlineimage post-center 1 include-caption %}
 
 _Figure 1: World Bank's Scorecard_
 
