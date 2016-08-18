@@ -3,7 +3,7 @@ layout: post
 author: James Coe
 title: "Open Data And Agricultural Aid: The Next Step In Tackling Hunger"
 excerpt: "We know that in 2014 roughly $8.3 billion of official development assistance (ODA) was disbursed for agricultural-related development, however..."
-thumbnail: assets/post-images/photo for final blog.jpg
+thumbnail: assets/post-images/woman-farmer.jpg
 thumbnail-alt: tackling hunger
 categories: [Open Data]
 ---
