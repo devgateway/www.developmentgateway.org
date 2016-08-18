@@ -22,7 +22,7 @@ At present the sort of data needed to make effective decisions is not available.
 
 Through our consultations, the [Open Ag Funding Initiative](https://www.interaction.org/project/open-ag-funding/overview) found that a range donors, NGOs and foundations want to understand what others are funding, where, with whom, and to what effect; detailed posts on their specific needs can be found [here](https://www.interaction.org/project/open-ag-funding/news-multimedia).
 
-While there were some differences ­– for example foundations are more able to fill the data void with research consultants ­– on the whole there was a clear consensus. Access to this data will help prevent duplication, uncover funding gaps, reduce the research burden for planning a new project and significantly improve how donors target their aid. 
+While there were some differences – for example foundations are more able to fill the data void with research consultants – on the whole there was a clear consensus. Access to this data will help prevent duplication, uncover funding gaps, reduce the research burden for planning a new project and significantly improve how donors target their aid. 
 
 “Understanding who donors are targeting, at what level and scope helps us to target the right number of the right population,” one NGO representative told us.
 
