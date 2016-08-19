@@ -49,6 +49,13 @@ body,
   list-style-type: none;
   padding: 0;
 
+  &.bulleted {
+    list-style-type: none;
+    li {
+      display: block;
+    }
+  }
+
   @include media-query-max($bp_small) {
     padding: 0 1em;
   }

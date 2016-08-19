@@ -60,8 +60,8 @@ cite {
 
 .page-banner {
   border: 1px solid $grey_lightest;
-  margin-bottom:$map_bottom_padding;
-  margin-top:$map_bottom_padding;
+  margin-bottom:$map_bottom_padding - 1;
+  margin-top:$map_bottom_padding - 2;
 }
 
 .page-intro {
