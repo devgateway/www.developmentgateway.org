@@ -5,7 +5,7 @@
 
   .title {
     @include clearfix-mixin;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
   }
 
   .blog-meta {
@@ -20,6 +20,12 @@
     margin-bottom: 0.5em;
   }
 
+  .post-date {
+    border-right: 1px solid $grey_lightest;
+    margin-right: 1em;
+    padding-right: 1em;
+  }
+
   .blog-date,
   .blog-author {
     margin-right: 0.5em;
@@ -27,6 +33,13 @@
   svg {
     fill: $blue_vibrant;
     margin-right: 0.25em;
+    margin-top: -3px;
+  }
+
+  .post-categories {
+    border-left: 1px solid $grey_lightest;
+    margin-left: 1em;
+    padding-left: 1em;
   }
 
   .post-thumbnail {
@@ -43,4 +56,8 @@
       display: none;
     }
   }
+}
+
+.pagination {
+  padding-top: 0.5em;
 }

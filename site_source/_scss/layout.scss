@@ -50,9 +50,11 @@ body,
   padding: 0;
 
   &.bulleted {
-    list-style-type: none;
+    list-style-type: square;
+    margin-left: 0.6em;
     li {
-      display: block;
+      display: list-item;
+      width: 28em;
     }
   }
 

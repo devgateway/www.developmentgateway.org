@@ -48,7 +48,7 @@
   .is-active {
     & > .link {
       @include link-color($black);
-      background-color: $grey_lightest;
+      background-color: $white;
       border-top-left-radius: 0.5em;
       border-top-right-radius: 0.5em;
 

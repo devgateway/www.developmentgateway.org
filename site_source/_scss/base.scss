@@ -15,6 +15,9 @@ html {
 
 .main-content {
   background-color: $white;
+  a {
+    font-weight: 500;
+  }
 }
 
 // Vertical space between the page content and the footer.
