@@ -5,7 +5,7 @@ body {
 }
 
 a {
-  @include link-color(lighten($blue_vibrant, 20%));
+  @include link-color( $link-color);
 }
 
 blockquote {
@@ -47,6 +47,14 @@ cite {
 }
 .intro-title{
   margin-top: 2em;
+}
+.intro-list {
+  font-size: 2em;
+  list-style: none;
+  li {
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+  }
 }
 
 // General logo images hover effect.

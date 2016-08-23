@@ -22,6 +22,9 @@
   }
   li {
     font-size: $large;
+    a {
+      font-weight: $font_weight_light;
+    }
   }
 }
 

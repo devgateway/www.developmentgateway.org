@@ -6,6 +6,9 @@
   .title {
     @include clearfix-mixin;
     margin-bottom: 0.2em;
+    a {
+      font-weight: $font_weight_light;
+    }
   }
 
   .blog-meta {
@@ -37,9 +40,12 @@
   }
 
   .post-categories {
-    border-left: 1px solid $grey_lightest;
-    margin-left: 1em;
-    padding-left: 1em;
+    display: block;
+    margin-top: 0.5em;
+
+    a {
+      font-weight: $font_weight_light;
+    }
   }
 
   .post-thumbnail {
