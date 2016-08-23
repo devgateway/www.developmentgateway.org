@@ -37,8 +37,8 @@
     - Vizualizing data for better decision making
   quote:
   quote-author:
-  url:
-  urlText:
+  url: http://tchad.ampdev.net/portal/
+  urlText: Visit Chad's Plateforme de Gestion de l’Aide.
   lat: 15.4461015
   lon: 18.7350005
 
@@ -67,8 +67,8 @@
     - Capturing investment flows for improved policy planning
   quote: "[Before AMP] different ministries would speak directly with donor partners. Now… to acquire information the unique official source is AMP"
   quote-author: Government Representative
-  url:
-  urlText:
+  url: http://217.171.93.182/portal/
+  urlText: Visit DRC's Plateforme de Gestion de l'Aide et des Investissements
   lat: -4.033516
   lon: 21.7500605
 
@@ -128,7 +128,7 @@
   quote: "...the Public Portal of the AMP marks yet another milestone in the open development agenda, as all key stakeholders will have direct access to development aid data."
   quote-author: Maxwell Mkwezalamba, Malawi Minister of Finance
   url: http://malawiaid.finance.gov.mw/
-  urlText:
+  urlText: Visit Malawi's Aid Management Platform.
   lat: -13.2483745
   lon: 34.2955468
 
@@ -143,7 +143,7 @@
   quote:
   quote-author:
   url: http://www.odamoz.org.mz/
-  urlText:
+  urlText: Visit Mozambique's AIMS.
   lat: -18.6696821
   lon: 35.5273356
 
@@ -201,8 +201,8 @@
     - Linking aid with government budgeting systems
   quote:
   quote-author:
-  url:
-  urlText:
+  url: http://pgfe.finances.gouv.sn/portal/
+  urlText: Visit Senegal's Plateforme de Gestion des Financements Extérieurs
   lat: 14.5001715
   lon: -14.4392276
 
