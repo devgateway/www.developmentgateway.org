@@ -34,7 +34,7 @@ The scorecard consists of five broad categories:
 
 In turn, each category is comprised of three to four specific criteria, or indicators.  Each criterion is scored on a scale of 0-4 and assigned a weight. Specific definitions for all criteria will be the subject of a future blog post. From these criterion scores, we calculated a weighted category sub-score. These category sub-scores are then evenly weighted and averaged to form an overall score. The maximum possible overall score is 4. Below is a summary of our five categories and their associated criteria.
 
-_Table 1: Sample Scorecard Recommendations_
+_Table 1: It’s not Magic, It’s Math! An Overview of our Data Score-cery._
 
 {% inlineimage post-center 1 %}
 
