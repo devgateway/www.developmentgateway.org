@@ -14,21 +14,23 @@ one_pager_data: '/expertise/topics.json'
 
 {% multicols pageintro half %}
 
-  ![Information Management](/images/other/meaningful-impact.png)
+<ul class="intro-list">
+  <li>Designing technology solutions that address real-world challenges;</li>
+  <li>Elevating users to take full advantage of data;</li>
+  <li>Learning and sharing what works.</li>
+</ul>
 
 <--colbreak-->
 
-<h2 class="grey intro-title">
-Designing technology solutions that address real-world challenges; elevating users to take full advantage of data; learning and sharing what works.
-</h2>
+![Information Management](/images/other/meaningful-impact.png)
 
 {% endmulticols %}
 
 <section class="page-section">
   <h3 class="blue">Over 15 years of experience with technology, data, and international development.</h3>
-  
+
   <p>We build innovative tools and help our partners use technology and data to achieve greater impact. We also study how technology and data can work even better for development. In all of our work, we promote transparency, openness, and citizen engagement.</p>
-  
+
 </section>
 
 <div class="layout-spacing">
@@ -36,7 +38,7 @@ Designing technology solutions that address real-world challenges; elevating use
     {% assign sorted_topics = site.collections.expertise_topics.docs | sort: 'weight' %}
     {% for entry in sorted_topics %}
       <section class="section-topic topic-{{ entry.id }}" id="{{ entry.id }}" data-onepager="{{ entry.permalink }}">
-        <h2 class="grey intro-title">{{ entry.title }}</h3>
+        <h2 class="intro-title">{{ entry.title }}</h3>
         <div id="{{ entry.id }}-content">
           <p><a href="{{ entry.permalink }}">Read more about {{ entry.title }}</a></p>
         </div>

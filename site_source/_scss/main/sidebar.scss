@@ -16,10 +16,15 @@
 .categories-wrapper {
   ul {
     list-style: none;
-    padding-left: $gen_gutter_width;
+    margin-left: 0;
+    margin-top: $gen_gutter_width /2;
+    padding-left: 0;
   }
   li {
     font-size: $large;
+    a {
+      font-weight: $font_weight_light;
+    }
   }
 }
 

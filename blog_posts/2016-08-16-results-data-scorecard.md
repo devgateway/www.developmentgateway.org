@@ -1,11 +1,11 @@
 ---
 layout: post
 author: "Katherine Wikrent and Danny Walker"
-title: "The Results Data Scorecard:  A glimpse at the importance and accessibility of results data" 
+title: "The Results Data Scorecard:  A glimpse at the importance and accessibility of results data"
 excerpt: >-
   A key component of the Results Data Initiative (RDI) was the development of the Results Data Scorecard...
-thumbnail: assets/post-images/21827766845_e4a223ae85_m.jpg
-thumbnail-alt: 
+thumbnail: assets/post-images/rdi-scorecard.png
+thumbnail-alt:
 images:
   - url: assets/post-images/scorecard.png
     alt: "World Bank's Scorecard"
@@ -17,11 +17,11 @@ categories: [Results Data, Innovation]
 published: true
 ---
 
-A key component of the [Results Data Initiative](http://www.developmentgateway.org/expertise/results/) (RDI) was the development of the [Results Data Scorecard](http://rdi.developmentgateway.org/#/?_k=a4xzwo), a mechanism for assessing how development organizations gather and publish results information. Improving how DPs track and report results has the potential to reduce duplication of efforts and improve programming effectiveness – critical if we are to meet the SDGs. 
+A key component of the [Results Data Initiative](http://www.developmentgateway.org/expertise/results/) (RDI) was the development of the [Results Data Scorecard](http://rdi.developmentgateway.org/#/?_k=a4xzwo), a mechanism for assessing how development organizations gather and publish results information. Improving how DPs track and report results has the potential to reduce duplication of efforts and improve programming effectiveness – critical if we are to meet the SDGs.
 
 So how accessible and useful are development partners’ results data? Not very: the most common source for results information is project documentation, oftentimes in PDF format. But based on our analysis, neither the PDF formats, nor differences across organizational templates, are major barriers to crosswalking results data. [In fact, we were able to get the data through scraping and data algorithms](http://rdi.developmentgateway.org). Rather, **the key barrier to useful results data has to do with varying levels of data openness and completeness**. By making improvements to **existing internal reporting templates**, development partners can make their information more accessible and comparable.
 
-And that’s where the scorecard comes in. Our Scorecard – accessible at the bottom of the [RDI data visualization page](http://rdi.developmentgateway.org/#/?_k=31hd1z) – assesses the quality of DP monitoring systems across five categories, and generates a composite score per organization. 
+And that’s where the scorecard comes in. Our Scorecard – accessible at the bottom of the [RDI data visualization page](http://rdi.developmentgateway.org/#/?_k=31hd1z) – assesses the quality of DP monitoring systems across five categories, and generates a composite score per organization.
 
 {% inlineimage post-center 1 include-caption %}
 

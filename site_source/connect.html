@@ -3,7 +3,7 @@ layout: page
 title: Connect
 title_summary: because you can contribute to a better tomorrow
 meta_description: "Subscribe, follow, or apply to a creative, dynamic, and international team that values innovation."
-page_navigation: 
+page_navigation:
   - id: connect
     title: Connect
   - id: join
@@ -39,7 +39,7 @@ published: true
   <h3 class="highlighted-title">Current Job Openings</h3>
   <p>Join our growing team! We are creative thinkers and doers obsessed with finding practical solutions to complex development challenges. Headquartered in DC, we are a global team with colleagues based in 10+ countries. Competitive compensation and generous benefits package, including automatic 403B contribution, paid parental leave, sabbatical program, flexible work schedule, and much, much more.</p>
 
-  <ul class="columns-list columns-list--half">
+  <ul class="columns-list columns-list--half bulleted">
     {% for career in site.data.careers %}
     <li class="entry">
       <a href="{{ career.file | prepend: '/assets/careers/' | prepend: site.url }}" target="_blank">

@@ -49,6 +49,15 @@ body,
   list-style-type: none;
   padding: 0;
 
+  &.bulleted {
+    list-style-type: square;
+    margin-left: 0.6em;
+    li {
+      display: list-item;
+      width: 28em;
+    }
+  }
+
   @include media-query-max($bp_small) {
     padding: 0 1em;
   }
