@@ -4,8 +4,8 @@ author: "Katherine Wikrent and Danny Walker"
 title: "Score! A new way to assess DP monitoring systems" 
 excerpt: >-
   In a recent post we introduced the Results Data Scorecard, a method for assessing the accessibility of results data across development partners. In this post, we’d like to briefly introduce the categories of the scorecard itself....
-thumbnail: 
-thumbnail-alt: 
+thumbnail: assets/post-images/scorecard.png
+thumbnail-alt: RDI scorecard
 images:
   - url: assets/post-images/RDIScorecard_methodology.png
     alt: "Overview of our Data Score-cery"
