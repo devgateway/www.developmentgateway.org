@@ -14,7 +14,7 @@ categories: [Results Data, Innovation]
 published: true
 ---
 
-In a recent post we introduced the Results Data Scorecard, a method for assessing the accessibility of results data across development partners. In this post, we’d like to briefly introduce the categories of the scorecard itself.
+In a [recent post](http://www.developmentgateway.org/2016/08/16/results-data-scorecard/) we introduced the Results Data Scorecard, a method for assessing the accessibility of results data across development partners. In this post, we’d like to briefly introduce the categories of the scorecard itself.
 
 **Overall Scorecard Methodology**
 
