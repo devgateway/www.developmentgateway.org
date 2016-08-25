@@ -4,7 +4,7 @@ author: "Katherine Wikrent and Danny Walker"
 title: "The Results Data Scorecard:  A glimpse at the importance and accessibility of results data"
 excerpt: >-
   A key component of the Results Data Initiative (RDI) was the development of the Results Data Scorecard...
-thumbnail: assets/post-images/rdi-scorecard.png
+thumbnail: assets/post-images/RDI-DFID.jpg
 thumbnail-alt:
 images:
   - url: assets/post-images/scorecard.png
