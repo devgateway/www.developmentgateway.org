@@ -9,19 +9,19 @@ thumbnail-alt:
 images:
   - url: assets/post-images/mapafrica2.png
     alt: "MapAfrica 2.0"
-    caption: "Figure 1: MapAfrica 2.0"
+    caption: "*Figure 1: MapAfrica 2.0*"
   - url: assets/post-images/Rwanda-box.jpg
     alt: "Project Detail"
     caption: "Figure 2: Project detail"
   - url: assets/post-images/mapafrica_projectstory.png
     alt: "Project Story"
-    caption: "Figure 2: Project detail and corresponding project story"
+    caption: "*Figure 2: Project detail and corresponding project story*"
   - url: assets/post-images/iatiimport.png
     alt: "IATI Import"
-    caption: "Figure 3: IATI import workflow"
+    caption: "*Figure 3: IATI import workflow*"
   - url: assets/post-images/mapafrica_technologystack.png
     alt: "Technology Stack"
-    caption: "Figure 4: Technology stack"
+    caption: "*Figure 4: Technology stack*"
 categories: [Innovation, Aid Management]
 published: true
 ---
