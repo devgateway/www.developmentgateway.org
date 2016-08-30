@@ -10,10 +10,10 @@ images:
   - url: assets/post-images/mapafrica2.png
     alt: "MapAfrica 2.0"
     caption: "Figure 1: MapAfrica 2.0"
-  - url: assets/post-images/mapafrica_projectdetail.png
+  - url: assets/post-images/Rwanda-box.jpg
     alt: "Project Detail"
     caption: "Figure 2: Project detail"
-  - url: assets/post-images/Rwanda-box.jpg
+  - url: assets/post-images/mapafrica_projectstory.png
     alt: "Project Story"
     caption: "Figure 2: Project detail and corresponding project story"
   - url: assets/post-images/iatiimport.png
