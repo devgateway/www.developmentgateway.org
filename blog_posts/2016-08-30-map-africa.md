@@ -13,7 +13,7 @@ images:
   - url: assets/post-images/mapafrica_projectdetail.png
     alt: "Project Detail"
     caption: "Figure 2: Project detail"
-  - url: assets/post-images/mapafrica_projectstory.png
+  - url: assets/post-images/Rwanda-box.jpg
     alt: "Project Story"
     caption: "Figure 2: Project detail and corresponding project story"
   - url: assets/post-images/iatiimport.png
