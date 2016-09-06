@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Kathryn Alexander & Paige Kirby"
+author: "Kathryn Alexander"
 title: "RDI Policy Brief: Increasing the Impact of Results Data" 
 excerpt: >-
   We are pleased to share our Policy Brief: Increasing the Impact of Results Data, which distills findings from our Results Data Initiative (RDI)....
