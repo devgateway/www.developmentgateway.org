@@ -22,4 +22,4 @@ As we continue pursuing a “data revolution” for sustainable development, we 
 - Identifying and build up data leaders
 - Responding to local data demands
 
-Please [reach out](mailto:pkirby@developmentgateway.org) with any questions or feedback; for country-specific reports, please visit the [RDI webpage](http://www.developmentgateway.org/expertise/results/).
+Please [reach out](mailto:pkirby@developmentgateway.org) with any questions or feedback; for country-specific reports, please visit the [RDI webpage](http://www.developmentgateway.org/expertise/results/). 
