@@ -27,7 +27,7 @@ DG’s task, with support from the World Bank, was to develop three sector-speci
 
 As an organization with extensive experience developing technology platforms and data visualizations, we know that different audiences understand, and interact with, data differently. More to the point: It is easier for people to look at numbers, charts, or maps than use such data to move business or government forward. 
 
-With this in mind, our goal was to [develop a system]({% post_url 2015-09-18-designing-human-centered-data-revolution/ %}) that would help users move from analyzing to *applying* data. Specifically, we designed the user interface with specific audiences and “use cases” in mind. In the [Education Dashboard](http://elimu.takwimu.org/#/), for example, we tried to make it easier for:
+With this in mind, our goal was to [develop a system]({% post_url 2015-09-18-designing-human-centered-data-revolution %}) that would help users move from analyzing to *applying* data. Specifically, we designed the user interface with specific audiences and “use cases” in mind. In the [Education Dashboard](http://elimu.takwimu.org/#/), for example, we tried to make it easier for:
 
 - parents to look up a school by name and view its performance record over time;
 
