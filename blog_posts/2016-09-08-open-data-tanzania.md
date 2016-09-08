@@ -4,7 +4,7 @@ author: "Mark Irura and Diego Dimunzio"
 title: "How open data supports Big Results Now in Tanzania" 
 excerpt: >-
   We’re in the midst of a “data revolution” for development -- both with our collective focus toward achieving the Sustainable Development Goals, and the expansion of demand and tools for using data sourced from public, private, and citizen-generated spheres....
-thumbnail: assets/post-images/1118599048_d8ed4f0cd1_z.jpg
+thumbnail: assets/post-images/tzmama.jpg
 thumbnail-alt: tanzania
 images:
   - url: assets/post-images/TZdashboard1.png
@@ -12,7 +12,7 @@ images:
     caption: "*Figure 1: Tanzania Sectoral Dashboards*"
   - url: assets/post-images/TZdashboard2.png
     alt: "Tanzania Education Dashboard"
-    caption: "*Figure 2: Tanzania Education Dashboard]*"
+    caption: "*Figure 2: Tanzania Education Dashboard*"
 categories: [Open Data, Innovation]
 published: true
 ---
