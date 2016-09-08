@@ -34,7 +34,8 @@ With this in mind, our goal was to [develop a system]({% post_url 2015-09-18-des
 - journalists to access benchmarking tables with best/worst performing schools, districts, and regions;
 
 - lawmakers to view, share, or export the geographic coordinates of schools with fellow officials, or include in a presentation;
-anyone to report missing data or incorrect data sets.
+
+- anyone to report missing data or incorrect data sets.
 
 {% inlineimage post-center 2 include-caption %}
 
