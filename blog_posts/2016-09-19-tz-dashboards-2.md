@@ -4,8 +4,8 @@ author: "Diego Dimunzio and Mark Irura"
 title: "From Data Sets to Data Visualization: Tanzania Dashboards" 
 excerpt: >-
   In this post, we dive into the technology behind the data visualizations....
-thumbnail: 
-thumbnail-alt: 
+thumbnail: assets/post-images/tzwaterpoints.png
+thumbnail-alt: waterpoints
 images:
   - url: assets/post-images/dashboardtech.png
     alt: "Key libraries and technology used to build the dashboards"
@@ -13,7 +13,7 @@ images:
   - url: assets/post-images/tzwaterpoints.png
     alt: "Waterpoint Map with Prune Clusters"
     caption: "*Figure 2: Waterpoint Map with Prune Clusters.*"
-  - url: 
+  - url: assets/post-images/tzhealth.jpg
     alt: "Tanzania Health Dashboard charts"
     caption: "*Figure 3: Tanzania Health Dashboard charts.*"
 categories: [Open Data, Innovation]
