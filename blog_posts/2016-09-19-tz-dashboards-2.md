@@ -13,7 +13,7 @@ images:
   - url: assets/post-images/tzwaterpoints.png
     alt: "Waterpoint Map with Prune Clusters"
     caption: "*Figure 2: Waterpoint Map with Prune Clusters.*"
-  - url: assets/post-images/tzhealth.jpg
+  - url: assets/post-images/TZhealth.jpg
     alt: "Tanzania Health Dashboard charts"
     caption: "*Figure 3: Tanzania Health Dashboard charts.*"
 categories: [Open Data, Innovation]
