@@ -61,6 +61,6 @@ In addition, integrating the Toolkit with other Cities Alliance tools such as [r
 
 **Interested in learning more or collaborating to this work?** 
 
-Please do contact us! We would love to hear your insights and talk.
+Please do contact [us](mailto:info@opengovhub.org)! We would love to hear your insights and talk.
 
 *Image: [Cliff Hellis](https://www.flickr.com/photos/30099537@N02/7105129557/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
