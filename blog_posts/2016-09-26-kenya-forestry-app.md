@@ -9,7 +9,7 @@ thumbnail-alt: "Kenya mangrove"
 images:
   - url: assets/post-images/kenyaforestry.png
     alt: "Kenya Forestry Prototype"
-    caption: "*Figure 1: [Kenya Forestry Prototype](http://devgateway.github.io/kenya-forestry/#/?_k=9bm0v0) *"
+    caption: "*Figure 1: [Kenya Forestry Prototype](http://devgateway.github.io/kenya-forestry/#/?_k=9bm0v0)*"
   - url: assets/post-images/kenyaforestrytech.png
     alt: "Technologies used in the forestry application"
     caption: "*Figure 2: Technologies used in the forestry application*"
