@@ -1,9 +1,6 @@
 - name: Julian Eduardo de Anquin
   country: Argentina
-
-- name: Brian Baldwin
-  country: United States of America
-  
+ 
 - name: Marina Baralo
   country: Argentina
 
@@ -33,9 +30,6 @@
 
 - name: Sebastian Dimunzio
   country: Argentina
-
-- name: Constantin Dolghier
-  country: Romania
 
 - name: Ramin Ghanbarpour
   country: Iran
@@ -107,7 +101,7 @@
   country: Argentina
 
 - name: Mihai Postelnicu
-  country: Romania
+  country: Finland
 
 - name: Roberto Rosa
   country: El Salvador
@@ -120,9 +114,6 @@
 
 - name: Walter Werner Schneider
   country: Romania
-  
-- name: Ernesto Soliani
-  country: Argentina
 
 - name: Susan Stout
   country: United States of America
