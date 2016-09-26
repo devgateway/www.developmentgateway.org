@@ -43,6 +43,6 @@ Map layers include details of forest coverage by counties. These were transforme
 
 **Conclusion and Next Steps**
 
-In the near future, through this collaboration, we aim to expand [this tool](http://devgateway.github.io/kenya-forestry/#/?_k=9bm0v0) to include more datasets and features that helps farmers, CSOs and concerned citizens know what trees to plant where. But in the meantime, we still hope the forestry app offers a meaningful example of how simple tech and already-available data can be used to accelerate progress toward the SDGS.
+In the near future, through this collaboration, we aim to expand [this tool](http://devgateway.github.io/kenya-forestry/#/?_k=9bm0v0) to include more datasets and features that helps farmers, CSOs and concerned citizens know what trees to plant where. But in the meantime, we still hope the forestry app offers a meaningful example of how simple tech and already-available data can be used to accelerate progress toward the SDGs.
 
 *Image: [Romy Chevallier](https://www.flickr.com/photos/134781923@N06/22654391926/in/photolist-AvTFsf-a5QLw3-6tnrsU-dxZK53-a5NnAV-zShgjF-7zinBB-v7J1LW-5sazAp-3KztNE-7zDdwN-7zyS2c-CMtiiL-voLPxf-a5MVhr-a5QLiY-v7RSWx-95sPKy-a2hEti-oaVkae-CymYbw-CytyLk-ug6Q4h-bim1NX-9EaCit-9EdNns-9Eefp5-bnSBvz-4c9MxU-6TgygT-b9o3HR-bnSAiX-9EdFRs-zWJdCS-qtTFs8-bnSAra-bnSzi2-zZTp9h-bnSBbr-bnSBn2-oCgdVV-bnSB3k-bnSAwK-3nW62k-9Eb7wZ-9EbmLv-9EedU7-DfhHg-7sRqS-9Eebhh) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
