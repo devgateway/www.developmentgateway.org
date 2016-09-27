@@ -7,7 +7,7 @@ excerpt: >-
 thumbnail: assets/post-images/africacity.jpg
 thumbnail-alt: "urban growth"
 images:
-  - url: assets/post-images/citydatamaturity.png
+  - url: assets/post-images/datamaturity3.png
     alt: "Data maturity self-assessments"
     caption: "*Figure 1: Data maturity self-assessments*"
 categories: [Innovation]
