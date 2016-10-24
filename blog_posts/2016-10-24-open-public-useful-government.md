@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Daniel Oliva Bianco"
-title: "Title: Open for the Public, Useful for the Government" 
+title: "Open for the Public, Useful for the Government" 
 excerpt: >-
   When we started to plan the technical architecture of the new GIS Portal for the Philippine National Economic and Development Agency (NEDA), we focused on a core goal: not only should information related to development assistance and public investment projects be easily accessible to the public...
 thumbnail: assets/post-images/mapui-geoph.jpg
