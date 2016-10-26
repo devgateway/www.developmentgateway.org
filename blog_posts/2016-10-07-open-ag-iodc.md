@@ -6,7 +6,7 @@ excerpt: >-
   Development Gateway has been part of the Initiative for OpenAg Funding, which aims to end hunger and food insecurity by improving and making agriculture investment data more accessible, in order for practitioners to make better decisions about how to invest in these issues....
 thumbnail: assets/post-images/Agriculture.jpg
 thumbnail-alt: "agriculture"
-categories: [Open Data, Aid Effectiveness]
+categories: [Open Data]
 published: true
 ---
 
