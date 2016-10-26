@@ -54,11 +54,11 @@ By combining [D3](https://d3js.org/) and Leaflet, we could have both a solid map
 In the portal’s **backend**, we reused some of the modules provided by the [DG Toolkit](https://github.com/devgateway/dg-toolkit) to create a standalone, java-based application program interface (API) that implements a set of REST services, which provides the information needed to feed the UI module.
 
 Some of the features provided for the services’ endpoints are:
-- Aggregated data for chart visualization
-- List of filters that can be applied at UI
-- Specific data by location with [GeoJSON](http://geojson.org/) format
-- Import of indicators
-- Export of data in different formats (PDF, XLS, CSV)
+ - Aggregated data for chart visualization
+ - List of filters that can be applied at UI
+ - Specific data by location with [GeoJSON](http://geojson.org/) format
+ - Import of indicators
+ - Export of data in different formats (PDF, XLS, CSV)
 
 {% inlineimage post-center 3 include-caption %}
 
