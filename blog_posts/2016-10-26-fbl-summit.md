@@ -6,7 +6,7 @@ excerpt: >-
   Ensuring that those who are intended to benefit from our programs and services are involved in the process makes sense, right? Everyone should be nodding furiously. What does it mean in practice? How do we incorporate constituent voices into the planning, execution, and evaluation processes?...
 thumbnail: assets/post-images/feedbackloop.png
 thumbnail-alt: "feedback loop"
-categories: [Aid Effectiveness]
+categories: [Results Data]
 published: true
 ---
 
