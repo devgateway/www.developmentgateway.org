@@ -28,6 +28,7 @@ published: true
 When we started to plan the technical architecture of the [new GIS Portal for the Philippines' National Economic and Development Agency (NEDA)](http://neda.developmentgateway.org/#/map/tools?_k=w19mta), we focused on a core goal: not only should information related to development assistance and public investment projects be easily accessible to the public, in order to facilitate government transparency; the tool should be also useful to the agencies that manage the information shown in the GIS Portal. We believe that if the government finds the application practical, and can use the tool to make decisions based on the maps, charts, and layers provided, they will work to ensure the data is maintained and updated regularly. If data is updated regularly, we in turn feel that this will help citizen engagement will grow.
 
 With the above idea in mind, we also had a list of initial technical requirements, including:  
+
  - Ability to show project layers by ADM levels (region/province/municipality)
  - Funding allocation by region
  - Ability to filter the projects’ information by several fields
@@ -36,6 +37,7 @@ With the above idea in mind, we also had a list of initial technical requirement
  - An admin module to configure specific data to show to end-users
 
 And some non-functional requirements, like:
+
  - Optimized for slow internet connection
  - Straightforward user interface
  - Separation between frontend and backend, so the backend could be replaced in the future with local REST endpoints
@@ -54,6 +56,7 @@ By combining [D3](https://d3js.org/) and Leaflet, we could have both a solid map
 In the portal’s **backend**, we reused some of the modules provided by the [DG Toolkit](https://github.com/devgateway/dg-toolkit) to create a standalone, java-based application program interface (API) that implements a set of REST services, which provides the information needed to feed the UI module.
 
 Some of the features provided for the services’ endpoints are:
+
  - Aggregated data for chart visualization
  - List of filters that can be applied at UI
  - Specific data by location with [GeoJSON](http://geojson.org/) format
