@@ -14,14 +14,14 @@ categories: []
 published: true
 ---
 
-DG has been spearheading a lot of work around disaster resilience in cities around the world. Specifically, we’ve been interested in how governments and citizens can plan against the worst-case scenarios, to minimize disruptive impacts and to help communities bounce back quicker and better. Projects like our [Cities Data Toolkit]({% post_url 2016-09-22-cities-toolkit %}) focus on increasing a city’s ability to be resilient, by increasing a city’s use of data-driven planning.
+DG has been spearheading new work on disaster resilience in cities around the world. Specifically, we’ve been exploring how governments and citizens can plan against the worst-case scenarios to minimize disruptive impacts and to help communities bounce back quicker and better. Projects like our [Cities Data Toolkit]({% post_url 2016-09-22-cities-toolkit %}) increase a city’s ability to be resilient by improving data-driven planning.
+
+But what if we were to contextualize our work to DG's home city, Washington, DC, and a timely problem many of us fear -- especially close to Halloween -- zombie apocalypse?
 
 
-But what if we were contextualize our work to DG's home city, Washington, DC, and a timely problem we will inevitably face -- the zombie apocalypse?
-
-
-We have all thought about and worried over what we would do if we were in a zombie apocalypse. 
-
+Can you imagine no power, no running water, no way to exit your exceedingly zombie-infested city; what would be your plan to make yourself and your loved ones safe? How would you survive?
+ 
+Zombie apocalypses should be treated no differently than any other “unknown” your city may face. In light of the suite of potential scary emergencies we may face in our lives – whether it’s a flood, earthquake, or a zombie shake-down – the first and most thing to do is to stay calm. And have a plan.
 
 No power, no running water, no way to exit your exceedingly zombie-infested city; what would be your plan to make yourself and your loved ones safe? What would be your plan to survive?
  
