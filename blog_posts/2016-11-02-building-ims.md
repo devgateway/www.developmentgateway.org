@@ -22,7 +22,7 @@ images:
 categories: [Innovation]
 published: true
 ---
-The United Nation Development Group’s Information Management System (IMS) is [one of the largest software tools]({% post_url 2014-10-08-coordinating-un-development-efforts-for-better-results %}) DG has ever built.  With users on 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories.
+The United Nation Development Group’s Information Management System (IMS) is [one of the largest software tools]({% post_url 2014-10-08-coordinating-un-development-efforts-for-better-results %}) DG has ever built.  With users in 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories.
  
 We’ve worked closely with our counterparts at the [UN Development Operations Coordination Office](https://undg.org/home/about-undg/doco/) (which serves as the Secretariat of the UNDG) to develop a system that would be flexible enough to respond to the needs of many types of users. The process of getting to that final product, what happens behind the curtain, is the fun part most people don’t get to see. (For a particularly geeky definition of fun.)
  
