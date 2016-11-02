@@ -3,7 +3,7 @@ layout: post
 author: "Ionut Dobre and Martha Staid"
 title: "How to Build an Information Management System (one hurdle at a time)" 
 excerpt: >-
-  The United Nation Development Group’s Information Management System (IMS) is one of the largest software tools DG has ever built.  With users in 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories....
+  The United Nation Development Group’s Information Management System (IMS) is one of the largest software tools DG has ever built.  With users on 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories....
 thumbnail: assets/post-images/blueprint.jpg
 thumbnail-alt: "blueprint"
 images:
@@ -22,7 +22,7 @@ images:
 categories: [Innovation]
 published: true
 ---
-The United Nation Development Group’s Information Management System (IMS) is [one of the largest software tools]({% post_url 2014-10-08-coordinating-un-development-efforts-for-better-results %}) DG has ever built.  With users in 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories.
+The United Nation Development Group’s Information Management System (IMS) is [one of the largest software tools]({% post_url 2014-10-08-coordinating-un-development-efforts-for-better-results %}) DG has ever built.  With users on 131 UN Country Teams, the IMS tracks progress toward core UN goals on and coherence in 165 countries and territories.
  
 We’ve worked closely with our counterparts at the [UN Development Operations Coordination Office](https://undg.org/home/about-undg/doco/) (which serves as the Secretariat of the UNDG) to develop a system that would be flexible enough to respond to the needs of many types of users. The process of getting to that final product, what happens behind the curtain, is the fun part most people don’t get to see. (For a particularly geeky definition of fun.)
  
@@ -82,5 +82,7 @@ This feature **saves users from mandatory re-entry of data for over 89% of field
 
 
 So now what happens to all that carefully collected data? Stay tuned for part 2, on how we applied this same “flexibility + usability” approach to the IMS reports and data visualizations.
+
+*DG's IMS Team: Catalin Andrei, Carmen Cañas, Octavian Ciubotaru, Taryn Davis, Ionut Dobre, Galina Kalvatcheva, Paige Kirby, Mihai Postelnicu, Martha Staid, Llanco Talamantes*
 
 *Image: [RHiNO NEAL](https://www.flickr.com/photos/rhinoneal/8060238470/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
