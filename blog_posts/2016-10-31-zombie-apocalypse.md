@@ -16,7 +16,7 @@ published: true
 
 DG has been spearheading new work on disaster resilience in cities around the world. Specifically, we’ve been exploring how governments and citizens can plan against the worst-case scenarios to minimize disruptive impacts and to help communities bounce back quicker and better. Projects like our [Cities Data Toolkit]({% post_url 2016-09-22-cities-toolkit %}) increase a city’s ability to be resilient by improving data-driven planning.
 
-But what if we were to contextualize our work to DG's home city, Washington, DC, and a timely problem many of us fear -- especially close to Halloween -- zombie apocalypse?
+But what if we were to contextualize our work to DG's home city, Washington, DC, and a timely problem many of us fear -- especially close to Halloween -- a zombie apocalypse?
 
 Can you imagine no power, no running water, no way to exit your exceedingly zombie-infested city; what would be your plan to make yourself and your loved ones safe? How would you survive?
  
