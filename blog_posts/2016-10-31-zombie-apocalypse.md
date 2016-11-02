@@ -18,14 +18,9 @@ DG has been spearheading new work on disaster resilience in cities around the wo
 
 But what if we were to contextualize our work to DG's home city, Washington, DC, and a timely problem many of us fear -- especially close to Halloween -- zombie apocalypse?
 
-
 Can you imagine no power, no running water, no way to exit your exceedingly zombie-infested city; what would be your plan to make yourself and your loved ones safe? How would you survive?
  
 Zombie apocalypses should be treated no differently than any other “unknown” your city may face. In light of the suite of potential scary emergencies we may face in our lives – whether it’s a flood, earthquake, or a zombie shake-down – the first and most important thing to do is to stay calm. And have a plan.
-
-No power, no running water, no way to exit your exceedingly zombie-infested city; what would be your plan to make yourself and your loved ones safe? What would be your plan to survive?
- 
-Zombie apocalypses should be treated no differently than any other “unknown” your city may face. In light of the suite of potential scary emergencies we may face in our lives – whether it’s a flood, earthquake, or a zombie shake-down – the first and most thing to do is to stay calm. And have a plan.
 
 {% inlineimage post-center 1 include-caption %}
 
