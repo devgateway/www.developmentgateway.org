@@ -3,7 +3,7 @@ layout: post
 author: "Megan O'Donnell and Tanvi Jaluka"
 title: "Making Gender Data Count: Can IATI Help?" 
 excerpt: >-
-  CGD recently co-hosted a workshop with Data2X, the Millennium Challenge Corporation (MCC), and Development Gateway on the potential of the International Aid Transparency Initiative (IATI) to comprehensively track aid flows and outcomes. Specifically, the discussion explored how IATI can be used to improve the availability of gender data and ensure that women and girls benefit equally from development investments....
+  CGD recently co-hosted a workshop with Data2X, the Millennium Challenge Corporation (MCC), and Development Gateway on the potential of the International Aid Transparency Initiative (IATI) to comprehensively track aid flows and outcomes....
 thumbnail: assets/post-images/Genderissues.jpg
 thumbnail-alt: "Women collectin water in Benin"
 categories: [Open Data, Aid Effectiveness]
