@@ -4,8 +4,8 @@ author: "Danny Walker"
 title: "The Devel(opment) is in the Details: A Detailed Look into our Metrics" 
 excerpt: >-
   In Parts 1 and 2 of this series, we explored how the robust, timely, and valid collection of output data enhances transparency and collaboration, leads to better outcomes, and can even support claims of causality. In this last part of the series, we invite the reader to take a deeper dive with us into our scorecard methodology....
-thumbnail: 
-thumbnail-alt: ""
+thumbnail: assets/post-images/RDIoperationalization.jpg
+thumbnail-alt: "RDI metrics"
 images:
   - url: assets/post-images/RDImetrics1.png
     alt: "Table 1: Score categories, criterion, and beyond"
@@ -57,7 +57,7 @@ With our literature-informed operationalization constructed, we then settled on 
 
 Understanding how data will be used and by whom can help ensure data efforts are targeted and efficient. Similarly, in assigning weights, we wanted to ensure that the elements of the monitoring systems that will most affect the end user held the most weight in the final DP score. For this reason, the weight assigned to each criterion is anchored to how essential that element is to the experience of the end user; in the “Ease of Automatic Monitoring Data Extraction” category, for example, donor use of [open formats](https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data) is more essential for the end user to make use of data than is the use of a standardized monitoring template, so it receives a higher weight.
 
-_Table 2: Weight for it- Prioritizing End User Experience_
+_Table 2: Weight for it -- Prioritizing End User Experience_
 
 {% inlineimage post-center 2 %}
 
@@ -69,7 +69,8 @@ _Table 3: Picture perfect -- A completed scorecard subsection_
 
 {% inlineimage post-center 3 %}
 
-**(Data) Framing the Conversation with development partners**
+
+**(Data) Framing the Conversation with Development Partners**
 
 With the scoring behind us, our priority now is to consult with development partners to discuss the results of the Scorecard in order to hear directly about the challenges to data access and use they have encountered.  The aim is to find ways to make project data available, open, and actionable. After all, if the data are not [useful, why collect them in the first place?]({% post_url 2014-12-02-the-demand-side-of-the-data-revolution-lessons-from-the-government-of-nepal %})
 
