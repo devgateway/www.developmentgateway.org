@@ -33,21 +33,21 @@ Having settled on our scoring criteria (outlined in [Part 2]({% post_url 2016-08
 
 With these considerations in mind the following table presents the categories and criterion of the Scorecard along with relevant definitions, scales, and data classification types.
 
-_Table 1: Score categories, criterion, and beyond_
+->*Table 1: Score categories, criterion, and beyond*<-
 
 {% inlineimage post-center 1 %}
 
 As evidenced by the table, each criterion was given a score based on a 0-4 scale or a binary indicator (0,1). Each criterion also had its own scoring protocol. The protocol for scoring Site Navigability, for example, was outlined thusly:
 
-*“Note any difficulties you [the scorer] encountered throughout your search in searching for and retrieving project documentation like browser incompatibility with site features, nondescriptive subpage or section titles, databases with limited search or filter functionality, noncentralization of documentation, or link loops. If no navigability issues exist, give a score of 4.  If some navigability issues exist, give a score of 0-3, depending on how frequent and severe the interruptions are/ were.”*
+> *“Note any difficulties you [the scorer] encountered throughout your search in searching for and retrieving project documentation like browser incompatibility with site features, nondescriptive subpage or section titles, databases with limited search or filter functionality, noncentralization of documentation, or link loops. If no navigability issues exist, give a score of 4.  If some navigability issues exist, give a score of 0-3, depending on how frequent and severe the interruptions are/ were.”*
 
 Use of Open Formats is another good example:
 
-*“Note how frequently project documentation is offered in open formats such as TXT, DOCX, ODT, CSV, ODP, JPEG, PNG, SVG, GIF, JSON, or XML in place of closed formats such as PDF, DOC, XLS, PPT, or PSD. If a donor offers the same documents in both open and closed formats, consider them as offering that document in open format. If the donor never uses open formats, give a score of 0. If the donor always uses open formats, give a score of 4.  If the donor offers a mix of open and closed project documentation, give a score of 1-3, depending on the percent of total project documents that are open in nature.”*
+> *“Note how frequently project documentation is offered in open formats such as TXT, DOCX, ODT, CSV, ODP, JPEG, PNG, SVG, GIF, JSON, or XML in place of closed formats such as PDF, DOC, XLS, PPT, or PSD. If a donor offers the same documents in both open and closed formats, consider them as offering that document in open format. If the donor never uses open formats, give a score of 0. If the donor always uses open formats, give a score of 4.  If the donor offers a mix of open and closed project documentation, give a score of 1-3, depending on the percent of total project documents that are open in nature.”*
 
 Each organization was held to these scoring protocols in turn. Consider, for example, the explanation for DFID’s receiving a “3” out of “4” for Site Navigability:
 
-*“The central DFID site does not operate on a standalone basis, but rather as a subsection of the general [UK.gov](https://www.gov.uk) site. This can lead to some confusion when using the site to search for DFID-specific information, as the search bar returns results from the entire UK.gov site, and not just the DFID section. Searching for project reporting guidelines, for example, returned hundreds of irrelevant results from non-DFID subsections. Further, the "Publications" page only allows for limited filter options. Project documentation is relatively easy to search through the [Development Tracker portal](https://devtracker.dfid.gov.uk/location/country), though this portal lacks year filter functionality. While the DFID website is largely clean and its subsections well labeled, there is room for improvement of the search and filter functionalities.”*
+> *“The central DFID site does not operate on a standalone basis, but rather as a subsection of the general [UK.gov](https://www.gov.uk) site. This can lead to some confusion when using the site to search for DFID-specific information, as the search bar returns results from the entire UK.gov site, and not just the DFID section. Searching for project reporting guidelines, for example, returned hundreds of irrelevant results from non-DFID subsections. Further, the "Publications" page only allows for limited filter options. Project documentation is relatively easy to search through the [Development Tracker portal](https://devtracker.dfid.gov.uk/location/country), though this portal lacks year filter functionality. While the DFID website is largely clean and its subsections well labeled, there is room for improvement of the search and filter functionalities.”*
 
 Each organization was subject to fair, but meticulous scrutiny in order to identify clear areas of best practice and site or policy features in need of improvement. The idea again being to inspire collaboration between Development Gateway and these organization as opposed to shaming the organizations or comparing them to some unrealistic ideal.
 
@@ -57,7 +57,7 @@ With our literature-informed operationalization constructed, we then settled on 
 
 Understanding how data will be used and by whom can help ensure data efforts are targeted and efficient. Similarly, in assigning weights, we wanted to ensure that the elements of the monitoring systems that will most affect the end user held the most weight in the final DP score. For this reason, the weight assigned to each criterion is anchored to how essential that element is to the experience of the end user; in the “Ease of Automatic Monitoring Data Extraction” category, for example, donor use of [open formats](https://www.data.gov/developers/blog/primer-machine-readability-online-documents-and-data) is more essential for the end user to make use of data than is the use of a standardized monitoring template, so it receives a higher weight.
 
-_Table 2: Weight for it -- Prioritizing End User Experience_
+->*Table 2: Weight for it -- Prioritizing End User Experience*<-
 
 {% inlineimage post-center 2 %}
 
@@ -65,7 +65,7 @@ _Table 2: Weight for it -- Prioritizing End User Experience_
 
 With all indicators scored for all development partners, weighted category subscores calculated, and a final average of subscores run to generate a final score, our initial scorecard work was finally complete. Below is a visual overview of the scoring process—a snippet from the final cross-partner scorecard set, with scores from the “Monitoring Data Accessibility” category.
 
-_Table 3: Picture perfect -- A completed scorecard subsection_
+->*Table 3: Picture perfect -- A completed scorecard subsections*<-
 
 {% inlineimage post-center 3 %}
 
