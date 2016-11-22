@@ -1,12 +1,15 @@
---
-layout: post
-author: Jean-Louis Sarbib
-title: "From Tech4Dev to Tech4Use"
-excerpt: "This post is excerpted from Development Gateway’s newsletter."
-thumbnail: assets/post-images/Nov16 newsletter.png
-thumbnail-alt: 'November 2016 Newsletter'
-categories: []
 ---
+layout: post
+author: "Jean-Louis Sarbib"
+title: "From Tech4Dev to Tech4Use" 
+excerpt: >-
+  This post is excerpted from Development Gateway’s newsletter...
+thumbnail: assets/post-images/Nov16newsletter.png
+thumbnail-alt: "November 2016 Newsletter"
+categories: []
+published: true
+---
+
 *This post is excerpted from Development Gateway’s November newsletter. [Click here to receive DG's newsletter directly to your email.](http://eepurl.com/UEJ6j)*
 
 As a learning organization, DG has come a long way in our understanding of the needs of development data users. Turning more data into *more useful* data can [be facilitated by technology]({% post_url 2016-09-08-open-data-tanzania %}). But, just as importantly, a culture of data use also requires the right [incentives, resources, and leadership]({% post_url 2016-09-06-rdi-policy-brief %}) -- a challenge that will require more collaboration and innovation as a development community.
