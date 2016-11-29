@@ -3,43 +3,46 @@
 
 - name: Asian Development Bank
 
-- name: Athena Infonomics
+- name: The World Bank Group
+
+- name: OECD
+
+- name: United Nations Development Group
+
+- name: United Nations Development Programme
+
 
 - name: The Bill & Melinda Gates Foundation
 
-- name: Brigham Young University
+- name: Fund For Shared Insight
 
-- name: The College of William & Mary
+- name: The William and Flora Hewlett Foundation
 
-- name: DataVision International
 
-- name: DEXIS Consulting Group
+- name: French Ministry of Foreign Affairs & International Development
+
+- name: UK Department for International Development
+
+- name: US Agency for International Development
 
 - name: European Comission
+
+- name: Japan International Cooperation Agency
+
+
+- name: DEXIS Consulting Group
 
 - name: EITI Secretariat
 
 - name: ESRI
 
-- name: French Ministry of Foreign Affairs & International Development
-
-- name: Fund For Shared Insight
-
 - name: GlobalGiving
 
 - name: Institute of Development Studies
 
-- name: Inter-American Development Bank
-
-- name: International Finance Corporation
-
 - name: The International Solutions Group
 
-- name: Japan International Cooperation Agency
-
 - name: Keystone Accountability
-
-- name: Management Frontiers 
 
 - name: NESTA
 
@@ -47,19 +50,23 @@
 
 - name: Plan International
 
-- name: Organisation for Economic Co-operation and Development
-
 - name: Reboot
-
-- name: Research Trust Limited
 
 - name: Social Impact
 
-- name: UK Department for International Development
 
-- name: United Nations Development Group
+- name: Athena Infonomics
 
-- name: United Nations Development Programme
+- name: DataVision International
+
+- name: Management Frontiers 
+
+- name: Research Trust Limited
+
+
+- name: Brigham Young University
+
+- name: The College of William & Mary
 
 - name: University of Maryland – College Park
 
@@ -67,8 +74,4 @@
 
 - name: University of Texas at Austin
 
-- name: US Agency for International Development
 
-- name: The William and Flora Hewlett Foundation
-
-- name: The World Bank Group
