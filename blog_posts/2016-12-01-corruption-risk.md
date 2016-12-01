@@ -3,7 +3,7 @@ layout: post
 author: "Andrew Mandelbaum"
 title: "Detecting Corruption Risk through Open Contracting" 
 excerpt: >-
-  At this month’s Open Government Partnership (OGP) Global Summit in Paris, many government and civil society participants will be talking about open contracting. Dozens of countries - from Nigeria and Paraguay, to France, our hosts -- are committing to implement the principles of open contracting...
+  At this month’s Open Government Partnership (OGP) Global Summit in Paris, many government and civil society participants will be talking about open contracting. Dozens of countries -- from Nigeria and Paraguay, to France, our hosts -- are committing to implement the principles of open contracting...
 thumbnail: assets/post-images/opencontracting.jpg
 thumbnail-alt: "open procurement"
 images:
