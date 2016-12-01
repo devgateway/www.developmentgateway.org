@@ -3,13 +3,13 @@ layout: post
 author: "Andrew Mandelbaum"
 title: "Detecting Corruption Risk through Open Contracting" 
 excerpt: >-
-  At this month’s Open Government Partnership (OGP) Global Summit in Paris, many government and civil society participants will be talking about open contracting. Dozens of countries - from Nigeria and Paraguay, to France, our hosts - are committing to implement the principles of open contracting as a core element of their strategies to reduce corruption and improve the allocation of public resources....
+  At this month’s Open Government Partnership (OGP) Global Summit in Paris, many government and civil society participants will be talking about open contracting. Dozens of countries - from Nigeria and Paraguay, to France, our hosts -- are committing to implement the principles of open contracting...
 thumbnail: assets/post-images/opencontracting.jpg
 thumbnail-alt: "open procurement"
 images:
   - url: assets/post-images/CorruptionRisk.png
     alt: "DG's Corruption Risk Dashboard"
-    caption: "Mockup of DG's Corruption Risk Dashboard"
+    caption: "*Mockup of DG's Corruption Risk Dashboard*"
   - url: assets/post-images/CorruptionRisk2.png
     alt: "risk indicators"
     caption: "promising risk indicators"
@@ -30,6 +30,7 @@ To help identify corruption risk and support the efforts of investigators to tar
 
 **Our Corruption Risk Methodology**  
 In lieu of a physical investigation, it can be difficult to attribute certainty to any data-based approach to corruption identification. Consequently, our approach, outlined in a [freshly published report](http://www.open-contracting.org/2016/11/30/red-flags-integrity-giving-green-light-open-data-solutions/) co-authored with OCP, aims to identify the risk of corruption by triangulating indicators that point to the possibility of specific corruption types: 
+
 - **Fraud:** when a bidder falsifies information submitted to the procuring entity;
 - **Collusion:** when bidders work among themselves to try to obtain particular outcomes;
 - **Process rigging:** when government officials distort the procurement process, whether in collusion with suppliers or in demand of a kickback, to seek a certain outcome. 
