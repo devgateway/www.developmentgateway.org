@@ -23,20 +23,18 @@
       Previously, Nancy monitored and responded to natural disasters and humanitarian emergencies for USAID's Office of U.S. Foreign Disaster Assistance. Nancy holds an MS in Foreign Service from Georgetown University and a BA from Harvard University.
 
 
-- name: "Catalin Andrei"
-  position: "Senior Director of Information Technology"
-  avatar: catalin.png
-  bio: |
-      Catalin sets and manages timetables for the evaluation, development, and deployment for all of DG’s technology-based services. He also leads technical team hiring, project staffing, performance evaluations, and professional growth initiatives. Always striving to improve existing and new implementations, Catalin manages a team of 30+ software developers across four continents, and advocates Agile methodologies and a start-up culture.
-
-      Before joining Development Gateway, Catalin worked with Capgemini. He holds a master’s degree in engineering from the Institut National des Sciences Appliquées in Lyon, France.
-
-
 - name: "Abdoulaye Diatta"
   position: "Director of Finance"
   avatar: abdoulaye.png
   bio: |
     Abdoulaye leads the finance department in ensuring all funds are spent properly and that Development Gateway continues to provide accurate and auditable financial reports to stakeholders. He has over a decade of experience in accounting, federal government contracts, and financial integrity management from the “Big Four”; his skills include applying GAAP and SOX to accounting functions, interfacing with independent auditors during annual audits, interfacing with DCAA during governance and financial systems audits, and interacting with partners and clients during the contracts/projects life cycle; and he is fluent in French and English, and communicates and writes fairly in Spanish. Abdoulaye holds an MBA from the University of Maryland.
+
+
+- name: "Fernando Ferreyra"
+  position: "Director of Software Development"
+  avatar: fernando.png
+  bio: |
+      Fernando has over ten years of experience leading technical teams and developing software solutions with emphasis on user interface and user experience design in a variety of platforms. He has served as technical lead for projects with UNDP, IADB, European Commission, EITI Secretariat, and national governments worldwide. 
 
 
 - name: "Dustin Homer"
@@ -53,13 +51,6 @@
       Josh manages innovative work within the USAID's HESN Award, which includes scoping and managing IT programs for coding, sharing, visualizing, and analyzing data; developing in-country pilots using the latest technology; and supporting the technical needs of the Field Operations team.
 
       Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina. Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
-
-
-- name: "Fernando Ferreyra"
-  position: "Deputy Director of Information Technology"
-  avatar: fernando.png
-  bio: |
-      Fernando has over ten years of experience leading technical teams and developing software solutions with emphasis on user interface and user experience design in a variety of platforms. He has served as technical lead for projects with UNDP, IADB, European Commission, EITI Secretariat, and national governments worldwide. 
 
 
 - name: "Vanessa Goas"
