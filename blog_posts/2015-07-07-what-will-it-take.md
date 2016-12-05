@@ -23,4 +23,4 @@ The effort will have two major components: (1) a detailed mapping of results dat
  
 By this time next year, we will provide a roadmap that development partners can follow to improve the quality and comparability of results data, as well as use and share existing results data more effectively.
 
-Ensuring comparable, accessible, and usable results data are key to post-2015 success. DG looks forward to commencing this big picture look at the result agenda, with the support of the Gates Foundation, and we invite feedback and future collaboration to improve development efforts.
+Ensuring comparable, accessible, and usable results data are key to post-2015 success. DG looks forward to commencing this big picture look at the results agenda, with the support of the Gates Foundation, and we invite feedback and future collaboration to improve development efforts.
