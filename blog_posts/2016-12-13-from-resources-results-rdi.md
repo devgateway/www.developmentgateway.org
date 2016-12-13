@@ -4,7 +4,7 @@ author: "Paige Kirby & Dustin Homer"
 title: "From Resources to Results: Announcing New Directions for the Results Data Initiative"
 excerpt: >-
   A key component of the Results Data Initiative (RDI) was the development of the Results Data Scorecard...
-thumbnail: assets/post-images/RDI-Ghana.jpg
+thumbnail: assets/post-images/RDI-Ghanameet.jpg
 thumbnail-alt:
 categories: [Results Data]
 published: true
