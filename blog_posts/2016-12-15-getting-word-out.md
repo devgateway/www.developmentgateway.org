@@ -3,8 +3,7 @@ layout: post
 author: "Kathryn Alexander"
 title: "Getting the Word Out // La PGA: Comment faire passer le mot"
 excerpt: >-
-  
-thumbnail: assets/post-images/Dakar.jpg
+  Today, the 2016 Aid Management Program (AMP) Good Practice Workshop kicks off in Dakar, Senegal.
 thumbnail-alt: Dakar
 categories: [Aid Management]
 published: true
@@ -14,7 +13,7 @@ Today, the 2016 [Aid Management Program](http://www.developmentgateway.org/exper
 
 Continuing the tradition of sharing best practices and lessons learned – and in meeting the challenges of the ([open](http://www.developmentgateway.org/2014/12/04/meeting-the-challenge-of-open-data/)) data revolution – this year’s theme is all about **Getting the Word Out**. Our partner governments manage a [treasure trove](http://www.developmentgateway.org/2016/05/06/from-many-to-one-amp/) of development information. As an AMP community, we need to do more than share this data – we need to proactively communicate why this information matters, to help stimulate more demand and foster a culture of data use. 
 
-We will begin the workshop with an exciting milestone – the launch of the Government of Senegal’s AMP Public Portal, *[Plateforme de Gestion des Financements Extérieurs du Sénégal* (PGFE)](http://pgfe.finances.gouv.sn/portal/). This marks the culmination of months of investment in geocoded data and improvements to data quality by the Government of Senegal’s Directorate for Economic and Financial Cooperation. 
+We will begin the workshop with an exciting milestone – the launch of the Government of Senegal’s AMP Public Portal, *[Plateforme de Gestion des Financements Extérieurs du Sénégal (PGFE)](http://pgfe.finances.gouv.sn/portal/)*. This marks the culmination of months of investment in geocoded data and improvements to data quality by the Government of Senegal’s Directorate for Economic and Financial Cooperation. 
 
 Bringing together 35 government officials from 11 countries, the two-day workshop will include “deep dives” on how to communicate the power of AMP data for asking and answering important development questions. Leaders from Cote d’Ivoire, Ethiopia, Malawi, Nepal, and the Philippines will lead sessions aimed at identifying practical strategies for raising the profile of AMP across government ministries; incentivizing data use; and coordinating national and subnational planning processes. Country delegations will also have the opportunity to create an outreach plan and communications tool to bring back to their governments, helping communicate the value of AMP data for the 2030 Agenda. 
 
@@ -32,4 +31,4 @@ En réunissant 35 fonctionnaires de 11 pays, l'atelier de deux jours comprendra 
 
 DG attend avec impatience l’arrivée des participants à Dakar pour l’atelier afin de faciliter la collaboration continue entre les pays PGA. Restez attentifs après l'atelier car nous partagerons ce que nous avons appris de l'expérience d’utilisation des données PGA.
 
-*Image: [Jeff Attaway](https://www.flickr.com/photos/attawayjl/5274051599/in/photolist-933TN8-Maf7D-AeYFsT-3gfReP-9t4ANy-9X56An-a2GPpc-8WNHdo-Ahi31k-937118-a8rKMJ-9J8C5c-Ahi4zc-9J8DUB-96NSem-fMVhc-aaJFJx-xu7tw-a8oT82-94SsWu-9JbqDq-cbaCC-s4diG-9a9Eyo-9BpR49-9Cniao-526WiK-wg4U2L-9F9Wez-fP4Ccx-zUGkt-9Bn2PT-9oiot8-5zAPGF-8MvLaD-9eF66j-94PjSZ-BFofr-Cm8sUA-3T6Jpu-9oevaq-6sSDKB-7Z6xyD-9CjmgZ-wiPWtp-CWLB9-7Z6L2a-xSofC-7dzVEe-zUGki) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)
+*Image: [Jeff Attaway](https://www.flickr.com/photos/attawayjl/5274051599/in/photolist-933TN8-Maf7D-AeYFsT-3gfReP-9t4ANy-9X56An-a2GPpc-8WNHdo-Ahi31k-937118-a8rKMJ-9J8C5c-Ahi4zc-9J8DUB-96NSem-fMVhc-aaJFJx-xu7tw-a8oT82-94SsWu-9JbqDq-cbaCC-s4diG-9a9Eyo-9BpR49-9Cniao-526WiK-wg4U2L-9F9Wez-fP4Ccx-zUGkt-9Bn2PT-9oiot8-5zAPGF-8MvLaD-9eF66j-94PjSZ-BFofr-Cm8sUA-3T6Jpu-9oevaq-6sSDKB-7Z6xyD-9CjmgZ-wiPWtp-CWLB9-7Z6L2a-xSofC-7dzVEe-zUGki) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)*
