@@ -4,6 +4,7 @@ author: "Kathryn Alexander"
 title: "Getting the Word Out // La PGA: Comment faire passer le mot"
 excerpt: >-
   Today, the 2016 Aid Management Program (AMP) Good Practice Workshop kicks off in Dakar, Senegal.
+thumbnail: assets/post-images/Dakar.jpg
 thumbnail-alt: Dakar
 categories: [Aid Management]
 published: true
