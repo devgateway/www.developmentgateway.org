@@ -23,6 +23,15 @@
       Previously, Nancy monitored and responded to natural disasters and humanitarian emergencies for USAID's Office of U.S. Foreign Disaster Assistance. Nancy holds an MS in Foreign Service from Georgetown University and a BA from Harvard University.
 
 
+- name: "Josh Powell"
+  position: "Chief Strategy Officer"
+  avatar: josh.png
+  bio: |
+      Josh manages innovative work within the USAID's HESN Award, which includes scoping and managing IT programs for coding, sharing, visualizing, and analyzing data; developing in-country pilots using the latest technology; and supporting the technical needs of the Field Operations team.
+
+      Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina. Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
+
+
 - name: "Abdoulaye Diatta"
   position: "Director of Finance"
   avatar: abdoulaye.png
@@ -37,27 +46,27 @@
       Fernando has over ten years of experience leading technical teams and developing software solutions with emphasis on user interface and user experience design in a variety of platforms. He has served as technical lead for projects with UNDP, IADB, European Commission, EITI Secretariat, and national governments worldwide. 
 
 
-- name: "Dustin Homer"
-  position: "Director of Engagement and Partnerships"
-  avatar: dustin.png
-  bio: |
-      Dustin leads new business and partnership-building efforts at Development Gateway. He also manages Nepal’s Aid Management Platform and leads other projects that explore innovations and new business areas. His background is in monitoring and evaluation and aid effectiveness. Dustin previously worked on impact evaluations and co-founded a community development NGO in Haiti.
-
-
-- name: "Josh Powell"
-  position: "Director of Innovation"
-  avatar: josh.png
-  bio: |
-      Josh manages innovative work within the USAID's HESN Award, which includes scoping and managing IT programs for coding, sharing, visualizing, and analyzing data; developing in-country pilots using the latest technology; and supporting the technical needs of the Field Operations team.
-
-      Josh has managed and supported teams and projects in Nepal, Tunisia, Malawi, Senegal, Haiti, Romania, and Argentina. Josh holds a MS in Public Policy from Brigham Young University and a BS in Finance from the University of Baltimore.
-
-
 - name: "Vanessa Goas"
-  position: "Deputy Director of Operations"
+  position: "Director of Operations"
   avatar: vanessa.png
   bio: |
       Vanessa manages various programs within the Operations team, including field operations for all in-country geocoding efforts and projects in Kosovo, Honduras, and Moldova. Vanessa received a master of arts degree in international affairs and international development at George Washington University and holds a bachelor's degree in international relations from the University of Miami.
+
+
+- name: "Martha Staid"
+  position: "Deputy Director of Operations"
+  avatar: martha.png
+  bio: |
+      Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
+
+      She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
+
+
+- name: "Hamadoun Cisse"
+  position: "Controller"
+  avatar: hamadoun.png
+  bio: |
+      Hamadoun works on contract management and financial reports in the Finance Department. Originally from Mali, he previously worked with UNDP in Ouagadougou, Burkina Faso and as in intern with Development Gateway. He is a candidate for a Masters in Information Systems Technology Management at the George Washington University.
 
 
 - name: "Dina Abdel-Fattah"
@@ -81,13 +90,6 @@
       Vinisha supports the Results Data Initiative and other applied research and innovation projects at Development Gateway. Prior to joining DG, Vinisha worked at Innovations for Poverty Action on the research and capacity building team and other M&E projects around the world. She holds a Master's in International Affairs from The New School. 
   
   
-- name: "Hamadoun Cisse"
-  position: "Accounting Manager"
-  avatar: hamadoun.png
-  bio: |
-      Hamadoun works on contract management and financial reports in the Finance Department. Originally from Mali, he previously worked with UNDP in Ouagadougou, Burkina Faso and as in intern with Development Gateway. He is a candidate for a Masters in Information Systems Technology Management at the George Washington University.
-
-
 - name: "Taryn Davis"
   position: "Senior Associate"
   avatar: taryn.png
@@ -117,7 +119,7 @@
 
 
 - name: "Sarah Orton"
-  position: "Engagement and Partnerships Associate"
+  position: "Senior Engagement and Partnerships Associate"
   avatar: sarah.png
   bio: |
       Sarah supports engagement and partnership efforts at Development Gateway. She works to promote efficiency and effectiveness through data uptake and technology use. Before DG, Sarah worked with Nuru International. She earned her bachelor’s degree in International Affairs from The George Washington University.
@@ -135,15 +137,6 @@
   avatar: stepan.png
   bio: |
       Stepan is responsible for IT systems planning and administration. He designed and implemented DG's migration to private cloud infrastructure. Stepan has worked in system administration and management in Ukraine, and holds a Master's degree in State and Public Administration from Moscow State University, Russia.
-
-
-- name: "Martha Staid"
-  position: "Senior Associate"
-  avatar: martha.png
-  bio: |
-      Martha Staid manages projects at Development Gateway, including innovation pilot programs and development of mapping tools. Previously, she worked at the World Bank in Innovation, Technology and Entrepreneurship, as well as at Harvard University and with several NGOs.
-
-      She holds an MS in Foreign Service from Georgetown University, an MA in Literature from University of Durham and a BA in Liberal Arts and Sciences from the Wilkes Honors College.
 
 
 - name: "Beshad Talayminaei"
