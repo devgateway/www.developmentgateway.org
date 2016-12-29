@@ -68,6 +68,19 @@ published: true
       {% image thumb-large|fit {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
     </a>
     <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.consortia.iati %}
+  <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <p class="description">{{ partner.description }}</p>
+  <--colbreak-->
+    {% assign partner=site.data.partners.consortia.openaid %}
+    <a href="{{ partner.url }}" target="_blank">
+    {% image thumb-large {{ partner.logo | prepend: '/assets/partner-logos/' }} title="{{ partner.name | append: ' logo' }}" role="img" %}
+  </a>
+  <--colbreak-->
+  <p class="description">{{ partner.description }}</p>
   {% endmulticols %}
  <br/>
   <div class="name">Consortia</div>
