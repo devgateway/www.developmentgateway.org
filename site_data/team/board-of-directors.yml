@@ -20,12 +20,47 @@
       Vice President of Cirquent GmbH, Professor at Munich University; Chair of IT for European Advancement, the EUREKA Cluster on Software-Intensive Systems and Services.
 
 
+- name: "Lindsay Coates"
+  position: "Chair of the Funding Committee"
+  avatar: lindsay.png
+  bio: |
+      President of InterAction.
+
+
 - name: "Olivier Brochenin"
   position: "Board member"
   avatar: olivier.png
   bio: |
       A Sous-Directeur in the French Ministry of Foreign Affairs; representing France on the DG Board.
 
+
+- name: "Nathaniel Heller"
+  position: "Board member"
+  avatar: olivier.png
+  bio: |
+      A Managing Director at the Results for Development Institute (R4D).
+
+
+- name: "Homi Kharas, Ph.D"
+  position: "Board member"
+  avatar: homi.png
+  bio: |
+       A Senior Fellow and Deputy Director in the Global Economy and Development program at the Brookings Institution.
+
+
+- name: "Brenda Killen"
+  position: "Board member"
+  avatar: brendah.png
+  bio:
+      Deputy Director of the OECD’s Development Co-operation Directorate.
+
+
+- name: "Mamadou Lamine Loum"
+  position: "Board member"
+  avatar: miloum.png
+  bio:
+      Leading economist; former Prime Minister of Senegal.
+ 
 
 - name: "Mary O'Kane, Ph.D"
   position: "Board member"
@@ -38,14 +73,7 @@
   position: "Board member"
   avatar: ngozi.png
   bio: |
-      Former Finance Minister of Nigeria and Managing Director at the World Bank.
-
-
-- name: "Brenda Killen"
-  position: "Board member"
-  avatar: brendah.png
-  bio:
-      Deputy Director of the OECD’s Development Co-operation Directorate.
+      Former Coordinating Minister of the Economy and Minister of Finance of Nigeria, and former Managing Director at the World Bank. 
 
 
 - name: "Jean-Louis Sarbib"
