@@ -1,8 +1,5 @@
 
 # Files need to be uploaded into the `/assets/careers` directory.
-
-- name: Senior Associate – Results Management
-  file: dg-Senior_Associate_RM-2016.pdf
   
 - name: Software Developer
   file: dg-Software_DC-2016.pdf
@@ -12,9 +9,6 @@
 
 - name: IT Consultant – Java Developer
   file: dg-java-developer-2015.pdf
-
-- name: Senior Associate
-  file: dg-senior-associate-2016.pdf 
 
 - name: Aid Management Consultant – Bangladesh 
   file: Bangladesh-AidManagementFellowTOR.pdf
