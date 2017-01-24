@@ -4,7 +4,7 @@ author: Nancy McGuire Choi
 title: "Mobilizing for the Data Revolution"
 excerpt: >-
   Mobilizing data to meet the goals of the “Data Revolution” will require a combination of technological innovation, skills training, and lasting partnerships. This holistic approach defines much of Development Gateway’s programming...
-thumbnail: assets/post-images/AMP-M.jpg
+thumbnail: assets/post-images/AMP-M.JPG
 thumbnail-alt: "What is AMP?"
 categories: [innovation, aid management]
 published: true
