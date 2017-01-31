@@ -4,7 +4,7 @@ author: Kathryn Alexander and Taryn Davis
 title: "Country-led Innovations in Aid Management"
 excerpt: >-
   Over the past decade, DG has worked with 25 country partners to implement the Aid Management Program,  a suite of technology (AMP) and and process solutions to support data management and aid effectiveness. The technology today looks vastly different than the platform first implemented with the Government of Ethiopia...
-thumbnail: assets/post-images/workshop group pic.jpg
+thumbnail: assets/post-images/workshopgrouppic.jpg
 thumbnail-alt: "2016 Aid Management Program Good Practice Workshop"
 categories: [innovation, aid management]
 published: true
