@@ -3,7 +3,7 @@ layout: post
 author: Sarah Orton
 title: "What’s New With MERL Tech?"
 excerpt: >-
-  Time for some real talk: a data management system is only as good as its reporting tools. It could contain the lost library of Alexandria, but if no one uses it because it’s confusing or difficult, what purpose does it serve?...
+  New technologies and ideas are opening up possibilities for improving how we incorporate monitoring, evaluation, research, and learning (MERL) data into program design and implementation....
 thumbnail: assets/post-images/MonitorGISIndicators.png
 thumbnail-alt: "MONITOR GIS"
 images:
